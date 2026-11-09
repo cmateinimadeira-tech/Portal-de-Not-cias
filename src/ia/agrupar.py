@@ -87,6 +87,9 @@ def main() -> None:
     if not gemini.disponivel():
         print("GEMINI_API_KEY ausente: pulando IA")
         return
+    if not gemini.testar():
+        print("Gemini não respondeu ao teste: pulando IA nesta rodada")
+        return
     inicio = time.monotonic()
     for chave, aba in dados["abas"].items():
         if time.monotonic() - inicio > LIMITE_S:
