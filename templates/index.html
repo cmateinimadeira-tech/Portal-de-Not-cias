@@ -29,6 +29,14 @@ h2{font-size:1rem;margin:6px 0 10px}h2 small{font-weight:400;color:var(--mut);fo
 .dest{border-left:4px solid var(--ac)}.res{color:var(--txt)!important;font-size:.95rem!important}
 .pontos{margin:6px 0 0;padding-left:18px;font-size:.9rem}.pontos li{margin:2px 0}
 .outras>summary{cursor:pointer;font-weight:600;margin:16px 0 10px;color:var(--txt);font-size:1rem}
+.ind{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-bottom:10px}
+.ind div{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:10px 12px}
+.ind b{display:block;font-size:1.35rem;font-variant-numeric:tabular-nums}.ind span,.focus small{color:var(--mut);font-size:.78rem}
+.focus{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:10px 12px;margin-bottom:16px;overflow-x:auto}
+.focus table{width:100%;border-collapse:collapse;font-size:.88rem;font-variant-numeric:tabular-nums}
+.focus th,.focus td{padding:5px 4px;text-align:right;border-bottom:1px solid var(--bd);white-space:nowrap}
+.focus th:first-child,.focus td:first-child{text-align:left}.focus tr:last-child td{border-bottom:0}
+.fontebc{font-size:.75rem;color:var(--mut)}.fontebc a{color:var(--mut)}
 .meta{font-size:.78rem;color:var(--mut);margin-top:6px}
 .fonte{color:var(--ac);font-weight:600}
 .vazio,.rodape{color:var(--mut);font-size:.85rem;text-align:center;padding:16px}
@@ -48,6 +56,7 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
 <main>
 {% for chave, aba in noticias.get("abas", {}).items() %}
   <section id="aba-{{ chave }}" {% if not loop.first %}hidden{% endif %}>
+  {% if chave == "macro" and bcb %}{% include "_bcb.html" %}{% endif %}
   {% if aba.grupos %}
   {% set destaques = aba.grupos | selectattr("destaque") | list %}
   {% set outras = aba.grupos | rejectattr("destaque") | list %}

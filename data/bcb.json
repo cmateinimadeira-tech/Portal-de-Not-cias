@@ -1,0 +1,66 @@
+{
+ "atualizado_em": "2026-11-09T14:33:42.126155+00:00",
+ "selic": {
+  "valor": 13.75,
+  "anterior": 14.0,
+  "desde": "2026-09-17",
+  "rotulo": "Selic (meta)",
+  "unidade": "% a.a.",
+  "fonte": "https://www3.bcb.gov.br/sgspub/"
+ },
+ "ipca": {
+  "mes": "2026-09-01",
+  "mensal": 0.82,
+  "mensal_anterior": -0.32,
+  "acum12": 4.58,
+  "acum12_anterior": 4.22,
+  "rotulo": "IPCA",
+  "fonte": "https://www3.bcb.gov.br/sgspub/"
+ },
+ "dolar": {
+  "valor": 5.5013,
+  "anterior": 5.4621,
+  "data": "2026-11-06",
+  "rotulo": "Dólar (PTAX venda)",
+  "fonte": "https://www3.bcb.gov.br/sgspub/"
+ },
+ "focus": {
+  "data": "2026-11-06",
+  "ano": 2026,
+  "linhas": [
+   {
+    "rotulo": "IPCA",
+    "unidade": "%",
+    "ano": 5.2195,
+    "ano_4sem": 5.2245,
+    "prox": 4.9005,
+    "prox_4sem": 4.3
+   },
+   {
+    "rotulo": "Selic fim de ano",
+    "unidade": "% a.a.",
+    "ano": 13.75,
+    "ano_4sem": 13.25,
+    "prox": 12.5,
+    "prox_4sem": 12.0
+   },
+   {
+    "rotulo": "PIB",
+    "unidade": "%",
+    "ano": 1.7546,
+    "ano_4sem": 1.8466,
+    "prox": 1.1513,
+    "prox_4sem": 1.4
+   },
+   {
+    "rotulo": "Dólar fim de ano",
+    "unidade": "R$",
+    "ano": 5.35,
+    "ano_4sem": 5.1535,
+    "prox": 5.4,
+    "prox_4sem": 5.26
+   }
+  ],
+  "fonte": "https://www.bcb.gov.br/publicacoes/focus"
+ }
+}
