@@ -29,6 +29,14 @@ h2{font-size:1rem;margin:6px 0 10px}h2 small{font-weight:400;color:var(--mut);fo
 .dest{border-left:4px solid var(--ac)}.res{color:var(--txt)!important;font-size:.95rem!important}
 .pontos{margin:6px 0 0;padding-left:18px;font-size:.9rem}.pontos li{margin:2px 0}
 .outras>summary{cursor:pointer;font-weight:600;margin:16px 0 10px;color:var(--txt);font-size:1rem}
+.ind{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-bottom:10px}
+.ind div{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:10px 12px}
+.ind b{display:block;font-size:1.35rem;font-variant-numeric:tabular-nums}.ind span,.focus small{color:var(--mut);font-size:.78rem}
+.focus{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:10px 12px;margin-bottom:16px;overflow-x:auto}
+.focus table{width:100%;border-collapse:collapse;font-size:.88rem;font-variant-numeric:tabular-nums}
+.focus th,.focus td{padding:5px 4px;text-align:right;border-bottom:1px solid var(--bd);white-space:nowrap}
+.focus th:first-child,.focus td:first-child{text-align:left}.focus tr:last-child td{border-bottom:0}
+.fontebc{font-size:.75rem;color:var(--mut)}.fontebc a{color:var(--mut)}
 .meta{font-size:.78rem;color:var(--mut);margin-top:6px}
 .fonte{color:var(--ac);font-weight:600}
 .vazio,.rodape{color:var(--mut);font-size:.85rem;text-align:center;padding:16px}
@@ -56,6 +64,51 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
 <main>
 
   <section id="aba-macro" >
+  
+<h2>Indicadores <small>Banco Central</small></h2>
+<div class="ind">
+  <div><span>Selic (meta)</span><b>13,75%</b>
+    <span>desde 17/09/2026 (antes 14,00%)</span></div>
+  <div><span>IPCA 12 meses</span><b>4,58%</b>
+    <span>▲ até set/2026 (antes 4,22%)</span></div>
+  <div><span>IPCA do mês</span><b>0,82%</b>
+    <span>set/2026 (mês anterior -0,32%)</span></div>
+  <div><span>Dólar (PTAX venda)</span><b>R$ 5,5013</b>
+    <span>▲ em 06/11/2026</span></div>
+</div>
+
+<div class="focus">
+  <table>
+    <thead><tr><th>Focus (mediana)</th><th>2026</th><th>2027</th></tr></thead>
+    <tbody>
+    
+      
+      <tr><td>IPCA <small>%</small></td>
+        <td>5,22 <small title="há 4 semanas: 5,22">▼</small></td>
+        <td>4,90 <small title="há 4 semanas: 4,30">▲</small></td></tr>
+    
+      
+      <tr><td>Selic fim de ano <small>% a.a.</small></td>
+        <td>13,75 <small title="há 4 semanas: 13,25">▲</small></td>
+        <td>12,50 <small title="há 4 semanas: 12,00">▲</small></td></tr>
+    
+      
+      <tr><td>PIB <small>%</small></td>
+        <td>1,75 <small title="há 4 semanas: 1,85">▼</small></td>
+        <td>1,15 <small title="há 4 semanas: 1,40">▼</small></td></tr>
+    
+      
+      <tr><td>Dólar fim de ano <small>R$</small></td>
+        <td>5,35 <small title="há 4 semanas: 5,15">▲</small></td>
+        <td>5,40 <small title="há 4 semanas: 5,26">▲</small></td></tr>
+    
+    </tbody>
+  </table>
+  <small>Pesquisa de 06/11/2026 · setas comparam com 4 semanas antes</small>
+</div>
+
+<p class="fontebc">Fontes: <a href="https://www3.bcb.gov.br/sgspub/" target="_blank" rel="noopener">BCB/SGS</a> e
+  <a href="https://www.bcb.gov.br/publicacoes/focus" target="_blank" rel="noopener">Boletim Focus</a></p>
   
   
   
@@ -687,6 +740,7 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
   
   
   
+  
   <h2>Em destaque <small>cobertos por vários veículos</small></h2>
   
     <article class="dest">
@@ -1193,6 +1247,7 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
   
   
   
+  
   <h2>Em destaque <small>cobertos por vários veículos</small></h2>
   
     <article class="dest">
@@ -1409,6 +1464,7 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
   </section>
 
   <section id="aba-carros" hidden>
+  
   
   
   
@@ -1693,6 +1749,7 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
   </section>
 
   <section id="aba-politica" hidden>
+  
   
   
   
