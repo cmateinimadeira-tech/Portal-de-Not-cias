@@ -37,6 +37,20 @@ h2{font-size:1rem;margin:6px 0 10px}h2 small{font-weight:400;color:var(--mut);fo
 .focus th,.focus td{padding:5px 4px;text-align:right;border-bottom:1px solid var(--bd);white-space:nowrap}
 .focus th:first-child,.focus td:first-child{text-align:left}.focus tr:last-child td{border-bottom:0}
 .fontebc{font-size:.75rem;color:var(--mut)}.fontebc a{color:var(--mut)}
+.subnav{display:flex;gap:6px;overflow-x:auto;margin-bottom:12px;scrollbar-width:none}
+.subnav button{white-space:nowrap;font-size:.85rem;padding:4px 10px}.subnav button[aria-pressed=true]{background:var(--txt);color:var(--bg);border-color:var(--txt)}
+.bloco{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:8px 12px;margin-bottom:12px}
+.bloco h3{font-size:.85rem;color:var(--mut);margin:4px 0 6px;font-weight:600;text-transform:uppercase;letter-spacing:.03em}
+.jogo{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:8px;padding:7px 0;border-top:1px solid var(--bd);font-size:.9rem}
+.bloco h3+.jogo{border-top:0}.jogo .c{text-align:right}.jogo .p{text-align:center;font-weight:700;font-variant-numeric:tabular-nums;min-width:64px}
+.jogo .p small{display:block;font-weight:400;color:var(--mut);font-size:.72rem}.jogo img{width:18px;height:18px;object-fit:contain;vertical-align:-4px;margin:0 4px}
+.jogo .p small.vivo{color:#d93025;font-weight:700}
+.tab{width:100%;border-collapse:collapse;font-size:.85rem;font-variant-numeric:tabular-nums}
+.tab th,.tab td{padding:4px 3px;text-align:right;border-top:1px solid var(--bd)}.tab th{color:var(--mut);font-weight:600;border-top:0}
+.tab td:nth-child(2),.tab th:nth-child(2){text-align:left}.tab img{width:16px;height:16px;object-fit:contain;vertical-align:-3px;margin-right:4px}
+.tab tr.meu td{background:color-mix(in srgb,var(--ac) 14%,transparent);font-weight:600}
+.lista a{display:block;padding:6px 0;border-top:1px solid var(--bd);color:var(--txt);text-decoration:none;font-size:.9rem}.lista a:first-of-type{border-top:0}
+.lista a small{color:var(--mut)}
 .meta{font-size:.78rem;color:var(--mut);margin-top:6px}
 .fonte{color:var(--ac);font-weight:600}
 .vazio,.rodape{color:var(--mut);font-size:.85rem;text-align:center;padding:16px}
@@ -2359,7 +2373,208 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
     </details>
   </section>
 
-  <section id="aba-esportes" hidden><div class="vazio">Esportes chegam nas próximas etapas.</div></section>
+  <section id="aba-esportes" hidden>
+
+
+
+
+
+
+
+<nav class="subnav">
+  <button data-sub="destaque" aria-pressed="true">Flamengo</button>
+  <button data-sub="BSA" aria-pressed="false">Brasileirão</button><button data-sub="CL" aria-pressed="false">Champions League</button><button data-sub="PL" aria-pressed="false">Premier League</button><button data-sub="PD" aria-pressed="false">La Liga</button><button data-sub="SA" aria-pressed="false">Serie A</button><button data-sub="BL1" aria-pressed="false">Bundesliga</button><button data-sub="FL1" aria-pressed="false">Ligue 1</button>
+</nav>
+
+<div class="sub" id="sub-destaque">
+  
+  <div class="bloco"><h3>Próximos jogos</h3>
+    
+      
+  <div class="jogo">
+    <span class="c">Flamengo<img src="https://a.espncdn.com/i/teamlogos/soccer/500/819.png" alt="" loading="lazy" onerror="this.remove()"></span>
+    <span class="p">
+      <small>qua 18/11 20:30</small>
+    </span>
+    <span><img src="https://a.espncdn.com/i/teamlogos/soccer/500/3458.png" alt="" loading="lazy" onerror="this.remove()">Athletico-PR</span>
+  </div>
+
+      <div class="meta" style="margin:-4px 0 4px;text-align:center">Brasileirão · Estadio do Maracana</div>
+    
+      
+  <div class="jogo">
+    <span class="c">Palmeiras<img src="https://a.espncdn.com/i/teamlogos/soccer/500/2029.png" alt="" loading="lazy" onerror="this.remove()"></span>
+    <span class="p">
+      <small>sáb 21/11 16:30</small>
+    </span>
+    <span><img src="https://a.espncdn.com/i/teamlogos/soccer/500/819.png" alt="" loading="lazy" onerror="this.remove()">Flamengo</span>
+  </div>
+
+      <div class="meta" style="margin:-4px 0 4px;text-align:center">Brasileirão · Allianz Parque</div>
+    
+      
+  <div class="jogo">
+    <span class="c">Coritiba<img src="https://a.espncdn.com/i/teamlogos/soccer/500/3456.png" alt="" loading="lazy" onerror="this.remove()"></span>
+    <span class="p">
+      <small>dom 29/11 16:00</small>
+    </span>
+    <span><img src="https://a.espncdn.com/i/teamlogos/soccer/500/819.png" alt="" loading="lazy" onerror="this.remove()">Flamengo</span>
+  </div>
+
+      <div class="meta" style="margin:-4px 0 4px;text-align:center">Brasileirão · Couto Pereira</div>
+    
+      
+  <div class="jogo">
+    <span class="c">Flamengo<img src="https://a.espncdn.com/i/teamlogos/soccer/500/819.png" alt="" loading="lazy" onerror="this.remove()"></span>
+    <span class="p">
+      <small>qua 02/12 21:30</small>
+    </span>
+    <span><img src="https://a.espncdn.com/i/teamlogos/soccer/500/9318.png" alt="" loading="lazy" onerror="this.remove()">Chapecoense</span>
+  </div>
+
+      <div class="meta" style="margin:-4px 0 4px;text-align:center">Brasileirão · Estadio do Maracana</div>
+    
+  </div>
+  
+  <div class="bloco"><h3>Últimos resultados</h3>
+    
+  <div class="jogo">
+    <span class="c">Flamengo<img src="https://a.espncdn.com/i/teamlogos/soccer/500/819.png" alt="" loading="lazy" onerror="this.remove()"></span>
+    <span class="p">
+      3 × 1<small>qua 04/11 19:30</small>
+      
+    </span>
+    <span><img src="https://a.espncdn.com/i/teamlogos/soccer/500/6273.png" alt="" loading="lazy" onerror="this.remove()">Grêmio</span>
+  </div>
+
+  <div class="jogo">
+    <span class="c">Vasco<img src="https://a.espncdn.com/i/teamlogos/soccer/500/3454.png" alt="" loading="lazy" onerror="this.remove()"></span>
+    <span class="p">
+      1 × 4<small>qui 29/10 20:00</small>
+      
+    </span>
+    <span><img src="https://a.espncdn.com/i/teamlogos/soccer/500/819.png" alt="" loading="lazy" onerror="this.remove()">Flamengo</span>
+  </div>
+
+  <div class="jogo">
+    <span class="c">Flamengo<img src="https://a.espncdn.com/i/teamlogos/soccer/500/819.png" alt="" loading="lazy" onerror="this.remove()"></span>
+    <span class="p">
+      3 × 2<small>seg 26/10 20:00</small>
+      
+    </span>
+    <span><img src="https://a.espncdn.com/i/teamlogos/soccer/500/7632.png" alt="" loading="lazy" onerror="this.remove()">Atlético-MG</span>
+  </div>
+
+  <div class="jogo">
+    <span class="c">Flamengo<img src="https://a.espncdn.com/i/teamlogos/soccer/500/819.png" alt="" loading="lazy" onerror="this.remove()"></span>
+    <span class="p">
+      0 × 0<small>qui 22/10 21:30</small>
+      
+    </span>
+    <span><img src="https://a.espncdn.com/i/teamlogos/soccer/500/8.png" alt="" loading="lazy" onerror="this.remove()">Estudiantes</span>
+  </div>
+
+  <div class="jogo">
+    <span class="c">Bahia<img src="https://a.espncdn.com/i/teamlogos/soccer/500/9967.png" alt="" loading="lazy" onerror="this.remove()"></span>
+    <span class="p">
+      0 × 3<small>dom 18/10 18:30</small>
+      
+    </span>
+    <span><img src="https://a.espncdn.com/i/teamlogos/soccer/500/819.png" alt="" loading="lazy" onerror="this.remove()">Flamengo</span>
+  </div>
+
+  </div>
+  
+  
+</div>
+
+
+<div class="sub" id="sub-BSA" hidden>
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="vazio">Sem dados no momento.</div>
+</div>
+
+<div class="sub" id="sub-CL" hidden>
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="vazio">Sem dados no momento.</div>
+</div>
+
+<div class="sub" id="sub-PL" hidden>
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="vazio">Sem dados no momento.</div>
+</div>
+
+<div class="sub" id="sub-PD" hidden>
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="vazio">Sem dados no momento.</div>
+</div>
+
+<div class="sub" id="sub-SA" hidden>
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="vazio">Sem dados no momento.</div>
+</div>
+
+<div class="sub" id="sub-BL1" hidden>
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="vazio">Sem dados no momento.</div>
+</div>
+
+<div class="sub" id="sub-FL1" hidden>
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="vazio">Sem dados no momento.</div>
+</div>
+
+<p class="fontebc">Fontes: <a href="https://www.football-data.org" target="_blank" rel="noopener">football-data.org</a> e ESPN · horários de Brasília</p>
+</section>
   <div class="rodape">Atualizado em 09/11 11:23 (Brasília)</div>
 </main>
 <script>
@@ -2369,6 +2584,11 @@ function ir(k){abas.forEach(b=>b.setAttribute("aria-selected",b.dataset.aba===k)
  try{localStorage.setItem("aba",k)}catch(e){}}
 abas.forEach(b=>b.onclick=()=>ir(b.dataset.aba));
 try{const k=localStorage.getItem("aba");if(k&&document.getElementById("aba-"+k))ir(k)}catch(e){}
+document.querySelectorAll(".subnav button").forEach(b=>b.onclick=()=>{
+ b.parentNode.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b));
+ document.querySelectorAll(".sub").forEach(d=>d.hidden=d.id!=="sub-"+b.dataset.sub);
+ try{localStorage.setItem("sub",b.dataset.sub)}catch(e){}});
+try{const k=localStorage.getItem("sub");const b=k&&document.querySelector('.subnav button[data-sub="'+k+'"]');if(b)b.click()}catch(e){}
 document.getElementById("tema").onclick=()=>{const d=document.documentElement;
  const escuro=d.dataset.tema?d.dataset.tema==="escuro":matchMedia("(prefers-color-scheme:dark)").matches;
  d.dataset.tema=escuro?"claro":"escuro";try{localStorage.setItem("tema",d.dataset.tema)}catch(e){}};
