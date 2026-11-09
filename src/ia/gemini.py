@@ -10,7 +10,7 @@ import time
 import requests
 
 BASE = "https://generativelanguage.googleapis.com/v1beta/models/{}:generateContent"
-MODELOS = os.environ.get("GEMINI_MODELS", "gemini-flash-latest,gemini-flash-lite-latest").split(",")
+MODELOS = os.environ.get("GEMINI_MODELS", "gemini-flash-lite-latest,gemini-flash-latest").split(",")
 TIMEOUT_S = 90
 
 

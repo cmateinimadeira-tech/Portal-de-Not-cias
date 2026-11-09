@@ -1,18 +1,30 @@
-# Abas de notícias e suas fontes. "url" pode ser RSS/Atom.
-# Reuters e Bloomberg Línea não têm RSS público estável: usamos Google News filtrado por site.
+# Abas de notícias e suas fontes (RSS/Atom).
+# Sem RSS público por seção: usamos Google News filtrado por site. Nesses casos o link
+# passa por redirecionamento do Google e o texto da matéria não é extraído (só o título).
+
+# Portais de grande alcance: pesam mais no ranking de relevância.
+grandes: [g1, Folha, Estadão, Estadão Economia, O Globo, CNN Brasil, R7, Valor Econômico, Reuters, UOL]
+
 abas:
   macro:
     titulo: Macro e negócios
     fontes:
+      - {nome: g1, url: "https://g1.globo.com/rss/g1/economia/"}
       - {nome: Valor Econômico, url: "https://pox.globo.com/rss/valor/"}
       - {nome: InfoMoney, url: "https://www.infomoney.com.br/feed/"}
       - {nome: Exame, url: "https://exame.com/feed/"}
       - {nome: Estadão Economia, url: "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/"}
-      - {nome: Reuters, url: "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=pt-BR&gl=BR&ceid=BR:pt-419"}
-      - {nome: Bloomberg Línea, url: "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:1d&hl=pt-BR&gl=BR&ceid=BR:pt-419"}
+      - {nome: CNN Brasil, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:cnnbrasil.com.br+economia+when:1d"}
+      - {nome: R7, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:r7.com+economia+when:1d"}
+      - {nome: Jovem Pan, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:jovempan.com.br+economia+when:1d"}
+      - {nome: Reuters, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:reuters.com+when:1d"}
+      - {nome: Bloomberg Línea, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:bloomberglinea.com.br+when:1d"}
   ciencia:
     titulo: Ciência e tecnologia
     fontes:
+      - {nome: g1, url: "https://g1.globo.com/rss/g1/ciencia-e-saude/"}
+      - {nome: g1 Tecnologia, url: "https://g1.globo.com/rss/g1/tecnologia/"}
+      - {nome: CNN Brasil, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:cnnbrasil.com.br+tecnologia+when:1d"}
       - {nome: Pesquisa FAPESP, url: "https://revistapesquisa.fapesp.br/feed/"}
       - {nome: Olhar Digital, url: "https://olhardigital.com.br/feed/"}
       - {nome: Tecnoblog, url: "https://tecnoblog.net/feed/"}
@@ -23,6 +35,7 @@ abas:
   ia:
     titulo: IA, PCs e celulares
     fontes:
+      - {nome: g1 Tecnologia, url: "https://g1.globo.com/rss/g1/tecnologia/"}
       - {nome: Tecnoblog, url: "https://tecnoblog.net/feed/"}
       - {nome: Tecmundo, url: "https://rss.tecmundo.com.br/feed"}
       - {nome: The Verge, url: "https://www.theverge.com/rss/index.xml"}
@@ -34,13 +47,18 @@ abas:
   carros:
     titulo: Carros
     fontes:
+      - {nome: g1 Carros, url: "https://g1.globo.com/rss/g1/carros/"}
       - {nome: Quatro Rodas, url: "https://quatrorodas.abril.com.br/feed/"}
-      - {nome: Autoesporte, url: "https://autoesporte.globo.com/rss/ultimas/"}
+      - {nome: Autoesporte, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:autoesporte.globo.com+when:2d"}
       - {nome: Motor1, url: "https://motor1.uol.com.br/rss/articles/all/"}
   politica:
     titulo: Política (comparação)
     comparar: true   # IA descreve o enquadramento de cada veículo
     fontes:
+      - {nome: g1, url: "https://g1.globo.com/rss/g1/politica/"}
+      - {nome: CNN Brasil, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:cnnbrasil.com.br/politica+when:1d"}
+      - {nome: R7, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:noticias.r7.com/brasilia+when:1d"}
+      - {nome: Jovem Pan, url: "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q=site:jovempan.com.br+pol%C3%ADtica+when:1d"}
       - {nome: Gazeta do Povo, url: "https://www.gazetadopovo.com.br/feed/rss/republica.xml"}
       - {nome: Revista Oeste, url: "https://revistaoeste.com/feed/"}
       - {nome: O Antagonista, url: "https://oantagonista.com.br/feed/"}
