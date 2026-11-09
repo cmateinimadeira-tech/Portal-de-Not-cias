@@ -1,0 +1,69 @@
+{# Aba Esportes: destaque do Flamengo + uma sub-aba por liga. #}
+{% set dest = futebol.destaque if futebol else none %}
+{% set ligas = futebol.ligas if futebol else {} %}
+{% set nome_dest = dest.nome if dest else "Flamengo" %}
+
+{% macro linha_jogo(casa, fora, gc, gf, quando, status, detalhe="") %}
+  <div class="jogo">
+    <span class="c">{{ casa.nome }}{% if casa.escudo %}<img src="{{ casa.escudo }}" alt="" loading="lazy" onerror="this.remove()">{% endif %}</span>
+    <span class="p">
+      {% if status in ("IN_PLAY", "PAUSED", "in") %}{{ gc if gc is not none else 0 }} × {{ gf if gf is not none else 0 }}<small class="vivo">● AO VIVO{% if detalhe %} {{ detalhe }}{% endif %}</small>
+      {% elif status in ("FINISHED", "post") %}{{ gc }} × {{ gf }}<small>{{ quando | quando }}</small>
+      {% elif status in ("POSTPONED", "SUSPENDED", "CANCELLED") %}<small>adiado</small>
+      {% else %}<small>{{ quando | quando }}</small>{% endif %}
+    </span>
+    <span>{% if fora.escudo %}<img src="{{ fora.escudo }}" alt="" loading="lazy" onerror="this.remove()">{% endif %}{{ fora.nome }}</span>
+  </div>
+{% endmacro %}
+
+{% if not futebol %}
+  <div class="vazio">Dados de futebol ainda não coletados. Rode o workflow "Atualizar dados diários".</div>
+{% else %}
+<nav class="subnav">
+  <button data-sub="destaque" aria-pressed="true">{{ nome_dest }}</button>
+  {% for cod, liga in ligas.items() %}<button data-sub="{{ cod }}" aria-pressed="false">{{ liga.nome }}</button>{% endfor %}
+</nav>
+
+<div class="sub" id="sub-destaque">
+  {% if dest and dest.proximos %}
+  <div class="bloco"><h3>Próximos jogos</h3>
+    {% for e in dest.proximos %}
+      {{ linha_jogo(e.casa, e.fora, e.casa.gols, e.fora.gols, e.data, e.estado, e.detalhe) }}
+      <div class="meta" style="margin:-4px 0 4px;text-align:center">{{ e.competicao }}{% if e.local %} · {{ e.local }}{% endif %}</div>
+    {% endfor %}
+  </div>{% endif %}
+  {% if dest and dest.ultimos %}
+  <div class="bloco"><h3>Últimos resultados</h3>
+    {% for e in dest.ultimos %}{{ linha_jogo(e.casa, e.fora, e.casa.gols, e.fora.gols, e.data, "post") }}{% endfor %}
+  </div>{% endif %}
+  {% set nf = noticias.abas.get("flamengo") if noticias.abas else none %}
+  {% if nf and nf.itens %}
+  <div class="bloco lista"><h3>Notícias</h3>
+    {% for n in nf.itens[:15] %}<a href="{{ n.link }}" target="_blank" rel="noopener">{{ n.titulo }} <small>· {{ n.fonte }} · {{ n.data | hora }}</small></a>{% endfor %}
+  </div>{% endif %}
+</div>
+
+{% for cod, liga in ligas.items() %}
+<div class="sub" id="sub-{{ cod }}" hidden>
+  {% set jogos = liga.jogos or [] %}
+  {% set vivo = jogos | selectattr("status", "in", ["IN_PLAY", "PAUSED"]) | list %}
+  {% set feitos = (jogos | selectattr("status", "equalto", "FINISHED") | list | reverse | list)[:10] %}
+  {% set prox = (jogos | selectattr("status", "in", ["SCHEDULED", "TIMED", "POSTPONED"]) | list)[:10] %}
+  {% if vivo %}<div class="bloco"><h3>Ao vivo</h3>{% for j in vivo %}{{ linha_jogo(j.casa, j.fora, j.gols_casa, j.gols_fora, j.data, j.status) }}{% endfor %}</div>{% endif %}
+  {% if prox %}<div class="bloco"><h3>Próximos jogos</h3>{% for j in prox %}{{ linha_jogo(j.casa, j.fora, none, none, j.data, j.status) }}{% endfor %}</div>{% endif %}
+  {% if feitos %}<div class="bloco"><h3>Resultados recentes</h3>{% for j in feitos %}{{ linha_jogo(j.casa, j.fora, j.gols_casa, j.gols_fora, j.data, j.status) }}{% endfor %}</div>{% endif %}
+  {% for t in liga.tabela or [] %}
+  <div class="bloco"><h3>Classificação{% if t.grupo %} · {{ t.grupo | replace("GROUP_", "Grupo ") }}{% endif %}</h3>
+    <table class="tab">
+      <thead><tr><th>#</th><th>Time</th><th>P</th><th>J</th><th>V</th><th>SG</th></tr></thead>
+      <tbody>{% for l in t.linhas %}
+        <tr{% if nome_dest in l.time.nome %} class="meu"{% endif %}><td>{{ l.pos }}</td><td>{% if l.time.escudo %}<img src="{{ l.time.escudo }}" alt="" loading="lazy" onerror="this.remove()">{% endif %}{{ l.time.nome }}</td><td><b>{{ l.pts }}</b></td><td>{{ l.pj }}</td><td>{{ l.v }}</td><td>{{ l.sg }}</td></tr>
+      {% endfor %}</tbody>
+    </table>
+  </div>
+  {% endfor %}
+  {% if not (vivo or prox or feitos or liga.tabela) %}<div class="vazio">Sem dados no momento.</div>{% endif %}
+</div>
+{% endfor %}
+<p class="fontebc">Fontes: <a href="https://www.football-data.org" target="_blank" rel="noopener">football-data.org</a> e ESPN · horários de Brasília</p>
+{% endif %}

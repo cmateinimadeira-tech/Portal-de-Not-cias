@@ -11,7 +11,7 @@ permissions:
 jobs:
   diario:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,6 +21,10 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Banco Central (Selic, IPCA, dólar, Focus)
         run: python -m src.coletores.bcb
+      - name: Futebol (tabelas, jogos, destaque)
+        run: python -m src.coletores.futebol diario
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
       - run: python -m src.build
       - name: Commit
         run: |

@@ -15,7 +15,7 @@ def main() -> None:
     saida = {"atualizado_em": datetime.now(timezone.utc).isoformat(), "abas": {}}
     for chave, aba in cfg["abas"].items():
         itens, status = coletar_aba(aba["fontes"])
-        saida["abas"][chave] = {"titulo": aba["titulo"], "itens": itens, "status": status}
+        saida["abas"][chave] = {"titulo": aba["titulo"], "secao": aba.get("secao"), "itens": itens, "status": status}
         falhas = [s["fonte"] for s in status if not s["ok"]]
         print(f"{chave}: {len(itens)} itens" + (f" | falhas: {', '.join(falhas)}" if falhas else ""))
     (RAIZ / "data" / "noticias.json").write_text(json.dumps(saida, ensure_ascii=False, indent=1), encoding="utf-8")

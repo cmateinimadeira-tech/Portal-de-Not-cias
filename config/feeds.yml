@@ -67,3 +67,12 @@ abas:
       - {nome: O Globo, url: "https://oglobo.globo.com/rss.xml"}
       - {nome: CartaCapital, url: "https://www.cartacapital.com.br/feed/"}
       - {nome: Brasil de Fato, url: "https://www.brasildefato.com.br/rss2.xml"}
+
+  # Abas com "secao" aparecem dentro de outra aba (aqui: Esportes); "ia: false" não passa pelo Gemini.
+  flamengo:
+    titulo: Flamengo
+    secao: esportes
+    ia: false
+    fontes:
+      - {nome: ge, url: "https://ge.globo.com/rss/ge/futebol/times/flamengo/"}
+      - {nome: r/flamengo, url: "https://www.reddit.com/r/flamengo/.rss"}
