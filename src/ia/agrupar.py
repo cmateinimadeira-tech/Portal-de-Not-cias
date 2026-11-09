@@ -15,6 +15,7 @@ Se o Gemini falhar, a aba continua com a lista simples.
 """
 import hashlib
 import json
+import re
 import time
 from pathlib import Path
 
@@ -29,6 +30,8 @@ MAX_DESTAQUES = 12      # fatos com resumo completo por aba
 MAX_TEXTOS_GRUPO = 4    # matérias lidas por fato
 LIMITE_S = 600          # orçamento total de tempo para a IA nesta execução
 PESO_GRANDE = 0.5       # bônus por portal grande no ranking
+MAX_POR_GRUPO = 10      # grupo maior que isso quase sempre é "balaio": desfaz
+GENERICO = re.compile(r"\b(demais|outras|outros|diversa|diversos|variad|sem agrupamento|miscel)", re.I)
 
 PROMPT_GRUPOS = """Você é editor de um portal de notícias em português do Brasil.
 Abaixo há manchetes (id | veículo | título | resumo) de veículos diferentes.
@@ -36,6 +39,7 @@ Abaixo há manchetes (id | veículo | título | resumo) de veículos diferentes.
 Agrupe as manchetes que tratam do MESMO FATO ESPECÍFICO (mesmo acontecimento, decisão,
 anúncio ou declaração). Tema parecido não basta: "duas notícias sobre IA" NÃO são o mesmo fato.
 Manchete sem par forma um grupo sozinha. Use cada id exatamente uma vez.
+NUNCA crie grupos genéricos como "outras notícias", "diversos" ou "sem agrupamento".
 
 Para cada grupo dê um "titulo" curto, neutro e informativo em PT-BR, com ortografia correta
 (traduza se a manchete estiver em outro idioma). Não invente informação.
@@ -99,6 +103,9 @@ def _agrupar(candidatos: list[dict]) -> list[dict]:
     grupos, usados = [], set()
     for g in _lista(resp, "grupos"):
         ids = [i for i in g.get("ids", []) if isinstance(i, str) and i in itens and i not in usados]
+        titulo = str(g.get("titulo", ""))
+        if len(ids) > MAX_POR_GRUPO or (len(ids) > 1 and GENERICO.search(titulo)):
+            continue  # grupo "balaio": cada manchete volta a ficar sozinha (abaixo)
         if ids:
             usados.update(ids)
             grupos.append({"titulo": str(g.get("titulo", "")).strip(), "ids": ids})
