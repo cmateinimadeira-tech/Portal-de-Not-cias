@@ -1,0 +1,30 @@
+{# Painel do Banco Central na aba Macro. Setas: variação contra o dado anterior / contra 4 semanas antes. #}
+<h2>Indicadores <small>Banco Central</small></h2>
+<div class="ind">
+  {% if bcb.selic %}<div><span>{{ bcb.selic.rotulo }}</span><b>{{ bcb.selic.valor | num }}%</b>
+    <span>desde {{ bcb.selic.desde | data }}{% if bcb.selic.anterior is not none %} (antes {{ bcb.selic.anterior | num }}%){% endif %}</span></div>{% endif %}
+  {% if bcb.ipca %}<div><span>IPCA 12 meses</span><b>{{ bcb.ipca.acum12 | num }}%</b>
+    <span>{{ seta(bcb.ipca.acum12, bcb.ipca.acum12_anterior) }} até {{ bcb.ipca.mes | mes }} (antes {{ bcb.ipca.acum12_anterior | num }}%)</span></div>
+  <div><span>IPCA do mês</span><b>{{ bcb.ipca.mensal | num }}%</b>
+    <span>{{ bcb.ipca.mes | mes }} (mês anterior {{ bcb.ipca.mensal_anterior | num }}%)</span></div>{% endif %}
+  {% if bcb.dolar %}<div><span>{{ bcb.dolar.rotulo }}</span><b>R$ {{ bcb.dolar.valor | num(4) }}</b>
+    <span>{{ seta(bcb.dolar.valor, bcb.dolar.anterior) }} em {{ bcb.dolar.data | data }}</span></div>{% endif %}
+</div>
+{% if bcb.focus and bcb.focus.linhas %}
+<div class="focus">
+  <table>
+    <thead><tr><th>Focus (mediana)</th><th>{{ bcb.focus.ano }}</th><th>{{ bcb.focus.ano + 1 }}</th></tr></thead>
+    <tbody>
+    {% for l in bcb.focus.linhas %}
+      {% set casas = 2 %}
+      <tr><td>{{ l.rotulo }} <small>{{ l.unidade }}</small></td>
+        <td>{{ l.ano | num(casas) }} <small title="há 4 semanas: {{ l.ano_4sem | num(casas) }}">{{ seta(l.ano, l.ano_4sem) }}</small></td>
+        <td>{{ l.prox | num(casas) }} <small title="há 4 semanas: {{ l.prox_4sem | num(casas) }}">{{ seta(l.prox, l.prox_4sem) }}</small></td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  <small>Pesquisa de {{ bcb.focus.data | data }} · setas comparam com 4 semanas antes</small>
+</div>
+{% endif %}
+<p class="fontebc">Fontes: <a href="https://www3.bcb.gov.br/sgspub/" target="_blank" rel="noopener">BCB/SGS</a> e
+  <a href="https://www.bcb.gov.br/publicacoes/focus" target="_blank" rel="noopener">Boletim Focus</a></p>

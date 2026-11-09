@@ -1,0 +1,30 @@
+name: Atualizar dados diários
+on:
+  schedule:
+    - cron: "47 12 * * *"   # 09:47 em Brasília (depois da publicação do Focus às segundas)
+  workflow_dispatch:
+concurrency:
+  group: portal-publicacao   # mesmo grupo do workflow de notícias: um commit por vez
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  diario:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Banco Central (Selic, IPCA, dólar, Focus)
+        run: python -m src.coletores.bcb
+      - run: python -m src.build
+      - name: Commit
+        run: |
+          git config user.name "portal-bot"
+          git config user.email "portal-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || (git commit -m "chore: atualiza dados diários" && git pull --rebase -X theirs && git push)
