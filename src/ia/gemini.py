@@ -26,8 +26,13 @@ _modelo_idx = 0
 _pensamento_ok = True  # desliga o "thinkingConfig" se o modelo não aceitar
 
 
-def _chamar(prompt: str, timeout: int) -> requests.Response:
-    config = {"responseMimeType": "application/json", "temperature": 0.2, "maxOutputTokens": 12000}
+_esquema_ok = True  # desliga o "responseSchema" se o modelo não aceitar
+
+
+def _chamar(prompt: str, timeout: int, esquema: dict | None) -> requests.Response:
+    config = {"responseMimeType": "application/json", "temperature": 0.2, "maxOutputTokens": 16000}
+    if esquema and _esquema_ok:
+        config["responseSchema"] = esquema  # força o formato: evita JSON quebrado ou fora do padrão
     if _pensamento_ok:
         config["thinkingConfig"] = {"thinkingLevel": "low"}
     corpo = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": config}
@@ -35,8 +40,8 @@ def _chamar(prompt: str, timeout: int) -> requests.Response:
                          headers={"X-goog-api-key": os.environ["GEMINI_API_KEY"]}, timeout=timeout)
 
 
-def gerar_json(prompt: str, tentativas: int = 3, timeout: int = TIMEOUT_S) -> dict:
-    global _modelo_idx, _pensamento_ok
+def gerar_json(prompt: str, tentativas: int = 3, timeout: int = TIMEOUT_S, esquema: dict | None = None):
+    global _modelo_idx, _pensamento_ok, _esquema_ok
     if not disponivel():
         raise GeminiIndisponivel("GEMINI_API_KEY ausente")
     ultimo = ""
@@ -44,7 +49,7 @@ def gerar_json(prompt: str, tentativas: int = 3, timeout: int = TIMEOUT_S) -> di
         modelo = MODELOS[_modelo_idx].strip()
         inicio = time.monotonic()
         try:
-            r = _chamar(prompt, timeout)
+            r = _chamar(prompt, timeout, esquema)
         except requests.RequestException as exc:
             ultimo = f"{modelo}: {type(exc).__name__} após {time.monotonic() - inicio:.0f}s"
             print("  " + ultimo, flush=True)
@@ -54,6 +59,10 @@ def gerar_json(prompt: str, tentativas: int = 3, timeout: int = TIMEOUT_S) -> di
         dur = time.monotonic() - inicio
         if r.status_code == 400 and _pensamento_ok and "thinking" in r.text.lower():
             _pensamento_ok = False
+            continue
+        if r.status_code == 400 and _esquema_ok and "schema" in r.text.lower():
+            print(f"  {modelo}: esquema recusado, seguindo sem ele", flush=True)
+            _esquema_ok = False
             continue
         if r.status_code != 200:
             ultimo = f"{modelo}: HTTP {r.status_code} após {dur:.0f}s: {r.text[:200]}"  # nunca inclui a chave

@@ -57,14 +57,33 @@ Para cada fato escreva:
 Não invente nada além dos textos. Ortografia correta.
 
 Responda SOMENTE JSON:
-{{"fatos":[{{"fato":"F1","resumo":"...","pontos":["..."],"enquadramentos":{{"<id>":"..."}}}}]}}
+{{"fatos":[{{"fato":"F1","resumo":"...","pontos":["..."],"enquadramentos":[{{"id":"<id>","texto":"..."}}]}}]}}
 
 {blocos}
 """
 ENQ_SIM = ('- "enquadramentos": para cada id, em até 20 palavras, como aquele veículo enquadra o fato '
            "(ênfase, termos escolhidos, quem aparece como protagonista ou responsável, o que omite em "
            "relação aos outros). Descreva sem opinar.")
-ENQ_NAO = '- "enquadramentos": objeto vazio {{}}.'
+ENQ_NAO = '- "enquadramentos": lista vazia [].'
+
+
+_STR = {"type": "STRING"}
+ESQUEMA_GRUPOS = {"type": "OBJECT", "required": ["grupos"], "properties": {"grupos": {"type": "ARRAY", "items": {
+    "type": "OBJECT", "required": ["titulo", "ids"],
+    "properties": {"titulo": _STR, "ids": {"type": "ARRAY", "items": _STR}}}}}}
+ESQUEMA_RESUMOS = {"type": "OBJECT", "required": ["fatos"], "properties": {"fatos": {"type": "ARRAY", "items": {
+    "type": "OBJECT", "required": ["fato", "resumo", "pontos", "enquadramentos"],
+    "properties": {"fato": _STR, "resumo": _STR, "pontos": {"type": "ARRAY", "items": _STR},
+                   "enquadramentos": {"type": "ARRAY", "items": {
+                       "type": "OBJECT", "required": ["id", "texto"],
+                       "properties": {"id": _STR, "texto": _STR}}}}}}}}
+
+
+def _lista(resp, chave: str) -> list:
+    """Aceita {"chave": [...]} ou a lista solta, que o modelo às vezes devolve."""
+    if isinstance(resp, dict):
+        resp = resp.get(chave, [])
+    return [x for x in resp if isinstance(x, dict)] if isinstance(resp, list) else []
 
 
 def _hash(*partes: str) -> str:
@@ -76,9 +95,9 @@ def _hash(*partes: str) -> str:
 def _agrupar(candidatos: list[dict]) -> list[dict]:
     itens = {i["id"]: i for i in candidatos}
     lista = "\n".join(f'- {i["id"]} | {i["fonte"]} | {i["titulo"]} | {i["resumo"][:160]}' for i in candidatos)
-    resp = gemini.gerar_json(PROMPT_GRUPOS.format(lista=lista))
+    resp = gemini.gerar_json(PROMPT_GRUPOS.format(lista=lista), esquema=ESQUEMA_GRUPOS)
     grupos, usados = [], set()
-    for g in resp.get("grupos", []):
+    for g in _lista(resp, "grupos"):
         ids = [i for i in g.get("ids", []) if isinstance(i, str) and i in itens and i not in usados]
         if ids:
             usados.update(ids)
@@ -126,15 +145,19 @@ def _resumir(destaques: list[dict], itens: dict, comparar: bool, cache: dict) ->
             blocos.append("\n\n".join(partes))
         prompt = PROMPT_RESUMOS.format(instrucao_enquadramento=ENQ_SIM if comparar else ENQ_NAO,
                                        blocos="\n\n".join(blocos))
-        resp = gemini.gerar_json(prompt)
-        por_fato = {f.get("fato"): f for f in resp.get("fatos", []) if isinstance(f, dict)}
+        resp = gemini.gerar_json(prompt, esquema=ESQUEMA_RESUMOS)
+        por_fato = {str(f.get("fato", "")).strip(): f for f in _lista(resp, "fatos")}
         for g in pendentes:
             f = por_fato.get(g["_fato"])
             if f and f.get("resumo"):
-                enq = f.get("enquadramentos") if isinstance(f.get("enquadramentos"), dict) else {}
+                enq = f.get("enquadramentos")
+                if isinstance(enq, list):  # formato pedido: [{"id":..., "texto":...}]
+                    enq = {e.get("id"): e.get("texto", "") for e in enq if isinstance(e, dict)}
+                if not isinstance(enq, dict):
+                    enq = {}
                 cache[g["chave_resumo"]] = {
                     "resumo": str(f["resumo"]).strip(),
-                    "pontos": [str(p).strip() for p in f.get("pontos", []) if str(p).strip()][:4],
+                    "pontos": [str(p).strip() for p in (f.get("pontos") or []) if str(p).strip()][:4],
                     "enquadramentos": {k: str(v).strip() for k, v in enq.items() if k in g["ids"]},
                     "usado_em": time.time(),
                 }
