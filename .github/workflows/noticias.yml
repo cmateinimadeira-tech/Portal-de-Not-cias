@@ -11,7 +11,7 @@ permissions:
 jobs:
   noticias:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,6 +21,8 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python -m src.coletar_noticias
       - run: python -m src.ia.agrupar
+        continue-on-error: true
+        timeout-minutes: 12
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - run: python -m src.build

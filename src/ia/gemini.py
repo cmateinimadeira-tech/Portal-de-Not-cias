@@ -17,17 +17,29 @@ def disponivel() -> bool:
     return bool(os.environ.get("GEMINI_API_KEY"))
 
 
-def gerar_json(prompt: str, tentativas: int = 3) -> dict:
+_pensamento_ok = True  # desliga o "thinkingConfig" se o modelo não aceitar
+
+
+def gerar_json(prompt: str, tentativas: int = 2) -> dict:
+    global _pensamento_ok
     chave = os.environ.get("GEMINI_API_KEY")
     if not chave:
         raise GeminiIndisponivel("GEMINI_API_KEY ausente")
-    corpo = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2, "maxOutputTokens": 16000},
-    }
     ultimo = ""
-    for t in range(tentativas):
-        r = requests.post(URL, json=corpo, headers={"X-goog-api-key": chave}, timeout=120)
+    for t in range(tentativas + 1):
+        config = {"responseMimeType": "application/json", "temperature": 0.2, "maxOutputTokens": 12000}
+        if _pensamento_ok:
+            # pensamento mínimo: tarefa simples, resposta bem mais rápida
+            config["thinkingConfig"] = {"thinkingLevel": "low"}
+        corpo = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": config}
+        try:
+            r = requests.post(URL, json=corpo, headers={"X-goog-api-key": chave}, timeout=150)
+        except requests.RequestException as exc:
+            ultimo = f"{type(exc).__name__}"
+            continue
+        if r.status_code == 400 and _pensamento_ok and "thinking" in r.text.lower():
+            _pensamento_ok = False
+            continue
         if r.status_code in (429, 500, 503):
             ultimo = f"HTTP {r.status_code}"
             time.sleep(10 * (t + 1))

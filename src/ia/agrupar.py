@@ -6,6 +6,7 @@ Cache: se os ids de entrada de uma aba não mudaram, reaproveita os grupos anter
 """
 import hashlib
 import json
+import time
 from pathlib import Path
 
 import yaml
@@ -13,15 +14,17 @@ import yaml
 from src.ia import gemini
 
 RAIZ = Path(__file__).resolve().parent.parent.parent
-MAX_ITENS = 60
+MAX_ITENS = 40
+LIMITE_S = 480  # orçamento total de tempo para a IA nesta execução
 
 PROMPT = """Você é editor de um portal de notícias pessoal em português do Brasil.
 Abaixo há uma lista de manchetes (id, fonte, título, resumo) de veículos diferentes.
 
 Tarefa:
 1. Agrupe as manchetes que tratam do MESMO fato/assunto. Manchete sem par forma um grupo sozinha.
-2. Para cada grupo escreva "titulo" (neutro, em PT-BR, traduza se estiver em outro idioma) e "resumo"
-   (1 a 2 frases, só com o que consta nas manchetes e resumos; não invente nada).
+2. Para cada grupo escreva "titulo" (neutro, em PT-BR, traduza se estiver em outro idioma).
+   Só para grupos com 2 ou mais manchetes escreva "resumo" (1 a 2 frases, só com o que consta nas
+   manchetes e resumos; não invente nada). Para manchete sozinha, "resumo" é string vazia.
 3. {instrucao_enquadramento}
 4. Use cada id exatamente uma vez. Ordene os grupos do mais ao menos relevante.
 
@@ -55,7 +58,8 @@ def _montar(grupos: list[dict], itens: dict[str, dict]) -> list[dict]:
     saida = []
     for g in grupos:
         membros = [{**itens[i["id"]], "enquadramento": i["enquadramento"]} for i in g["itens"]]
-        saida.append({"titulo": g["titulo"] or membros[0]["titulo"], "resumo": g["resumo"],
+        resumo = g["resumo"] or (membros[0]["resumo"] if len(membros) == 1 else "")
+        saida.append({"titulo": g["titulo"] or membros[0]["titulo"], "resumo": resumo,
                       "data": max(m["data"] for m in membros), "itens": membros})
     return saida  # mantém a ordem de relevância escolhida pelo modelo
 
@@ -83,19 +87,24 @@ def main() -> None:
     if not gemini.disponivel():
         print("GEMINI_API_KEY ausente: pulando IA")
         return
+    inicio = time.monotonic()
     for chave, aba in dados["abas"].items():
+        if time.monotonic() - inicio > LIMITE_S:
+            print(f"{chave}: sem tempo para IA nesta rodada; mantendo lista simples")
+            continue
         try:
             res = agrupar_aba(aba, bool(cfg["abas"][chave].get("comparar")), cache.get(chave, {}))
-        except gemini.GeminiIndisponivel as exc:
-            print(f"{chave}: IA falhou ({exc}); mantendo lista simples")
+        except Exception as exc:  # noqa: BLE001 — IA nunca derruba o portal
+            print(f"{chave}: IA falhou ({exc}); mantendo lista simples", flush=True)
             continue
         if res:
             cache[chave] = res
             itens = {i["id"]: i for i in aba["itens"]}
             aba["grupos"] = _montar(res["grupos"], itens)
-            print(f"{chave}: {len(aba['grupos'])} grupos")
-    caminho.write_text(json.dumps(dados, ensure_ascii=False, indent=1), encoding="utf-8")
-    cache_p.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
+            print(f"{chave}: {len(aba['grupos'])} grupos", flush=True)
+        # grava a cada aba: se o passo for interrompido, o que já foi feito fica
+        caminho.write_text(json.dumps(dados, ensure_ascii=False, indent=1), encoding="utf-8")
+        cache_p.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 if __name__ == "__main__":
