@@ -11,7 +11,7 @@ import feedparser
 import requests
 
 UA = "Mozilla/5.0 (compatible; PortalNoticiasPessoal/1.0; +https://github.com/cmateinimadeira-tech/Portal-de-Not-cias)"
-MAX_POR_FONTE = 15
+MAX_POR_FONTE = 12
 MAX_IDADE_H = 72
 
 
@@ -38,19 +38,23 @@ def _coletar_fonte(fonte: dict) -> dict:
             time.sleep(3 * (tentativa + 1))
         r.raise_for_status()
         feed = feedparser.parse(r.content)
+        google_news = "news.google.com" in fonte["url"]
         agora = datetime.now(timezone.utc)
         itens = []
         for e in feed.entries:
             link, titulo = e.get("link"), _limpar(e.get("title", ""), 200)
             if not link or not titulo:
                 continue
+            resumo = _limpar(e.get("summary", ""))
+            if google_news:  # título vem como "Manchete - Veículo"; resumo é só HTML de links
+                titulo, resumo = re.sub(r"\s+-\s+[^-]+$", "", titulo), ""
             d = _data(e) or agora
             if (agora - d).total_seconds() > MAX_IDADE_H * 3600:
                 continue
             itens.append({
                 "id": hashlib.sha1(link.encode()).hexdigest()[:12],
                 "titulo": titulo,
-                "resumo": _limpar(e.get("summary", "")),
+                "resumo": resumo,
                 "link": link,
                 "fonte": fonte["nome"],
                 "data": d.isoformat(),
