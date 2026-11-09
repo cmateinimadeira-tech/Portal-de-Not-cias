@@ -37,6 +37,20 @@ h2{font-size:1rem;margin:6px 0 10px}h2 small{font-weight:400;color:var(--mut);fo
 .focus th,.focus td{padding:5px 4px;text-align:right;border-bottom:1px solid var(--bd);white-space:nowrap}
 .focus th:first-child,.focus td:first-child{text-align:left}.focus tr:last-child td{border-bottom:0}
 .fontebc{font-size:.75rem;color:var(--mut)}.fontebc a{color:var(--mut)}
+.subnav{display:flex;gap:6px;overflow-x:auto;margin-bottom:12px;scrollbar-width:none}
+.subnav button{white-space:nowrap;font-size:.85rem;padding:4px 10px}.subnav button[aria-pressed=true]{background:var(--txt);color:var(--bg);border-color:var(--txt)}
+.bloco{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:8px 12px;margin-bottom:12px}
+.bloco h3{font-size:.85rem;color:var(--mut);margin:4px 0 6px;font-weight:600;text-transform:uppercase;letter-spacing:.03em}
+.jogo{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:8px;padding:7px 0;border-top:1px solid var(--bd);font-size:.9rem}
+.bloco h3+.jogo{border-top:0}.jogo .c{text-align:right}.jogo .p{text-align:center;font-weight:700;font-variant-numeric:tabular-nums;min-width:64px}
+.jogo .p small{display:block;font-weight:400;color:var(--mut);font-size:.72rem}.jogo img{width:18px;height:18px;object-fit:contain;vertical-align:-4px;margin:0 4px}
+.jogo .p small.vivo{color:#d93025;font-weight:700}
+.tab{width:100%;border-collapse:collapse;font-size:.85rem;font-variant-numeric:tabular-nums}
+.tab th,.tab td{padding:4px 3px;text-align:right;border-top:1px solid var(--bd)}.tab th{color:var(--mut);font-weight:600;border-top:0}
+.tab td:nth-child(2),.tab th:nth-child(2){text-align:left}.tab img{width:16px;height:16px;object-fit:contain;vertical-align:-3px;margin-right:4px}
+.tab tr.meu td{background:color-mix(in srgb,var(--ac) 14%,transparent);font-weight:600}
+.lista a{display:block;padding:6px 0;border-top:1px solid var(--bd);color:var(--txt);text-decoration:none;font-size:.9rem}.lista a:first-of-type{border-top:0}
+.lista a small{color:var(--mut)}
 .meta{font-size:.78rem;color:var(--mut);margin-top:6px}
 .fonte{color:var(--ac);font-weight:600}
 .vazio,.rodape{color:var(--mut);font-size:.85rem;text-align:center;padding:16px}
@@ -47,14 +61,14 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
 <header>
   <div class="topo"><h1>📰 Meu Portal</h1><button id="tema" aria-label="Alternar tema">🌓</button></div>
   <nav role="tablist">
-  {% for chave, aba in noticias.get("abas", {}).items() %}
+  {% for chave, aba in noticias.get("abas", {}).items() if not aba.secao %}
     <button role="tab" data-aba="{{ chave }}" aria-selected="{{ 'true' if loop.first else 'false' }}">{{ aba.titulo }}</button>
   {% endfor %}
     <button role="tab" data-aba="esportes" aria-selected="false">Esportes</button>
   </nav>
 </header>
 <main>
-{% for chave, aba in noticias.get("abas", {}).items() %}
+{% for chave, aba in noticias.get("abas", {}).items() if not aba.secao %}
   <section id="aba-{{ chave }}" {% if not loop.first %}hidden{% endif %}>
   {% if chave == "macro" and bcb %}{% include "_bcb.html" %}{% endif %}
   {% if aba.grupos %}
@@ -101,7 +115,7 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
     </details>
   </section>
 {% endfor %}
-  <section id="aba-esportes" hidden><div class="vazio">Esportes chegam nas próximas etapas.</div></section>
+  <section id="aba-esportes" hidden>{% include "_esportes.html" %}</section>
   <div class="rodape">{% if noticias.atualizado_em %}Atualizado em {{ noticias.atualizado_em | hora }} (Brasília){% endif %}</div>
 </main>
 <script>
@@ -111,6 +125,11 @@ function ir(k){abas.forEach(b=>b.setAttribute("aria-selected",b.dataset.aba===k)
  try{localStorage.setItem("aba",k)}catch(e){}}
 abas.forEach(b=>b.onclick=()=>ir(b.dataset.aba));
 try{const k=localStorage.getItem("aba");if(k&&document.getElementById("aba-"+k))ir(k)}catch(e){}
+document.querySelectorAll(".subnav button").forEach(b=>b.onclick=()=>{
+ b.parentNode.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b));
+ document.querySelectorAll(".sub").forEach(d=>d.hidden=d.id!=="sub-"+b.dataset.sub);
+ try{localStorage.setItem("sub",b.dataset.sub)}catch(e){}});
+try{const k=localStorage.getItem("sub");const b=k&&document.querySelector('.subnav button[data-sub="'+k+'"]');if(b)b.click()}catch(e){}
 document.getElementById("tema").onclick=()=>{const d=document.documentElement;
  const escuro=d.dataset.tema?d.dataset.tema==="escuro":matchMedia("(prefers-color-scheme:dark)").matches;
  d.dataset.tema=escuro?"claro":"escuro";try{localStorage.setItem("tema",d.dataset.tema)}catch(e){}};

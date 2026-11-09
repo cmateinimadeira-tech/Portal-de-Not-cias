@@ -1,0 +1,31 @@
+name: Atualizar placares
+on:
+  schedule:
+    - cron: "5,35 * * * *"   # a cada 30 min; o script só consulta a API se houver jogo em andamento
+  workflow_dispatch:
+concurrency:
+  group: portal-publicacao
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  placares:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m src.coletores.futebol placares
+        env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+      - run: python -m src.build
+      - name: Commit
+        run: |
+          git config user.name "portal-bot"
+          git config user.email "portal-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || (git commit -m "chore: atualiza placares" && git pull --rebase -X theirs && git push)

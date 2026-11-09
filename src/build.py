@@ -14,8 +14,19 @@ def _carregar(nome: str) -> dict:
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
 
 
+DIAS = "seg ter qua qui sex sáb dom".split()
+
+
 def _hora(iso: str) -> str:
-    return datetime.fromisoformat(iso).astimezone(BRT).strftime("%d/%m %H:%M")
+    return datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(BRT).strftime("%d/%m %H:%M")
+
+
+def _quando(iso: str) -> str:
+    """Data de jogo em Brasília: 'hoje 21:30', 'amanhã 16:00' ou 'sáb 22/11 16:30'."""
+    d = datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(BRT)
+    delta = (d.date() - datetime.now(BRT).date()).days
+    dia = {0: "hoje", 1: "amanhã", -1: "ontem"}.get(delta, f"{DIAS[d.weekday()]} {d:%d/%m}")
+    return f"{dia} {d:%H:%M}"
 
 
 MESES = "jan fev mar abr mai jun jul ago set out nov dez".split()
@@ -44,10 +55,11 @@ def _seta(atual, antes) -> str:
 
 def main() -> None:
     env = Environment(loader=FileSystemLoader(RAIZ / "templates"), autoescape=select_autoescape())
-    env.filters.update(hora=_hora, num=_num, data=_data, mes=_mes)
+    env.filters.update(hora=_hora, quando=_quando, num=_num, data=_data, mes=_mes)
     env.globals["seta"] = _seta
     noticias = _carregar("noticias.json")
-    html = env.get_template("index.html").render(noticias=noticias, bcb=_carregar("bcb.json"))
+    html = env.get_template("index.html").render(noticias=noticias, bcb=_carregar("bcb.json"),
+                                                  futebol=_carregar("futebol.json"))
     (RAIZ / "docs" / "index.html").write_text(html, encoding="utf-8")
     (RAIZ / "docs" / ".nojekyll").touch()
     print("docs/index.html gerado")

@@ -1,0 +1,16 @@
+# Competições da football-data.org (todas no plano gratuito).
+ligas:
+  - {codigo: BSA, nome: Brasileirão}
+  - {codigo: CL,  nome: Champions League}
+  - {codigo: PL,  nome: Premier League}
+  - {codigo: PD,  nome: La Liga}
+  - {codigo: SA,  nome: Serie A}
+  - {codigo: BL1, nome: Bundesliga}
+  - {codigo: FL1, nome: Ligue 1}
+
+# Time em destaque: jogos vêm da API pública da ESPN, que cobre também
+# Libertadores e Copa do Brasil (fora do plano gratuito da football-data).
+destaque:
+  nome: Flamengo
+  espn_id: 819
+  espn_ligas: [bra.1, conmebol.libertadores, bra.copa_do_brazil, conmebol.recopa, bra.supercopa_do_brazil, fifa.cwc]

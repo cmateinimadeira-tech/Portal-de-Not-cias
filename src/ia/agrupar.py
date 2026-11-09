@@ -243,6 +243,8 @@ def main() -> None:
         if time.monotonic() - inicio > LIMITE_S:
             print(f"{chave}: sem tempo para IA nesta rodada; mantendo lista simples")
             continue
+        if cfg["abas"][chave].get("ia") is False:
+            continue
         c = cache.get(chave, {})
         if "resumos" not in c:  # formato antigo do cache
             c = {}
