@@ -1,0 +1,1693 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meu Portal de Notícias</title>
+<script>try{var t=localStorage.getItem("tema");if(t)document.documentElement.dataset.tema=t}catch(e){}</script>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--txt:#1b1f24;--mut:#667085;--bd:#e3e6ea;--ac:#0b63ce}
+@media(prefers-color-scheme:dark){:root:not([data-tema=claro]){--bg:#0f1318;--card:#171c23;--txt:#e7eaee;--mut:#98a2b3;--bd:#262d36;--ac:#6aa8ff}}
+:root[data-tema=escuro]{--bg:#0f1318;--card:#171c23;--txt:#e7eaee;--mut:#98a2b3;--bd:#262d36;--ac:#6aa8ff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.45 system-ui,sans-serif}
+header{position:sticky;top:0;background:var(--card);border-bottom:1px solid var(--bd);z-index:5}
+.topo{display:flex;align-items:center;justify-content:space-between;padding:10px 16px}
+h1{font-size:1.05rem;margin:0}
+button{font:inherit;color:inherit;background:none;border:1px solid var(--bd);border-radius:8px;padding:6px 10px;cursor:pointer}
+nav{display:flex;gap:6px;overflow-x:auto;padding:0 16px 10px;scrollbar-width:none}
+nav button{white-space:nowrap}
+nav button[aria-selected=true]{background:var(--ac);color:#fff;border-color:var(--ac)}
+main{max-width:760px;margin:0 auto;padding:12px 16px 40px}
+section[hidden]{display:none}
+article{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+article a{color:var(--txt);text-decoration:none;font-weight:600}
+article a:hover{color:var(--ac)}
+article p{margin:6px 0 0;color:var(--mut);font-size:.92rem}
+.meta{font-size:.78rem;color:var(--mut);margin-top:6px}
+.fonte{color:var(--ac);font-weight:600}
+.vazio,.rodape{color:var(--mut);font-size:.85rem;text-align:center;padding:16px}
+details{font-size:.8rem;color:var(--mut);margin-top:16px}
+</style>
+</head>
+<body>
+<header>
+  <div class="topo"><h1>📰 Meu Portal</h1><button id="tema" aria-label="Alternar tema">🌓</button></div>
+  <nav role="tablist">
+  
+    <button role="tab" data-aba="macro" aria-selected="true">Macro e negócios</button>
+  
+    <button role="tab" data-aba="ciencia" aria-selected="false">Ciência e tecnologia</button>
+  
+    <button role="tab" data-aba="ia" aria-selected="false">IA, PCs e celulares</button>
+  
+    <button role="tab" data-aba="carros" aria-selected="false">Carros</button>
+  
+    <button role="tab" data-aba="politica" aria-selected="false">Política (comparação)</button>
+  
+    <button role="tab" data-aba="esportes" aria-selected="false">Esportes</button>
+  </nav>
+</header>
+<main>
+
+  <section id="aba-macro" >
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mercados/klabin-faz-acordo-para-formacao-de-spe-de-madeira-no-parana/" target="_blank" rel="noopener">Klabin faz acordo para formação de SPE de madeira no Paraná</a>
+      <p>A Klabin não identificou ​o investidor instucional que será ​sócio ⁠da empresa no ⁠empreendimento The post Klabin faz acordo para formação de SPE de madeira no Paraná appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 07:33</div>
+    </article>
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdoz26-09112026/" target="_blank" rel="noopener">Minidólar (WDOZ26) tem cenário externo e política econômica no radar</a>
+      <p>Saiba o que esperar para o minidólar nesta segunda (09) The post Minidólar (WDOZ26) tem cenário externo e política econômica no radar appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 07:13</div>
+    </article>
+  
+    <article>
+      <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZlFuR1lZT1JiMlVUdEl6U210TkxqRlhiQ1hCNGhmUDdDUGhsMXRiS05iWXA3a0hIMzVrdXJQNlYwc1BRV3lkd1doUU1FbWlpMmgxaGZfeEtTbERGY0tmYXJnSjJ6S1BEOG01QjFwQW14MUZDZ0EwWjhoeVNSV3dkeEVuUEhoMmdyQ3RwaElBdlpXMkpYTk9fWjBaZjY2SzBLaTh0bDBtRjY1TjhKcGZWZWF6UXF1NUZjVUhxTVlMN3hkZlFKZXNBUdIB3AFBVV95cUxQYVduWkYzSk5PV2JyQVpoYWlHTjFBdFlFRTBjaXRMb21SWlM2YS1CVXE2NEkyQVJscHVEalFEbW9aR3B0TE5sS2NLQk9qVHdFNkFMSnVCTEUxa0RuallhamxjdElicU8xaEp6SWNtcDE3RnNFNmllREprdTZ0X1FnU00wVTR4Wk9MX193VXlBYVNkdnd5TUZqWjhjaWI5S2JCM1pCLUU0cXRTYWdjb2xMQkRyTFlmNUx2WFpucHdfcVJfUnNXR0tFQ181TXJsbWpIV21aZHFQaEdOZ19w?oc=5" target="_blank" rel="noopener">Wall St ensaia recuperação com queda do petróleo; investigação na Nvidia limita ganhos - Bloomberg Linea Brasil</a>
+      <p>Wall St ensaia recuperação com queda do petróleo; investigação na Nvidia limita ganhos Bloomberg Linea Brasil</p>
+      <div class="meta"><span class="fonte">Bloomberg Línea</span> · 09/11 07:10</div>
+    </article>
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-09112026/" target="_blank" rel="noopener">Mini-índice (WINZ26): IFR próximo da sobrevenda favorece possível repique</a>
+      <p>Confira o que a análise técnica aponta para o mini-índice hoje (09 de novembro) The post Mini-índice (WINZ26): IFR próximo da sobrevenda favorece possível repique appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 07:09</div>
+    </article>
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-09112026/" target="_blank" rel="noopener">Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais?</a>
+      <p>Confira os pontos de suporte e resistência do mini-índice e minidólar The post Day Trade hoje (09): Ibovespa se aproxima dos 170 mil; pode subir mais? appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 07:04</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/conteudo-de-marca/itau-personnalite/noticia/2026/11/09/o-que-muda-nos-seus-investimentos-quando-as-previsoes-para-a-economia-se-alteram.ghtml" target="_blank" rel="noopener">O que muda nos seus investimentos quando as previsões para a economia se alteram?</a>
+      <p>Esse é o quadro que começa a se desenhar para o Brasil em 2027, mas não necessariamente o que vai se confirmar. A trajetória do dólar, as contas públicas e o ambiente internacional ainda podem mudar as perspectivas. Para quem investe, a questão não é tentar adivinhar qual previsão vai se concretiza…</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/opiniao/coluna/os-desafios-dos-sistemas-de-armazenamento-hidraulico-no-brasil.ghtml" target="_blank" rel="noopener">Os desafios dos Sistemas de Armazenamento Hidráulico no Brasil</a>
+      <p>Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/brasil/esg/noticia/2026/11/09/entidades-de-sustentabilidade-lancam-movimento-para-barrar-retrocessos-na-agenda-esg.ghtml" target="_blank" rel="noopener">Entidades de sustentabilidade lançam movimento para barrar retrocessos na agenda ESG</a>
+      <p>Nove organizações ligadas à sustentabilidade e ao terceiro setor se uniram para monitorar decisões de governos e empresas e atuar contra possíveis retrocessos na agenda socioambiental brasileira. Batizado de MovA-SE (Movimento pelo Avanço da Sustentabilidade e ESG), o coletivo pretende articular aç…</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/empresas/noticia/2026/11/09/crise-paraguaia-traz-apreensao-para-as-empresas-do-brasil.ghtml" target="_blank" rel="noopener">Crise paraguaia traz apreensão para as empresas do Brasil</a>
+      <p>A crise no Paraguai provoca apreensão e receios entre entidades e empresas brasileiras que atuam no país vizinho. A quebra do banco digital ueno bank e o impeachment do agora ex-presidente Santiago Peña colocaram em destaque um país que nos últimos anos atraiu indústrias brasileiras em busca de inc…</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mercados/petrobras-banco-do-brasil-b3-itausa-e-mais-balancos-da-semana-veja-calendario/" target="_blank" rel="noopener">Petrobras, Banco do Brasil, B3, Itaúsa e mais balanços da semana: veja calendário</a>
+      <p>A semana será a última da temporada de balanços do terceiro trimestre de 2026 The post Petrobras, Banco do Brasil, B3, Itaúsa e mais balanços da semana: veja calendário appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlJGWDVLLXNVeHpuUDRhNXRrYm9pVzUwY21DaDIyMExTQjdybVl2TDVINzVqVFA5UnNCb0dCSC1YTTZpYkdOakV6TGtORVh4R2tDb196V0ppUzNiTWJzR3pRbEVGa1Zkc3F5azFvUFRvaWNLY0Z4VWY5NFFreE1zVTB2MXg1NkF0SVpyVWZOU1U5Qko2RVZ5c2w5UjhXbXJIeDZ5YU9DUFR3UdIBvgFBVV95cUxQNzE5WUJqdmhISzJqcldFUXJscVppcmx6TURRaW9IeXMwcU9JS1FscUVyMXJjZEloSDZSc1B4R0hTejgta0c0ekZ3U2doZHB4X0dFd0pGS1VvdERwbWkyd0dZdEVZR01nQ3BCaVdGdXdhRS1vU3duYWF5UHB6Wk8wYk5UT3dUTVRsSXJZTnhYOFBDOHVuRlI4TElYRV9PaHFtbmEzamNEQURaR2lEM2FZa1EyY0N4ZFVfa3NJUnN3?oc=5" target="_blank" rel="noopener">CSN acerta venda da CSN Cimentos para a chinesa Huaxin por R$ 12,7 bilhões - Bloomberg Linea Brasil</a>
+      <p>CSN acerta venda da CSN Cimentos para a chinesa Huaxin por R$ 12,7 bilhões Bloomberg Linea Brasil</p>
+      <div class="meta"><span class="fonte">Bloomberg Línea</span> · 09/11 06:58</div>
+    </article>
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mundo/trump-diz-nao-buscar-escalar-guerra-com-o-ira-e-preve-ucrania-com-outro-formato/" target="_blank" rel="noopener">Trump diz não buscar escalar guerra com o Irã e prevê Ucrânia com ‘outro formato’</a>
+      <p>Trump tentou sustentar a tese de que a ameaça nuclear iraniana foi neutralizada The post Trump diz não buscar escalar guerra com o Irã e prevê Ucrânia com ‘outro formato’ appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 06:40</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/claudio-considera/fiacao-eletrica-e-um-senhor-abacaxi-para-as-prefeituras-brasileiras/" target="_blank" rel="noopener">Fiação elétrica é um senhor abacaxi para as prefeituras brasileiras</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 09/11 06:40</div>
+    </article>
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mercados/acoes-da-nvidia-caem-enquanto-ceo-e-investigado-por-alegacoes-de-espionagem/" target="_blank" rel="noopener">Ações da Nvidia caem enquanto CEO é investigado por alegações de espionagem</a>
+      <p>Huang disse aos funcionários da Nvidia que havia sido infiel à esposa, sem revelar detalhes sobre o relacionamento The post Ações da Nvidia caem enquanto CEO é investigado por alegações de espionagem appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 06:35</div>
+    </article>
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mercados/focus-lula-balancos-magalu-jbs-agenda-09112026/" target="_blank" rel="noopener">Focus e discurso de Lula dividem atenções com balanços de Magalu e JBS nesta segunda</a>
+      <p>InfoMoney reúne as principais informações que devem movimentar os mercados nesta segunda-feira (9) The post Focus e discurso de Lula dividem atenções com balanços de Magalu e JBS nesta segunda appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 06:12</div>
+    </article>
+  
+    <article>
+      <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOEZ2WG45ZVFYbkJFSDZ6VHgwT3pGSHVrR09paHYxdXppQkgtRHQ5QWlNSkp4NENTSXpnVGRHZ1ZFb3NEalphcURfNDN0TVZJdWh2NUFXd0FUb001VUwwSy1uVW5QcER5cWR4TlhudEpFXzBQS2NXWmdpRUl6aXR5dUZJWS1kTy1LSGw5dUpHZE56Y0xhTHBEMldGY3lHMWRNbjVzNllFaWdIRmIyTnRBNWNiN0JqYWhfcjQzTlhjajlLZ3dDOXQ1b9IB3AFBVV95cUxPVzY1ckpXRlM4bC1LTlQ1ZkJWM1U5aHk5eEZrRkxEVEI1THlHMmM5ck85Rnh6eUx3VElGeDNpSVlPQ0xkX2FyVmwzNmFWUVI3NTUtb1FJZU9QMWFBNHhxS1JndEhGQU9YT3RLZVdKNkRNd0FfLW40V2kzT0xDdTFrYXFRNTMteHAxdi1Kb3d1TG1fR1dhbHJFSExJal84Y0luWXk4Y216QkZCeTIzSW1GNk1XRk9odng4SW9pcXowV20yenAwLUJ2VWsyM0M1TWpsZ3BieFpEY191V3dJ?oc=5" target="_blank" rel="noopener">Cidade Matarazzo troca lógica do aluguel por operação própria prevê R$ 2 bi em receita - Bloomberg Linea Brasil</a>
+      <p>Cidade Matarazzo troca lógica do aluguel por operação própria prevê R$ 2 bi em receita Bloomberg Linea Brasil</p>
+      <div class="meta"><span class="fonte">Bloomberg Línea</span> · 09/11 06:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/financas/intraday/post/2026/11/em-outubro-um-fluxo-cambial-recorde-apesar-da-disparada-do-dolar.ghtml" target="_blank" rel="noopener">Em outubro, um fluxo cambial recorde mesmo com salto do dólar</a>
+      <p>Os dados do Banco Central de fluxo cambial divulgados na última quarta-feira chamaram atenção dos agentes financeiros, em especial operadores de câmbio. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 06:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/opiniao/assis-moreira/coluna/mudanca-climatica-o-cafe-diante-de-seu-maior-desafio.ghtml" target="_blank" rel="noopener">Mudança climática: o café diante de seu maior desafio</a>
+      <p>Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 06:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/nestle-quer-se-aproximar-do-consumidor-com-um-espelho-magico-que-usa-ia/" target="_blank" rel="noopener">Nestlé quer se aproximar do consumidor com um ‘espelho mágico’ que usa IA</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 09/11 06:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-em-inicio-de-semana-marcada-por-inflacao-e-balancos-de-ia/" target="_blank" rel="noopener">Dow Jones Futuro sobe em início de semana marcada por inflação e balanços de IA</a>
+      <p>Mercado acompanha o índice de preços ao consumidor (CPI), na terça-feira, e o índice de preços ao produtor (PPI), na sexta-feira The post Dow Jones Futuro sobe em início de semana marcada por inflação e balanços de IA appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 05:45</div>
+    </article>
+  
+    <article>
+      <a href="https://www.infomoney.com.br/mercados/ibovespa-tenta-firmar-fundo-e-dolar-encosta-em-sobrecompra-o-que-vigiar-na-segunda/" target="_blank" rel="noopener">Ibovespa tenta firmar fundo e dólar encosta em sobrecompra: o que vigiar na segunda?</a>
+      <p>Bolsa interrompe sequência de perdas após tombo pós-eleição, enquanto dólar futuro mantém força acima das médias; gráficos mostram níveis decisivos para a abertura do mercado The post Ibovespa tenta firmar fundo e dólar encosta em sobrecompra: o que vigiar na segunda? appeared first on InfoMoney .</p>
+      <div class="meta"><span class="fonte">InfoMoney</span> · 09/11 05:40</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/negocios/demanda-por-galpoes-aumenta-e-vacancia-cai-a-minima-historica-veja-maiores-ocupantes/" target="_blank" rel="noopener">Demanda por galpões aumenta e vacância cai à mínima histórica; veja maiores ocupantes</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 09/11 05:30</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/coluna-do-broadcast-agro/grunner-cresce-com-demanda-de-usinas-por-maquinas/" target="_blank" rel="noopener">Grunner cresce com demanda de usinas por máquinas</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 09/11 05:30</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/financas/noticia/2026/11/09/paraguai-tera-de-recompor-fundo-garantidor-apos-ueno.ghtml" target="_blank" rel="noopener">Paraguai terá de recompor fundo garantidor após ueno</a>
+      <p>Quase uma semana após o Banco Central do Paraguai (BCP) decretar a liquidação do ueno bank, maior fintech do país, o setor financeiro e as autoridades ainda têm como foco absoluto garantir o pagamento aos clientes que têm direito de serem ressarcidos pelo Fundo de Garantia de Depósitos (FGD). Entre…</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 05:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/brasil/coluna/aumenta-o-risco-de-um-cenario-indigesto-para-a-economia-em-2027.ghtml" target="_blank" rel="noopener">Aumenta o risco de um cenário indigesto para a economia em 2027</a>
+      <p>O cenário econômico que se desenha para 2027 é indigesto, combinando menos crescimento, mais inflação e juros mais altos do que se previa há algumas semanas, segundo as novas projeções de alguns bancos e consultorias. São previsões marcadas obviamente por muita incerteza, mas que indicam que o espa…</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 05:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/financas/noticia/2026/11/09/cresce-expectativa-de-que-fed-voltara-a-subir-os-juros.ghtml" target="_blank" rel="noopener">Cresce expectativa de que Fed voltará a subir os juros</a>
+      <p>Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 05:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/legislacao/coluna/aliquota-de-referencia-o-raio-x-da-tributacao-sobre-o-consumo.ghtml" target="_blank" rel="noopener">Alíquota de referência: o raio-X da tributação sobre o consumo</a>
+      <p>O Tribunal de Contas da União (TCU) calculou a alíquota de referência da CBS para 2027 em 11,3% e a encaminhou ao Senado, gerando forte reação na imprensa e nas redes sociais. A crítica geral alega que o Brasil terá um dos maiores IVAS do mundo, superando o da Hungria. Mas o que esse percentual rea…</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 05:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/politica/noticia/2026/11/09/nunes-marques-deve-ter-reves-na-disputa-pelo-trf-1.ghtml" target="_blank" rel="noopener">Nunes Marques deve ter revés na disputa pelo TRF-1</a>
+      <p>O ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), enfrentará um revés no Tribunal Regional Federal da 1ª Região (TRF-1), Corte da qual é egresso e onde ainda exerce influência. Pessoas próximas ao governo afirmam que o presidente Luiz Inácio Lula da Silva (PT) irá nomear nos próxi…</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 05:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/conteudo-de-marca/sistema-transporte/noticia/2026/11/09/prioridades-para-um-transporte-mais-sustentavel-e-competitivo.ghtml" target="_blank" rel="noopener">Prioridades para um transporte mais sustentável e competitivo</a>
+      <p>A saúde, a segurança e a qualidade de vida dos trabalhadores são a principal prioridade do transporte rodoviário brasileiro no que diz respeito ao ESG, uma sigla que indica como cada empresa impacta o planeta, trata as pessoas e é administrada. O Estudo de Materialidade do Setor de Transporte Rodov…</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 05:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/opiniao/noticia/2026/11/09/03ab0ca6-cartas-de-leitores.ghtml" target="_blank" rel="noopener">Cartas de Leitores</a>
+      <p>Master paraguaio No Paraguai, a crise do Ueno Bank chegou à Presidência. O prejuízo imposto à população desencadeou uma reação política que culminou no pedido de renúncia do presidente. No Brasil, a história parece seguir outro roteiro. O escândalo dos descontos indevidos do INSS atingiu aposentado…</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 05:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/mundo/noticia/2026/11/09/crise-expos-lado-sombrio-do-poder-em-um-entao-promissor-paraguai.ghtml" target="_blank" rel="noopener">Crise expôs lado sombrio do poder em um, então, promissor Paraguai</a>
+      <p>Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 05:00</div>
+    </article>
+  
+    <article>
+      <a href="https://valor.globo.com/financas/consultorio-financeiro/coluna/juntar-as-contas-do-casal-ajuda-no-planejamento.ghtml" target="_blank" rel="noopener">Juntar as contas do casal ajuda no planejamento?</a>
+      <p>Se um casal decide juntar todo o dinheiro em uma única conta, isso simplifica a vida financeira ou aumenta os riscos? Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.</p>
+      <div class="meta"><span class="fonte">Valor Econômico</span> · 09/11 05:00</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/ciencia/lua-tera-supercomputador-capaz-de-processar-dados-sem-depender-da-terra/" target="_blank" rel="noopener">Lua terá supercomputador capaz de processar dados sem depender da Terra</a>
+      <p>Desenvolvido pela HPE, equipamento deverá ser enviado à Lua no fim de 2026 para testar inteligência artificial, navegação e processamento de dados</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 04:32</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/invest/mercados/investigacao-na-nvidia-discurso-de-lula-e-focus-o-que-move-os-mercados-nesta-segunda/" target="_blank" rel="noopener">Investigação na Nvidia, discurso de Lula e Focus: o que move os mercados nesta segunda</a>
+      <p>Investigação envolvendo o CEO Jensen Huang pressiona ações da fabricante de chips; no Brasil, investidores acompanham o Focus e aguardam sinais sobre a política fiscal do governo Lula</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 04:22</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/bussola/empreendedorismo-feminino-de-tenis-infantil-a-plataforma-educacional/" target="_blank" rel="noopener">Empreendedorismo feminino: de tênis infantil a plataforma educacional</a>
+      <p>Fundadora da Liga Tênis 10, Bruna Assemany expandiu o negócio para a Europa e combina formação esportiva, capacitação e inclusão social</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 04:10</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/mundo/trump-diz-que-convite-a-dana-white-para-cargo-na-casa-branca-era-brincadeira/" target="_blank" rel="noopener">Trump diz que convite a Dana White para cargo na Casa Branca era&#39; brincadeira&#39;</a>
+      <p>Presidente americano afirmou que CEO do UFC gostou da ideia de assumir a função de secretário de imprensa, vaga desde outubro</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 04:03</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/esg/na-abertura-da-cop31-murat-kurum-alerta-que-crises-globais-se-agravam-e-cobra-acao-conjunta/" target="_blank" rel="noopener">Na abertura da COP31, Murat Kurum alerta que &#39;crises globais se agravam&#39; e cobra ação conjunta</a>
+      <p>Presidente da conferência defende cooperação em meio a tensões geopolíticas: “Se queremos compartilhar um futuro, precisamos compartilhar a responsabilidade”, afirmou na plenária</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 04:02</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/negocios/eles-vao-faturar-r-370-milhoes-fazendo-empresas-gastarem-menos-com-energia/" target="_blank" rel="noopener">Eles vão faturar R$ 370 milhões fazendo empresas gastarem menos com energia</a>
+      <p>Armor Energia aposta em tecnologia e novos serviços para aproveitar a entrada de pequenos negócios e residências no mercado livre</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 04:01</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/ciencia/por-que-empresas-farmaceuticas-estao-levando-medicamentos-contra-o-cancer-ao-espaco/" target="_blank" rel="noopener">Por que empresas farmacêuticas estão levando medicamentos contra o câncer ao espaço?</a>
+      <p>Microgravidade permite cultivar cristais mais ordenados e pode abrir caminho para novas formulações e formas de administrar tratamentos</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 04:00</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/exame-in/a-nova-data-na-mesa-para-o-conselho-da-oncoclinicas/" target="_blank" rel="noopener">A próxima rodada da disputa pelo conselho da Oncoclínicas</a>
+      <p>Latache decidiu não recorrer da liminar que suspendeu a assembleia desta sexta-feira. Em outra frente, a disputa pela oferta de ações escolhe árbitros</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 04:00</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/invest/minhas-financas/ricos-tambem-brigam-como-herdeiros-se-preparam-para-herdar-grandes-fortunas/" target="_blank" rel="noopener">Ricos também brigam? Como herdeiros se preparam para herdar grandes fortunas</a>
+      <p>Insituições, como bancos e family offices, se preparam para receber os sucessores</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 04:00</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/invest/mercados/acao-da-nvidia-recua-6-e-perde-us-270-bi-com-escandalo-de-romance-e-espionagem/" target="_blank" rel="noopener">Ação da Nvidia recua 6% e perde US$ 270 bi com escândalo de romance e espionagem</a>
+      <p>Conselho abre investigação sobre o CEO Jensen Huang a uma semana do balanço da empresa</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 03:58</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/mundo/trump-diz-que-deve-encontrar-xi-jinping-e-putin-na-china-ainda-em-novembro/" target="_blank" rel="noopener">Trump diz que deve encontrar Xi Jinping e Putin ainda em novembro</a>
+      <p>Presidente americano espera conversar com os líderes da China e da Rússia durante a cúpula da Apec, marcada para 18 e 19 de novembro, em Shenzhe, na China</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 03:57</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/casual/campos-do-jordao-tem-3-dos-50-melhores-hoteis-do-brasil/" target="_blank" rel="noopener">Campos do Jordão tem 3 dos 50 melhores hotéis do Brasil</a>
+      <p>Hotel Ort, Botanique e Toriba colocam a cidade da Serra da Mantiqueira no Ranking Casual EXAME 2026, com vinho próprio, horta e chalés de vidro.</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 03:18</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/ciencia/cientistas-fazem-celulas-cancerigenas-produzirem-o-proprio-veneno/" target="_blank" rel="noopener">Cientistas fazem células cancerígenas produzirem o próprio &#39;veneno&#39;</a>
+      <p>Técnica desenvolvida no Japão explora uma característica das células tumorais para criar uma nova forma de combater o câncer</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 03:10</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/esg/cop31-comeca-na-turquia-com-presidencia-a-dois-pauta-travada-e-77-lideres-a-caminho/" target="_blank" rel="noopener">COP31 começa na Turquia com presidência a dois, pauta travada e 77 líderes a caminho</a>
+      <p>Conferência em Antália vai até 20 de novembro sem os EUA; mapa dos fósseis, levado pelo Brasil, entra em debate na terça</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 03:09</div>
+    </article>
+  
+    <article>
+      <a href="https://exame.com/carreira/44-dos-brasileiros-querem-mudar-de-emprego-em-2027-revela-pesquisa-da-ipsos/" target="_blank" rel="noopener">44% dos brasileiros querem mudar de emprego em 2027, revela pesquisa da Ipsos</a>
+      <p>Levantamento realizado em 32 países mostra os 3 principais motivos que atrapalham a relação dos profissionais com o trabalho</p>
+      <div class="meta"><span class="fonte">Exame</span> · 09/11 03:09</div>
+    </article>
+  
+    <article>
+      <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1FIN0k0Yzg2cmhyWlpwN2wzNXUzSnU1SUtGQlBmRW1PQ0VrdjZEcTA1MHlmUGJyWElMOFhCVnUzVkgzZW9MWW5HYWNHZHBzYnRsci1BRFJvX2JaMG9sbWtiQXJfdVQ0V3pkdFBHSGJvSXJjZkhvdVgwQUtDbEFOUmRmYUdyLXd2eTRNV3d0cnBhRThmUkVEZ292QmdXMUlETzlPOXVrelNNQk43STRyZ2REYXNHY1NTRF9WY2lTMS1ZNjTSAdcBQVVfeXFMUDNBb19zZU95TGlJT2xPTWtmMzBHd3RXU3VwMDRsQk9nOG5CVHJQWWd4d0RvZHp6emhCcEllOVpSMDVUczA5cXI3Q0JaXzZrSzUwTklxQWFWYWI4SFIyYXJ6NmFXd1pOekdHTHVZMzZCX0Zkb0l5TGZXMzlTWXFJcW5VelQ2SnlJczlRaUJzdjZiWHBqc1lmS0MyVElNalNVRWxBWW5udzlsNmNFZzNtd3hjSkNiQVVGRlNUMGR6RzE3RFMyTlUxR1hJYmpQdjgyazFpTThEWFk?oc=5" target="_blank" rel="noopener">Lula promete responsabilidade fiscal em seu primeiro discurso na TV desde a eleição - Bloomberg Linea Brasil</a>
+      <p>Lula promete responsabilidade fiscal em seu primeiro discurso na TV desde a eleição Bloomberg Linea Brasil</p>
+      <div class="meta"><span class="fonte">Bloomberg Línea</span> · 08/11 22:54</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/lula-precisa-convencer-que-compromisso-fiscal-vai-alem-do-discurso-leia-analise/" target="_blank" rel="noopener">Lula precisa convencer que compromisso fiscal vai além do discurso; leia análise</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 08/11 22:27</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/fala-de-lula-tem-99-do-discurso-focado-em-gastos-e-1-em-responsabilidade-fiscal-dizem-economistas/" target="_blank" rel="noopener">Fala de Lula tem 99% do discurso focado em gastos e 1% em responsabilidade fiscal, dizem economistas</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 08/11 22:06</div>
+    </article>
+  
+    <article>
+      <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWltZC1la1d3TTZRQkg3dlpaamhOeEd0Q1FKcjVSbVg2M2NWOTN6dUkzSWJvNzVyOU5SYks4WW9MM1R1YVVXTlNlVE1oUm9YcXhxLVYwa1FYT3NDQWFxVzZqVnF5MjJHdVFsZjBZblAxSFR0eXhaQ1R4RU4tM05rRVpnZFdlV1VETDNHN2hmLVRDNlE4SEpUbnEtT0wtRXlCc2ZWcF94NWtFNnZkOFZBazhvSTB6MWt2Sm1EOWpvd9IB0wFBVV95cUxNMXBRNDFSSDhkWlNLeE1BalRJczRPV0ZkTm96bGFtcDVPV3RkcF9BQVF5SzMzNEpmbmR1SEt5UUk1dGJwZi1POFQ0WDhIZDJaOFFLdFFKOVZqVS1MWnJMYkdxX2tWeUlCSmpEZnFLR2Zjc3ZyVDhFN3gwOUlWdHRGelY2SEJkS1lrSnQwXzdyTFQzQkpCYWQ5RzlxYzRYeHFRQk9CWDJJT05ONnRiV3p6R1RfODJ1eDlEWE05MVJNbXJYM1JnSXRPdFpnd0czYzRXV0Y0?oc=5" target="_blank" rel="noopener">Berkshire Hathaway amplia recompra de ações enquanto lucro operacional recua - Bloomberg Linea Brasil</a>
+      <p>Berkshire Hathaway amplia recompra de ações enquanto lucro operacional recua Bloomberg Linea Brasil</p>
+      <div class="meta"><span class="fonte">Bloomberg Línea</span> · 08/11 21:47</div>
+    </article>
+  
+    <article>
+      <a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWkZVVDNxa0U4eGlOVWJuNlVKVEtHeHZzOWZKYVVMSTRlMjNMNjRNa0VsSkZNQ1oxMHotNHhQY2N2OVlxcWpQSndjWnBHamRPNTFWYS1QU19aMEpQZ3hNdmdVbVhaUXk2aFI2b3NvTmpDS2pNRW1NR2FEUzJ1b0J1RjVqWlNsWHhmM0Zka18xN0ZkNUw5U1hLOTE1eTFUMWwtTDZpemwwaFVXUG1TdjFMc1ExQy1kR2hZdEt2WWdhbWlFNktSSzl3M9IB3AFBVV95cUxPX0Mxd0xibWZwUEJCeU1xVVZoMWlPV2tkUU1rWFNtYVM3SG8tT2g4d3doZk5PQXprcGpCQVVUV0wxbGQyc0JmYVFBbTV2VHR5SGN6WkxVaF9xaUJNVWNfUmFia0lQY3RvS0RKdWE3dlRZOVJnY1ZVQlpiUlN6Ny0wM1NyZ3lIajFidzdjdjQ0Y0xtOWtBeW85eHdGRFZDbzFROURDRjJ6NUlnZGFSc1JUbnJEMU5ZMkFDdEZKeGI4RmlEYWpsVWZnaHRtcEpQSks0VmZWclFQVUdpUnBS?oc=5" target="_blank" rel="noopener">Santiago Peña, do Paraguai, é acusado de crimes após ser destituído da presidência - Bloomberg Linea Brasil</a>
+      <p>Santiago Peña, do Paraguai, é acusado de crimes após ser destituído da presidência Bloomberg Linea Brasil</p>
+      <div class="meta"><span class="fonte">Bloomberg Línea</span> · 08/11 21:37</div>
+    </article>
+  
+    <article>
+      <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWFXSmotR01DcVllRXFHWTRTNkZLeW9OaFptMDVYbEZSdVYyc18wUXdlLXFCMGJwVzV6REdUOGs3bVI5TUk4U3FXcndwUXpmbEVtRThPUmJUWDJsRWRzLTFlNF84SUpfbVBzNE9SbzJzQlhKMmVINE5VZzJsbHVfdW5rRjZRQ01JMFMydjFJQ3NjMWZ6LVVlR1JBR3VCdTNGcV9rSXdseHBSa1d0YXBKWHFadW9tNE9jeXl4YtIB0AFBVV95cUxQcFM0azVqUnhEaW1jZ1d2RXpnWHk3YVlzb3lzdlZZM0h2NnVuVXprYVhYd2RlYTNRaFZtb0dDN3Vvd2t4Wnd0bjF6aXZZSTRUMGlGZ0tjcUtjM2ZzUEVmODlpWFB5bmg3RkRna0xrY0phSVpDNnVsTmNpZ19lME94b3JNY2prSl9Ua3BKX0prSzhIQ2VOZndlbVJpMF9lWlpJSGt0OXBOZksxaWtVbnNaR2s5dGQ5NW9uODlEQmhhR2U0NUN1U1ktZHMwOEpZTk1x?oc=5" target="_blank" rel="noopener">CEO da Nvidia admite caso extraconjugal com suspeita de atuar como espiã chinesa - Bloomberg Linea Brasil</a>
+      <p>CEO da Nvidia admite caso extraconjugal com suspeita de atuar como espiã chinesa Bloomberg Linea Brasil</p>
+      <div class="meta"><span class="fonte">Bloomberg Línea</span> · 08/11 21:23</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/lula-diz-que-trajetoria-da-divida-e-juros-preocupam-e-afirma-compromisso-com-responsabilidade-fiscal-npr/" target="_blank" rel="noopener">Lula acena com responsabilidade fiscal sem detalhar medidas e defende reforma do Judiciário</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 08/11 20:40</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/negocios/nvidia-abre-investigacao-sobre-o-relacionamento-de-jensen-huang-com-uma-espia-chinesa/" target="_blank" rel="noopener">Nvidia abre investigação sobre o relacionamento de Jensen Huang com uma espiã chinesa</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 08/11 19:11</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/antonio-penteado-mendonca/seguro-parametrico-mais-facil-produtores-rurais/" target="_blank" rel="noopener">Seguro paramétrico ficou mais fácil e interessante para os produtores rurais</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 08/11 17:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/henrique-meirelles/o-debate-do-juro-e-normal-que-politicos-tentem-manter-gastos-mas-e-preciso-aprender-com-o-passado/" target="_blank" rel="noopener">O debate do juro: é normal que políticos tentem manter gastos, mas é preciso aprender com o passado</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 08/11 17:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/claudio-adilson-goncalez/o-argumento-de-lara-resende-e-incomodo-reduzir-juros-sem-condicoes-macroeconomicas-e-arriscado/" target="_blank" rel="noopener">O argumento de Lara Resende é incômodo: reduzir juros sem condições macroeconômicas é arriscado</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 08/11 17:00</div>
+    </article>
+  
+    <article>
+      <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVA2TVhlQWxuenh5aHFjVXFUT1c5aHUydWt3cExSVDhuQ1hkc3BFX25IRDVjUWlpN2MzY0R5U0FUNnFVa3pPeWNURGo3eGhiVzRfai1mVDM5WkdLdzQ3YjkwRzQ3akVMQlhPZTBseGQ3aXEwR0staWFxazVuMUZCZXBjTnJDcUEzODltSVM1enNzS0ZvNWhBUS0zcC1rc2o3NWxQeS1nUzNNc2xsMzlxd014OTlOLWNlTFdPQWZPZ9IB0wFBVV95cUxNOGFVbW9fSmVTVy1Vb0p5SkQ0ZS1oMkZFS0JnLU4tTHVJbnd2ektrbWhfYXlYWjBDeFJNWGlBMGJBWkxEQW4xR3gzdjc4dXdaZGw3Y3VudmxDTFkwTGVnVHRQOTVYR0FlV2EySmc3X0Rld0IydjBzTTRfd0RJMFVXaEwtR0ZqVXRtbzFzc0dtY29xX0FkYy1MNXNOYlFOMUJKVUEtNGI5bHJvZzlBWGdrUGM4dFNkRTA1Rmd0OVRhZFh1UTlEc2pEdEF6LVM3RGxsSWMw?oc=5" target="_blank" rel="noopener">Após eleições, Anthropic enfrenta pressão para faixa de avaliação mais baixa em IPO - Bloomberg Linea Brasil</a>
+      <p>Após eleições, Anthropic enfrenta pressão para faixa de avaliação mais baixa em IPO Bloomberg Linea Brasil</p>
+      <div class="meta"><span class="fonte">Bloomberg Línea</span> · 08/11 15:25</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/economia/the-economist-a-busca-pela-imortalidade-se-tornou-um-assunto-serio/" target="_blank" rel="noopener">The Economist: A busca pela imortalidade se tornou um assunto sério</a>
+      
+      <div class="meta"><span class="fonte">Estadão Economia</span> · 08/11 14:00</div>
+    </article>
+  
+    <details><summary>Status das fontes</summary>
+      <div>✅ Valor Econômico (15)</div><div>✅ InfoMoney (10)</div><div>✅ Exame (15)</div><div>✅ Estadão Economia (15)</div><div>✅ Reuters (0)</div><div>✅ Bloomberg Línea (14)</div>
+    </details>
+  </section>
+
+  <section id="aba-ciencia" hidden>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/09/inteligencia-artificial/novela-geopolitica-da-nvidia-tem-china-eua-espionagem-e-traicao/" target="_blank" rel="noopener">Novela geopolítica da Nvidia tem China, EUA, espionagem e traição</a>
+      <p>A Nvidia anunciou que abriu uma investigação independente para entender se Jensen Huang foi alvo de uma operação de espionagem estrangeira O post Novela geopolítica da Nvidia tem China, EUA, espionagem e traição apareceu primeiro em Olhar Digital .</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 09/11 07:01</div>
+    </article>
+  
+    <article>
+      <a href="https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/" target="_blank" rel="noopener">The climate case for AI has not been made</a>
+      <p>This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate…</p>
+      <div class="meta"><span class="fonte">MIT Technology Review</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/09/cinema-e-streaming/hbo-max-lancamentos-da-semana-9-a-15-de-novembro/" target="_blank" rel="noopener">HBO Max: lançamentos da semana (9 a 15 de novembro)</a>
+      <p>Aeroporto: Área Restrita e O Assassinato do Galo do Ouro são os destaques da semana na HBO Max, que também recebe novas séries, filmes e documentários O post HBO Max: lançamentos da semana (9 a 15 de novembro) apareceu primeiro em Olhar Digital .</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 09/11 05:40</div>
+    </article>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/09/cinema-e-streaming/amazon-prime-video-lancamentos-da-semana-9-a-15-de-novembro/" target="_blank" rel="noopener">Amazon Prime Video: lançamentos da semana (9 a 15 de novembro)</a>
+      <p>Entre os lançamentos da semana no Prime Video está a terceira temporada de &#34;Os Anéis de Poder&#34;, spin-off de O Senhor dos Anéis O post Amazon Prime Video: lançamentos da semana (9 a 15 de novembro) apareceu primeiro em Olhar Digital .</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 09/11 05:02</div>
+    </article>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/09/cinema-e-streaming/disney-lancamentos-da-semana-9-a-15-de-novembro/" target="_blank" rel="noopener">Disney+: lançamentos da semana (9 a 15 de novembro)</a>
+      <p>VisionQuest chega ao fim de sua primeira temporada, enquanto a turma de It&#39;s Always Sunny in Philadelphia retorna com novos episódios O post Disney+: lançamentos da semana (9 a 15 de novembro) apareceu primeiro em Olhar Digital .</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 09/11 04:40</div>
+    </article>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/09/cinema-e-streaming/netflix-lancamentos-da-semana-9-a-15-de-novembro/" target="_blank" rel="noopener">Netflix: lançamentos da semana (9 a 15 de novembro)</a>
+      <p>Entre as estreias desta semana na Netflix, estão o filme &#34;No Coração de Nashville&#34; e a terceira temporada de &#34;A Imperatriz&#34; O post Netflix: lançamentos da semana (9 a 15 de novembro) apareceu primeiro em Olhar Digital .</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 09/11 04:02</div>
+    </article>
+  
+    <article>
+      <a href="https://tecnoblog.net/noticias/dona-da-99-teve-numero-insignificante-de-corridas-solicitadas-por-agentes-de-ia/" target="_blank" rel="noopener">Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA</a>
+      <p>Na semana passada, Uber revelou que apenas quatro viagens por IA foram registradas. Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA</p>
+      <div class="meta"><span class="fonte">Tecnoblog</span> · 09/11 01:18</div>
+    </article>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/08/reviews/som-que-imersiona-headsets-com-7-1-surround-em-promocao-na-amazon-4/" target="_blank" rel="noopener">Som que imersiona: headsets com 7.1 surround em promoção na Amazon</a>
+      <p>Se você busca uma experiência sonora mais envolvente nos games ou no dia a dia, vale a pena conferir as opções de headsets com áudio 7.1 surround que estão em oferta agora na Amazon. Separamos duas alternativas interessantes para diferentes perfis de usuário — dê uma olhada. Havit Fuxi-H3 Black — W…</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 08/11 23:38</div>
+    </article>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/08/reviews/monitore-tudo-com-as-melhores-cameras-de-seguranca-em-promocao-na-amazon-2/" target="_blank" rel="noopener">Monitore tudo com as melhores câmeras de segurança em promoção na Amazon</a>
+      <p>Proteger a casa, o escritório ou qualquer ambiente ficou muito mais acessível com as opções de câmeras de segurança disponíveis hoje. Separamos três modelos em oferta na Amazon que combinam boa resolução, conectividade Wi-Fi e recursos inteligentes — para quem quer mais tranquilidade sem complicaçã…</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 08/11 23:18</div>
+    </article>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/08/reviews/casa-mais-inteligente-confira-uma-selecao-de-smart-speakers-com-alexa-em-promocao-na-amazon-2/" target="_blank" rel="noopener">Casa mais inteligente: confira uma seleção de Smart Speakers com Alexa em promoção na Amazon</a>
+      <p>Automatizar a casa, controlar dispositivos por voz, ouvir música e muito mais — os smart speakers com Alexa são uma das formas mais práticas de deixar a rotina mais conectada. A Amazon reúne algumas das melhores opções dessa categoria em promoção agora mesmo, e separamos três modelos que valem aten…</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 08/11 22:58</div>
+    </article>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/08/reviews/audio-que-transforma-qualquer-sala-soundbars-em-promocao-na-amazon/" target="_blank" rel="noopener">Áudio que transforma qualquer sala: soundbars em promoção na Amazon</a>
+      <p>Se você ainda assiste filmes e séries com o som da televisão, está perdendo muito da experiência. As soundbars chegaram para mudar isso — e reunimos três opções em destaque na Amazon para diferentes perfis e necessidades. Confira a seleção. Soundbar Home Theater 60W RMS com Efeito Cinema Uma entrad…</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 08/11 22:38</div>
+    </article>
+  
+    <article>
+      <a href="https://olhardigital.com.br/2026/11/08/reviews/hora-de-turbinar-o-som-caixas-de-som-bluetooth-em-promocao-na-amazon-14/" target="_blank" rel="noopener">Hora de turbinar o som: caixas de som Bluetooth em promoção na Amazon</a>
+      <p>Se você está em busca de uma boa caixa de som Bluetooth para levar na praia, animar uma festa ou usar nas viagens, a Amazon reuniu algumas opções interessantes com ótimo custo-benefício. Separamos três modelos portáteis que valem a atenção — confira! Caixa de Som Portátil GO 5W Compacta e versátil,…</p>
+      <div class="meta"><span class="fonte">Olhar Digital</span> · 08/11 22:18</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/fable-todos-os-jogos-da-franquia-em-ordem-de-lancamento/" target="_blank" rel="noopener">Fable: todos os jogos da franquia em ordem</a>
+      <p>O novo Fable foi adiado para 2027 para evitar que seu lançamento coincidisse com o de GTA VI.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 20:58</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia" target="_blank" rel="noopener">Here’s the full text of Jensen Huang’s memo to Nvidia</a>
+      <p>On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang&#39;s relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affai…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 19:54</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review" target="_blank" rel="noopener">Soul Glo’s Diaspora Problems is a hardcore record like no other</a>
+      <p>Soul Glo has a new record called NA I&#39;M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it&#39;s not enough to truly tide me over, so I&#39;ve been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. […]</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 19:37</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/sonic-pico-park-shrek-2-remastered-e-mais-veja-os-lancamentos-de-games-da-semana/" target="_blank" rel="noopener">Sonic Pico Park, Shrek 2 Remastered e mais! Veja os lançamentos de games da semana</a>
+      <p>Shrek 2 Remastered</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 19:30</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/home-office-55-vagas-para-trabalho-remoto-internacional-0611/" target="_blank" rel="noopener">Home office: 55 vagas para trabalho remoto internacional [06/11]</a>
+      <p>São vagas remotas internanciais em diversas áreas.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 19:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos" target="_blank" rel="noopener">Epic Games Launcher is coming to SteamOS</a>
+      <p>In October, Epic Games said that it was &#34;investigating&#34; making Fortnite compatible with Valve&#39;s Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatib…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 17:52</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy" target="_blank" rel="noopener">Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy</a>
+      <p>Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China&#39;s Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 17:22</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/inteligencia-artificial/homem-processa-chatgpt-por-ajudar-a-ex-esposa-a-tentar-envenena-lo/" target="_blank" rel="noopener">Homem processa ChatGPT por ajudar a ex-esposa a tentar envenená-lo</a>
+      <p>NPR - ( NÃO USAR APÓS O DIA 30/11/2026, CONSULTAR A FOTOGRAFIA) - EWoman using ChatGPT on Laptop. Photo Style Eyes/Adobe Stock</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 17:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic" target="_blank" rel="noopener">Apple is racing to make Siri more agentic</a>
+      <p>Bloomberg&#39;s Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI&#39;s Dots or Meta&#39;s Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the co…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 16:18</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/10-dicas-e-truques-para-melhorar-seu-gameplay-em-palworld/" target="_blank" rel="noopener">10 dicas e truques para melhorar seu gameplay em Palworld</a>
+      
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 16:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-ja-conta-com-mais-de-100-mil-apps-otimizados-afirma-apple/" target="_blank" rel="noopener">iPhone Duo já conta com mais de 100 mil apps otimizados, afirma Apple</a>
+      <p>Nos apps otimizados é possível aproveitar melhor as duas telas do iPhone Duo.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 15:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit" target="_blank" rel="noopener">Elvis and Eminem rights holders are suing Suno</a>
+      <p>Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley&#39;s music and the publisher of some of Eminem&#39;s biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 14:23</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/rockstar-removera-videos-com-spoilers-de-gta-6-mesmo-apos-o-lancamento-do-jogo/" target="_blank" rel="noopener">Rockstar removerá vídeos com spoilers de GTA 6 mesmo após o lançamento do jogo</a>
+      <p>Rockstar removerá vídeos com spoilers de GTA 6 mesmo após o lançamento do jogo.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 13:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale" target="_blank" rel="noopener">Apple’s M5 MacBook Air is down to its lowest price since July</a>
+      <p>The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 13:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview" target="_blank" rel="noopener">Chatbots might be coming to Apple’s HomeView</a>
+      <p>Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There&#39;s a flag listed for a &#34;Conversational Apps&#34; category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude coul…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 12:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/inteligencia-artificial/meta-muse-ganha-conversas-naturais-por-voz-e-avatares-expressivos/" target="_blank" rel="noopener">Meta Muse ganha conversas naturais por voz e avatares expressivos</a>
+      <p>Uma das opções de interface na conversa com o Muse.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 12:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/dead-island-2-na-ps-plus-silent-hill-f-baratinho-e-mais-veja-as-indicacoes-de-games/" target="_blank" rel="noopener">Dead Island 2 na PS Plus, Silent Hill f baratinho e mais! Veja as indicações de games</a>
+      <p>Dead Island 2</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 11:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-nike-tem-ofertas-a-partir-de-r-45/" target="_blank" rel="noopener">Black Friday Nike tem ofertas a partir de R$ 45</a>
+      <p>Promoção antecipada de Black Friday no site da Nike é ótima oportunidade para economizar no tênis novo</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 10:15</div>
+    </article>
+  
+    <article>
+      <a href="https://revistapesquisa.fapesp.br/nas-montanhas-da-amazo%cc%82nia-expedicao-cientifica-a-serra-do-araca/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nas-montanhas-da-amazo%25cc%2582nia-expedicao-cientifica-a-serra-do-araca" target="_blank" rel="noopener">Nas montanhas da Amazônia: expedição científica à serra do Aracá</a>
+      <p>Expedição científica explora terras altas da Amazônia e revela fauna e flora inéditas</p>
+      <div class="meta"><span class="fonte">Pesquisa FAPESP</span> · 08/11 10:12</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot" target="_blank" rel="noopener">There’s no slowing down media’s pivot-to-video 2.0</a>
+      <p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers&#39; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 10:00</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/" target="_blank" rel="noopener">Physicists listened to electrical noise to crack a superconductor mystery</a>
+      <p>Tuning in to electronic noise can tell us whether electrons have paired up or not.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 08/11 09:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-smartphones-intermediarios/" target="_blank" rel="noopener">O que comprar na Black Friday: smartphones intermediários</a>
+      <p>Um bom celular intermediário pode suprir diferentes necessidades do usuário enquanto equilibra desempenho e recursos modernos sem custar tanto quanto um modelo premium</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 09:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/produto-e-review/usuarios-relatam-falhas-de-wi-fi-e-5g-apos-atualizacao-one-ui-9/" target="_blank" rel="noopener">Usuários relatam falhas de Wi-Fi e 5G após atualização One UI 9</a>
+      <p>Proprietários de celulares Samsung relatam problemas de conexão com a internet após instalar a One UI 9.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 09:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-dois-jogos-gratis-no-celular-resgate-agora-no-android-08/" target="_blank" rel="noopener">Epic Games libera dois jogos grátis no celular! Resgate agora no Android (08)</a>
+      <p>Jogo grátis da Epic Games no celular já está disponível.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 08:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/fitas-cds-dvds-e-blu-rays-a-evolucao-dos-jogos-em-midia-fisica/" target="_blank" rel="noopener">Fita, CD, DVD e Blu-ray: mídias de games ao longo da história</a>
+      <p>Antigamente, era comum que os videogames utilizassem fitas. Quem teve um Super Nintendo, por exemplo, certamente se lembrará de já tê-las &#39;assoprado&#39; algumas vezes.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 07/11 19:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/produto-e-review/samsung-define-data-para-iniciar-a-pre-venda-de-oculos-inteligentes-nos-eua/" target="_blank" rel="noopener">Samsung define data para iniciar a pré-venda de óculos inteligentes nos EUA</a>
+      <p>Os óculos inteligentes da Samsung já aparecem em um evento oficial da marca esse ano.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 07/11 18:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions" target="_blank" rel="noopener">The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</a>
+      <p>With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn&#39;t exactly an option while I was at a relative&#39;s outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, diz…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 07/11 14:00</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/" target="_blank" rel="noopener">The Bantu expansion changed Africa. Scientists are still tracing how.</a>
+      <p>Genes and archaeology are revealing how Bantu speakers spread across much of Africa.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 07/11 09:15</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/" target="_blank" rel="noopener">British soldier ignored order to pull his SIM card, then got blackmailed</a>
+      <p>Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 07/11 08:00</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/" target="_blank" rel="noopener">Doctors pull knife from man&#39;s eye that went through his brain—and he&#39;s fine now</a>
+      <p>It&#39;s the exact path, not the apparent severity that matters most, doctors say.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 20:09</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/" target="_blank" rel="noopener">Ships loiter near subsea cables amid Iran&#39;s warnings to Trump</a>
+      <p>Iran threatened to attack subsea cables if US escalates military strikes again.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 19:41</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/" target="_blank" rel="noopener">Re-releases of Wing Commander, Ultima titles hit Steam and GOG</a>
+      <p>It&#39;s mostly bad news from EA lately, but preservation efforts are nice to see.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 19:08</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/" target="_blank" rel="noopener">Chainalysis says hackers stole credentials and tokens for all of its customers</a>
+      <p>Company said a &#34;multifront cyberattack&#34; included AI agents and an on-path data snatch.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 17:56</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/" target="_blank" rel="noopener">Earth&#39;s churning mantle may have created the Great Unconformity</a>
+      <p>Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 17:24</div>
+    </article>
+  
+    <article>
+      <a href="https://tecnoblog.net/noticias/iphone-tem-lista-secreta-com-mais-de-100-mil-palavras-que-evita-sugerir/" target="_blank" rel="noopener">iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir</a>
+      <p>Lista interna do iOS impede que termos sejam sugeridos pelo corretor do teclado em diferentes idiomas. iPhone tem lista secreta com mais de 100 mil palavras que evita sugerir</p>
+      <div class="meta"><span class="fonte">Tecnoblog</span> · 06/11 17:14</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/" target="_blank" rel="noopener">Nvidia hardware worth $11.4M vanished between Oakland and Texas</a>
+      <p>6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 17:05</div>
+    </article>
+  
+    <article>
+      <a href="https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/" target="_blank" rel="noopener">AMD agora prioriza data centers; mas e os jogos e os PCs?</a>
+      <p>Aplicações de IA aumentaram demanda por data centers que, por sua vez, agora são principal fonte de receita para a AMD. AMD agora prioriza data centers; mas e os jogos e os PCs?</p>
+      <div class="meta"><span class="fonte">Tecnoblog</span> · 06/11 16:59</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/" target="_blank" rel="noopener">Developer ends lucrative screensaver deal with Roku because Fox bought it</a>
+      <p>Developer: “I can’t be part of the Fox world.”</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 16:50</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/" target="_blank" rel="noopener">FAA to finally ditch floppy disks in what it calls &#34;historic&#34; tech upgrade</a>
+      <p>FAA information display systems to be floppy-free at 435 sites by end of 2028.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 16:12</div>
+    </article>
+  
+    <article>
+      <a href="https://tecnoblog.net/noticias/tesla-vai-sacrificar-cybertruck-para-fabricar-mais-robotaxis/" target="_blank" rel="noopener">Tesla vai sacrificar Cybertruck para fabricar mais robotáxis</a>
+      <p>Picape terá produção reduzida no Texas a partir de 2027, após vendas muito abaixo do esperado. Fábrica será destinada ao Cybercab, veículo autônomo da marca. Tesla vai sacrificar Cybertruck para fabricar mais robotáxis</p>
+      <div class="meta"><span class="fonte">Tecnoblog</span> · 06/11 16:08</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/" target="_blank" rel="noopener">The folks behind John Wick are back with Karōshi trailer</a>
+      <p>Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 15:30</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/" target="_blank" rel="noopener">You know the launch market is tough when satellite companies start building rockets</a>
+      <p>&#34;The Blacklift rocket is the springboard to significantly expand our total addressable market.&#34;</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 15:20</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/" target="_blank" rel="noopener">“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.</a>
+      <p>Meta won&#39;t force Facebook page owners to allow AI training on linked content.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 14:43</div>
+    </article>
+  
+    <article>
+      <a href="https://tecnoblog.net/noticias/apos-supermercados-hackers-atacam-freezers-de-bancos-de-sangue-na-franca/" target="_blank" rel="noopener">Após supermercados, hackers atacam freezers de bancos de sangue na França</a>
+      <p>Invasores alteraram remotamente a temperatura de equipamentos que armazenavam plasma e amostras. Após supermercados, hackers atacam freezers de bancos de sangue na França</p>
+      <div class="meta"><span class="fonte">Tecnoblog</span> · 06/11 14:42</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/" target="_blank" rel="noopener">Wisconsin reports measles death of a baby, first death in over 35 years</a>
+      <p>Next week, experts will determine if the US has lost its measles elimination status.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 06/11 14:06</div>
+    </article>
+  
+    <article>
+      <a href="https://tecnoblog.net/noticias/microsoft-paint-tem-falha-grave-que-permite-ataques-remotos/" target="_blank" rel="noopener">Microsoft Paint tem falha grave que permite ataques remotos</a>
+      <p>Microsoft já liberou uma correção para o Paint, mas talvez você tenha que ir atrás dela. Microsoft Paint tem falha grave que permite ataques remotos</p>
+      <div class="meta"><span class="fonte">Tecnoblog</span> · 06/11 14:01</div>
+    </article>
+  
+    <article>
+      <a href="https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/" target="_blank" rel="noopener">Microsoft quer patentear IA que altera falas ao vivo</a>
+      <p>Sistema poderia traduzir discursos e substituir palavras com poucos segundos de atraso e sincronia labial. Microsoft quer patentear IA que altera falas ao vivo</p>
+      <div class="meta"><span class="fonte">Tecnoblog</span> · 06/11 12:10</div>
+    </article>
+  
+    <article>
+      <a href="https://tecnoblog.net/noticias/tsla-nvda-meta-msft-acoes-de-big-techs-derretem-nas-bolsas/" target="_blank" rel="noopener">TSLA, NVDA, META, MSFT: ações de big techs derretem nas bolsas</a>
+      <p>Nasdaq recuou 5,52% nos Estados Unidos, maior desvalorização diária desde abril de 2025. Bolsa da Coreia do Sul interrompeu negociações por 20 minutos após tombo. TSLA, NVDA, META, MSFT: ações de big techs derretem nas bolsas</p>
+      <div class="meta"><span class="fonte">Tecnoblog</span> · 06/11 12:01</div>
+    </article>
+  
+    <details><summary>Status das fontes</summary>
+      <div>✅ Pesquisa FAPESP (2)</div><div>✅ Olhar Digital (10)</div><div>✅ Tecnoblog (15)</div><div>✅ Tecmundo (15)</div><div>✅ The Verge (10)</div><div>✅ Ars Technica (15)</div><div>✅ MIT Technology Review (2)</div>
+    </details>
+  </section>
+
+  <section id="aba-ia" hidden>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xroin1/is_this_what_they_mean_when_they_want_to_ban/" target="_blank" rel="noopener">Is this what they mean when they want to ban Chinese models?</a>
+      <p>submitted by /u/intellasy [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 09/11 07:42</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xrof5f/open_source_chinese_models_are_the_best/" target="_blank" rel="noopener">Open source Chinese models are the best</a>
+      <p>submitted by /u/Nunki08 [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 09/11 07:37</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/hardware/comments/1xro4oh/cpuz_statistics_show_32gb_and_64gb_ram/" target="_blank" rel="noopener">CPU-Z statistics show 32GB and 64GB RAM configurations declining year over year</a>
+      <p>Systems equipped with 32GB remain the most common, accounting for 37.2% of CPU-Z validations. However, their share has declined by 2.5% year over year. The decline is larger for 64GB configurations, which now represent 7.3% of submissions after an 18% annual decrease submitted by /u/sr_local [link]…</p>
+      <div class="meta"><span class="fonte">r/hardware</span> · 09/11 07:19</div>
+    </article>
+  
+    <article>
+      <a href="https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/" target="_blank" rel="noopener">The climate case for AI has not been made</a>
+      <p>This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate…</p>
+      <div class="meta"><span class="fonte">MIT Technology Review</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/" target="_blank" rel="noopener">L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also makes it write interesting poetry</a>
+      <p>Inspired by some of the other brain surgery posts, I wanted to see if I could find anything interesting in Qwen. Not particularly useful to make it get things wrong all the time I guess, but I find the poetry it comes out with weirdly fascinating! I think the neuron is basically a dial for contrari…</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 09/11 03:42</div>
+    </article>
+  
+    <article>
+      <a href="https://tecnoblog.net/noticias/dona-da-99-teve-numero-insignificante-de-corridas-solicitadas-por-agentes-de-ia/" target="_blank" rel="noopener">Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA</a>
+      <p>Na semana passada, Uber revelou que apenas quatro viagens por IA foram registradas. Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA</p>
+      <div class="meta"><span class="fonte">Tecnoblog</span> · 09/11 01:18</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xrh5iz/github_repo_torchlens_inspect_visualize_and/" target="_blank" rel="noopener">Github Repo: Torchlens - Inspect, visualize and intervene on any operation in any neural network.</a>
+      <p>submitted by /u/Thrumpwart [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 09/11 00:25</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/fable-todos-os-jogos-da-franquia-em-ordem-de-lancamento/" target="_blank" rel="noopener">Fable: todos os jogos da franquia em ordem</a>
+      <p>O novo Fable foi adiado para 2027 para evitar que seu lançamento coincidisse com o de GTA VI.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 20:58</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xrcmi9/oppo_reportedly_cancels_find_x10_ultra_thanks_to/" target="_blank" rel="noopener">Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon</a>
+      <p>submitted by /u/FragmentedChicken [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 08/11 20:42</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for/" target="_blank" rel="noopener">Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below</a>
+      <p>Posted this on the r/R9700 subreddit as well, but figured I&#39;d share my initial findings here. tl;dr - One user writes at about 190 tok/s. Prefill runs at about 6,800 tok/s total no matter how many users there are. Agent follow-ups start in 0.2 to 2.5 s and write at 80 to 225 tok/s per user, even wi…</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 20:36</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/hardware/comments/1xrc90t/how_much_easier_would_it_be_to_manufacture_old/" target="_blank" rel="noopener">How much easier would it be to manufacture old microprocessors today, compared to the newest?</a>
+      <p>Hypothetical question. Imagine a global crisis, supply chain problems, collapse of much international trade, collapse of finance, scarcity of resources. Countries are forced to embrace a large degree of self-sufficiency and trade centers around the closest neighbors. Most countries don&#39;t collapse,…</p>
+      <div class="meta"><span class="fonte">r/hardware</span> · 08/11 20:24</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia" target="_blank" rel="noopener">Here’s the full text of Jensen Huang’s memo to Nvidia</a>
+      <p>On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang&#39;s relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affai…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 19:54</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xrbhdf/how_do_you_locally_benchmark_and_compare_local/" target="_blank" rel="noopener">How do you locally benchmark and compare local LLMs?</a>
+      <p>If I wanted to locally compare performance for multiple different offline LLM models across various modalities (speed, efficiency, reasoning, tool use, programing/coding, etc), what strategies, prompts, software are commonly used to do this? There are so many models to choose from and run, I&#39;m tryi…</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 19:49</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review" target="_blank" rel="noopener">Soul Glo’s Diaspora Problems is a hardcore record like no other</a>
+      <p>Soul Glo has a new record called NA I&#39;M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it&#39;s not enough to truly tide me over, so I&#39;ve been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. […]</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 19:37</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/sonic-pico-park-shrek-2-remastered-e-mais-veja-os-lancamentos-de-games-da-semana/" target="_blank" rel="noopener">Sonic Pico Park, Shrek 2 Remastered e mais! Veja os lançamentos de games da semana</a>
+      <p>Shrek 2 Remastered</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 19:30</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xrathc/how_much_code_do_ai_models_and_harnesses_add_i/" target="_blank" rel="noopener">How much code do AI models and harnesses add? I made an open-source benchmark to measure code complexity.</a>
+      <p>Existing benchmarks measure the solve rate and token output/cost, but don&#39;t punish excess code or overengineering, which increases technical debt in the long term. Parsimony counts syntax units (statements, calls, names) in the patches other benchmarks publish. It doesn&#39;t count lines, comments, tes…</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 19:19</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/" target="_blank" rel="noopener">Nous Research Arete-27B GGUF quants</a>
+      <p>submitted by /u/gladkos [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 19:17</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xrafuk/exclusive_heres_your_first_look_at_memory/" target="_blank" rel="noopener">Exclusive: Here’s Your First Look at Memory, Samsung’s Take on Pixel Screenshots</a>
+      <p>submitted by /u/FragmentedChicken [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 08/11 19:02</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xraf89/exclusive_samsung_is_testing_a_galaxy_ai_premium/" target="_blank" rel="noopener">Exclusive: Samsung Is Testing a Galaxy AI Premium Subscription</a>
+      <p>submitted by /u/FragmentedChicken [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 08/11 19:02</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/home-office-55-vagas-para-trabalho-remoto-internacional-0611/" target="_blank" rel="noopener">Home office: 55 vagas para trabalho remoto internacional [06/11]</a>
+      <p>São vagas remotas internanciais em diversas áreas.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 19:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/hardware/comments/1xr9emt/ibm_quantum_system_two_nighthawk_with_120_qubits/" target="_blank" rel="noopener">IBM Quantum System Two: Nighthawk with 120 Qubits: Nighthawk processor with 120 qubits and 218 couplers...</a>
+      <p>submitted by /u/Slow_cpu [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/hardware</span> · 08/11 18:17</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xr9bdq/i_built_pickeed_an_android_app_for_making_group/" target="_blank" rel="noopener">I built Pickeed, an Android app for making group plans. Friends can join without an account.</a>
+      <p>Hey everyone, I’m the developer behind Pickeed. I built it for that moment when everyone in the group chat says “we should do something soon,” but nobody settles on a date. With Pickeed, you can suggest dates, vote on ideas, and keep the final plan in one place. Friends can join from an invite link…</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 08/11 18:13</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr97iz/resurrecting_2013_ewaste_native_cuda_mamba1/" target="_blank" rel="noopener">Resurrecting 2013 E-Waste: Native CUDA Mamba-1 &amp; PyTorch 2.7.1 on Windows (Kepler–Turing, SM 3.5–7.5)</a>
+      <p>Hello! I want to share an active development project. If you have a drawer full of old NVIDIA GPU&#39;s collecting dust because modern AI stacks refuse to compile for them, this is for you. I have ported the modern LLM training stack on Windows to legacy CUDA GPUs (sm_35 through sm_75): PyTorch (v2.7.1…</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 18:09</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/hardware/comments/1xr8u5h/introducing_nv_30_dxe_resizable_bar_on_memory/" target="_blank" rel="noopener">Introducing NV_30_DXE Resizable BAR on memory modified 3080&#39;s</a>
+      <p>ReBar is also currently working with GPU_UNLOCK. The 20GB RTX 3080 cards (10DE:2206, subsystem 10DE:146D) ship with a VBIOS that only exposes a 256 MiB BAR1, so ReBAR stays off. NVIDIA doesn&#39;t publish a ReBAR VBIOS for them, and NvStrapsReBar only supports Turing. Ga102ReBarFix is a small DXE drive…</p>
+      <div class="meta"><span class="fonte">r/hardware</span> · 08/11 17:53</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos" target="_blank" rel="noopener">Epic Games Launcher is coming to SteamOS</a>
+      <p>In October, Epic Games said that it was &#34;investigating&#34; making Fortnite compatible with Valve&#39;s Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatib…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 17:52</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xr8l3r/rawr_camera_app_for_vivo_x300_ultra_this_is_how/" target="_blank" rel="noopener">RAWR camera app for VIVO X300 Ultra - this is how stock should work!</a>
+      <p>Some time ago i&#39;ve posted my complainings about vivo stock camera. It delivers terrible photos, oversharpened with awfull colors and the worst thing is - even after updates it still not working like it should. 200 mpix photos randomly not saving, vivo is ignoring all problems. Thankfully someone ma…</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 08/11 17:42</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy" target="_blank" rel="noopener">Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy</a>
+      <p>Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China&#39;s Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 17:22</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xr7qpd/does_anyone_else_still_keep_an_old_dead_phone_or/" target="_blank" rel="noopener">Does anyone else still keep an old &#34;dead&#34; phone or broken gadget around just for spare parts or nostalgia?</a>
+      <p>I&#39;ve got an old phone in my drawer that won&#39;t even power on anymore, but I still can&#39;t bring myself to throw it away. Do you guys keep old hardware lying around, or do you recycle/sell everything the second you upgrade? submitted by /u/BlazingBlazeo [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 08/11 17:06</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/inteligencia-artificial/homem-processa-chatgpt-por-ajudar-a-ex-esposa-a-tentar-envenena-lo/" target="_blank" rel="noopener">Homem processa ChatGPT por ajudar a ex-esposa a tentar envenená-lo</a>
+      <p>NPR - ( NÃO USAR APÓS O DIA 30/11/2026, CONSULTAR A FOTOGRAFIA) - EWoman using ChatGPT on Laptop. Photo Style Eyes/Adobe Stock</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 17:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/" target="_blank" rel="noopener">Intel Arc Pro B70 32GB ($1,299) vs NVIDIA RTX 5090 ($6,500+) on Qwen3.8-27B: about 1/2 speed gen (1/3 speed prefill) for 1/5 price, after best setup</a>
+      <p>I got an Arc Pro B70 (32GB) last week for $1,299 direct from ASRock official store on Amazon (B65 is also 32GB but slower, and was only $100 cheaper at $1,199, so I &#34;splurged&#34;). Obviously I&#39;d have wanted a 5090 for the same VRAM and best speeds, but 5090s are going for $6,500+ on Newegg right now (…</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 16:46</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/" target="_blank" rel="noopener">Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -&gt; 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench</a>
+      <p>Up front: I know a 775 GB quant is not for everyone , and this is definitely a more experimental setup and quant than I usually do, but I think it was a great stress-test of what&#39;s possible and I believe there is more improvement possible in the future. That said, the base Kimi-K3.1-Pro is a 2.8T p…</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 16:45</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/" target="_blank" rel="noopener">Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything!</a>
+      <p>Essentially we could very soon run opus 5.5 level of intelligence on 32gb Vram. Its many folds more efficient in terms of memory bandwidth making compute the real bottleneck. What do you think? submitted by /u/Lorian0x7 [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 16:19</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic" target="_blank" rel="noopener">Apple is racing to make Siri more agentic</a>
+      <p>Bloomberg&#39;s Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI&#39;s Dots or Meta&#39;s Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the co…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 16:18</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/10-dicas-e-truques-para-melhorar-seu-gameplay-em-palworld/" target="_blank" rel="noopener">10 dicas e truques para melhorar seu gameplay em Palworld</a>
+      
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 16:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr4ue4/anyone_tried_this_yet/" target="_blank" rel="noopener">Anyone tried this yet?</a>
+      <p>Terminal-RSI-27B is a Qwen3.8-27B-based terminal-agent model released by the Terminal-RSI project. It is intended for repository inspection, code editing, dependency repair, scientific workflow reconstruction, and other multi-step tasks that require interaction with an executable environment and ve…</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 15:09</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/produto-e-review/iphone-duo-ja-conta-com-mais-de-100-mil-apps-otimizados-afirma-apple/" target="_blank" rel="noopener">iPhone Duo já conta com mais de 100 mil apps otimizados, afirma Apple</a>
+      <p>Nos apps otimizados é possível aproveitar melhor as duas telas do iPhone Duo.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 15:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr4iv0/what_are_people_finding_local_models_actually/" target="_blank" rel="noopener">What are people finding local models actually useful for?</a>
+      <p>I think that a lot of people get into local models because they get a sense of potential with this stuff, but it can be hard to make local models concretely useful sometimes, compared to frontier models. I think it would help people a lot if we had a place where people shared concretely what they f…</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 14:56</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/" target="_blank" rel="noopener">GPT-5.5 dataset across my used 25 billion tokens!</a>
+      <p>Cheers for u/New_Comfortable7240 for santitisation! 12,121 tool calls here! submitted by /u/-MaskNinja- [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/LocalLLaMA</span> · 08/11 14:32</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit" target="_blank" rel="noopener">Elvis and Eminem rights holders are suing Suno</a>
+      <p>Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley&#39;s music and the publisher of some of Eminem&#39;s biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 14:23</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/rockstar-removera-videos-com-spoilers-de-gta-6-mesmo-apos-o-lancamento-do-jogo/" target="_blank" rel="noopener">Rockstar removerá vídeos com spoilers de GTA 6 mesmo após o lançamento do jogo</a>
+      <p>Rockstar removerá vídeos com spoilers de GTA 6 mesmo após o lançamento do jogo.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 13:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale" target="_blank" rel="noopener">Apple’s M5 MacBook Air is down to its lowest price since July</a>
+      <p>The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 13:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xr12i5/permanently_using_an_adapter_with_your_phone_can/" target="_blank" rel="noopener">Permanently using an adapter with your phone can act as a &#34;port saver&#34; indefinitely extending the life of phone ports.</a>
+      <p>submitted by /u/NoWheel3140 [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 08/11 12:31</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/hardware/comments/1xr0enb/deepx_says_dxm1_npu_chip_keeps_butter_from_melting/" target="_blank" rel="noopener">DEEPX Says DX-M1 NPU Chip Keeps Butter From Melting</a>
+      <p>submitted by /u/rdh2dmd [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/hardware</span> · 08/11 12:02</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview" target="_blank" rel="noopener">Chatbots might be coming to Apple’s HomeView</a>
+      <p>Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There&#39;s a flag listed for a &#34;Conversational Apps&#34; category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude coul…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 12:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/inteligencia-artificial/meta-muse-ganha-conversas-naturais-por-voz-e-avatares-expressivos/" target="_blank" rel="noopener">Meta Muse ganha conversas naturais por voz e avatares expressivos</a>
+      <p>Uma das opções de interface na conversa com o Muse.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 12:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/hardware/comments/1xqziwu/anyone_else_completely_done_with_smartphones/" target="_blank" rel="noopener">Anyone else completely done with smartphones being anti-privacy black boxes? Why did we let the PC model die?</a>
+      <p>I’m just an average consumer and I’ve honestly reached a breaking point with the entire smartphone industry. We’re basically trapped paying $1000+ for devices we don&#39;t even own. Look at what’s happening. If a $5 charging port breaks or the battery degrades, the phone is essentially e-waste because…</p>
+      <div class="meta"><span class="fonte">r/hardware</span> · 08/11 11:21</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/dead-island-2-na-ps-plus-silent-hill-f-baratinho-e-mais-veja-as-indicacoes-de-games/" target="_blank" rel="noopener">Dead Island 2 na PS Plus, Silent Hill f baratinho e mais! Veja as indicações de games</a>
+      <p>Dead Island 2</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 11:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-nike-tem-ofertas-a-partir-de-r-45/" target="_blank" rel="noopener">Black Friday Nike tem ofertas a partir de R$ 45</a>
+      <p>Promoção antecipada de Black Friday no site da Nike é ótima oportunidade para economizar no tênis novo</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 10:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot" target="_blank" rel="noopener">There’s no slowing down media’s pivot-to-video 2.0</a>
+      <p>This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers&#39; inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 08/11 10:00</div>
+    </article>
+  
+    <article>
+      <a href="https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/" target="_blank" rel="noopener">Physicists listened to electrical noise to crack a superconductor mystery</a>
+      <p>Tuning in to electronic noise can tell us whether electrons have paired up or not.</p>
+      <div class="meta"><span class="fonte">Ars Technica</span> · 08/11 09:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/guia-de-compras/o-que-comprar-na-black-friday-smartphones-intermediarios/" target="_blank" rel="noopener">O que comprar na Black Friday: smartphones intermediários</a>
+      <p>Um bom celular intermediário pode suprir diferentes necessidades do usuário enquanto equilibra desempenho e recursos modernos sem custar tanto quanto um modelo premium</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 09:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/produto-e-review/usuarios-relatam-falhas-de-wi-fi-e-5g-apos-atualizacao-one-ui-9/" target="_blank" rel="noopener">Usuários relatam falhas de Wi-Fi e 5G após atualização One UI 9</a>
+      <p>Proprietários de celulares Samsung relatam problemas de conexão com a internet após instalar a One UI 9.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 09:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/hardware/comments/1xqwbw7/nvidia_rtx_5070_ti_prices_jump_160_in_eight_days/" target="_blank" rel="noopener">NVIDIA RTX 5070 Ti prices jump $160 in eight days, now 79% above MSRP in the US</a>
+      <p>The cheapest RTX 5070 Ti now starts at $1,340 across major US retailers, with select custom models touching double the card&#39;s original $749 MSRP submitted by /u/sr_local [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/hardware</span> · 08/11 08:28</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-dois-jogos-gratis-no-celular-resgate-agora-no-android-08/" target="_blank" rel="noopener">Epic Games libera dois jogos grátis no celular! Resgate agora no Android (08)</a>
+      <p>Jogo grátis da Epic Games no celular já está disponível.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 08/11 08:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xqsl9d/i_made_freehand_control_a_free_android_app_to/" target="_blank" rel="noopener">I made &#34;Freehand Control&#34;, a free Android app to navigate your phone with hand gestures when your hands are dirty or busy (cooking/eating). Let me know what you think!</a>
+      <p>Hey r/Android , I spent months building Freehand Control , a free Android utility that lets you navigate your phone using natural hand gestures through the front camera. It turns your movements into a smooth virtual cursor for when your hands are busy or dirty (like cooking or eating). Everything r…</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 08/11 04:20</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/voxel/fitas-cds-dvds-e-blu-rays-a-evolucao-dos-jogos-em-midia-fisica/" target="_blank" rel="noopener">Fita, CD, DVD e Blu-ray: mídias de games ao longo da história</a>
+      <p>Antigamente, era comum que os videogames utilizassem fitas. Quem teve um Super Nintendo, por exemplo, certamente se lembrará de já tê-las &#39;assoprado&#39; algumas vezes.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 07/11 19:15</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/tecmundo/produto-e-review/samsung-define-data-para-iniciar-a-pre-venda-de-oculos-inteligentes-nos-eua/" target="_blank" rel="noopener">Samsung define data para iniciar a pré-venda de óculos inteligentes nos EUA</a>
+      <p>Os óculos inteligentes da Samsung já aparecem em um evento oficial da marca esse ano.</p>
+      <div class="meta"><span class="fonte">Tecmundo</span> · 07/11 18:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xqbky6/what_would_it_take_to_make_an_open_phone/" target="_blank" rel="noopener">What would it take to make an open phone ecosystem a realistic alternative to Apple and Google?</a>
+      <p>We can buy a phone outright and still have surprisingly little say over the ecosystem around it. Apple and Google set the terms for their stores, and developers and customers mostly work around those terms. Android&#39;s base is already open source. Projects like LineageOS and GrapheneOS exist. So “som…</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 07/11 14:16</div>
+    </article>
+  
+    <article>
+      <a href="https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions" target="_blank" rel="noopener">The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</a>
+      <p>With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn&#39;t exactly an option while I was at a relative&#39;s outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, diz…</p>
+      <div class="meta"><span class="fonte">The Verge</span> · 07/11 14:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.reddit.com/r/Android/comments/1xqabhv/vivo_v80_review_gsmarenacom_tests/" target="_blank" rel="noopener">vivo V80 review - GSMArena.com tests</a>
+      <p>submitted by /u/mo_leahq [link] [comments]</p>
+      <div class="meta"><span class="fonte">r/Android</span> · 07/11 13:23</div>
+    </article>
+  
+    <details><summary>Status das fontes</summary>
+      <div>✅ Tecnoblog (15)</div><div>✅ Tecmundo (15)</div><div>✅ The Verge (10)</div><div>✅ Ars Technica (15)</div><div>✅ MIT Technology Review (2)</div><div>✅ r/LocalLLaMA (15)</div><div>✅ r/hardware (15)</div><div>✅ r/Android (15)</div>
+    </details>
+  </section>
+
+  <section id="aba-carros" hidden>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/auto-servico/pintura-envelopamento-como-funciona-troca-de-cor-do-carro/" target="_blank" rel="noopener">Pintura ou envelopamento: como funciona a troca de cor do carro?</a>
+      <p>Envelopamento total exige autorização prévia do Detran e um novo CRLV-e; faixas e adesivos menores ficam fora da regra</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/auto-servico/trocar-combustivel-carro-o-que-a-lei-permite-como-regularizar-gnv/" target="_blank" rel="noopener">Trocar o combustível do carro: o que a lei permite e como regularizar o GNV</a>
+      <p>A conversão para GNV mantém a gasolina ou o etanol, mas exige autorização do Detran, oficina registrada no Inmetro e CSV a cada licenciamento</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 08/11 21:00</div>
+    </article>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/os-eleitos/os-eleitos-os-tres-carros-chineses-que-tem-os-proprietarios-mais-satisfeitos-de-2026/" target="_blank" rel="noopener">Os Eleitos: os três carros chineses que têm os proprietários mais satisfeitos de 2026</a>
+      <p>Haval H6, BYD King e Dolphin Mini ocupam o pódio de Os Eleitos 2026. Enquanto a GWM brilha nas concessionárias, a BYD amarga a última posição no atendimento</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 08/11 17:23</div>
+    </article>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/carros-eletricos/ferrari-luce-producao-esgotada-ate-2028/" target="_blank" rel="noopener">Ferrari Luce tem produção esgotada até 2028, mesmo após polêmica de design</a>
+      <p>Primeiro elétrico da marca causou polêmico, derrubou ações da empresa, mas faz sucesso entre os clientes</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 08/11 15:07</div>
+    </article>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/testes/tata-nano-fracasso-vendas-fim-carro-mais-barato-mundo/" target="_blank" rel="noopener">Por que o carro mais barato do mundo pegava fogo e foi um fiasco de vendas?</a>
+      <p>Testado no Brasil em 2011, o Tata Nano prometia custar apenas 2.500 dólares mas amargou vendas ruins e não completou 10 anos à venda</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 08/11 14:00</div>
+    </article>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/descontos-e-promocoes/ram-rampage-tem-r-47-200-de-desconto-e-preco-abaixo-dos-r-200-000/" target="_blank" rel="noopener">Ram Rampage tem até R$ 47.200 de desconto e preço abaixo dos R$ 200.000</a>
+      <p>RAM Dakota terá R$ 64.000 de desconto e todas as ofertas englobarão um ano de combustível gratuito</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 08/11 13:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/features/814768/historia-museu-automovel-xangai-china/" target="_blank" rel="noopener">Museu do Automóvel de Xangai reúne mais de 100 clássicos históricos; veja os destaques</a>
+      <p>Inaugurado em 2007, acervo reúne clássicos mundiais e pioneiros da indústria chinesa</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 08/11 13:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814689/carros-mais-marcantes-do-cinema/" target="_blank" rel="noopener">Do DeLorean ao Charger de Toretto, relembre os 15 melhores carros do cinema</a>
+      <p>Uma seleção para quem cresceu vendo perseguições na TV e ainda escolhe filme pelo carro do protagonista</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 08/11 12:00</div>
+    </article>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/noticias/yangwang-altior-e-seda-eletrico-gigante-da-byd-para-brigar-com-rolls-royce/" target="_blank" rel="noopener">Yangwang Altior é sedã elétrico gigante da BYD para brigar com Rolls-Royce</a>
+      <p>Sedã de 5,60 metros tem quatro motores independentes, cabine com jade verdadeiro no acabamento e até flutua na água para rivalizar com marcas de ultraluxo</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 08/11 11:59</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814758/vendas-estados-brasil-outubro-2026/" target="_blank" rel="noopener">Hyundai HB20 tem quase 90% de registros em MG e PR: veja os mais vendidos por estado em outubro</a>
+      <p>Fiat Strada lidera em 14 estados, enquanto BYD Dolphin Mini amplia presença regional; Chevrolet S10 domina no Amazonas e no Pará.</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 08/11 11:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814736/byd-ti7-suv-hibrido-brasil/" target="_blank" rel="noopener">BYD Ti7 virá ao Brasil com visual de jipe e porte de SUV grande</a>
+      <p>Com estilo boxy e proposta premium, novo SUV mira linha Tank, da GWM</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 08/11 10:00</div>
+    </article>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/noticias/jeep-wrangler-scrambler-srt-concept-picape-sema-show/" target="_blank" rel="noopener">Wrangler Scrambler SRT: como a Jeep transformou seu jipe V8 em picape com suspensão inédita</a>
+      <p>Protótipo Scrambler SRT aposta em suspensão dianteira independente e caçamba com bancos removíveis para enfrentar o deserto</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 08/11 09:06</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/reviews/814452/teste-ram-rampage-rt-2027/" target="_blank" rel="noopener">Teste: Ram Rampage R/T 2027 joga com potência, mas consumo é problema</a>
+      <p>Picape recebe o 2.0 turboflex e rebate com 272 cv puros o que vem por aí, mas prepare o bolso...</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 08/11 09:00</div>
+    </article>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/auto-servico/comprou-carro-usado-como-transferir-celular-evitar-multa/" target="_blank" rel="noopener">Comprou carro usado? Veja como transferir pelo celular e evitar multa</a>
+      <p>Transferência digital pode ser feita em até cinco minutos pelo aplicativo do Poupatempo</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 08/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://quatrorodas.abril.com.br/auto-servico/renovar-ou-2a-via-cnh-passo-a-passo-regras-2026/" target="_blank" rel="noopener">Renovar ou tirar a 2ª via da CNH: o passo a passo com as regras de 2026</a>
+      <p>Entenda quem pode usar a renovação automática, a validade por idade e o passo a passo da segunda via da habilitação</p>
+      <div class="meta"><span class="fonte">Quatro Rodas</span> · 07/11 21:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814737/analise-vendas-diretas-brasil-outubro/" target="_blank" rel="noopener">Vendas diretas em outubro: Hyundai HB20 lidera com quase 90% de seus emplacamentos na modalidade</a>
+      <p>Leapmotor emplaca seus dois modelos na lista dos mais vendidos</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 07/11 13:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814740/byd-marca-altoluxo-yangwang-estreia/" target="_blank" rel="noopener">BYD revela Yangwang Altior, seu novo rival de Rolls-Royce e Maybach</a>
+      <p>Sedã elétrico tem quatro motores, mede 5,60 metros e promete mais de 1.000 km de autonomia pelo ciclo CLTC</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 07/11 12:37</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/features/814701/semana-motor1-byd-omoda-e5/" target="_blank" rel="noopener">Semana Motor1.com: BYD bate recorde e tem estratégia flex para o Brasil, novo Omoda E5 e mais</a>
+      <p>Semana ainda teve vendas no varejo, série especia da Jeep, Renault Niagara, novidades da Royal Enfield e vendas de elétricos</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 07/11 12:29</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814726/denza-supera-mercedes-luxo-brasil/" target="_blank" rel="noopener">Denza já vende mais que Mercedes e vai para cima da BMW</a>
+      <p>Com 620 carros emplacados em outubro, chinesa supera Mercedes-Benz e B5 lidera há cinco meses</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 07/11 12:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/features/814698/coluna-calmon-baic-city-omoda/" target="_blank" rel="noopener">Calmon: BAIC Arcfox T1 surpreende pelo espaço e parte de R$ 130 mil</a>
+      <p>Bancos confortáveis, bom acabamento e espaço atrás se destacam no primeiro contato com o hatch elétrico</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 07/11 10:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/reviews/814598/teste-porsche-718-boxster-gts/" target="_blank" rel="noopener">Teste: Porsche 718 Cayman GTS 4.0 é uma despedida ao purismo da combustão e do motor aspirado</a>
+      <p>Antes do silêncio elétrico, um motor seis-cilindros 4.0 de 400 cv e uma dinâmica para quem aprecia dirigir</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 07/11 09:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814437/hyundai-ioniq-p-nome-revelado/" target="_blank" rel="noopener">Hyundai Ioniq P: registro de inédito SUV compacto elétrico inclui o Brasil</a>
+      <p>Modelo compacto será lançado na Índia em 2027; registro internacional da marca também contempla o mercado brasileiro</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 07/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814730/exposicao-seguranca-volvo-gratis-brasil/" target="_blank" rel="noopener">Volvo abre seu acervo para mostrar de onde vem a fama de segurança</a>
+      <p>Clássicos e modelos atuais dividem exposição em São Paulo para relembrar pioneirismos da sueca que mudaram o mundo dos carros</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 06/11 17:09</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814722/europa-abrandar-restricao-carros-combustao/" target="_blank" rel="noopener">Europa vota por abrandar a restrição a carros a combustão a partir de 2035</a>
+      <p>Parlamento Europeu propõe regras mais flexíveis para permitir híbridos e motores a gasolina</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 06/11 17:00</div>
+    </article>
+  
+    <article>
+      <a href="https://motor1.uol.com.br/news/814727/tesla-cybertruck-fim-producao-2027/" target="_blank" rel="noopener">Dono da Tesla afirma que reduzirá a produção da picape elétrica Cybertruck no ano que vem</a>
+      <p>Não está claro se a produção será transferida para outra fábrica ou se a caminhonete excêntrica será tirada de linha de vez.</p>
+      <div class="meta"><span class="fonte">Motor1</span> · 06/11 15:09</div>
+    </article>
+  
+    <details><summary>Status das fontes</summary>
+      <div>✅ Quatro Rodas (10)</div><div>❌ Autoesporte (0) — 400 Client Error: Bad Request for url: https://autoesporte.globo.com/rss/ultimas/</div><div>✅ Motor1 (15)</div>
+    </details>
+  </section>
+
+  <section id="aba-politica" hidden>
+  
+    <article>
+      <a href="https://oantagonista.com.br/mundo/gigante-da-moda-infantil-nao-suporta-o-peso-das-dividas-entra-em-liquidacao-total-e-anuncia-o-fim-de-mais-de-800-lojas/" target="_blank" rel="noopener">Gigante da moda infantil não suporta o peso das dívidas, entra em liquidação total e anuncia o fim de mais de 800 lojas</a>
+      <p>A falência da Gymboree no varejo assustou os clientes quando a empresa encerrou as atividades de mais de 800 lojas nos Estados Unidos e no Canadá. O acúmulo de contas atrasadas e a mudança de comportamento das famílias quebraram essa marca tradicional de roupas para crianças. Como uma rede tão famo…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 07:43</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/brasil/damares-faz-campanha-para-tereza-cristina-no-senado/" target="_blank" rel="noopener">Damares faz campanha para Tereza Cristina no Senado</a>
+      <p>A senadora Damares Alves (Republicanos-DF) iniciou a semana fazendo campanha pela candidatura de Tereza Cristina (PP-MS) à presidência do Senado. Ambas são ex-ministras do governo Bolsonaro. No X, Damares disse que a colega abrirá um processo de impeachment para ministro Alexandre de Moraes, do Sup…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 07:38</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/ladooa/entretenimento/borrifar-lustra-moveis-no-box-de-vidro-do-banheiro-limpo-e-seco-o-segredo-de-diarista-que-cria-uma-pelicula-invisivel-e-impede-as-manchas-brancas-de-sabonete/" target="_blank" rel="noopener">Borrifar lustra-móveis no box de vidro do banheiro limpo e seco: o segredo de diarista que cria uma película invisível e impede as manchas brancas de sabonete</a>
+      <p>A dica de passar lustra-móveis no box de vidro cria um escudo invisível contra as marcas d’água no banheiro. Essa técnica simples de limpeza facilita o seu corre diário na faxina do apartamento. Por que essa camada impede o acúmulo de sujeira no banheiro? Os óleos minerais do produto criam uma prot…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 07:33</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/ladooa/entretenimento/conhecida-como-a-ave-mais-assustadora-da-africa-por-seu-olhar-fixo-o-predador-gigante-emite-sons-de-metralhadora-para-intimidar-rivais-e-afastar-ameacas/" target="_blank" rel="noopener">Conhecida como a ave mais assustadora da África por seu olhar fixo, o predador gigante emite sons de metralhadora para intimidar rivais e afastar ameaças</a>
+      <p>O ataque do bico-de-sapato na natureza impressiona qualquer um pela força e pelo barulho alto que lembra disparos de armas no meio do mato. Essa ave gigante habita pântanos africanos e usa uma tática de caça muito precisa para pegar suas presas na água. Por que essa ave gigante emite som de metralh…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 07:23</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/imprensa/folha-alerta-para-risco-de-recessao-no-brasil-em-2027/" target="_blank" rel="noopener">Folha alerta para risco de recessão no Brasil em 2027</a>
+      <p>A economia brasileira perdeu ritmo e corre risco concreto de estagnar ou entrar em recessão em 2027, escreveu o jornal Folha de S.Paulo em editorial publicado nesta segunda-feira, 9. Segundo o texto, o quadro é consequência da “imprevidência no trato das contas públicas” pelo governo Lula e dos jur…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 09/11 07:19</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/eduardo-cunha-culpa-nikolas-ferreira-por-derrota-de-flavio/" target="_blank" rel="noopener">Eduardo Cunha culpa Nikolas Ferreira por derrota de Flávio</a>
+      <p>Ex-deputado federal avalia que parlamentar mineiro assumiu protagonismo após Flávio sair na frente no 1º turno. Leia na Gazeta do Povo.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 09/11 07:14</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/economia/ajuda-a-sustentar-os-pais-idosos-saiba-quando-vale-a-pena-colocar-a-mae-ou-o-pai-na-sua-declaracao-para-pagar-menos-taxas/" target="_blank" rel="noopener">Ajuda a sustentar os pais idosos? Saiba quando vale a pena colocar a mãe ou o pai na sua declaração para pagar menos taxas</a>
+      <p>Declarar pais como dependentes ajuda a diminuir o imposto de renda a pagar ou até aumenta o valor da sua restituição no final do ano. A regra vale muito para quem sustenta os pais idosos, mas exige atenção aos rendimentos que eles recebem para a conta fechar sem rolo com a Receita Federal. Quais sã…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 07:13</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/mundo/justica-da-colombia-investiga-gustavo-petro-por-suspeita-de-envolvimento-em-escandalo-sexual/" target="_blank" rel="noopener">Justiça da Colômbia investiga Gustavo Petro por suspeita de envolvimento em escândalo sexual</a>
+      <p>A Suprema Corte de Justiça da Colômbia investiga o ex-presidente do país Gustavo Petro por suspeita de conceder contratos públicos em troca de relações sexuais. Uma mulher denunciou ao Ministério Público que ela e outras 30 pessoas receberam contratos nessas condições. Petro, porém, nega as acusaçõ…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 09/11 07:10</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/politica/bradesco-contesta-tentativa-de-vorcaro-de-quitar-divida-com-creditos-bloqueados/" target="_blank" rel="noopener">Bradesco contesta tentativa de Vorcaro de quitar dívida com créditos bloqueados</a>
+      <p>O Bradesco contestou a proposta de Daniel Vorcaro, ex-controlador do Banco Master, de utilizar supostos recursos mantidos na instituição para pagar uma dívida de R$ 887 mil. A cobrança envolve três cartões de crédito de alto padrão. + Entenda o que é Política em Oeste Em manifestação apresentada à…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 09/11 07:07</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/mundo/crusoe-eisenkot-corre-contra-o-relogio-para-tirar-netanyahu/" target="_blank" rel="noopener">Crusoé: Eisenkot corre contra o relógio para tirar Netanyahu</a>
+      <p>Gadi Eisenkot, líder do partido de oposição Yashar, recebeu no domingo, 8, a tarefa de formar a próxima coalizão de governo israelense. A nomeação de Eisenkot ocorreu durante cerimônia com o presidente Isaac Herzog. Ele terá até seis semanas para formar uma coalizão que poderá pôr fim ao governo de…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 07:03</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/ladooa/entretenimento/existe-uma-maneira-surpreendentemente-simples-de-obter-mais-fibras-de-frutas-e-vegetais/" target="_blank" rel="noopener">Existe uma maneira surpreendentemente simples de obter mais fibras de frutas e vegetais</a>
+      <p>As cascas e talos dos alimentos concentram uma quantidade gigante de fibras que a maioria das pessoas joga direto na lixeira da cozinha. Aproveitar essas sobras na sua rotina melhora a digestão, reduz o desperdício pesado e ainda alivia o orçamento no fim do mês. Por que o hábito de descartar sobra…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 07:03</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/videos/jornal-da-oeste-primeira-edicao/jornal-da-oeste-primeira-edicao-assista-ao-noticiario-de-9-11-2026/" target="_blank" rel="noopener">Jornal da Oeste, Primeira Edição: assista ao noticiário de 9/11/2026</a>
+      <p>O Jornal da Oeste, Primeira Edição integra a grade de programação audiovisual da Revista Oeste e vai ao ar de segunda a sexta-feira, a partir das 7h. O programa conta com a apresentação de Daniel Vidal e traz as principais notícias do Brasil e do mundo. Assista: https://www.youtube.com/watch?v=zBrD…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/politica/conflitos-familiares-por-politica-recuam-aponta-pesquisa-da-quaest-sobre-impacto-da-polarizacao/" target="_blank" rel="noopener">Conflitos familiares por política recuam, aponta pesquisa da Quaest sobre impacto da polarização</a>
+      
+      <div class="meta"><span class="fonte">Estadão</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/quaest-quase-tres-em-cada-dez-eleitores-reprovariam-casamento-de-filho-com-rival-politico.shtml" target="_blank" rel="noopener">Quaest: Quase três em cada dez eleitores reprovariam casamento de filho com rival político</a>
+      <p>Depois da eleição presidencial , 28% dos brasileiros dizem que reprovariam o casamento do filho ou da filha com alguém do campo político adversário, segundo pesquisa Quaest divulgada nesta segunda-feira (9). Leia mais (11/09/2026 - 07h00)</p>
+      <div class="meta"><span class="fonte">Folha</span> · 09/11 07:00</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/ladooa/entretenimento/conhecido-como-o-ninja-do-gramado-por-sua-paciencia-mortal-o-predador-de-patas-espinhosas-captura-moscas-e-ate-beija-flores-em-fracoes-de-segundo/" target="_blank" rel="noopener">Conhecido como o ninja do gramado por sua paciência mortal, o predador de patas espinhosas captura moscas e até beija-flores em frações de segundo</a>
+      <p>O ataque do louva-a-deus no jardim acontece com uma rapidez assustadora para capturar qualquer presa no caminho. Esse inseto caçador espera o momento certo com as patas dobradas e garante o almoço, pegando de moscas pequenas a beija-flores no ar. Como esse caçador consegue pegar presas tão rápidas…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 06:43</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/ladooa/variedades/tarot-do-dia-previsao-para-os-12-signos-em-09-11-2026/" target="_blank" rel="noopener">Tarot do dia: previsão para os 12 signos em 09/11/2026</a>
+      <p>Veja o que as cartas revelam sobre a segunda-feira de cada nativo do zodíaco The post Tarot do dia: previsão para os 12 signos em 09/11/2026 appeared first on O Antagonista .</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 06:34</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/mundo/marca-iconica-de-roupas-femininas-abaixa-as-portas-de-250-lojas-da-noite-para-o-dia-e-demite-4-mil-funcionarios-de-forma-implacavel/" target="_blank" rel="noopener">Marca icônica de roupas femininas abaixa as portas de 250 lojas da noite para o dia e demite 4 mil funcionários de forma implacável</a>
+      <p>O fim da The Limited no varejo pegou todo mundo de surpresa quando a empresa baixou as portas de 250 lojas físicas do dia para a noite. A decisão radical deixou 4 mil pessoas sem trabalho e encerrou a trajetória de uma gigante das roupas femininas no mercado internacional. O que fez essa rede gigan…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 06:23</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/economia/supermercado-joga-caixas-de-alimentos-perto-da-validade-no-lixo-joga-agua-sanitaria-por-cima-para-evitar-catadores-e-recebe-multa-governamental-milionaria/" target="_blank" rel="noopener">Supermercado joga caixas de alimentos perto da validade no lixo, joga água sanitária por cima para evitar catadores e recebe multa governamental milionária</a>
+      <p>Levar multa por jogar comida no lixo virou uma realidade dura para grandes redes que tentam inutilizar produtos próprios para consumo. A prática de jogar água sanitária nas caixas perto do vencimento gera punições milionárias e indignação nas ruas. O que a legislação pioneira estabelece sobre o des…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 06:03</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/brasil/massa-de-ar-polar-derruba-temperaturas-nesta-segunda-feira/" target="_blank" rel="noopener">Massa de ar polar derruba temperaturas nesta segunda-feira</a>
+      <p>Uma intensa massa de ar polar derruba as temperaturas em áreas das cinco regiões do Brasil nesta segunda-feira, 9. O frio, que começou a avançar pelo país durante o fim de semana, deve ser mais intenso no Sul, onde os termômetros podem registrar temperaturas próximas de 0°C e há risco de geadas, es…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 09/11 06:00</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/vencedora-de-licitacao-para-trens-na-bahia-foi-condenada-por-cartel-em-contratos-de-metro.shtml" target="_blank" rel="noopener">Vencedora de licitação para trens na Bahia foi condenada por cartel em contratos de metrô</a>
+      <p>A empresa Alstom Brasil Energia, que venceu uma licitação do governo da Bahia para fabricar dez trens para o metrô de Salvador , já foi condenada por cartel em contratos de metrô pelo país. Leia mais (11/09/2026 - 06h00)</p>
+      <div class="meta"><span class="fonte">Folha</span> · 09/11 06:00</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/ladooa/entretenimento/o-que-significam-aqueles-pequenos-pontinhos-pretos-ao-redor-da-borda-do-para-brisa-do-carro/" target="_blank" rel="noopener">O que significam aqueles pequenos pontinhos pretos ao redor da borda do para-brisa do carro?</a>
+      <p>Os pontinhos pretos no para-brisa do carro salvam a sua vida e garantem que o vidro não solte do painel na primeira curva fechada. Essa faixa escura segura a cola do veículo e ainda alivia o sol forte no rosto. Para que serve a faixa escura que contorna todo o vidro da frente? Aquela borda... The p…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 05:53</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/ladooa/entretenimento/mary-shelley-que-escreveu-o-classico-frankenstein-aos-18-anos-deixou-um-conselho-atemporal-sobre-nao-deixar-que-as-opinioes-dos-outros-paralisem-o-seu-trabalho-nao-desejo-que-as-mulheres-t/" target="_blank" rel="noopener">Mary Shelley, que escreveu o clássico Frankenstein aos 18 anos, deixou um conselho atemporal sobre não deixar que as opiniões dos outros paralisem o seu trabalho: “Não desejo que as mulheres tenham p…</a>
+      <p>A busca pelo poder sobre si mesma, segundo Mary Shelley, ensina a parar de ligar para os palpites alheios e focar na sua própria caminhada. A autora criou a obra icônica aos 18 anos e deixou uma lição que continua valendo para a nossa rotina. Por que a gente se preocupa tanto com a opinião... The p…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 05:33</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/no-ponto/ministros-do-stf-articulam-se-contra-ala-minoritaria-do-tribunal/" target="_blank" rel="noopener">Ministros do STF articulam-se contra ala minoritária do tribunal</a>
+      <p>Enquanto integrantes do Supremo Tribunal Federal (STF) sinalizam disposição para dialogar com a oposição no Senado, o ambiente interno da Corte é marcado por hostilidade contra os ministros da ala minoritária. Com o resultado da disputa pelo Planalto, o tratamento dispensado por uma ala do STF ao p…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 09/11 05:30</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/politica/lula-4-tera-menor-base-no-congresso-desde-collor-e-depende-do-centrao-que-ja-cobra-mais-espaco/" target="_blank" rel="noopener">Lula 4 terá menor base no Congresso desde Collor e depende do Centrão, que já cobra mais espaço</a>
+      
+      <div class="meta"><span class="fonte">Estadão</span> · 09/11 05:30</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/politica/coluna-do-estadao/corrupcao-no-judiciario-e-mais-grave-porque-destroi-a-fe-publica-diz-ministro-og-fernandes/" target="_blank" rel="noopener">‘Corrupção no Judiciário é mais grave porque destrói a fé pública’, diz ministro Og Fernandes</a>
+      
+      <div class="meta"><span class="fonte">Estadão</span> · 09/11 05:30</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/mundo/2646582/" target="_blank" rel="noopener">Caso Ueno Bank: a aula do Paraguai ao Brasil</a>
+      <p>Terça-feira, 3 de novembro, o Banco Central do Paraguai intervém no Ueno Bank . Começa a maior crise financeira da história do país. Ueno Bank, do Paraguai - Foto: Ueno Bank Na quarta-feira 4, parlamentares apresentaram uma acusação formal contra o presidente da República, Santiago Peña. Na quinta-…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 09/11 05:24</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/economia/construida-com-53-mil-toneladas-de-aco-unidas-por-6-milhoes-de-rebites-cravados-a-mao-a-gigantesca-ponte-em-arco-de-134-metros-de-altura-suporta-trilhos-carros-e-pedestres-desde-a-decada-de-1930/" target="_blank" rel="noopener">Construída com 53 mil toneladas de aço unidas por 6 milhões de rebites cravados à mão, a gigantesca ponte em arco de 134 metros de altura suporta trilhos, carros e pedestres desde a década de 1930</a>
+      <p>A Ponte da Baía de Sydney é uma das estruturas mais reconhecíveis da Austrália, com seu arco de aço de 134 metros de altura sobre a água. Construída com 53 mil toneladas de aço e 6 milhões de rebites cravados à mão, ela carrega trilhos, carros e pedestres desde 1932. Quais são os números por... The…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 05:23</div>
+    </article>
+  
+    <article>
+      <a href="https://oantagonista.com.br/economia/condutor-e-parado-na-lei-seca-recusa-se-a-soprar-o-bafometro-achando-que-a-falta-de-provas-o-livrara-da-punicao-e-tem-a-cnh-suspensa-por-12-meses-do-mesmo-jeito/" target="_blank" rel="noopener">Condutor é parado na Lei Seca, recusa-se a soprar o bafômetro, achando que a falta de provas o livrará da punição, e tem a CNH suspensa por 12 meses do mesmo jeito</a>
+      <p>A recusa do bafômetro gera suspensão da Carteira Nacional de Habilitação por 12 meses, do mesmo jeito que soprar o bocal e dar positivo. O condutor que nega o teste, achando que livra a pele, cai direto numa infração gravíssima com multa de quase R$ 3.000. O que o artigo da lei fala sobre negar...…</p>
+      <div class="meta"><span class="fonte">O Antagonista</span> · 09/11 05:13</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/alcolumbre-aposta-na-maquina-para-expandir-votos-na-eleicao-do-senado-e-oposicao-tenta-unir-a-direita.shtml" target="_blank" rel="noopener">Alcolumbre aposta na máquina para expandir votos na eleição do Senado, e oposição tenta unir a direita</a>
+      <p>Candidatos à presidência do Senado em 2027, Davi Alcolumbre ( União Brasil -AP), Rogério Marinho ( PL -RN) e Tereza Cristina (PP-MS) disputam os votos de um grupo de cerca de 10 a 15 senadores de centro e de direita considerados decisivos. Leia mais (11/09/2026 - 04h00)</p>
+      <div class="meta"><span class="fonte">Folha</span> · 09/11 04:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/especialistas-apontam-semelhancas-entre-o-governo-do-pt-e-o-regime-venezuelano/" target="_blank" rel="noopener">Especialistas apontam semelhanças entre o governo do PT e o regime venezuelano</a>
+      <p>Análise detalhada aponta como o governo Lula se aproxima do modelo venezuelano em áreas como economia e justiça, mantendo diferenças nas Forças Armadas.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 09/11 01:48</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/oposicao-planeja-contra-ataque-contra-a-nova-estrategia-digital-de-lula/" target="_blank" rel="noopener">Oposição planeja contra-ataque contra a nova estratégia digital de Lula</a>
+      <p>Entenda como a oposição planeja usar o WhatsApp e respostas em tempo real para enfrentar a nova estratégia digital do governo Lula nas redes sociais.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 09/11 01:12</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/mundo/trump-diz-que-brincou-ao-convidar-chefe-do-ufc-para-governo/" target="_blank" rel="noopener">Trump diz que brincou ao convidar chefe do UFC para governo</a>
+      <p>O presidente dos Estados Unidos , Donald Trump, afirmou neste domingo, 8, que estava brincando quando sugeriu nomear Dana White, presidente-executivo do Ultimate Fighting Championship (UFC) , como secretário de imprensa do governo. A declaração ocorreu depois de uma publicação do republicano nas re…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 09/11 00:11</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/politica/lula-ataca-embig-techs-em-e-reclama-de-tentativa-de-interferencia-nas-eleicoes/" target="_blank" rel="noopener">Lula ataca big techs e reclama de tentativa de interferência nas eleições</a>
+      <p>O presidente Luiz Inácio Lula da Silva (PT) atacou as big techs . Sem provas, ele acusou as empresas de interferirem no processo eleitoral brasileiro e disse que, agora reeleito para um inédito quarto mandato, vai &#34;governar para todos&#34; os brasileiros. Em pronunciamento que foi ao ar no rádio e na t…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 08/11 23:49</div>
+    </article>
+  
+    <article>
+      <a href="https://revistaoeste.com/mundo/maduro-perde-peso-e-reclama-da-comida-em-prisao-nos-eua/" target="_blank" rel="noopener">Maduro perde peso e reclama da comida em prisão nos EUA</a>
+      <p>Nicolás Maduro perdeu peso desde que foi preso nos Estados Unidos e reclama da qualidade da comida servida no centro de detenção onde está sob custódia, segundo reportagem do jornal The New York Times . O ex-ditador da Venezuela está no Metropolitan Detention Center (MDC) , no Brooklyn, em Nova Yor…</p>
+      <div class="meta"><span class="fonte">Revista Oeste</span> · 08/11 23:17</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/tarcisio-deve-usar-sebrae-sp-em-xadrez-politico-com-provavel-ida-de-chefe-do-orgao-para-a-camara.shtml" target="_blank" rel="noopener">Tarcísio deve usar Sebrae-SP em xadrez político, com provável ida de chefe do órgão para a Câmara</a>
+      <p>O atual diretor-técnico do Sebrae-SP, Marco Vinholi, não deverá seguir no segundo mandato do governador Tarcísio de Freitas (Republicanos). O cargo é um dos mais cobiçados do estado, com salário acima de R$ 60 mil por mês. Leia mais (11/08/2026 - 23h00)</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 23:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/lula-acusa-big-techs-de-interferencia-nas-eleicoes-e-manda-indireta-para-flavio-em-pronunciamento/" target="_blank" rel="noopener">Lula acusa big techs de interferência nas eleições e manda indireta para Flávio em pronunciamento</a>
+      <p>Lula acusa big techs de interferência nas eleições e manda indireta para Flávio Bolsonaro em pronunciamento na TV. Leia na Gazeta do Povo.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 08/11 22:29</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/populismo-captura-do-judiciario-e-perseguicao-politica-o-brasil-na-trilha-da-venezuela/" target="_blank" rel="noopener">Populismo, captura do Judiciário e perseguição política: o Brasil na trilha da Venezuela</a>
+      <p>Reeleição de Lula despertou temor de que o Brasil trilhe o mesmo caminho da Venezuela sob o regime de Hugo Chávez e Nicolás Maduro.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 08/11 21:47</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/politica/governo-deve-rever-penduricalhos-e-desoneracoes-fiscais-diz-presidente-do-pt/" target="_blank" rel="noopener">Governo deve rever penduricalhos e desonerações fiscais, diz presidente do PT</a>
+      
+      <div class="meta"><span class="fonte">Estadão</span> · 08/11 21:47</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/politica/fabiano-lana/sem-dizer-como-sera-fiscalmente-responsavel-lula-segue-empurrando-o-tema-com-a-barriga/" target="_blank" rel="noopener">Sem dizer como será fiscalmente responsável, Lula segue empurrando o tema com a barriga</a>
+      
+      <div class="meta"><span class="fonte">Estadão</span> · 08/11 21:24</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/em-perfil-the-economist-define-janones-como-heroi-da-esquerda-brasileira.shtml" target="_blank" rel="noopener">Em perfil, The Economist define Janones como &#39;herói&#39; da esquerda brasileira</a>
+      <p>A revista britânica The Economist publicou nesta semana um perfil do deputado André Janones (Rede-MG) no qual o trata como &#34;herói&#34; da esquerda brasileira e pergunta se políticos de outros países conseguiriam reproduzir suas campanhas digitais. Leia mais (11/08/2026 - 21h20)</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 21:20</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/como-a-oposicao-pode-contra-atacar-a-nova-estrategia-digital-de-lula/" target="_blank" rel="noopener">Como a oposição pode contra-atacar a nova estratégia digital de Lula</a>
+      <p>Saiba como a oposição pode contra-atacar a nova estratégia digital do governo Lula na internet. Leia na Gazeta do Povo.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 08/11 21:10</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/na-tv-lula-promete-responsabilidade-fiscal-manda-recado-a-flavio-e-cobra-judiciario-etico-e-isento.shtml" target="_blank" rel="noopener">Na TV, Lula promete responsabilidade fiscal, manda indireta a Flávio e cobra Judiciário ético e isento</a>
+      <p>O presidente Lula ( PT ) afirmou neste domingo (8) ter compromisso com a responsabilidade fiscal e prometeu que seu governo criará as condições para a queda da taxa de juros, mas não anunciou medidas concretas. Leia mais (11/08/2026 - 21h05)</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 21:05</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/politica/diogo-schelp/derrota-de-flavio-bolsonaro-nao-e-endosso-aos-erros-e-abusos-do-stf/" target="_blank" rel="noopener">Derrota de Flávio Bolsonaro não é endosso aos erros e abusos do STF</a>
+      
+      <div class="meta"><span class="fonte">Estadão</span> · 08/11 20:00</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/pf-investiga-ameacas-contra-deputada-federal-eleita-pelo-pt-em-minas-gerais.shtml" target="_blank" rel="noopener">PF investiga ameaças contra deputada federal eleita pelo PT em Minas Gerais</a>
+      <p>A Polícia Federal investiga ameaças sofridas pela deputada federal eleita Ana Elisa (PT-MG), que foram divulgadas por ela em suas redes sociais. A corporação informou neste domingo (8) que já iniciou diligências e solicitou cooperação policial internacional para tentar identificar os responsáveis.…</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 19:14</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/padilha-viaja-a-cop31-para-apresentar-plano-de-financiamento-a-saude-diante-da-crise-climatica.shtml" target="_blank" rel="noopener">Padilha viaja à COP31 para apresentar plano de financiamento à saúde diante da crise climática</a>
+      <p>O ministro da Saúde, Alexandre Padilha , viajou à COP31 , na Turquia , onde apresentará uma proposta para facilitar o acesso dos países a recursos internacionais destinados à preparação dos sistemas de saúde para as mudanças climáticas. Leia mais (11/08/2026 - 19h00)</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 19:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/politica/carlos-pereira/sistemas-eleitorais-distintos-produzirao-condicoes-opostas-de-governabilidade-de-trump-e-lula/" target="_blank" rel="noopener">Sistemas eleitorais distintos produzirão condições opostas de governabilidade de Trump e Lula</a>
+      
+      <div class="meta"><span class="fonte">Estadão</span> · 08/11 18:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/lideres-da-oposicao-criticam-esplanada-com-40-ministerios-no-lula-4/" target="_blank" rel="noopener">Líderes da oposição criticam Esplanada com 40 ministérios no Lula 4</a>
+      <p>Líderes da oposição criticam esplanada com 40 ministérios no novo governo Lula: &#34;Deus salve o Brasil&#34;. Leia na Gazeta do Povo.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 08/11 17:03</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/general-alberto-cardoso-chefe-militar-da-era-fhc-e-guru-de-villas-boas-lanca-livros-de-memorias.shtml" target="_blank" rel="noopener">General Alberto Cardoso, chefe militar da era FHC e guru de Villas Bôas, lança livros de memórias</a>
+      <p>Um dos personagens mais influentes do Exército entre os anos 1990 e 2000, o general da reserva Alberto Cardoso está lançando dois livros em que intercala memórias de suas quase cinco décadas de serviço militar com ensinamentos sobre doutrina. Leia mais (11/08/2026 - 17h00)</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 17:00</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/psol-avalia-lancar-erika-hilton-a-prefeitura-de-sp-para-mante-la-no-partido-e-conter-dissidentes-apos-crise.shtml" target="_blank" rel="noopener">PSOL avalia lançar Erika Hilton à Prefeitura de SP para mantê-la no partido e conter dissidentes após crise</a>
+      <p>A cúpula do PSOL avalia lançar a deputada federal reeleita Erika Hilton (SP) à Prefeitura de São Paulo em 2028 para mantê-la filiada ao partido e estancar o racha interno na sigla, que isolou o grupo político ligado à parlamentar e ao ministro da Secretaria-Geral da Presidência, Guilherme Boulos .…</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 17:00</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/11/a-derrota-dos-rinocerontes.shtml" target="_blank" rel="noopener">A derrota dos rinocerontes</a>
+      <p>A minha educação na Escola Alemã de Lisboa dos anos 80/90 fez com que tivesse lido a maior parte dos clássicos sobre os tempos do nazismo . Uns por obrigação curricular, outros por irresistível impulso. Uma das coisas que sempre me impressionou foi o tema da cumplicidade passiva dos cidadãos. Afina…</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 17:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/presidente-do-pt-propoe-voto-em-lista-partidaria-com-cotas-para-candidatos-lgbt/" target="_blank" rel="noopener">Presidente do PT propõe voto em lista partidária com cotas para candidatos LGBT</a>
+      <p>Edinho Silva falou ainda em aumentar reserva de candidaturas femininas para 50% e instituir cotas para indígenas. Leia na Gazeta do Povo.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 08/11 16:01</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/tre-mg-suspende-investigacao-da-pf-contra-deputada-eleita-apos-denuncia-de-flavio-bolsonaro.shtml" target="_blank" rel="noopener">TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro</a>
+      <p>O TRE-MG (Tribunal Regional Eleitoral de Minas Gerais) determinou a suspensão de uma investigação da Polícia Federal contra a deputada federal eleita Ana Elisa Santos Silva (PT-MG), após uma notícia-crime apresentada pelo até então candidato à presidência Flávio Bolsonaro (PL). Leia mais (11/08/202…</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 16:01</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/politica/o-centrao-vai-se-desgarrar-do-bolsonarismo-e-o-pt-precisa-de-reforma-completa-diz-joao-paulo-cunha/" target="_blank" rel="noopener">O Centrão vai se desgarrar do bolsonarismo e o PT precisa de reforma completa, diz João Paulo Cunha</a>
+      
+      <div class="meta"><span class="fonte">Estadão</span> · 08/11 15:00</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/11/de-ditador-acidental-a-mrveto.shtml" target="_blank" rel="noopener">De ditador acidental a &#39;Mr.Veto&#39;</a>
+      <p>Quando Trump tomou posse, argumentei que ele governaria sob uma combinação extraordinária de circunstâncias: contava com maiorias no Senado e na Câmara (lembrar que Bush e Reagan governaram com a oposição controlando ambas as casas!). E também na Suprema Corte. E havia ganho as eleições pelo voto p…</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 15:00</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/painel/2026/11/marinho-mira-partidos-do-centrao-rachados-em-disputa-com-alcolumbre.shtml" target="_blank" rel="noopener">Marinho mira partidos do centrão rachados, em disputa com Alcolumbre</a>
+      <p>Aliados de Rogério Marinho ( PL -RN) na disputa pela presidência do Senado estabeleceram como prioridade consolidar apoio em bancadas de partidos do centrão que estão divididos. Leia mais (11/08/2026 - 15h00)</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 15:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/gastos-eleitorais-com-meta-batem-recorde-em-segunda-eleicao-sem-anuncios-no-google/" target="_blank" rel="noopener">Gastos eleitorais com Meta batem recorde em segunda eleição sem anúncios no Google</a>
+      <p>Google veda anúncios eleitorais desde 2024 enquanto dona do Facebook e Instagram supera 4 pleitos anteriores somados. Leia na Gazeta do Povo.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 08/11 13:12</div>
+    </article>
+  
+    <article>
+      <a href="https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fachin-preve-fim-imediato-do-inquerito-das-fake-news-assim-que-receber-pedido-da-pgr.shtml" target="_blank" rel="noopener">Fachin prevê fim imediato do inquérito das fake news assim que receber pedido da PGR</a>
+      <p>A PGR (Procuradoria-Geral da República) deve pedir na próxima semana o arquivamento do inquérito das fake news, pavimentando o caminho para que o presidente do STF (Supremo Tribunal Federal), Edson Fachin , encerre um dos capítulos mais controversos da história recente da corte. Leia mais (11/08/20…</p>
+      <div class="meta"><span class="fonte">Folha</span> · 08/11 13:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.estadao.com.br/politica/coluna-do-estadao/exercito-de-eduardo-paes-por-2-turno-no-rj-flopa-e-tem-apenas-260-mil-seguidores/" target="_blank" rel="noopener">‘Exército’ de Eduardo Paes por 2º turno no RJ ‘flopa’ e tem apenas 260 mil seguidores</a>
+      
+      <div class="meta"><span class="fonte">Estadão</span> · 08/11 12:00</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/republica/quaest-81-dizem-que-brasil-saiu-mais-dividido-das-eleicoes/" target="_blank" rel="noopener">Quaest: 81% dizem que Brasil saiu mais dividido das eleições</a>
+      <p>Levantamento aponta preocupação em relação ao futuro do país, sobretudo em economia e segurança pública. Leia na Gazeta do Povo.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 08/11 11:43</div>
+    </article>
+  
+    <article>
+      <a href="https://www.gazetadopovo.com.br/vozes/silvio-ribas/quem-sao-os-10-senadores-da-linha-de-frente-do-impeachment-de-moraes/" target="_blank" rel="noopener">Quem são os 10 senadores da linha de frente do impeachment de Moraes</a>
+      <p>Um grupo de 10 senadores lidera o movimento para abertura do proceso de impeachment do ministro Alexandre de Moraes, do STF, em 2027.</p>
+      <div class="meta"><span class="fonte">Gazeta do Povo</span> · 08/11 11:26</div>
+    </article>
+  
+    <details><summary>Status das fontes</summary>
+      <div>✅ Gazeta do Povo (15)</div><div>✅ Revista Oeste (10)</div><div>✅ O Antagonista (15)</div><div>✅ Estadão (15)</div><div>✅ Folha (15)</div><div>✅ O Globo (0)</div><div>✅ CartaCapital (15)</div><div>✅ Brasil de Fato (0)</div>
+    </details>
+  </section>
+
+  <section id="aba-esportes" hidden><div class="vazio">Esportes chegam nas próximas etapas.</div></section>
+  <div class="rodape">Atualizado em 09/11 07:44 (Brasília)</div>
+</main>
+<script>
+const abas=[...document.querySelectorAll("nav button")];
+function ir(k){abas.forEach(b=>b.setAttribute("aria-selected",b.dataset.aba===k));
+ document.querySelectorAll("main section").forEach(s=>s.hidden=s.id!=="aba-"+k);
+ try{localStorage.setItem("aba",k)}catch(e){}}
+abas.forEach(b=>b.onclick=()=>ir(b.dataset.aba));
+try{const k=localStorage.getItem("aba");if(k&&document.getElementById("aba-"+k))ir(k)}catch(e){}
+document.getElementById("tema").onclick=()=>{const d=document.documentElement;
+ const escuro=d.dataset.tema?d.dataset.tema==="escuro":matchMedia("(prefers-color-scheme:dark)").matches;
+ d.dataset.tema=escuro?"claro":"escuro";try{localStorage.setItem("tema",d.dataset.tema)}catch(e){}};
+</script>
+</body>
+</html>

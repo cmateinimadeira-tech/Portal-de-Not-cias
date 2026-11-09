@@ -1,0 +1,50 @@
+# Abas de notícias e suas fontes. "url" pode ser RSS/Atom.
+# Reuters e Bloomberg Línea não têm RSS público estável: usamos Google News filtrado por site.
+abas:
+  macro:
+    titulo: Macro e negócios
+    fontes:
+      - {nome: Valor Econômico, url: "https://pox.globo.com/rss/valor/"}
+      - {nome: InfoMoney, url: "https://www.infomoney.com.br/feed/"}
+      - {nome: Exame, url: "https://exame.com/feed/"}
+      - {nome: Estadão Economia, url: "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/"}
+      - {nome: Reuters, url: "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=pt-BR&gl=BR&ceid=BR:pt-419"}
+      - {nome: Bloomberg Línea, url: "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:1d&hl=pt-BR&gl=BR&ceid=BR:pt-419"}
+  ciencia:
+    titulo: Ciência e tecnologia
+    fontes:
+      - {nome: Pesquisa FAPESP, url: "https://revistapesquisa.fapesp.br/feed/"}
+      - {nome: Olhar Digital, url: "https://olhardigital.com.br/feed/"}
+      - {nome: Tecnoblog, url: "https://tecnoblog.net/feed/"}
+      - {nome: Tecmundo, url: "https://rss.tecmundo.com.br/feed"}
+      - {nome: The Verge, url: "https://www.theverge.com/rss/index.xml"}
+      - {nome: Ars Technica, url: "https://feeds.arstechnica.com/arstechnica/index"}
+      - {nome: MIT Technology Review, url: "https://www.technologyreview.com/feed/"}
+  ia:
+    titulo: IA, PCs e celulares
+    fontes:
+      - {nome: Tecnoblog, url: "https://tecnoblog.net/feed/"}
+      - {nome: Tecmundo, url: "https://rss.tecmundo.com.br/feed"}
+      - {nome: The Verge, url: "https://www.theverge.com/rss/index.xml"}
+      - {nome: Ars Technica, url: "https://feeds.arstechnica.com/arstechnica/index"}
+      - {nome: MIT Technology Review, url: "https://www.technologyreview.com/feed/"}
+      - {nome: r/LocalLLaMA, url: "https://www.reddit.com/r/LocalLLaMA/.rss"}
+      - {nome: r/hardware, url: "https://www.reddit.com/r/hardware/.rss"}
+      - {nome: r/Android, url: "https://www.reddit.com/r/Android/.rss"}
+  carros:
+    titulo: Carros
+    fontes:
+      - {nome: Quatro Rodas, url: "https://quatrorodas.abril.com.br/feed/"}
+      - {nome: Autoesporte, url: "https://autoesporte.globo.com/rss/ultimas/"}
+      - {nome: Motor1, url: "https://motor1.uol.com.br/rss/articles/all/"}
+  politica:
+    titulo: Política (comparação)
+    fontes:
+      - {nome: Gazeta do Povo, url: "https://www.gazetadopovo.com.br/feed/rss/republica.xml"}
+      - {nome: Revista Oeste, url: "https://revistaoeste.com/feed/"}
+      - {nome: O Antagonista, url: "https://oantagonista.com.br/feed/"}
+      - {nome: Estadão, url: "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/"}
+      - {nome: Folha, url: "https://feeds.folha.uol.com.br/poder/rss091.xml"}
+      - {nome: O Globo, url: "https://oglobo.globo.com/rss.xml"}
+      - {nome: CartaCapital, url: "https://www.cartacapital.com.br/feed/"}
+      - {nome: Brasil de Fato, url: "https://www.brasildefato.com.br/rss2.xml"}

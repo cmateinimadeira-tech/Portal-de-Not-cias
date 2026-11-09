@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meu Portal de Notícias</title>
+<script>try{var t=localStorage.getItem("tema");if(t)document.documentElement.dataset.tema=t}catch(e){}</script>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--txt:#1b1f24;--mut:#667085;--bd:#e3e6ea;--ac:#0b63ce}
+@media(prefers-color-scheme:dark){:root:not([data-tema=claro]){--bg:#0f1318;--card:#171c23;--txt:#e7eaee;--mut:#98a2b3;--bd:#262d36;--ac:#6aa8ff}}
+:root[data-tema=escuro]{--bg:#0f1318;--card:#171c23;--txt:#e7eaee;--mut:#98a2b3;--bd:#262d36;--ac:#6aa8ff}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:16px/1.45 system-ui,sans-serif}
+header{position:sticky;top:0;background:var(--card);border-bottom:1px solid var(--bd);z-index:5}
+.topo{display:flex;align-items:center;justify-content:space-between;padding:10px 16px}
+h1{font-size:1.05rem;margin:0}
+button{font:inherit;color:inherit;background:none;border:1px solid var(--bd);border-radius:8px;padding:6px 10px;cursor:pointer}
+nav{display:flex;gap:6px;overflow-x:auto;padding:0 16px 10px;scrollbar-width:none}
+nav button{white-space:nowrap}
+nav button[aria-selected=true]{background:var(--ac);color:#fff;border-color:var(--ac)}
+main{max-width:760px;margin:0 auto;padding:12px 16px 40px}
+section[hidden]{display:none}
+article{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+article a{color:var(--txt);text-decoration:none;font-weight:600}
+article a:hover{color:var(--ac)}
+article p{margin:6px 0 0;color:var(--mut);font-size:.92rem}
+.meta{font-size:.78rem;color:var(--mut);margin-top:6px}
+.fonte{color:var(--ac);font-weight:600}
+.vazio,.rodape{color:var(--mut);font-size:.85rem;text-align:center;padding:16px}
+details{font-size:.8rem;color:var(--mut);margin-top:16px}
+</style>
+</head>
+<body>
+<header>
+  <div class="topo"><h1>📰 Meu Portal</h1><button id="tema" aria-label="Alternar tema">🌓</button></div>
+  <nav role="tablist">
+  {% for chave, aba in noticias.get("abas", {}).items() %}
+    <button role="tab" data-aba="{{ chave }}" aria-selected="{{ 'true' if loop.first else 'false' }}">{{ aba.titulo }}</button>
+  {% endfor %}
+    <button role="tab" data-aba="esportes" aria-selected="false">Esportes</button>
+  </nav>
+</header>
+<main>
+{% for chave, aba in noticias.get("abas", {}).items() %}
+  <section id="aba-{{ chave }}" {% if not loop.first %}hidden{% endif %}>
+  {% for n in aba.itens[:60] %}
+    <article>
+      <a href="{{ n.link }}" target="_blank" rel="noopener">{{ n.titulo }}</a>
+      {% if n.resumo %}<p>{{ n.resumo }}</p>{% endif %}
+      <div class="meta"><span class="fonte">{{ n.fonte }}</span> · {{ n.data | hora }}</div>
+    </article>
+  {% else %}<div class="vazio">Sem notícias no momento.</div>{% endfor %}
+    <details><summary>Status das fontes</summary>
+      {% for s in aba.status %}<div>{{ '✅' if s.ok else '❌' }} {{ s.fonte }} ({{ s.qtd }}){% if s.erro %} — {{ s.erro }}{% endif %}</div>{% endfor %}
+    </details>
+  </section>
+{% endfor %}
+  <section id="aba-esportes" hidden><div class="vazio">Esportes chegam nas próximas etapas.</div></section>
+  <div class="rodape">{% if noticias.atualizado_em %}Atualizado em {{ noticias.atualizado_em | hora }} (Brasília){% endif %}</div>
+</main>
+<script>
+const abas=[...document.querySelectorAll("nav button")];
+function ir(k){abas.forEach(b=>b.setAttribute("aria-selected",b.dataset.aba===k));
+ document.querySelectorAll("main section").forEach(s=>s.hidden=s.id!=="aba-"+k);
+ try{localStorage.setItem("aba",k)}catch(e){}}
+abas.forEach(b=>b.onclick=()=>ir(b.dataset.aba));
+try{const k=localStorage.getItem("aba");if(k&&document.getElementById("aba-"+k))ir(k)}catch(e){}
+document.getElementById("tema").onclick=()=>{const d=document.documentElement;
+ const escuro=d.dataset.tema?d.dataset.tema==="escuro":matchMedia("(prefers-color-scheme:dark)").matches;
+ d.dataset.tema=escuro?"claro":"escuro";try{localStorage.setItem("tema",d.dataset.tema)}catch(e){}};
+</script>
+</body>
+</html>
