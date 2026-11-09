@@ -1,9 +1,81 @@
 {
- "atualizado_em": "2026-11-09T13:23:00.315948+00:00",
+ "atualizado_em": "2026-11-09T13:47:25.287391+00:00",
  "abas": {
   "macro": {
    "titulo": "Macro e negócios",
    "itens": [
+    {
+     "id": "d9d030235acd",
+     "titulo": "Trump se reunirá com premiê do Catar para discutir guerra contra o Irã",
+     "resumo": "O presidente dos Estados Unidos, Donald Trump, se reunirá nesta segunda-feira (9) com o primeiro-ministro do Catar, Mohammed bin Abdulrahman Al Thani, um dos principais mediadores da guerra contra o Irã, em meio à intensificação das negociações diplomáticas para encerrar o conflito após as eleições…",
+     "link": "https://valor.globo.com/mundo/noticia/2026/11/09/trump-se-reunir-com-premi-do-catar-para-discutir-guerra-contra-o-ir.ghtml",
+     "fonte": "Valor Econômico",
+     "data": "2026-11-09T13:37:38+00:00"
+    },
+    {
+     "id": "d19d5938191a",
+     "titulo": "Le Pen e Mélenchon lideram corrida presidencial francesa de 2027, diz pesquisa",
+     "resumo": "Le Pen e Mélenchon lideram corrida presidencial francesa de 2027, diz pesquisa The post Le Pen e Mélenchon lideram corrida presidencial francesa de 2027, diz pesquisa appeared first on InfoMoney .",
+     "link": "https://www.infomoney.com.br/mundo/le-pen-e-melenchon-lideram-corrida-presidencial-francesa-de-2027-diz-pesquisa/",
+     "fonte": "InfoMoney",
+     "data": "2026-11-09T13:36:26+00:00"
+    },
+    {
+     "id": "f744a046a246",
+     "titulo": "Quais são as melhores e piores rodovias do Brasil? Veja ranking da CNT",
+     "resumo": "Pesquisa avaliou quase 115 mil quilômetros de estradas; São Paulo lidera entre as melhores, enquanto os trechos mais problemáticos são todos de gestão pública The post Quais são as melhores e piores rodovias do Brasil? Veja ranking da CNT appeared first on InfoMoney .",
+     "link": "https://www.infomoney.com.br/brasil/quais-sao-as-melhores-e-piores-rodovias-do-brasil-veja-ranking-da-cnt/",
+     "fonte": "InfoMoney",
+     "data": "2026-11-09T13:34:45+00:00"
+    },
+    {
+     "id": "26d039e9147e",
+     "titulo": "Ibovespa e juros longos sobem e dólar ronda estabilidade com cenário externo positivo e Lula 4 no foco",
+     "resumo": "Ibovespa e juros longos sobem e dólar ronda estabilidade com cenário externo positivo e Lula 4 no foco Possibilidade de fim da guerra entre EUA e Irã derruba preços do petróleo e impulsiona apetite global a risco Manhã no mercado: Exterior positivo pode dar apoio a ativos locais; Nvidia cai mais de…",
+     "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+     "fonte": "Valor Econômico",
+     "data": "2026-11-09T13:32:47+00:00"
+    },
+    {
+     "id": "b02ff42fd7f0",
+     "titulo": "Taxas do Tesouro recuam no primeiro pregão após pronunciamento de Lula",
+     "resumo": "Títulos atrelados à inflação têm as maiores quedas na abertura desta segunda-feira, em dia em que o Focus eleva a projeção da Selic para 2026 e economistas veem a fala do presidente sem medidas concretas The post Taxas do Tesouro recuam no primeiro pregão após pronunciamento de Lula appeared first…",
+     "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-09112026/",
+     "fonte": "InfoMoney",
+     "data": "2026-11-09T13:32:09+00:00"
+    },
+    {
+     "id": "2104f4a01eb1",
+     "titulo": "COP31: Em 6 meses, prejuízos climáticos no Brasil superam as perdas do ano passado",
+     "resumo": "O custo com perdas causadas pelos danos climáticos é 67% maior do que nos seis primeiros meses do ano passado The post COP31: Em 6 meses, prejuízos climáticos no Brasil superam as perdas do ano passado appeared first on InfoMoney .",
+     "link": "https://www.infomoney.com.br/brasil/cop31-em-6-meses-prejuizos-climaticos-no-brasil-superam-as-perdas-do-ano-passado/",
+     "fonte": "InfoMoney",
+     "data": "2026-11-09T13:27:53+00:00"
+    },
+    {
+     "id": "babb428629ef",
+     "titulo": "Helbor (HBOR3): acionistas têm até dia 28 para vender ações após OPA",
+     "resumo": "O período de venda começou em 29 de outubro e termina em 28 de novembro de 2026 The post Helbor (HBOR3): acionistas têm até dia 28 para vender ações após OPA appeared first on InfoMoney .",
+     "link": "https://www.infomoney.com.br/mercados/helbor-hbor3-acionistas-tem-ate-dia-28-para-vender-acoes-apos-opa/",
+     "fonte": "InfoMoney",
+     "data": "2026-11-09T13:24:06+00:00"
+    },
+    {
+     "id": "714f78126b73",
+     "titulo": "Lula não leva aliados à Turquia e frustra expectativa de montagem do governo",
+     "resumo": "Os presidentes das casas legislativas, Hugo Motta e Davi Alcolumbre, também não acompanham o presidente The post Lula não leva aliados à Turquia e frustra expectativa de montagem do governo appeared first on InfoMoney .",
+     "link": "https://www.infomoney.com.br/politica/lula-nao-leva-aliados-a-turquia-e-frustra-expectativa-de-montagem-do-governo/",
+     "fonte": "InfoMoney",
+     "data": "2026-11-09T13:23:23+00:00"
+    },
+    {
+     "id": "a2799dcbc838",
+     "titulo": "Quem são Jensen Huang, CEO da Nvidia, e Alice Huang, empresária suspeita de espionagem chinesa",
+     "resumo": "",
+     "link": "https://www.estadao.com.br/economia/quem-sao-jensen-huang-ceo-da-nvidia-e-alice-huang-empresaria-suspeita-de-espionagem-chinesa-npr/",
+     "fonte": "Estadão Economia",
+     "data": "2026-11-09T13:23:14+00:00"
+    },
     {
      "id": "7153936664b1",
      "titulo": "GLP-1: novas marcas de semaglutida chegam às farmácias e ampliam disputa no Brasil",
@@ -93,14 +165,6 @@
      "data": "2026-11-09T13:04:01+00:00"
     },
     {
-     "id": "27b2f2de2afd",
-     "titulo": "Acumular milhas ao usar o pedágio? Latam Pass e Sem Parar fecham parceria; entenda",
-     "resumo": "Clientes da empresa de serviços para carros podem converter pontos em milhas da LATAM The post Acumular milhas ao usar o pedágio? Latam Pass e Sem Parar fecham parceria; entenda appeared first on InfoMoney .",
-     "link": "https://www.infomoney.com.br/consumo/acumular-milhas-sem-parar-latam-pass/",
-     "fonte": "InfoMoney",
-     "data": "2026-11-09T13:01:00+00:00"
-    },
-    {
      "id": "89a5c0f07d87",
      "titulo": "Trump admite ter sido 'duro demais' com imigrantes e cita possível acordo de anistia",
      "resumo": "O presidente dos Estados Unidos, Donald Trump, admitiu que sua política de imigração pode ter sido \"dura demais\" e sinalizou disposição para negociar com os democratas um acordo de anistia para imigrantes. A declaração representa uma possível mudança de tom na campanha de deportações do presidente…",
@@ -117,28 +181,12 @@
      "data": "2026-11-09T12:55:03+00:00"
     },
     {
-     "id": "90888224d480",
-     "titulo": "Após impeachment, Peña tem casa vasculhada e cofre secreto descoberto no Paraguai",
-     "resumo": "Ministério Público investiga suspeita de uso de recursos do Ueno Bank para financiar imóvel milionário do ex-presidente, preso após destituição The post Após impeachment, Peña tem casa vasculhada e cofre secreto descoberto no Paraguai appeared first on InfoMoney .",
-     "link": "https://www.infomoney.com.br/mundo/apos-impeachment-pena-tem-casa-vasculhada-e-cofre-secreto-descoberto-no-paraguai/",
-     "fonte": "InfoMoney",
-     "data": "2026-11-09T12:52:59+00:00"
-    },
-    {
      "id": "f847eb968197",
      "titulo": "Ecorodovias tem alta de 1,2% no tráfego de veículos em outubro",
      "resumo": "A Ecorodovias registrou tráfego de 68,3 milhões de veículos nas rodovias sob sua concessão em outubro, alta de 1,2% na comparação anual. A Ecovias Norte Minas foi o destaque no mês passado, com alta de 12,2% no tráfego de veículos, seguida de crescimento de 5,4% na Ecovias Minas Goiás, 4,2% na Ecov…",
      "link": "https://valor.globo.com/empresas/noticia/2026/11/09/ecorodovias-tem-alta-de-12-pontos-percentuais-no-trfego-de-veculos-em-outubro.ghtml",
      "fonte": "Valor Econômico",
      "data": "2026-11-09T12:52:39+00:00"
-    },
-    {
-     "id": "2c05d38fcc8e",
-     "titulo": "Como o mercado viu o pronunciamento de Lula à nação?",
-     "resumo": "Lula reafirmou compromisso com a responsabilidade fiscal em pronunciamento em rede nacional no domingo, mas não especificou medidas The post Como o mercado viu o pronunciamento de Lula à nação? appeared first on InfoMoney .",
-     "link": "https://www.infomoney.com.br/mercados/como-o-mercado-viu-o-pronunciamento-de-lula-a-nacao/",
-     "fonte": "InfoMoney",
-     "data": "2026-11-09T12:51:09+00:00"
     },
     {
      "id": "7d03d094d84a",
@@ -157,30 +205,6 @@
      "data": "2026-11-09T12:47:29+00:00"
     },
     {
-     "id": "cedf4d115029",
-     "titulo": "The Economist chama Janones de ‘herói’ e aponta que tática digital pode ser exportada",
-     "resumo": "O modelo também chegou a outros países, segundo a Economist, que menciona o interesse do premiê espanhol Pedro Sánchez e da presidente mexicana Claudia Sheinbaum The post The Economist chama Janones de ‘herói’ e aponta que tática digital pode ser exportada appeared first on InfoMoney .",
-     "link": "https://www.infomoney.com.br/politica/the-economist-chama-janones-de-heroi-e-aponta-que-tatica-digital-pode-ser-exportada/",
-     "fonte": "InfoMoney",
-     "data": "2026-11-09T12:45:32+00:00"
-    },
-    {
-     "id": "ecc258cc2904",
-     "titulo": "Crédit Agricole propõe fusão na Itália com BPM e prevê criar o 3º maior banco do país",
-     "resumo": "A ideia é formar um grupo financeiro maior, com mais escala, oferta de serviços e resiliência The post Crédit Agricole propõe fusão na Itália com BPM e prevê criar o 3º maior banco do país appeared first on InfoMoney .",
-     "link": "https://www.infomoney.com.br/mundo/credit-agricole-propoe-fusao-na-italia-com-bpm-e-preve-criar-o-3o-maior-banco-do-pais/",
-     "fonte": "InfoMoney",
-     "data": "2026-11-09T12:44:31+00:00"
-    },
-    {
-     "id": "26d039e9147e",
-     "titulo": "Dólar ronda a estabilidade e juros longos sobem apesar de exterior positivo, com política econômica de Lula no foco",
-     "resumo": "Dólar ronda a estabilidade e juros longos sobem apesar de exterior positivo, com política econômica de Lula no foco Possibilidade de um fim da guerra no Oriente Médio, sobretudo após a vitória democrata nas eleições legislativas americanas, leva o mercado a antecipar uma queda dos preços do petróle…",
-     "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-     "fonte": "Valor Econômico",
-     "data": "2026-11-09T12:41:57+00:00"
-    },
-    {
      "id": "859606fb6941",
      "titulo": "Dólar ronda a estabilidade e não segue tendência global de olho em riscos locais",
      "resumo": "O dólar comercial exibe movimentos sutis no início do pregão desta segunda-feira, perto da estabilidade, em meio à dificuldade do mercado doméstico de câmbio de seguir a tendência global de enfraquecimento da moeda americana. Os riscos relacionados à agenda econômica do quarto mandato de Luiz Ináci…",
@@ -197,14 +221,6 @@
      "data": "2026-11-09T12:38:13+00:00"
     },
     {
-     "id": "030503dfccfb",
-     "titulo": "Carne, café e frutas do Brasil estão na maior feira mundial de importação, na China",
-     "resumo": "ApexBrasil organizou neste ano uma delegação de 36 empresas e cooperativas interessadas em ampliar a presença de seus produtos no mercado asiático The post Carne, café e frutas do Brasil estão na maior feira mundial de importação, na China appeared first on InfoMoney .",
-     "link": "https://www.infomoney.com.br/economia/carne-cafe-e-frutas-do-brasil-estao-na-maior-feira-mundial-de-importacao-na-china/",
-     "fonte": "InfoMoney",
-     "data": "2026-11-09T12:37:51+00:00"
-    },
-    {
      "id": "521d87f9b2e9",
      "titulo": "Juros futuros não firmam direção única com riscos locais e alívio no exterior",
      "resumo": "Os juros futuros exibem movimentos distintos ao longo da extensão a termo da curva no início do pregão desta segunda-feira, com alguma pressão sobre as taxas de longo prazo. De um lado, há o apoio do apetite por risco no exterior e da forte queda de mais de 3% do petróleo tipo Brent, que opera na c…",
@@ -219,14 +235,6 @@
      "link": "https://valor.globo.com/empresas/noticia/2026/11/09/coreia-do-sul-multa-coupang-por-abuso-de-poder-no-mercado-de-delivery.ghtml",
      "fonte": "Valor Econômico",
      "data": "2026-11-09T12:32:26+00:00"
-    },
-    {
-     "id": "d28c492b236c",
-     "titulo": "Japão gastou valor recorde de US$ 50 bilhões em um único dia para sustentar o iene",
-     "resumo": "O Japão gastou um valor recorde de US$ 50 bilhões em um único dia de julho para dar apoio ao iene, evidenciando uma campanha agressiva de intervenções cambiais que incluiu uma rara atuação conjunta com os Estados Unidos meses atrás. Matéria exclusiva para assinantes. Para ter acesso completo, acess…",
-     "link": "https://valor.globo.com/financas/noticia/2026/11/09/japo-gastou-valor-recorde-de-us-50-bilhes-em-um-nico-dia-para-sustentar-o-iene.ghtml",
-     "fonte": "Valor Econômico",
-     "data": "2026-11-09T12:31:37+00:00"
     },
     {
      "id": "da750b8d2a3d",
@@ -275,6 +283,38 @@
      "link": "https://www.estadao.com.br/economia/china-nega-acusacao-espionagem-ceo-nvidia/",
      "fonte": "Estadão Economia",
      "data": "2026-11-09T11:17:14+00:00"
+    },
+    {
+     "id": "f6af24920217",
+     "titulo": "Trader, analista ou gestor de investimentos? Veja quanto ganha cada profissional",
+     "resumo": "Guia Salarial 2026 da Robert Half aponta remunerações que ultrapassam R$ 40 mil para profissionais experientes em determinadas funções do mercado financeiro",
+     "link": "https://exame.com/carreira/trader-analista-ou-gestor-de-investimentos-veja-quanto-ganha-cada-profissional/",
+     "fonte": "Exame",
+     "data": "2026-11-09T10:36:57+00:00"
+    },
+    {
+     "id": "0e7671313738",
+     "titulo": "'Espelho, espelho meu': Nestlé cria experiência que conecta IA, saúde e vendas em farmácias",
+     "resumo": "Com leitura facial feita por IA, ferramenta combina orientação de profissionais de saúde e recomendações personalizadas de produtos; novidade estreia em Fortaleza, SP e Salvador",
+     "link": "https://exame.com/marketing/espelho-espelho-meu-nestle-cria-experiencia-que-conecta-ia-saude-e-vendas-em-farmacias/",
+     "fonte": "Exame",
+     "data": "2026-11-09T10:23:22+00:00"
+    },
+    {
+     "id": "67b98604987a",
+     "titulo": "COP31: Cuidar do clima é cuidar das pessoas",
+     "resumo": "Da transição energética à economia circular, indústria brasileira pode transformar compromissos ambientais em benefícios concretos para a população",
+     "link": "https://exame.com/esg/cop31-cuidar-do-clima-e-cuidar-das-pessoas/",
+     "fonte": "Exame",
+     "data": "2026-11-09T10:22:07+00:00"
+    },
+    {
+     "id": "13ccc763203c",
+     "titulo": "Passagem secreta e porta blindada: o que o MP achou na mansão do ex-presidente do Paraguai",
+     "resumo": "Promotores encontraram acesso escondido e porta com múltiplos mecanismos de segurança na residência de Santiago Peña; operação será retomada",
+     "link": "https://exame.com/mundo/passagem-secreta-e-porta-blindada-o-que-o-mp-achou-na-mansao-do-ex-presidente-do-paraguai/",
+     "fonte": "Exame",
+     "data": "2026-11-09T10:21:13+00:00"
     },
     {
      "id": "4794662c0269",
@@ -389,22 +429,6 @@
      "data": "2026-11-09T09:01:54+00:00"
     },
     {
-     "id": "bf1221d4a863",
-     "titulo": "Mais ousada e menos atemporal, Foxton lança collab com Romulo Estrela",
-     "resumo": "Nova coleção traz peças com novos tecidos, de modelagem ampla e com influências das passarelas",
-     "link": "https://exame.com/casual/foxton-celebra-20-anos-com-collab-com-romulo-estrela/",
-     "fonte": "Exame",
-     "data": "2026-11-09T09:00:58+00:00"
-    },
-    {
-     "id": "31e2749f8437",
-     "titulo": "China dá mais dois meses de trégua aos EUA na disputa por terras raras",
-     "resumo": "Medida anunciada por Pequim mantém parte do acordo comercial firmado entre Xi Jinping e Donald Trump em 2025, às vésperas de novo encontro entre os líderes",
-     "link": "https://exame.com/mundo/china-da-mais-dois-meses-de-tregua-aos-eua-na-disputa-por-terras-raras/",
-     "fonte": "Exame",
-     "data": "2026-11-09T09:00:17+00:00"
-    },
-    {
      "id": "addef3d623d4",
      "titulo": "Cidade Matarazzo troca lógica do aluguel por operação própria prevê R$ 2 bi em receita - Bloomberg Linea Brasil",
      "resumo": "Cidade Matarazzo troca lógica do aluguel por operação própria prevê R$ 2 bi em receita Bloomberg Linea Brasil",
@@ -419,22 +443,6 @@
      "link": "https://www.estadao.com.br/economia/nestle-quer-se-aproximar-do-consumidor-com-um-espelho-magico-que-usa-ia/",
      "fonte": "Estadão Economia",
      "data": "2026-11-09T09:00:00+00:00"
-    },
-    {
-     "id": "1a32634adf9d",
-     "titulo": "Focus: mercado eleva projeção da Selic e reduz estimativa para o PIB em 2026",
-     "resumo": "Mercado eleva projeção da Selic de 13,50% para 13,75% e reduz estimativa de crescimento do PIB de 1,76% para 1,75% em 2026",
-     "link": "https://exame.com/economia/focus-mercado-eleva-projecao-da-selic-e-reduz-estimativa-para-o-pib-em-2026/",
-     "fonte": "Exame",
-     "data": "2026-11-09T08:49:06+00:00"
-    },
-    {
-     "id": "c2d722ffa8b2",
-     "titulo": "COP31 começa sem disputa de agenda, mas adia debates sobre financiamento climático",
-     "resumo": "Apesar do consenso na abertura, países não chegaram a um acordo sobre temas financeiros; revisão dos mecanismos de financiamento foi adiada para a COP32, em 2027",
-     "link": "https://exame.com/esg/cop31-comeca-sem-disputa-de-agenda-mas-adia-debates-sobre-financiamento-climatico/",
-     "fonte": "Exame",
-     "data": "2026-11-09T08:34:50+00:00"
     },
     {
      "id": "a5edf5d565d0",
@@ -517,14 +525,6 @@
      "data": "2026-11-08T22:11:19+00:00"
     },
     {
-     "id": "3025401c5bd0",
-     "titulo": "Seguro paramétrico ficou mais fácil e interessante para os produtores rurais",
-     "resumo": "",
-     "link": "https://www.estadao.com.br/economia/antonio-penteado-mendonca/seguro-parametrico-mais-facil-produtores-rurais/",
-     "fonte": "Estadão Economia",
-     "data": "2026-11-08T20:00:00+00:00"
-    },
-    {
      "id": "108da73e385d",
      "titulo": "Após eleições, Anthropic enfrenta pressão para faixa de avaliação mais baixa em IPO - Bloomberg Linea Brasil",
      "resumo": "Após eleições, Anthropic enfrenta pressão para faixa de avaliação mais baixa em IPO Bloomberg Linea Brasil",
@@ -593,6 +593,38 @@
   "ciencia": {
    "titulo": "Ciência e tecnologia",
    "itens": [
+    {
+     "id": "670f5bf9fce1",
+     "titulo": "Top de linha: Galaxy S25 Ultra tem queda agressiva de 59% na Amazon",
+     "resumo": "Galaxy S25 Ultra (256 GB) com chip Snapdragon e câmera de 200 MP atinge o menor preço que vimos em meses, em oferta no Pix durante a Black November 2026 Top de linha: Galaxy S25 Ultra tem queda agressiva de 59% na Amazon",
+     "link": "https://tecnoblog.net/achados/top-de-linha-galaxy-s25-ultra-tem-queda-agressiva-de-59-na-amazon/",
+     "fonte": "Tecnoblog",
+     "data": "2026-11-09T13:44:07+00:00"
+    },
+    {
+     "id": "f1bf37b87cc6",
+     "titulo": "CEO da Apple cobra equipe para tornar Siri AI mais ‘agêntica’",
+     "resumo": "Craig Federighi está na Apple continuamente desde 2009 e assumiu o iOS ainda em 2012.",
+     "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/ceo-da-apple-cobra-equipe-para-tornar-siri-ai-mais-agentica/",
+     "fonte": "Tecmundo",
+     "data": "2026-11-09T13:30:00+00:00"
+    },
+    {
+     "id": "2f84d295438b",
+     "titulo": "Quanto tempo demora para baixar GTA 6? Veja estimativa com base na velocidade da sua internet",
+     "resumo": "GTA 6 ocupará 210 GB de armazenamento nos consoles.",
+     "link": "https://www.estadao.com.br/tecmundo/voxel/quanto-tempo-demora-para-baixar-gta-6-veja-estimativa-com-base-na-velocidade-da-sua-internet/",
+     "fonte": "Tecmundo",
+     "data": "2026-11-09T13:15:00+00:00"
+    },
+    {
+     "id": "b09ab79ba3e1",
+     "titulo": "The Download: empty AI climate claims, and an Nvidia investigation",
+     "resumo": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air R…",
+     "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+     "fonte": "MIT Technology Review",
+     "data": "2026-11-09T13:15:00+00:00"
+    },
     {
      "id": "6c4ef7cee160",
      "titulo": "Starlink impõe preço dinâmico e vai cobrar mais por acesso à internet",
@@ -938,22 +970,6 @@
      "data": "2026-11-08T12:15:00+00:00"
     },
     {
-     "id": "e914f009087f",
-     "titulo": "Usuários relatam falhas de Wi-Fi e 5G após atualização One UI 9",
-     "resumo": "Proprietários de celulares Samsung relatam problemas de conexão com a internet após instalar a One UI 9.",
-     "link": "https://www.estadao.com.br/tecmundo/produto-e-review/usuarios-relatam-falhas-de-wi-fi-e-5g-apos-atualizacao-one-ui-9/",
-     "fonte": "Tecmundo",
-     "data": "2026-11-08T12:00:00+00:00"
-    },
-    {
-     "id": "f62390a18883",
-     "titulo": "Epic Games libera dois jogos grátis no celular! Resgate agora no Android (08)",
-     "resumo": "Jogo grátis da Epic Games no celular já está disponível.",
-     "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-dois-jogos-gratis-no-celular-resgate-agora-no-android-08/",
-     "fonte": "Tecmundo",
-     "data": "2026-11-08T11:15:00+00:00"
-    },
-    {
      "id": "f510be305e79",
      "titulo": "The Bantu expansion changed Africa. Scientists are still tracing how.",
      "resumo": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
@@ -972,7 +988,7 @@
     {
      "id": "4185e767d8b8",
      "titulo": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-     "resumo": "It's the exact path, not the apparent severity that matters most, doctors say.",
+     "resumo": "It's the exact path, not the apparent severity, that matters most, doctors say.",
      "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
      "fonte": "Ars Technica",
      "data": "2026-11-06T23:09:45+00:00"
@@ -1128,14 +1144,6 @@
      "link": "https://tecnoblog.net/noticias/eua-vao-finalmente-deixar-de-usar-disquetes-no-controle-de-trafego-aereo/",
      "fonte": "Tecnoblog",
      "data": "2026-11-06T14:16:31+00:00"
-    },
-    {
-     "id": "5690bf3a271e",
-     "titulo": "Galaxy Watch Ultra para aventuras cai 64% no mês da Black Friday",
-     "resumo": "Galaxy Watch Ultra tem corpo de titânio resistente e tela AMOLED de 3.000 nits; smartwatch da Samsung sai 64% mais em conta no Pix com cupom no Mercado Livre Galaxy Watch Ultra para aventuras cai 64% no mês da Black Friday",
-     "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-para-aventuras-cai-63-no-mes-da-black-friday/",
-     "fonte": "Tecnoblog",
-     "data": "2026-11-06T14:09:37+00:00"
     }
    ],
    "status": [
@@ -1172,13 +1180,45 @@
     {
      "fonte": "MIT Technology Review",
      "ok": true,
-     "qtd": 2
+     "qtd": 3
     }
    ]
   },
   "ia": {
    "titulo": "IA, PCs e celulares",
    "itens": [
+    {
+     "id": "670f5bf9fce1",
+     "titulo": "Top de linha: Galaxy S25 Ultra tem queda agressiva de 59% na Amazon",
+     "resumo": "Galaxy S25 Ultra (256 GB) com chip Snapdragon e câmera de 200 MP atinge o menor preço que vimos em meses, em oferta no Pix durante a Black November 2026 Top de linha: Galaxy S25 Ultra tem queda agressiva de 59% na Amazon",
+     "link": "https://tecnoblog.net/achados/top-de-linha-galaxy-s25-ultra-tem-queda-agressiva-de-59-na-amazon/",
+     "fonte": "Tecnoblog",
+     "data": "2026-11-09T13:44:07+00:00"
+    },
+    {
+     "id": "f1bf37b87cc6",
+     "titulo": "CEO da Apple cobra equipe para tornar Siri AI mais ‘agêntica’",
+     "resumo": "Craig Federighi está na Apple continuamente desde 2009 e assumiu o iOS ainda em 2012.",
+     "link": "https://www.estadao.com.br/tecmundo/inteligencia-artificial/ceo-da-apple-cobra-equipe-para-tornar-siri-ai-mais-agentica/",
+     "fonte": "Tecmundo",
+     "data": "2026-11-09T13:30:00+00:00"
+    },
+    {
+     "id": "2f84d295438b",
+     "titulo": "Quanto tempo demora para baixar GTA 6? Veja estimativa com base na velocidade da sua internet",
+     "resumo": "GTA 6 ocupará 210 GB de armazenamento nos consoles.",
+     "link": "https://www.estadao.com.br/tecmundo/voxel/quanto-tempo-demora-para-baixar-gta-6-veja-estimativa-com-base-na-velocidade-da-sua-internet/",
+     "fonte": "Tecmundo",
+     "data": "2026-11-09T13:15:00+00:00"
+    },
+    {
+     "id": "b09ab79ba3e1",
+     "titulo": "The Download: empty AI climate claims, and an Nvidia investigation",
+     "resumo": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air R…",
+     "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+     "fonte": "MIT Technology Review",
+     "data": "2026-11-09T13:15:00+00:00"
+    },
     {
      "id": "6c4ef7cee160",
      "titulo": "Starlink impõe preço dinâmico e vai cobrar mais por acesso à internet",
@@ -1274,14 +1314,6 @@
      "link": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
      "fonte": "The Verge",
      "data": "2026-11-09T11:00:05+00:00"
-    },
-    {
-     "id": "b39fab409aa6",
-     "titulo": "Open source Chinese models are the best",
-     "resumo": "submitted by /u/Nunki08 [link] [comments]",
-     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xrof5f/open_source_chinese_models_are_the_best/",
-     "fonte": "r/LocalLLaMA",
-     "data": "2026-11-09T10:37:13+00:00"
     },
     {
      "id": "58446515405f",
@@ -1484,6 +1516,14 @@
      "data": "2026-11-08T17:56:13+00:00"
     },
     {
+     "id": "3e580b9e1db2",
+     "titulo": "GPT-5.5 dataset across my used 25 billion tokens!",
+     "resumo": "Cheers for u/New_Comfortable7240 for santitisation! 12,121 tool calls here! submitted by /u/-MaskNinja- [link] [comments]",
+     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
+     "fonte": "r/LocalLLaMA",
+     "data": "2026-11-08T17:32:48+00:00"
+    },
+    {
      "id": "ae06ecf71872",
      "titulo": "Elvis and Eminem rights holders are suing Suno",
      "resumo": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that…",
@@ -1556,22 +1596,6 @@
      "data": "2026-11-08T12:15:00+00:00"
     },
     {
-     "id": "e914f009087f",
-     "titulo": "Usuários relatam falhas de Wi-Fi e 5G após atualização One UI 9",
-     "resumo": "Proprietários de celulares Samsung relatam problemas de conexão com a internet após instalar a One UI 9.",
-     "link": "https://www.estadao.com.br/tecmundo/produto-e-review/usuarios-relatam-falhas-de-wi-fi-e-5g-apos-atualizacao-one-ui-9/",
-     "fonte": "Tecmundo",
-     "data": "2026-11-08T12:00:00+00:00"
-    },
-    {
-     "id": "f62390a18883",
-     "titulo": "Epic Games libera dois jogos grátis no celular! Resgate agora no Android (08)",
-     "resumo": "Jogo grátis da Epic Games no celular já está disponível.",
-     "link": "https://www.estadao.com.br/tecmundo/voxel/epic-games-libera-dois-jogos-gratis-no-celular-resgate-agora-no-android-08/",
-     "fonte": "Tecmundo",
-     "data": "2026-11-08T11:15:00+00:00"
-    },
-    {
      "id": "f510be305e79",
      "titulo": "The Bantu expansion changed Africa. Scientists are still tracing how.",
      "resumo": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
@@ -1590,7 +1614,7 @@
     {
      "id": "4185e767d8b8",
      "titulo": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
-     "resumo": "It's the exact path, not the apparent severity that matters most, doctors say.",
+     "resumo": "It's the exact path, not the apparent severity, that matters most, doctors say.",
      "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
      "fonte": "Ars Technica",
      "data": "2026-11-06T23:09:45+00:00"
@@ -1746,14 +1770,6 @@
      "link": "https://tecnoblog.net/noticias/eua-vao-finalmente-deixar-de-usar-disquetes-no-controle-de-trafego-aereo/",
      "fonte": "Tecnoblog",
      "data": "2026-11-06T14:16:31+00:00"
-    },
-    {
-     "id": "5690bf3a271e",
-     "titulo": "Galaxy Watch Ultra para aventuras cai 64% no mês da Black Friday",
-     "resumo": "Galaxy Watch Ultra tem corpo de titânio resistente e tela AMOLED de 3.000 nits; smartwatch da Samsung sai 64% mais em conta no Pix com cupom no Mercado Livre Galaxy Watch Ultra para aventuras cai 64% no mês da Black Friday",
-     "link": "https://tecnoblog.net/achados/galaxy-watch-ultra-para-aventuras-cai-63-no-mes-da-black-friday/",
-     "fonte": "Tecnoblog",
-     "data": "2026-11-06T14:09:37+00:00"
     }
    ],
    "status": [
@@ -1780,7 +1796,7 @@
     {
      "fonte": "MIT Technology Review",
      "ok": true,
-     "qtd": 2
+     "qtd": 3
     },
     {
      "fonte": "r/LocalLLaMA",
@@ -1805,12 +1821,12 @@
    "titulo": "Carros",
    "itens": [
     {
-     "id": "70ad2ad892c1",
-     "titulo": "Dossiê Fiat Argo X: hatch vai ser só o primeiro de uma nova família",
-     "resumo": "Quase idêntico ao Grande Panda, novidade não vai matar geração anterior e estreia nos próximos dias; veja tudo o que sabemos",
-     "link": "https://motor1.uol.com.br/news/814720/dossie-fiat-argo-x-brasil/",
-     "fonte": "Motor1",
-     "data": "2026-11-09T12:00:00+00:00"
+     "id": "844c4046ca79",
+     "titulo": "Ford confirma nova picape média mais barata que a Ranger para 2027",
+     "resumo": "Inédito modelo global mira marcas chinesas e promete reduzir custos de produção em 20% em comparação à Ranger",
+     "link": "https://quatrorodas.abril.com.br/noticias/ford-confirma-nova-picape-media-mais-barata-que-a-ranger-para-2027/",
+     "fonte": "Quatro Rodas",
+     "data": "2026-11-09T13:30:22+00:00"
     },
     {
      "id": "e4da87888483",
@@ -1933,14 +1949,6 @@
      "data": "2026-11-08T12:00:00+00:00"
     },
     {
-     "id": "af6e8404848c",
-     "titulo": "Comprou carro usado? Veja como transferir pelo celular e evitar multa",
-     "resumo": "Transferência digital pode ser feita em até cinco minutos pelo aplicativo do Poupatempo",
-     "link": "https://quatrorodas.abril.com.br/auto-servico/comprou-carro-usado-como-transferir-celular-evitar-multa/",
-     "fonte": "Quatro Rodas",
-     "data": "2026-11-08T10:00:26+00:00"
-    },
-    {
      "id": "634791ab002b",
      "titulo": "Vendas diretas em outubro: Hyundai HB20 lidera com quase 90% de seus emplacamentos na modalidade",
      "resumo": "Leapmotor emplaca seus dois modelos na lista dos mais vendidos",
@@ -2003,6 +2011,14 @@
      "link": "https://motor1.uol.com.br/news/814730/exposicao-seguranca-volvo-gratis-brasil/",
      "fonte": "Motor1",
      "data": "2026-11-06T20:09:51+00:00"
+    },
+    {
+     "id": "352e8a6251dc",
+     "titulo": "Europa vota por abrandar a restrição a carros a combustão a partir de 2035",
+     "resumo": "Parlamento Europeu propõe regras mais flexíveis para permitir híbridos e motores a gasolina",
+     "link": "https://motor1.uol.com.br/news/814722/europa-abrandar-restricao-carros-combustao/",
+     "fonte": "Motor1",
+     "data": "2026-11-06T20:00:00+00:00"
     }
    ],
    "status": [
@@ -2028,6 +2044,86 @@
    "titulo": "Política (comparação)",
    "itens": [
     {
+     "id": "abde005dbc72",
+     "titulo": "O que significa aquela “dor de cabeça” ou fisgada no cérebro ao tomar algo gelado rápido demais?",
+     "resumo": "A dor de cabeça por gelado atinge a sua testa em poucos segundos, logo após tomar um sorvete rápido demais em um dia quente. Essa pontada incômoda acontece quando o sangue mexe muito rápido nos vasos do céu da boca para tentar aquecer a região assustada pelo gelo de repente. Por que a dor de... The…",
+     "link": "https://oantagonista.com.br/ladooa/entretenimento/o-que-significa-aquela-dor-de-cabeca-ou-fisgada-no-cerebro-ao-tomar-algo-gelado-rapido-demais/",
+     "fonte": "O Antagonista",
+     "data": "2026-11-09T13:43:00+00:00"
+    },
+    {
+     "id": "cb53aa4edb61",
+     "titulo": "Fux suspende afastamento de Gabriela Hardt, ex-juíza da Lava Jato, aplicado pelo CNJ",
+     "resumo": "O ministro Luiz Fux , do STF (Supremo Tribunal Federal), suspendeu nesta segunda-feira (9) o afastamento da juíza federal Gabriela Hardt. A medida havia sido tomada pelo CNJ (Conselho Nacional de Justiça) com validade de dois anos. Leia mais (11/09/2026 - 10h40)",
+     "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/fux-suspende-afastamento-de-gabriela-hardt-ex-juiza-da-lava-jato-aplicado-pelo-cnj.shtml",
+     "fonte": "Folha",
+     "data": "2026-11-09T13:40:00+00:00"
+    },
+    {
+     "id": "fc3a86d94426",
+     "titulo": "Sóstenes ironiza “Viva o SUS” de Lula: “Corre para o Sírio-Libanês”",
+     "resumo": "O líder do PL na Câmara dos Deputados, Sóstenes Cavalcante (RJ), ironizou nesta segunda-feira, 9, a defesa do Sistema Único de Saúde (SUS) feita pelo presidente Lula (PT) após o tema da redação do Exame Nacional do Ensino Médio (Enem) 2026. “’Viva o SUS!’ grita quem, na primeira dor de barriga, cor…",
+     "link": "https://oantagonista.com.br/brasil/sostenes-ironiza-viva-o-sus-de-lula-corre-para-o-sirio-libanes/",
+     "fonte": "O Antagonista",
+     "data": "2026-11-09T13:39:11+00:00"
+    },
+    {
+     "id": "161c164e9b2c",
+     "titulo": "Criminalidade no Paraná cai pelo 3º ano seguido e chega ao menor nível da história",
+     "resumo": "O Paraná registrou de janeiro a setembro de 2026 queda nos principais indicadores de criminalidade e atingiu os menores patamares da série histórica, iniciada em 2007. Os dados são da Secretaria da Segurança Pública do Estado e comparam o período com os mesmos meses de 2025. É o terceiro ano seguid…",
+     "link": "https://revistaoeste.com/brasil/criminalidade-no-parana-cai-pelo-3o-ano-seguido-e-chega-ao-menor-nivel-da-historia/",
+     "fonte": "Revista Oeste",
+     "data": "2026-11-09T13:35:39+00:00"
+    },
+    {
+     "id": "ec5c9567045d",
+     "titulo": "Baralho cigano: veja as previsões para os 12 signos de 09 a 15 de novembro de 2026",
+     "resumo": "Ao longo desta semana, relações e oportunidades ganharão importância, enquanto decisões pedirão mais clareza The post Baralho cigano: veja as previsões para os 12 signos de 09 a 15 de novembro de 2026 appeared first on O Antagonista .",
+     "link": "https://oantagonista.com.br/ladooa/variedades/baralho-cigano-veja-as-previsoes-para-os-12-signos-de-09-a-15-de-novembro-de-2026/",
+     "fonte": "O Antagonista",
+     "data": "2026-11-09T13:35:23+00:00"
+    },
+    {
+     "id": "c3b4856a7140",
+     "titulo": "O governo cortou o seu benefício de baixa renda por falta de atualização no CadÚnico? Veja o passo a passo para reativar o pagamento",
+     "resumo": "Para reativar o BPC bloqueado pelo governo, você precisa regularizar o seu cadastro no CRAS da sua cidade o quanto antes. O corte no pagamento da renda mensal pega muita gente de surpresa, mas a solução exige apenas alguns documentos simples e o agendamento no posto de atendimento. Por que o govern…",
+     "link": "https://oantagonista.com.br/economia/o-governo-cortou-o-seu-beneficio-de-baixa-renda-por-falta-de-atualizacao-no-cadunico-veja-o-passo-a-passo-para-reativar-o-pagamento/",
+     "fonte": "O Antagonista",
+     "data": "2026-11-09T13:33:00+00:00"
+    },
+    {
+     "id": "f75b3fdb9d14",
+     "titulo": "Antes de prisão, Vorcaro viu Moraes 2 vezes e pesquisou 'o que é Tremembé?'",
+     "resumo": "Daniel Vorcaro planejava passar o domingo, 16 de novembro de 2025, com a família em Belo Horizonte. Pela manhã, malhou e correu com a filha em sua academia particular ouvindo música gospel. Logo depois, foi à igreja. Os planos, porém, tiveram de ser interrompidos. Pegou seu jatinho na hora do almoç…",
+     "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/poder/2026/11/antes-de-prisao-vorcaro-viu-moraes-2-vezes-e-pesquisou-o-que-e-tremembe.shtml",
+     "fonte": "Folha",
+     "data": "2026-11-09T13:30:00+00:00"
+    },
+    {
+     "id": "b1e75f60af1e",
+     "titulo": "PF conclui relatórios sobre envolvimento de Moraes, Toffoli e Nunes Marques com Vorcaro",
+     "resumo": "A Polícia Federal concluiu na semana passada três relatórios sobre o envolvimento dos ministros do Supremo Tribunal Federal Alexandre de Moraes, Kassio Nunes Marques e Dias Toffoli com o banqueiro Daniel Vorcaro, ex-controlador do Banco Master. Os documentos estão assinados e prontos para serem env…",
+     "link": "https://oantagonista.com.br/brasil/pf-conclui-relatorios-sobre-envolvimento-de-moraes-toffoli-e-nunes-marques-com-vorcaro/",
+     "fonte": "O Antagonista",
+     "data": "2026-11-09T13:27:58+00:00"
+    },
+    {
+     "id": "2ea3a3dc09b7",
+     "titulo": "O município interiorano que ganhou fama no país inteiro como a “cidade dos exageros” pela exibição de objetos gigantes em suas praças",
+     "resumo": "A cidade de Itu ficou famosa no país inteiro por causa dos seus monumentos colossais espalhados no centro histórico. Essa fama de terra onde tudo é grande começou com o humorista Simplício na televisão e atrai milhares de turistas todos os anos no interior paulista. Como a cidade de Itu ganhou a fa…",
+     "link": "https://oantagonista.com.br/ladooa/turismo/o-municipio-interiorano-que-ganhou-fama-no-pais-inteiro-como-a-cidade-dos-exageros-pela-exibicao-de-objetos-gigantes-em-suas-pracas/",
+     "fonte": "O Antagonista",
+     "data": "2026-11-09T13:23:00+00:00"
+    },
+    {
+     "id": "a4db16ee52bd",
+     "titulo": "Lula viaja para a COP com ministros e embaixadores e sem cúpula do Congresso",
+     "resumo": "O presidente Luiz Inácio Lula da Silva (PT) embarcou nesta segunda-feira (9) para a COP31 , a conferência do clima da ONU (Organização das Nações Unidas), na Turquia . O petista foi acompanhado por ministros e embaixadores, mas não contou com a cúpula do Congresso na sua comitiva. Leia mais (11/09/…",
+     "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/lula-viaja-para-a-cop-com-ministros-embaixadores-e-sem-cupula-do-congresso.shtml",
+     "fonte": "Folha",
+     "data": "2026-11-09T13:23:00+00:00"
+    },
+    {
      "id": "8592f60cc28d",
      "titulo": "Quanto custa transformar a laje vazia em um “rooftop” particular para receber amigos em 2026?",
      "resumo": "Transformar laje em rooftop custa entre R$ 15.000 e R$ 40.000 em 2026 para reformar uma área média de 30 m². O valor total cobre a infraestrutura completa, proteção contra umidade e pontos de energia para você receber os amigos no final de semana. Quanto custa transformar laje em rooftop de forma c…",
@@ -2042,6 +2138,22 @@
      "link": "https://www.gazetadopovo.com.br/republica/fux-suspende-afastamento-de-gabriela-hardt-juiza-que-atuou-na-lava-jato/",
      "fonte": "Gazeta do Povo",
      "data": "2026-11-09T13:12:18+00:00"
+    },
+    {
+     "id": "800cc9a3e784",
+     "titulo": "Lula não leva aliados da campanha à Turquia e frustra expectativa de montagem do governo",
+     "resumo": "",
+     "link": "https://www.estadao.com.br/politica/lula-nao-leva-aliados-da-campanha-a-turquia-e-frustra-expectativa-de-montagem-do-governo/",
+     "fonte": "Estadão",
+     "data": "2026-11-09T13:09:14+00:00"
+    },
+    {
+     "id": "5b3f0af2ccc7",
+     "titulo": "Fux suspende decisão do CNJ e manda reintegrar juíza da Lava Jato Gabriela Hardt",
+     "resumo": "",
+     "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/fux-suspende-decisao-do-cnj-e-manda-reintegrar-juiza-da-lava-jato-gabriela-hardt/",
+     "fonte": "Estadão",
+     "data": "2026-11-09T13:06:41+00:00"
     },
     {
      "id": "b9555e46e4b6",
@@ -2101,7 +2213,7 @@
     },
     {
      "id": "7adb8bf9da89",
-     "titulo": "Governo Lula prorroga auxílio Gás do Povo até 2031",
+     "titulo": "Governo Lula prorroga Auxílio Gás do Povo até 2031",
      "resumo": "O governo federal prorrogou até 19 de novembro de 2031 a vigência da lei que institui o Auxílio Gás do Povo. A medida provisória foi assinada pelo presidente Luiz Inácio Lula da Silva na última sexta-feira, 6, e publicada no Diário Oficial da União (DOU) nesta segunda-feira, 9. O novo texto altera…",
      "link": "https://revistaoeste.com/politica/governo-lula-prorroga-auxilio-gas-do-povo-ate-2031/",
      "fonte": "Revista Oeste",
@@ -2204,22 +2316,6 @@
      "data": "2026-11-09T11:46:32+00:00"
     },
     {
-     "id": "6ea793bf2370",
-     "titulo": "O município baiano que abriga a Praia do Forte e a principal base de preservação de tartarugas marinhas do Projeto Tamar",
-     "resumo": "A preservação de tartarugas em Mata de São João movimenta a famosa Praia do Forte com a base principal do Projeto Tamar na Bahia. O passeio no litoral atrai milhares de visitantes para curtir o mar calmo e ver a vida marinha bem de perto. O que faz esse município baiano ser tão famoso no... The pos…",
-     "link": "https://oantagonista.com.br/ladooa/turismo/o-municipio-baiano-que-abriga-a-praia-do-forte-e-a-principal-base-de-preservacao-de-tartarugas-marinhas-do-projeto-tamar/",
-     "fonte": "O Antagonista",
-     "data": "2026-11-09T11:43:00+00:00"
-    },
-    {
-     "id": "d03b226e3d79",
-     "titulo": "Assar cascas de laranja e cravos no forno ainda quente após o almoço: a solução imediata que anula o cheiro de fritura e deixa a casa inteira com aroma de confeitaria",
-     "resumo": "A mistura de cravos e cascas de laranja no forno desliga o cheiro forte de gordura na cozinha após a fritura. Essa dica caseira usa o calor do fogão para espalhar um cheiro doce de padaria por toda a casa. Por que essa receita caseira consegue eliminar a gordura do ar? A casca dos frutos... The pos…",
-     "link": "https://oantagonista.com.br/ladooa/entretenimento/assar-cascas-de-laranja-e-cravos-no-forno-ainda-quente-apos-o-almoco-a-solucao-imediata-que-anula-o-cheiro-de-fritura-e-deixa-a-casa-inteira-com-aroma-de-confeitaria/",
-     "fonte": "O Antagonista",
-     "data": "2026-11-09T11:33:00+00:00"
-    },
-    {
      "id": "51d5d190efe2",
      "titulo": "Lula retoma agenda internacional e viaja à Turquia para COP31",
      "resumo": "O presidente Luiz Inácio Lula da Silva embarca, nesta segunda-feira, 9, para Antália, na Turquia, onde participará da Cúpula de Líderes da COP31, nos dias 11 e 12 de novembro. Será sua primeira participação em um evento internacional desde que conquistou a reeleição. A viagem também marcará a trans…",
@@ -2236,28 +2332,12 @@
      "data": "2026-11-09T11:28:38+00:00"
     },
     {
-     "id": "46c84a36fc57",
-     "titulo": "Padilha celebra SUS na redação do Enem",
-     "resumo": "O ministro da Saúde, Alexandre Padilha, celebrou no domingo, 8, a escolha do Sistema Único de Saúde (SUS) como tema da redação do Exame Nacional do Ensino Médio (Enem) 2026. “Todos felizes porque o povo brasileiro, há poucas semanas atrás, defendeu o SUS, garantindo no debate eleitoral que a saúde…",
-     "link": "https://oantagonista.com.br/brasil/padilha-celebra-sus-na-redacao-do-enem/",
-     "fonte": "O Antagonista",
-     "data": "2026-11-09T11:27:12+00:00"
-    },
-    {
      "id": "d3226c05b8de",
      "titulo": "O ‘velho Senado’ (Império) e o Senado Federal: a alta responsabilidade dos eleitos em 2026",
      "resumo": "",
      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/o-velho-senado-imperio-e-o-senado-federal-a-alta-responsabilidade-dos-eleitos-em-2026/",
      "fonte": "Estadão",
      "data": "2026-11-09T11:25:39+00:00"
-    },
-    {
-     "id": "3c04edbcd33e",
-     "titulo": "O ônibus biarticulado de Curitiba transporta até 270 passageiros e virou símbolo mundial de transporte público rápido",
-     "resumo": "O ônibus biarticulado de Curitiba representa o maior símbolo de eficiência no transporte das capitais. O modelo da marca Volvo carrega até 270 passageiros de uma vez só e mudou a rotina das viagens na cidade. Como esse gigante dos canais exclusivos funciona no dia a dia? Com impressionantes 28 metr…",
-     "link": "https://oantagonista.com.br/ladooa/entretenimento/o-onibus-biarticulado-de-curitiba-transporta-ate-270-passageiros-e-virou-simbolo-mundial-de-transporte-publico-rapido/",
-     "fonte": "O Antagonista",
-     "data": "2026-11-09T11:23:00+00:00"
     },
     {
      "id": "1a8b94073d38",
@@ -2268,28 +2348,12 @@
      "data": "2026-11-09T11:19:07+00:00"
     },
     {
-     "id": "19c2dfc2c544",
-     "titulo": "Quem acredita na responsabilidade fiscal de Lula?",
-     "resumo": "Criou-se a expectativa de que Lula (foto) faria um pronunciamento na noite de domingo, 8, para se comprometer com a responsabilidade fiscal. Na mensagem que foi ao ar, o presidente reeleito em 25 de outubro até pronuncia a expressão “responsabilidade fiscal”, mas praticamente todo o resto do que di…",
-     "link": "https://oantagonista.com.br/analise/quem-acredita-na-responsabilidade-fiscal-de-lula/",
-     "fonte": "O Antagonista",
-     "data": "2026-11-09T11:16:20+00:00"
-    },
-    {
      "id": "8f4e00f1581f",
      "titulo": "Ministro do STJ manda incluir desembargadora foragida em Portugal na difusão vermelha da Interpol",
      "resumo": "",
      "link": "https://www.estadao.com.br/politica/blog-do-fausto-macedo/ministro-do-stj-manda-incluir-desembargadora-foragida-em-portugal-na-difusao-vermelha-da-interpol/",
      "fonte": "Estadão",
      "data": "2026-11-09T11:15:33+00:00"
-    },
-    {
-     "id": "d9792b527dd6",
-     "titulo": "Meta é acusada de ficar com dinheiro não utilizado do fundão eleitoral",
-     "resumo": "Uma ação civil pública apresentada à Justiça Federal acusa a Meta, controladora do Facebook e do Instagram, de não devolver recursos públicos do Fundão Eleitoral e dificultar a devolução do dinheiro que sobra após o encerramento das eleições. Segundo o Instituto de Fiscalização e Controle (IFC), a…",
-     "link": "https://oantagonista.com.br/brasil/meta-e-acusada-de-ficar-com-dinheiro-nao-utilizado-do-fundao-eleitoral/",
-     "fonte": "O Antagonista",
-     "data": "2026-11-09T11:14:19+00:00"
     },
     {
      "id": "7f3b6b065fcc",
@@ -2346,14 +2410,6 @@
      "link": "https://www.gazetadopovo.com.br/republica/eduardo-cunha-culpa-nikolas-ferreira-por-derrota-de-flavio/",
      "fonte": "Gazeta do Povo",
      "data": "2026-11-09T10:14:58+00:00"
-    },
-    {
-     "id": "62f2f9aad2fd",
-     "titulo": "Justiça da Colômbia investiga Gustavo Petro por suspeita de envolvimento em escândalo sexual",
-     "resumo": "A Suprema Corte de Justiça da Colômbia investiga o ex-presidente do país Gustavo Petro por suspeita de conceder contratos públicos em troca de relações sexuais. Uma mulher denunciou ao Ministério Público que ela e outras 30 pessoas receberam contratos nessas condições. Petro, porém, nega as acusaçõ…",
-     "link": "https://revistaoeste.com/mundo/justica-da-colombia-investiga-gustavo-petro-por-suspeita-de-envolvimento-em-escandalo-sexual/",
-     "fonte": "Revista Oeste",
-     "data": "2026-11-09T10:10:41+00:00"
     },
     {
      "id": "6892cd01cbee",
@@ -2612,28 +2668,12 @@
      "data": "2026-11-08T20:00:00+00:00"
     },
     {
-     "id": "77ee3ecb8c88",
-     "titulo": "A derrota dos rinocerontes",
-     "resumo": "A minha educação na Escola Alemã de Lisboa dos anos 80/90 fez com que tivesse lido a maior parte dos clássicos sobre os tempos do nazismo . Uns por obrigação curricular, outros por irresistível impulso. Uma das coisas que sempre me impressionou foi o tema da cumplicidade passiva dos cidadãos. Afina…",
-     "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/mafalda-anjos/2026/11/a-derrota-dos-rinocerontes.shtml",
-     "fonte": "Folha",
-     "data": "2026-11-08T20:00:00+00:00"
-    },
-    {
      "id": "0179f48d9cec",
      "titulo": "Presidente do PT propõe voto em lista partidária com cotas para candidatos LGBT",
      "resumo": "Edinho Silva falou ainda em aumentar reserva de candidaturas femininas para 50% e instituir cotas para indígenas. Leia na Gazeta do Povo.",
      "link": "https://www.gazetadopovo.com.br/republica/presidente-do-pt-propoe-voto-em-lista-partidaria-com-cotas-para-candidatos-lgbt/",
      "fonte": "Gazeta do Povo",
      "data": "2026-11-08T19:01:34+00:00"
-    },
-    {
-     "id": "c3445f3b23aa",
-     "titulo": "TRE-MG suspende investigação da PF contra deputada eleita após denúncia de Flávio Bolsonaro",
-     "resumo": "O TRE-MG (Tribunal Regional Eleitoral de Minas Gerais) determinou a suspensão de uma investigação da Polícia Federal contra a deputada federal eleita Ana Elisa Santos Silva (PT-MG), após uma notícia-crime apresentada pelo até então candidato à presidência Flávio Bolsonaro (PL). Leia mais (11/08/202…",
-     "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/11/tre-mg-suspende-investigacao-da-pf-contra-deputada-eleita-apos-denuncia-de-flavio-bolsonaro.shtml",
-     "fonte": "Folha",
-     "data": "2026-11-08T19:01:00+00:00"
     },
     {
      "id": "5578b89655f1",
@@ -2644,28 +2684,12 @@
      "data": "2026-11-08T18:00:00+00:00"
     },
     {
-     "id": "1708560df2a6",
-     "titulo": "De ditador acidental a 'Mr.Veto'",
-     "resumo": "Quando Trump tomou posse, argumentei que ele governaria sob uma combinação extraordinária de circunstâncias: contava com maiorias no Senado e na Câmara (lembrar que Bush e Reagan governaram com a oposição controlando ambas as casas!). E também na Suprema Corte. E havia ganho as eleições pelo voto p…",
-     "link": "https://redir.folha.com.br/redir/online/poder/rss091/*https://www1.folha.uol.com.br/colunas/marcus-melo/2026/11/de-ditador-acidental-a-mrveto.shtml",
-     "fonte": "Folha",
-     "data": "2026-11-08T18:00:00+00:00"
-    },
-    {
      "id": "588239bef558",
      "titulo": "Gastos eleitorais com Meta batem recorde em segunda eleição sem anúncios no Google",
      "resumo": "Google veda anúncios eleitorais desde 2024 enquanto dona do Facebook e Instagram supera 4 pleitos anteriores somados. Leia na Gazeta do Povo.",
      "link": "https://www.gazetadopovo.com.br/republica/gastos-eleitorais-com-meta-batem-recorde-em-segunda-eleicao-sem-anuncios-no-google/",
      "fonte": "Gazeta do Povo",
      "data": "2026-11-08T16:12:15+00:00"
-    },
-    {
-     "id": "de466f357ca6",
-     "titulo": "‘Exército’ de Eduardo Paes por 2º turno no RJ ‘flopa’ e tem apenas 260 mil seguidores",
-     "resumo": "",
-     "link": "https://www.estadao.com.br/politica/coluna-do-estadao/exercito-de-eduardo-paes-por-2-turno-no-rj-flopa-e-tem-apenas-260-mil-seguidores/",
-     "fonte": "Estadão",
-     "data": "2026-11-08T15:00:00+00:00"
     },
     {
      "id": "96bef0a527eb",
@@ -2690,14 +2714,6 @@
      "link": "https://www.gazetadopovo.com.br/republica/pt-pede-7-milhoes-em-vaquinha-para-quitar-dividas-da-campanha-de-lula/",
      "fonte": "Gazeta do Povo",
      "data": "2026-11-08T13:43:34+00:00"
-    },
-    {
-     "id": "a04b91a934cc",
-     "titulo": "Após eleição, 48% aprovam e 44% desaprovam governo Lula; economia é principal preocupação",
-     "resumo": "",
-     "link": "https://www.estadao.com.br/politica/apos-eleicao-48-aprovam-e-44-desaprovam-governo-lula-economia-e-principal-preocupacao/",
-     "fonte": "Estadão",
-     "data": "2026-11-08T12:00:00+00:00"
     },
     {
      "id": "b55916ae52b3",
