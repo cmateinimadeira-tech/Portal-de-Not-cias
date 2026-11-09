@@ -39,6 +39,7 @@ abas:
       - {nome: Motor1, url: "https://motor1.uol.com.br/rss/articles/all/"}
   politica:
     titulo: Política (comparação)
+    comparar: true   # IA descreve o enquadramento de cada veículo
     fontes:
       - {nome: Gazeta do Povo, url: "https://www.gazetadopovo.com.br/feed/rss/republica.xml"}
       - {nome: Revista Oeste, url: "https://revistaoeste.com/feed/"}

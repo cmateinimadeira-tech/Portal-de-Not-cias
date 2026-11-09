@@ -21,9 +21,10 @@ nav button[aria-selected=true]{background:var(--ac);color:#fff;border-color:var(
 main{max-width:760px;margin:0 auto;padding:12px 16px 40px}
 section[hidden]{display:none}
 article{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:12px 14px;margin-bottom:10px}
-article a{color:var(--txt);text-decoration:none;font-weight:600}
-article a:hover{color:var(--ac)}
+article>a,article>strong{color:var(--txt);text-decoration:none;font-weight:600}
+article>a:hover{color:var(--ac)}
 article p{margin:6px 0 0;color:var(--mut);font-size:.92rem}
+.fontes{list-style:none;margin:8px 0 0;padding:0;font-size:.88rem}.fontes li{margin:3px 0}.enq{color:var(--mut)}
 .meta{font-size:.78rem;color:var(--mut);margin-top:6px}
 .fonte{color:var(--ac);font-weight:600}
 .vazio,.rodape{color:var(--mut);font-size:.85rem;text-align:center;padding:16px}
@@ -43,6 +44,20 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
 <main>
 {% for chave, aba in noticias.get("abas", {}).items() %}
   <section id="aba-{{ chave }}" {% if not loop.first %}hidden{% endif %}>
+  {% if aba.grupos %}
+  {% for g in aba.grupos[:50] %}
+    <article>
+      <strong>{{ g.titulo }}</strong>
+      {% if g.resumo %}<p>{{ g.resumo }}</p>{% endif %}
+      <ul class="fontes">
+      {% for n in g.itens %}
+        <li><a class="fonte" href="{{ n.link }}" target="_blank" rel="noopener">{{ n.fonte }}</a>{% if n.enquadramento %}: <span class="enq">{{ n.enquadramento }}</span>{% endif %}</li>
+      {% endfor %}
+      </ul>
+      <div class="meta">{{ g.itens|length }} fonte{{ 's' if g.itens|length > 1 }} · {{ g.data | hora }}</div>
+    </article>
+  {% endfor %}
+  {% else %}
   {% for n in aba.itens[:60] %}
     <article>
       <a href="{{ n.link }}" target="_blank" rel="noopener">{{ n.titulo }}</a>
@@ -50,6 +65,7 @@ details{font-size:.8rem;color:var(--mut);margin-top:16px}
       <div class="meta"><span class="fonte">{{ n.fonte }}</span> · {{ n.data | hora }}</div>
     </article>
   {% else %}<div class="vazio">Sem notícias no momento.</div>{% endfor %}
+  {% endif %}
     <details><summary>Status das fontes</summary>
       {% for s in aba.status %}<div>{{ '✅' if s.ok else '❌' }} {{ s.fonte }} ({{ s.qtd }}){% if s.erro %} — {{ s.erro }}{% endif %}</div>{% endfor %}
     </details>

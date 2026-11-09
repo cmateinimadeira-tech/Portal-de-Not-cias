@@ -11,7 +11,7 @@ python -m http.server -d docs
 
 ## Estado
 - [x] Etapa 1: esqueleto, RSS, página com abas e tema claro/escuro
-- [ ] Etapa 2: Gemini (agrupar/resumir, política)
+- [x] Etapa 2: Gemini (agrupar/resumir, enquadramento na política)
 - [ ] Etapas 3–6: Banco Central, futebol, F1/NBA/NBB, onde assistir
 
 Fontes em `config/feeds.yml`. Chaves apenas como GitHub Secrets (`GEMINI_API_KEY`, `FOOTBALL_DATA_KEY`).
