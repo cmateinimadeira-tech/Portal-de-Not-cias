@@ -20,6 +20,9 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python -m src.coletar_noticias
+      - run: python -m src.ia.agrupar
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - run: python -m src.build
       - name: Commit
         run: |
@@ -28,4 +31,3 @@ jobs:
           git add data docs
           git diff --cached --quiet || (git commit -m "chore: atualiza notícias" && git pull --rebase -X theirs && git push)
 
-# Reindexa o workflow após a branch virar main
