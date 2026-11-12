@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-11T19:53:17.314710+00:00",
+ "atualizado_em": "2026-11-12T20:29:57.355905+00:00",
  "selic": {
   "valor": 13.75,
   "anterior": 14.0,
@@ -9,18 +9,18 @@
   "fonte": "https://www3.bcb.gov.br/sgspub/"
  },
  "ipca": {
-  "mes": "2026-09-01",
-  "mensal": 0.82,
-  "mensal_anterior": -0.32,
-  "acum12": 4.58,
-  "acum12_anterior": 4.22,
+  "mes": "2026-10-01",
+  "mensal": 0.14,
+  "mensal_anterior": 0.82,
+  "acum12": 4.63,
+  "acum12_anterior": 4.58,
   "rotulo": "IPCA",
   "fonte": "https://www3.bcb.gov.br/sgspub/"
  },
  "dolar": {
-  "valor": 5.5606,
-  "anterior": 5.584,
-  "data": "2026-11-11",
+  "valor": 5.6143,
+  "anterior": 5.5606,
+  "data": "2026-11-12",
   "rotulo": "Dólar (PTAX venda)",
   "fonte": "https://www3.bcb.gov.br/sgspub/"
  },
