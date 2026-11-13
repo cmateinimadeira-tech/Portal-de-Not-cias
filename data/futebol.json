@@ -353,6 +353,94 @@
      "gols_casa": null,
      "gols_fora": null,
      "liga": "BSA"
+    },
+    {
+     "id": 555081,
+     "data": "2026-11-18T22:30:00Z",
+     "status": "TIMED",
+     "rodada": 35,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 4241,
+      "nome": "Coritiba",
+      "sigla": "COR",
+      "escudo": "https://crests.football-data.org/4241.png"
+     },
+     "fora": {
+      "id": 6685,
+      "nome": "Santos",
+      "sigla": "SAN",
+      "escudo": "https://crests.football-data.org/6685.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
+    },
+    {
+     "id": 555086,
+     "data": "2026-11-18T23:00:00Z",
+     "status": "TIMED",
+     "rodada": 35,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 4287,
+      "nome": "Clube do Remo",
+      "sigla": "CRE",
+      "escudo": "https://crests.football-data.org/4287.png"
+     },
+     "fora": {
+      "id": 1772,
+      "nome": "Chapecoense",
+      "sigla": "CHA",
+      "escudo": "https://crests.football-data.org/1772_large.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
+    },
+    {
+     "id": 555082,
+     "data": "2026-11-18T23:30:00Z",
+     "status": "TIMED",
+     "rodada": 35,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 1771,
+      "nome": "Cruzeiro",
+      "sigla": "CRU",
+      "escudo": "https://crests.football-data.org/1771.png"
+     },
+     "fora": {
+      "id": 1769,
+      "nome": "Palmeiras",
+      "sigla": "PAL",
+      "escudo": "https://crests.football-data.org/1769.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
+    },
+    {
+     "id": 555083,
+     "data": "2026-11-18T23:30:00Z",
+     "status": "TIMED",
+     "rodada": 35,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 1783,
+      "nome": "Flamengo",
+      "sigla": "FLA",
+      "escudo": "https://crests.football-data.org/1783.png"
+     },
+     "fora": {
+      "id": 1768,
+      "nome": "Paranaense",
+      "sigla": "CAP",
+      "escudo": "https://crests.football-data.org/1768.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
     }
    ]
   },
@@ -2572,5 +2660,5 @@
    }
   ]
  },
- "atualizado_em": "2026-11-12T20:30:18.027156+00:00"
+ "atualizado_em": "2026-11-13T20:06:11.170663+00:00"
 }
