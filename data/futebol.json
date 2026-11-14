@@ -313,7 +313,7 @@
     {
      "id": 555085,
      "data": "2026-11-14T21:30:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -328,8 +328,8 @@
       "sigla": "CAM",
       "escudo": "https://crests.football-data.org/1766.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 0,
      "liga": "BSA"
     },
     {
@@ -2748,5 +2748,5 @@
    }
   ]
  },
- "atualizado_em": "2026-11-14T18:32:08.226897+00:00"
+ "atualizado_em": "2026-11-14T22:56:50.232666+00:00"
 }
