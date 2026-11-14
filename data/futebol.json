@@ -441,6 +441,94 @@
      "gols_casa": null,
      "gols_fora": null,
      "liga": "BSA"
+    },
+    {
+     "id": 555084,
+     "data": "2026-11-19T00:30:00Z",
+     "status": "TIMED",
+     "rodada": 35,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 1767,
+      "nome": "Grêmio",
+      "sigla": "FBP",
+      "escudo": "https://crests.football-data.org/1767.png"
+     },
+     "fora": {
+      "id": 1777,
+      "nome": "Bahia",
+      "sigla": "BAH",
+      "escudo": "https://crests.football-data.org/1777.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
+    },
+    {
+     "id": 555080,
+     "data": "2026-11-19T00:30:00Z",
+     "status": "TIMED",
+     "rodada": 35,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 1779,
+      "nome": "Corinthians",
+      "sigla": "COR",
+      "escudo": "https://crests.football-data.org/1779.png"
+     },
+     "fora": {
+      "id": 1770,
+      "nome": "Botafogo",
+      "sigla": "BOT",
+      "escudo": "https://crests.football-data.org/1770.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
+    },
+    {
+     "id": 555089,
+     "data": "2026-11-19T22:30:00Z",
+     "status": "TIMED",
+     "rodada": 35,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 1782,
+      "nome": "Vitória",
+      "sigla": "VIT",
+      "escudo": "https://crests.football-data.org/1782.png"
+     },
+     "fora": {
+      "id": 4286,
+      "nome": "Bragantino",
+      "sigla": "RBB",
+      "escudo": "https://crests.football-data.org/4286.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
+    },
+    {
+     "id": 555088,
+     "data": "2026-11-19T22:30:00Z",
+     "status": "TIMED",
+     "rodada": 35,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 1780,
+      "nome": "Vasco da Gama",
+      "sigla": "VAS",
+      "escudo": "https://crests.football-data.org/1780.png"
+     },
+     "fora": {
+      "id": 6684,
+      "nome": "Internacional",
+      "sigla": "SCI",
+      "escudo": "https://crests.football-data.org/6684.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
     }
    ]
   },
@@ -2660,5 +2748,5 @@
    }
   ]
  },
- "atualizado_em": "2026-11-13T20:06:11.170663+00:00"
+ "atualizado_em": "2026-11-14T18:32:08.226897+00:00"
 }
