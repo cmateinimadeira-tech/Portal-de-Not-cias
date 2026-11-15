@@ -104,12 +104,12 @@
         "sigla": "CAM",
         "escudo": "https://crests.football-data.org/1766.png"
        },
-       "pj": 34,
+       "pj": 35,
        "v": 14,
-       "e": 8,
+       "e": 9,
        "d": 12,
        "sg": 4,
-       "pts": 50
+       "pts": 51
       },
       {
        "pos": 8,
@@ -159,6 +159,21 @@
       {
        "pos": 11,
        "time": {
+        "id": 1780,
+        "nome": "Vasco da Gama",
+        "sigla": "VAS",
+        "escudo": "https://crests.football-data.org/1780.png"
+       },
+       "pj": 34,
+       "v": 12,
+       "e": 8,
+       "d": 14,
+       "sg": -5,
+       "pts": 44
+      },
+      {
+       "pos": 12,
+       "time": {
         "id": 1770,
         "nome": "Botafogo",
         "sigla": "BOT",
@@ -172,7 +187,7 @@
        "pts": 42
       },
       {
-       "pos": 12,
+       "pos": 13,
        "time": {
         "id": 4241,
         "nome": "Coritiba",
@@ -187,21 +202,6 @@
        "pts": 42
       },
       {
-       "pos": 13,
-       "time": {
-        "id": 1780,
-        "nome": "Vasco da Gama",
-        "sigla": "VAS",
-        "escudo": "https://crests.football-data.org/1780.png"
-       },
-       "pj": 33,
-       "v": 11,
-       "e": 8,
-       "d": 14,
-       "sg": -7,
-       "pts": 41
-      },
-      {
        "pos": 14,
        "time": {
         "id": 4364,
@@ -209,12 +209,12 @@
         "sigla": "MIR",
         "escudo": "https://crests.football-data.org/4364.png"
        },
-       "pj": 34,
+       "pj": 35,
        "v": 10,
-       "e": 10,
+       "e": 11,
        "d": 14,
        "sg": -9,
-       "pts": 40
+       "pts": 41
       },
       {
        "pos": 15,
@@ -299,11 +299,11 @@
         "sigla": "CHA",
         "escudo": "https://crests.football-data.org/1772_large.png"
        },
-       "pj": 33,
+       "pj": 34,
        "v": 4,
        "e": 9,
-       "d": 20,
-       "sg": -35,
+       "d": 21,
+       "sg": -37,
        "pts": 21
       }
      ]
@@ -313,7 +313,7 @@
     {
      "id": 555085,
      "data": "2026-11-14T21:30:00Z",
-     "status": "IN_PLAY",
+     "status": "FINISHED",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -335,7 +335,7 @@
     {
      "id": 554942,
      "data": "2026-11-14T23:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 21,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -350,8 +350,8 @@
       "sigla": "VAS",
       "escudo": "https://crests.football-data.org/1780.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 2,
      "liga": "BSA"
     },
     {
@@ -443,6 +443,28 @@
      "liga": "BSA"
     },
     {
+     "id": 555080,
+     "data": "2026-11-19T00:30:00Z",
+     "status": "TIMED",
+     "rodada": 35,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 1779,
+      "nome": "Corinthians",
+      "sigla": "COR",
+      "escudo": "https://crests.football-data.org/1779.png"
+     },
+     "fora": {
+      "id": 1770,
+      "nome": "Botafogo",
+      "sigla": "BOT",
+      "escudo": "https://crests.football-data.org/1770.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
+    },
+    {
      "id": 555084,
      "data": "2026-11-19T00:30:00Z",
      "status": "TIMED",
@@ -465,22 +487,22 @@
      "liga": "BSA"
     },
     {
-     "id": 555080,
-     "data": "2026-11-19T00:30:00Z",
+     "id": 555088,
+     "data": "2026-11-19T22:30:00Z",
      "status": "TIMED",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
-      "id": 1779,
-      "nome": "Corinthians",
-      "sigla": "COR",
-      "escudo": "https://crests.football-data.org/1779.png"
+      "id": 1780,
+      "nome": "Vasco da Gama",
+      "sigla": "VAS",
+      "escudo": "https://crests.football-data.org/1780.png"
      },
      "fora": {
-      "id": 1770,
-      "nome": "Botafogo",
-      "sigla": "BOT",
-      "escudo": "https://crests.football-data.org/1770.png"
+      "id": 6684,
+      "nome": "Internacional",
+      "sigla": "SCI",
+      "escudo": "https://crests.football-data.org/6684.png"
      },
      "gols_casa": null,
      "gols_fora": null,
@@ -509,22 +531,22 @@
      "liga": "BSA"
     },
     {
-     "id": 555088,
-     "data": "2026-11-19T22:30:00Z",
+     "id": 555087,
+     "data": "2026-11-20T00:30:00Z",
      "status": "TIMED",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
-      "id": 1780,
-      "nome": "Vasco da Gama",
-      "sigla": "VAS",
-      "escudo": "https://crests.football-data.org/1780.png"
+      "id": 1776,
+      "nome": "São Paulo",
+      "sigla": "PAU",
+      "escudo": "https://crests.football-data.org/1776.png"
      },
      "fora": {
-      "id": 6684,
-      "nome": "Internacional",
-      "sigla": "SCI",
-      "escudo": "https://crests.football-data.org/6684.png"
+      "id": 1765,
+      "nome": "Fluminense",
+      "sigla": "FLU",
+      "escudo": "https://crests.football-data.org/1765.png"
      },
      "gols_casa": null,
      "gols_fora": null,
@@ -1703,7 +1725,30 @@
      ]
     }
    ],
-   "jogos": []
+   "jogos": [
+    {
+     "id": 564748,
+     "data": "2026-11-20T20:00:00Z",
+     "status": "TIMED",
+     "rodada": 13,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 77,
+      "nome": "Athletic",
+      "sigla": "ATH",
+      "escudo": "https://crests.football-data.org/77.png"
+     },
+     "fora": {
+      "id": 80,
+      "nome": "Espanyol",
+      "sigla": "ESP",
+      "escudo": "https://crests.football-data.org/80.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "PD"
+    }
+   ]
   },
   "SA": {
    "nome": "Serie A",
@@ -2295,7 +2340,30 @@
      ]
     }
    ],
-   "jogos": []
+   "jogos": [
+    {
+     "id": 565859,
+     "data": "2026-11-20T19:30:00Z",
+     "status": "TIMED",
+     "rodada": 10,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 5,
+      "nome": "Bayern",
+      "sigla": "FCB",
+      "escudo": "https://crests.football-data.org/5.png"
+     },
+     "fora": {
+      "id": 1,
+      "nome": "1. FC Köln",
+      "sigla": "KOE",
+      "escudo": "https://crests.football-data.org/1.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BL1"
+    }
+   ]
   },
   "FL1": {
    "nome": "Ligue 1",
@@ -2576,7 +2644,30 @@
      ]
     }
    ],
-   "jogos": []
+   "jogos": [
+    {
+     "id": 559622,
+     "data": "2026-11-20T19:45:00Z",
+     "status": "TIMED",
+     "rodada": 11,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 531,
+      "nome": "Troyes",
+      "sigla": "ETR",
+      "escudo": "https://crests.football-data.org/531.png"
+     },
+     "fora": {
+      "id": 533,
+      "nome": "Le Havre",
+      "sigla": "HAC",
+      "escudo": "https://crests.football-data.org/533.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "FL1"
+    }
+   ]
   }
  },
  "destaque": {
@@ -2748,5 +2839,5 @@
    }
   ]
  },
- "atualizado_em": "2026-11-14T22:56:50.232666+00:00"
+ "atualizado_em": "2026-11-15T19:09:12.034741+00:00"
 }
