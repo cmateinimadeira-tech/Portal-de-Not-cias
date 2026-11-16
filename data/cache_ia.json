@@ -1,141 +1,133 @@
 {
  "macro": {
-  "chave": "6e55ca62ad7d95ca",
+  "chave": "a7a65f0c9838ce26",
   "grupos": [
    {
-    "titulo": "Paralisação e crise nos voos dos Estados Unidos",
+    "titulo": "Paralisação e retomada dos voos nos Estados Unidos",
     "ids": [
      "0d5b03e5916c",
-     "f0cbe9e94f22",
-     "3be2343f3035",
-     "7fa1a64c871a",
      "ef94cb6ab57a"
     ]
    },
    {
-    "titulo": "Enem 2026: abstenção, balanço do segundo dia, gabaritos e segurança",
+    "titulo": "Falha em foguete da ULA destrói satélites da Amazon",
     "ids": [
-     "05aa5b23f92c",
-     "7d142210af94",
-     "197245e6c1bd",
-     "bd36a34e211b",
-     "17d5a25e448d",
-     "75e63c2d1b0f",
-     "7d39c4a7abbb",
-     "3f7162d5dce9",
-     "c75307dee234",
-     "3f7bda12b19e"
+     "18d4d0ac7930"
     ]
    },
    {
-    "titulo": "Prejuízos financeiros dos Correios",
+    "titulo": "Aumento da exigência de reservas em dólar pelo Banco do Povo da China",
     "ids": [
-     "6ffb4f7c0b26",
+     "bcdac7fe0251"
+    ]
+   },
+   {
+    "titulo": "Prejuízos financeiros dos Correios e balanço do terceiro trimestre",
+    "ids": [
+     "0dc648c55c37",
      "330d7b43e0c9",
      "f063986eb595",
      "93178eadf7c1",
-     "1d6565c799af",
      "7d41110a5fba"
     ]
    },
    {
-    "titulo": "Retorno de Jensen Huang à Nvidia e pressões do mercado",
+    "titulo": "Enem 2026 registra abstenção, repercussão das provas e problemas técnicos",
+    "ids": [
+     "154220e04a27",
+     "05aa5b23f92c",
+     "197245e6c1bd",
+     "bd36a34e211b",
+     "7d39c4a7abbb",
+     "c75307dee234",
+     "3f7bda12b19e",
+     "7d142210af94"
+    ]
+   },
+   {
+    "titulo": "Tentativa de furto a joalheria em shopping de São Paulo",
+    "ids": [
+     "2c1cd5e70578",
+     "5d3aba438991"
+    ]
+   },
+   {
+    "titulo": "Retorno de Ronaldinho Gaúcho aos gramados",
+    "ids": [
+     "10dba5e4cfdf",
+     "8b25f642c97b"
+    ]
+   },
+   {
+    "titulo": "Pressão pela volta de Jensen Huang ao cargo de CEO da Nvidia",
     "ids": [
      "bfb0f315e5a9",
      "c438d7085315",
-     "1999000567d6",
      "0d9577aa5e82",
      "2f6b742ee626",
      "288a404b2890"
     ]
    },
    {
-    "titulo": "Parceria entre Brasil e Canadá em meio e fundos de proteção ambiental",
-    "ids": [
-     "02ecd3d1d8a8",
-     "ec8d1b566f67"
-    ]
-   },
-   {
-    "titulo": "Retorno de Ronaldinho Gaúcho ao futebol",
-    "ids": [
-     "b3b17e021d26",
-     "8b25f642c97b"
-    ]
-   },
-   {
-    "titulo": "Relação familiar e carreira de Enzo Rabelo e o cantor Bruno",
-    "ids": [
-     "a2350f1e3f64",
-     "ab6ade04b9aa",
-     "e61589feee14"
-    ]
-   },
-   {
-    "titulo": "Primeiro voo tripulado de avião elétrico pela China",
+    "titulo": "China realiza primeiro voo tripulado de avião elétrico",
     "ids": [
      "9fbfaa6cda3a",
      "81eff0e9d4e1"
     ]
    },
    {
-    "titulo": "50 por 1: Álvaro Garnero visita cidade grega marcada por uma das maiores batalhas navais da história",
+    "titulo": "Parceria e fundos de proteção ambiental entre Brasil e Canadá",
     "ids": [
-     "f0b1859d52d9"
+     "02ecd3d1d8a8",
+     "ec8d1b566f67"
     ]
    },
    {
-    "titulo": "Conteúdo extra O Hospital: Hérnia de hiato | #DomingoEspetacular #shorts",
+    "titulo": "Encontre o erro! Gottino ativa modo Lombardi e diverte a web: ‘Essa dupla é demais’",
     "ids": [
-     "c5f6f701d96c"
+     "59979a71c86a"
     ]
    },
    {
-    "titulo": "Carlos Antônio é um homem que há 14 anos tenta provar que está vivo #ReportagensDE #Shorts",
+    "titulo": "Paloma Poeta rouba a cena em dump nas redes sociais: ‘Jornalista ou modelo?’",
     "ids": [
-     "639a9df2cf57"
+     "1a2461ed514f"
     ]
    },
    {
-    "titulo": "Adolescente é apreendido ao tentar furtar joalheria em shopping na zona leste de SP",
+    "titulo": "Boa de caça! Renata Del Bianco vence a Prova de Fogo de A Fazenda 18",
     "ids": [
-     "2c1cd5e70578"
+     "c25fb8a8c8e6"
     ]
    },
    {
-    "titulo": "Comendo Por Aí: Gastronomia inova com bolo e cookie na lata e lasanha preparada em aro de metal",
+    "titulo": "A coragem de recomeçar: entenda o perfil psicológico de Turgay em Iludida",
     "ids": [
-     "4687c4a2b4e7"
+     "00908c73f6fb"
     ]
    },
    {
-    "titulo": "Você Viu Essa? Homem voa com traje propulsor em demonstração nos Estados Unidos",
+    "titulo": "Ana Hickmann mostra transformação do pet Joaquim e emociona web: ‘Um gesto de amor muda duas vidas para sempre’",
     "ids": [
-     "08eecba57f86"
+     "adee0b584cfd"
     ]
    },
    {
-    "titulo": "Jogo cada vez mais apertado 👇 🔥 #AFazenda #Shorts",
+    "titulo": "Rolê na Rede: Yamal pedindo informação e Neymar perdendo pênalti 'tomam' internet",
     "ids": [
-     "4957be59959f"
+     "be901f85d601"
     ]
    },
    {
-    "titulo": "‘Ela se faz de vítima’, dispara Darlin sobre atitudes de Ana com Bissoli | A Fazenda 18",
+    "titulo": "Jorginho detona falta de identificação de jogadores com seleção e analisa Ancelotti",
     "ids": [
-     "56ad097da123"
+     "63f82ee3a862"
     ]
    },
    {
-    "titulo": "Adolescente de 13 anos salva bebê afogado em tanque de peixes no Mato Grosso",
+    "titulo": "'Já deu': Dodô 'decreta' troca de goleiros na seleção e jornalistas debatem futuro camisa 1",
     "ids": [
-     "54e6e05ea8ad"
-    ]
-   },
-   {
-    "titulo": "México registra 10 jornalistas assassinados em 2026 após morte em Acapulco",
-    "ids": [
-     "7fcb13c90e34"
+     "fddec966deba"
     ]
    },
    {
@@ -145,15 +137,159 @@
     ]
    },
    {
-    "titulo": "IA nas candidaturas universitárias desafia equipes de admissão",
+    "titulo": "Carlos Miguel faz revelação incrível sobre pênaltis e traz bastidores do Palmeiras",
     "ids": [
-     "925723b0bc68"
+     "84e493c7bcaa"
     ]
    },
    {
-    "titulo": "Achamos no Brasil: Moradores de São Paulo apostam na honestidade e vendem sem cobrar na hora",
+    "titulo": "'Me fez um cara frio': Carlos Miguel relembra morte dos pais e superação mental",
     "ids": [
-     "b70726776224"
+     "d709e9a3df91"
+    ]
+   },
+   {
+    "titulo": "Jogador do Botafogo pesou 270 kg e passou por mesmo problema de ídolos do futebol",
+    "ids": [
+     "79dd1b479705"
+    ]
+   },
+   {
+    "titulo": "TRETA PÓS-AO VIVO! 🗣️💥 #AFazenda #Shorts",
+    "ids": [
+     "78b727c78be3"
+    ]
+   },
+   {
+    "titulo": "Transtorno do pânico atinge 1% da população, diz médico a Kalil",
+    "ids": [
+     "96b31d37743b"
+    ]
+   },
+   {
+    "titulo": "Mpox: nova variante que circula pelo Brasil já causou surto na África",
+    "ids": [
+     "8ad6d7bf392e"
+    ]
+   },
+   {
+    "titulo": "Bolsa Família 2026: pagamentos de novembro começam nesta segunda; veja calendário",
+    "ids": [
+     "f3bfd4e26009"
+    ]
+   },
+   {
+    "titulo": "Anac registra 211 casos de indisciplina após regra que pune má conduta de passageiros",
+    "ids": [
+     "0bd7d756e277"
+    ]
+   },
+   {
+    "titulo": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
+    "ids": [
+     "023267681c11"
+    ]
+   },
+   {
+    "titulo": "Iene fica perto da mínima em dois meses após contração da economia japonesa",
+    "ids": [
+     "5e29f4c2cb0f"
+    ]
+   },
+   {
+    "titulo": "China tem indicadores de atividade fracos em outubro, evidenciando fraca demanda interna",
+    "ids": [
+     "beb5d51b2403"
+    ]
+   },
+   {
+    "titulo": "Morre ex-jogador Dino Sani, campeão da Copa do Mundo de 1958",
+    "ids": [
+     "2931493809f2"
+    ]
+   },
+   {
+    "titulo": "Preços de imóveis na China recuam em outubro na comparação anual",
+    "ids": [
+     "216d188527d5"
+    ]
+   },
+   {
+    "titulo": "Japão: PIB recua 0,1% no terceiro trimestre em base anualizada, diz leitura preliminar",
+    "ids": [
+     "5bdd045774e7"
+    ]
+   },
+   {
+    "titulo": "Enem 2026: questão de matemática sobre futebol pode ser anulada",
+    "ids": [
+     "7ac15f87ebc1"
+    ]
+   },
+   {
+    "titulo": "Lula chega na Espanha para reunião com Pedro Sánchez; assista",
+    "ids": [
+     "66e986f375dc"
+    ]
+   },
+   {
+    "titulo": "Criança de 4 anos morre após ser jogada de viaduto pela própria mãe em SP",
+    "ids": [
+     "cc473a9c9e65"
+    ]
+   },
+   {
+    "titulo": "OranjeBTC prepara ações preferenciais com dividendo maior que a Selic",
+    "ids": [
+     "731414d2de53"
+    ]
+   },
+   {
+    "titulo": "Fortes chuvas colocam São Paulo em estado de atenção para alagamentos neste domingo",
+    "ids": [
+     "c3e2f5224dc7"
+    ]
+   },
+   {
+    "titulo": "Michelle tira dez dias de férias e diz que sua filha cuidará de Bolsonaro",
+    "ids": [
+     "7d1071fe3ba4"
+    ]
+   },
+   {
+    "titulo": "Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025",
+    "ids": [
+     "2cc6b79cd1e2"
+    ]
+   },
+   {
+    "titulo": "Comida encarece mais nos bairros de menor renda de São Paulo",
+    "ids": [
+     "def7a8b73e9b"
+    ]
+   },
+   {
+    "titulo": "Problema na direção de navio-tanque causou colisão em Nova Orleans",
+    "ids": [
+     "1566f6dc5b5c"
+    ]
+   },
+   {
+    "titulo": "Cerca de 1.500 migrantes chegam às Canárias em apenas um dia",
+    "ids": [
+     "aa8d1efe6a92"
+    ]
+   },
+   {
+    "titulo": "- Reuters",
+    "ids": [
+     "eed96ce5c2f4"
+    ]
+   },
+   {
+    "titulo": "México registra 10 jornalistas assassinados em 2026 após morte em Acapulco",
+    "ids": [
+     "7fcb13c90e34"
     ]
    },
    {
@@ -169,36 +305,6 @@
     ]
    },
    {
-    "titulo": "Nations: Inglaterra bate Espanha e encerra série invicta da campeã mundial",
-    "ids": [
-     "166c0d6f5fff"
-    ]
-   },
-   {
-    "titulo": "Trump, McDonald’s e Burger King estão entre os alvos de posts antigos no X",
-    "ids": [
-     "a085c164e2e0"
-    ]
-   },
-   {
-    "titulo": "Onça-pintada é levada do Paraná até Tocantins para encontrar novo namorado",
-    "ids": [
-     "be0cb7e7443e"
-    ]
-   },
-   {
-    "titulo": "Papa Leão XIV condena desmatamento na Amazônia e morte de líderes indígenas",
-    "ids": [
-     "f4b39d197e49"
-    ]
-   },
-   {
-    "titulo": "Lula decidirá formação dos ministérios quando voltar de viagem, diz Alckmin",
-    "ids": [
-     "ba8fad7decd9"
-    ]
-   },
-   {
     "titulo": "Aversão do PT ao ajuste fiscal mostra a falta que faz uma direita democrática",
     "ids": [
      "657866c43a07"
@@ -208,6 +314,12 @@
     "titulo": "Brasil e Filipinas firmam acordo para ampliar cooperação no agronegócio",
     "ids": [
      "cd22409e9987"
+    ]
+   },
+   {
+    "titulo": "'Não funcionou': Reino Unido se prepara para admitir fracasso do Brexit",
+    "ids": [
+     "54f4aeba2b8e"
     ]
    },
    {
@@ -277,21 +389,9 @@
     ]
    },
    {
-    "titulo": "Infantino encontra Lula nas Filipinas e anuncia reunião sobre Copa Feminina de 2027",
-    "ids": [
-     "2174d053b1f4"
-    ]
-   },
-   {
     "titulo": "Tradicional leilão de vinhos da França sofre com efeitos da crise climática",
     "ids": [
      "2b3be764486c"
-    ]
-   },
-   {
-    "titulo": "FT: A corrida das grandes farmacêuticas para deter o Alzheimer antes do início",
-    "ids": [
-     "e6f72a69ac2b"
     ]
    },
    {
@@ -307,21 +407,9 @@
     ]
    },
    {
-    "titulo": "Milei confirma candidatura à reeleição em 2027",
-    "ids": [
-     "24d6843c43c4"
-    ]
-   },
-   {
     "titulo": "Seu WhatsApp ficou aberto em outro computador? Veja como conferir e desconectar",
     "ids": [
      "ce8b704fe75c"
-    ]
-   },
-   {
-    "titulo": "Papa Leão atravessa o Peru para visitar antiga cidade inca e porta de entrada da Amazônia",
-    "ids": [
-     "b5f9f895b946"
     ]
    },
    {
@@ -361,21 +449,9 @@
     ]
    },
    {
-    "titulo": "Com 62 aviões e novas rotas, low cost de US$ 1 bilhão aposta no Brasil após crescer 56%",
-    "ids": [
-     "987967b75189"
-    ]
-   },
-   {
     "titulo": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
     "ids": [
      "19910856a0d0"
-    ]
-   },
-   {
-    "titulo": "15 franquias baratas a partir de R$ 249 para abrir o próprio negócio em 2026",
-    "ids": [
-     "b502f0868335"
     ]
    },
    {
@@ -433,12 +509,6 @@
     ]
    },
    {
-    "titulo": "Fim do ‘ciclo de ouro’ do minério de ferro afeta mineradoras com menor competitividade no Brasil",
-    "ids": [
-     "8b17e265f0d8"
-    ]
-   },
-   {
     "titulo": "Hidratação nos chifres, 'damas de companhia' e dieta especial: o g1 acompanhou a rotina da vaca mais cara do mundo",
     "ids": [
      "30e1c3b6cdcf"
@@ -449,73 +519,9 @@
     "ids": [
      "b607d54ea338"
     ]
-   },
-   {
-    "titulo": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou?",
-    "ids": [
-     "6bdaf696ed60"
-    ]
-   },
-   {
-    "titulo": "Quais países estão na mira do Brasil para desenvolver cadeias de minerais críticos e terras raras?",
-    "ids": [
-     "ef3883469ef7"
-    ]
-   },
-   {
-    "titulo": "O executivo que foi grosseiro com motorista e perdeu vaga em multinacional: o 'teste de gentileza' que o Duolingo aplica para altos cargos",
-    "ids": [
-     "65c6c155cf36"
-    ]
-   },
-   {
-    "titulo": "Lula vai regular redes sociais? Por que presidente defende mais regras e o que pode mudar",
-    "ids": [
-     "4c847f6537fa"
-    ]
    }
   ],
   "resumos": {
-   "d02e5e48e3dcfa73": {
-    "resumo": "O Banco do Brasil divulgou nota nesta quinta-feira (12) negando ter culpado todo o agronegócio pela queda de 66% em seu lucro no terceiro trimestre de 2026, que ficou em R$ 1,27 bilhão. A instituição afirmou que 90% dos clientes do setor estão com os pagamentos em dia e que os atrasos se concentram em um grupo específico de médio e grande porte. A Aprosoja Brasil rebateu as declarações anteriores da presidente do banco sobre a recusa de renegociação, atribuindo a inadimplência a fatores econômicos e climáticos. Com os resultados abaixo das expectativas e a forte alta na inadimplência, as ações do banco despencaram e a instituição reduziu sua projeção de lucro para o ano.",
-    "pontos": [
-     "Banco do Brasil nega culpa generalizada do agro em queda de lucro",
-     "Lucro do terceiro trimestre cai 66% e ações desabam na bolsa",
-     "Aprosoja rebate alegações e aponta crise climática e econômica"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794536985.8739448
-   },
-   "b40548f6d3e57d2a": {
-    "resumo": "Jensen Huang renunciou aos cargos de presidente, diretor-executivo e membro do conselho da Nvidia nesta quinta-feira (12), com efeito imediato. A saída ocorre após semanas de polêmicas envolvendo revelações de relacionamentos extraconjugais, incluindo um suposto envolvimento com uma empresária apontada como suspeita de espionagem para a China. Fontes indicam que Huang estava arrasado e se rendeu após pressão em meio a investigações independentes abertas pela empresa. A companhia designou Colette Kress interinamente para o cargo, enquanto analistas avaliam os riscos legais e sucessórios para a fabricante de chips.",
-    "pontos": [
-     "Jensen Huang renuncia à liderança da Nvidia",
-     "Saída ocorre após escândalos de relacionamentos e suspeitas de espionagem",
-     "Empresa abre investigação e nomeia Colette Kress interinamente"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794536985.873948
-   },
-   "f884b7fd2baaac38": {
-    "resumo": "O Tesouro Nacional informou nesta quinta-feira (12) que sofreu um acesso não autorizado em suas bases de dados no dia 4 de novembro. O incidente afetou cerca de 30 mil cadastros do portal e-Serviços, expondo nomes, CPFs e e-mails, além de atingir uma base interna com cerca de 4 mil chaves Pix de beneficiários do governo. O órgão garantiu que não houve impacto financeiro nem comprometimento de sistemas estruturantes. Medidas de monitoramento foram reforçadas e o caso foi comunicado à ANPD e ao CTIR Gov.",
-    "pontos": [
-     "Acesso não autorizado expõe 30 mil cadastros e 4 mil chaves Pix",
-     "Tesouro afirma que não houve impacto financeiro ou em sistemas centrais",
-     "Órgão reforça segurança e aciona órgãos competentes"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794536985.8739493
-   },
-   "98803499c61bb80f": {
-    "resumo": "Uma pane global afetou diversos serviços corporativos da Microsoft nesta quinta-feira (12), gerando dificuldades de acesso a plataformas como Outlook, Teams e o assistente de IA Copilot. O Downdetector registrou dezenas de milhares de notificações de usuários afetados em várias regiões, prejudicando a comunicação de empresas, escolas e hospitais. A Microsoft reconheceu a falha, suspendeu atualizações e tentou redirecionar o tráfego e reiniciar servidores sobrecarregados. A empresa relatou dificuldades iniciais, mas indicou recuperação limitada em algumas áreas ao longo do dia.",
-    "pontos": [
-     "Pane global afeta Outlook, Teams e Copilot da Microsoft",
-     "Milhares de usuários e instituições enfrentam instabilidade nos serviços",
-     "Empresa suspende atualizações e tenta normalizar servidores sobrecarregados"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794536985.87395
-   },
    "89131ac71db7077f": {
     "resumo": "Jensen Huang renunciou ao cargo de diretor-presidente da Nvidia na quinta-feira apos revelacoes de relacionamentos extraconjugais, incluindo um com uma suspeita de espionagem chinesa. A saida gerou forte repercussao economica e reacoes politicas, com acoes chinesas de IA caindo devido a temores de novas restricoes dos EUA e o Congresso americano convocando autoridades como o secretario de Comercio, Howard Lutnick, para prestar depoimento. A CFO Colette Kress assumiu temporariamente como CEO interina enquanto a pressao politica e as investigacoes continuam.",
     "pontos": [
@@ -1087,7 +1093,7 @@
      "Projeto reúne a COMAC, a CATL e parceiros acadêmicos."
     ],
     "enquadramentos": {},
-    "usado_em": 1794786731.0567725
+    "usado_em": 1794807581.6049435
    },
    "2473870aa8d98a8f": {
     "resumo": "O Canadá comprometeu-se a destinar até 560 milhões de dólares canadenses (cerca de R$ 2,22 bilhões) ao longo de quatro anos para o Fundo Florestas Tropicais para Sempre (TFFF). O anúncio foi feito pelo primeiro-ministro canadense, Mark Carney, em reunião com o presidente Lula nas Filipinas. O fundo, liderado pelo Brasil e lançado na COP30, busca financiar a proteção de florestas ameaçadas com metas bilionárias.",
@@ -1097,7 +1103,7 @@
      "Recursos apoiam o fundo voltado à proteção de florestas tropicais."
     ],
     "enquadramentos": {},
-    "usado_em": 1794786731.056773
+    "usado_em": 1794807581.6049452
    },
    "b7a41b086d876d01": {
     "resumo": "A aos 46 anos, Ronaldinho Gaúcho retornou oficialmente aos gramados pelo Ravenna, clube da terceira divisão italiana, onde é sócio. O brasileiro atuou no primeiro tempo da vitória por 2 a 0 sobre o Forlì e participou da jogada do primeiro gol da equipe. Ronaldinho estava afastado de partidas oficiais desde setembro de 2015, quando jogou pelo Fluminense. O ex-jogador foi aplaudido pela torcida e cumprimentado por jogadores e pelo ex-goleiro Dida.",
@@ -1108,109 +1114,196 @@
     ],
     "enquadramentos": {},
     "usado_em": 1794786731.0567732
+   },
+   "41d2b89603f0b71b": {
+    "resumo": "Os Correios registraram um prejuízo líquido de R$ 1,931 bilhão no terceiro trimestre de 2026, representando um aumento em relação ao mesmo período do ano anterior. No acumulado de janeiro a setembro, as perdas atingiram R$ 7,484 bilhões. A estatal atribui o resultado à maior concorrência, queda nas receitas de serviços postais e aumento de custos operacionais e de perdas judiciais. Apesar disso, a empresa afirma que o desempenho está alinhado ao seu planejamento econômico e financeiro.",
+    "pontos": [
+     "Prejuízo líquido de R$ 1,931 bilhão no terceiro trimestre de 2026.",
+     "Perdas acumuladas chegam a R$ 7,484 bilhões até setembro.",
+     "Empresa aponta maior concorrência e custos operacionais como causas."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807581.6049373
+   },
+   "87e4082336dcd195": {
+    "resumo": "Jensen Huang articula seu retorno ao cargo de CEO da Nvidia após renunciar em 12 de novembro devido a denúncias de relacionamentos extraconjugais. Sua possível volta conta com forte apoio de funcionários e investidores do Vale do Silício, incluindo Elon Musk. No entanto, o movimento enfrenta resistência política e questionamentos de governança enquanto o conselho investiga o caso.",
+    "pontos": [
+     "Huang renunciou em novembro após denúncias de relacionamentos extraconjugais.",
+     "Funcionários e empresários como Elon Musk apoiam seu retorno.",
+     "Volta enfrenta resistência política e investigações de governança."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807581.60494
+   },
+   "76073581a3bd7f80": {
+    "resumo": "O segundo dia do Enem 2026, focado em Matemática e Ciências da Natureza, registrou uma taxa de abstenção de 36%. O ministro da Educação anunciou que o Inep apresentará propostas de mudanças para a prova de 2028 nas próximas semanas. O gabarito oficial deve ser divulgado até 30 de novembro, com notas previstas para janeiro de 2027.",
+    "pontos": [
+     "Abstenção no segundo dia de provas foi de 36%.",
+     "Governo anuncia planos de mudanças no Enem para 2028.",
+     "Gabarito oficial previsto para até 30 de novembro."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807581.604941
+   },
+   "aa278d5052972912": {
+    "resumo": "A paralisação nacional dos voos nos Estados Unidos foi encerrada na sexta-feira após uma falha técnica nos sistemas de controle aéreo associada à modernização de infraestrutura. Autoridades alertaram que a normalização completa do tráfego aéreo pode se estender até segunda-feira devido a efeitos em cadeia e milhares de cancelamentos. O presidente Donald Trump atribuiu a crise à gestão anterior.",
+    "pontos": [
+     "Paralisação foi causada por falha técnica em sistemas de controle aéreo.",
+     "Normalização completa das operações pode levar até segunda-feira.",
+     "Milhares de voos foram cancelados ou sofreram atrasos."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807581.6049416
+   },
+   "75b30adbdf98aa55": {
+    "resumo": "Um adolescente foi apreendido ao tentar furtar uma joalheria localizada em um shopping na zona leste de São Paulo. A ocorrência mobilizou a segurança e as autoridades policiais locais. Nenhum detalhe adicional sobre a dinâmica do crime foi divulgado pelas fontes.",
+    "pontos": [
+     "Adolescente foi apreendido em tentativa de furto.",
+     "Ocorrência foi registrada em shopping na zona leste de SP."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807581.604942
+   },
+   "6576b0a47cde2227": {
+    "resumo": "Aos 46 anos, Ronaldinho Gaúcho voltou oficialmente aos gramados pelo Ravenna, clube da terceira divisão italiana do qual é sócio. O ex-jogador atuou no primeiro tempo da vitória por 2 a 0 sobre o Forlì, dando o passe para a jogada do primeiro gol. Ele estava afastado de partidas oficiais desde 2015.",
+    "pontos": [
+     "Ronaldinho Gaúcho estreou oficialmente pelo Ravenna aos 46 anos.",
+     "Brasileiro deu o passe que iniciou a jogada do primeiro gol da partida.",
+     "Ex-jogador estava afastado de jogos oficiais desde setembro de 2015."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807581.6049426
    }
   }
  },
  "ciencia": {
-  "chave": "153c31c99bb335cc",
+  "chave": "50c587fac0188790",
   "grupos": [
    {
-    "titulo": "Proposta de mudanca no Enem",
+    "titulo": "Plano de ajuste fiscal no Brasil",
     "ids": [
-     "d09cb6247390"
+     "6a8b9e92c541"
     ]
    },
    {
-    "titulo": "Falha no foguete Vulcan da ULA",
+    "titulo": "Declarações sobre transtorno do pânico",
+    "ids": [
+     "96b31d37743b"
+    ]
+   },
+   {
+    "titulo": "Circulação de nova variante da Mpox no Brasil",
+    "ids": [
+     "8ad6d7bf392e"
+    ]
+   },
+   {
+    "titulo": "Morte do ex-jogador Dino Sani",
+    "ids": [
+     "2931493809f2"
+    ]
+   },
+   {
+    "titulo": "Nubank obtém aprovação para atuar como banco de fato",
+    "ids": [
+     "247bd8f30e17"
+    ]
+   },
+   {
+    "titulo": "Divulgação do gabarito e questões do Enem 2026",
+    "ids": [
+     "31e92bb55caf",
+     "7ac15f87ebc1"
+    ]
+   },
+   {
+    "titulo": "Estudo da Apple sobre ferramentas de IA na área da saúde",
+    "ids": [
+     "f7214e14d1e1"
+    ]
+   },
+   {
+    "titulo": "Morte de criança de 4 anos em São Paulo",
+    "ids": [
+     "cc473a9c9e65"
+    ]
+   },
+   {
+    "titulo": "Colisão de navio-tanque em Nova Orleans",
+    "ids": [
+     "1566f6dc5b5c"
+    ]
+   },
+   {
+    "titulo": "Falha em lançamento de foguete Vulcan e perda de satélites",
     "ids": [
      "2eef4a5b12a1",
      "c8f9f37dbdfe"
     ]
    },
    {
-    "titulo": "Plano de ajuste fiscal",
+    "titulo": "Chegada de migrantes às Ilhas Canárias",
     "ids": [
-     "6a8b9e92c541"
+     "aa8d1efe6a92"
     ]
    },
    {
-    "titulo": "Escandalo e saida de Jensen Huang da Nvidia",
+    "titulo": "Tentativa de furto a joalheria em São Paulo",
+    "ids": [
+     "5d3aba438991"
+    ]
+   },
+   {
+    "titulo": "Retorno de Ronaldinho Gaúcho aos gramados",
+    "ids": [
+     "10dba5e4cfdf"
+    ]
+   },
+   {
+    "titulo": "Saída de Jensen Huang da Nvidia e articulações de retorno",
     "ids": [
      "bfb0f315e5a9",
      "46e6a1714e8a",
      "2f1f5cbf7ce8",
      "041453c06eb5",
-     "1207b5c1c70b",
      "ec771738a3c8",
-     "4c525e5e54fa",
      "fc996ef608e8"
     ]
    },
    {
-    "titulo": "Uso de IA em candidaturas universitarias",
+    "titulo": "Lançamentos de games da semana",
     "ids": [
-     "925723b0bc68"
+     "04d3bfe93c1e",
+     "0d8873279428",
+     "ec9fb061f98b"
     ]
    },
    {
-    "titulo": "Lancamentos de games da semana",
-    "ids": [
-     "04d3bfe93c1e"
-    ]
-   },
-   {
-    "titulo": "Liga das Nacoes: Inglaterra vence a Espanha",
-    "ids": [
-     "166c0d6f5fff"
-    ]
-   },
-   {
-    "titulo": "Vilarejo proximo a deserto que imita Marte",
-    "ids": [
-     "3744794a7229"
-    ]
-   },
-   {
-    "titulo": "Vagas para trabalho remoto",
+    "titulo": "Vagas de trabalho remoto e home office",
     "ids": [
      "fe2f3202d435"
     ]
    },
    {
-    "titulo": "Posts antigos de personalidades no X",
-    "ids": [
-     "a085c164e2e0"
-    ]
-   },
-   {
-    "titulo": "Novo album de Armand Hammer",
+    "titulo": "Lançamento musical do Armand Hammer",
     "ids": [
      "e79827897bbc"
     ]
    },
    {
-    "titulo": "Gabarito extraoficial do Enem 2026",
-    "ids": [
-     "3c2dd1fb32b9",
-     "75e63c2d1b0f",
-     "17ee8504d8ae",
-     "afb66a5e9b2a"
-    ]
-   },
-   {
-    "titulo": "Translocacao de onca-pintada",
-    "ids": [
-     "be0cb7e7443e"
-    ]
-   },
-   {
-    "titulo": "Estudos sobre a necessidade de sono",
+    "titulo": "Estudos sobre a necessidade humana de sono e genética",
     "ids": [
      "f9f42d3254b1"
     ]
    },
    {
-    "titulo": "Fraude em prova com uso de IA na Coreia do Sul",
+    "titulo": "Congresso dos EUA debate regras de exportação de chips de IA",
+    "ids": [
+     "1207b5c1c70b"
+    ]
+   },
+   {
+    "titulo": "Investigação de fraude em prova na Coreia do Sul com uso de inteligência artificial",
     "ids": [
      "2bf2e8fbdb53",
      "51ab5774516d",
@@ -1218,59 +1311,58 @@
     ]
    },
    {
-    "titulo": "Token de maioridade digital no gov.br",
+    "titulo": "Projeto de lei cria token de maioridade digital no gov.br",
     "ids": [
      "ed846ddb0849"
     ]
    },
    {
-    "titulo": "Ataque cibernetico a redes moveis",
+    "titulo": "Ataques cibernéticos e sequestro de redes móveis",
     "ids": [
      "c336f921881c"
     ]
    },
    {
-    "titulo": "Ataque cibernetico a servico postal na Franca",
+    "titulo": "Ataque cibernético expõe dados na França",
     "ids": [
      "fd2caab7602b",
      "61414f276f1e"
     ]
    },
    {
-    "titulo": "Apps e jogos gratis na Play Store",
+    "titulo": "Aplicativos pagos e pacotes de ícones gratuitos na Play Store",
     "ids": [
      "c98e56eebb00",
      "3d3e1e235e15"
     ]
    },
    {
-    "titulo": "Promocoes de Black Friday",
+    "titulo": "Promoções e ofertas de produtos tecnológicos para a Black Friday",
     "ids": [
      "cdb14c6097ac",
+     "589f2eca044b",
+     "21a87d20e46b",
+     "839bbe1e9500",
      "c086327fd014",
-     "f2f552875308"
+     "f2f552875308",
+     "922758251b27",
+     "f428b9e266cd"
     ]
    },
    {
-    "titulo": "Oculos inteligentes da Apple",
+    "titulo": "Desenvolvimento dos primeiros óculos inteligentes da Apple",
     "ids": [
      "f2d2038ff2ce"
     ]
    },
    {
-    "titulo": "Lancamento de GTA 6",
-    "ids": [
-     "0d8873279428"
-    ]
-   },
-   {
-    "titulo": "Podcast e curiosidades sobre cultura pop",
+    "titulo": "Histórias e curiosidades sobre podcasts e cultura pop",
     "ids": [
      "86b92c1c4e1d"
     ]
    },
    {
-    "titulo": "Resultados de loterias",
+    "titulo": "Resultados de loterias e concursos",
     "ids": [
      "2a8e592b8050",
      "a1da6b77dfee",
@@ -1278,273 +1370,162 @@
     ]
    },
    {
-    "titulo": "Dicas e indicacoes de games",
+    "titulo": "Apagão global de sistemas da Microsoft e falhas associadas",
     "ids": [
-     "ec9fb061f98b"
-    ]
-   },
-   {
-    "titulo": "Promocoes de TVs",
-    "ids": [
-     "589f2eca044b",
-     "f428b9e266cd"
-    ]
-   },
-   {
-    "titulo": "Historico do robo Sony Aibo",
-    "ids": [
-     "93924dd20f9b"
-    ]
-   },
-   {
-    "titulo": "Multa da Italia contra a Meta",
-    "ids": [
-     "14cf10ff9828",
-     "acb0dc959470"
-    ]
-   },
-   {
-    "titulo": "Riscos da concentracao de servicos digitais e apagao da Microsoft",
-    "ids": [
-     "a96c018eee8b",
      "8d20b32119c4",
+     "93924dd20f9b",
+     "a96c018eee8b",
      "50760c1d8ffc",
      "122e051ecbdc",
-     "d6eb0bccf40a"
+     "d6eb0bccf40a",
+     "a3eec27e07e1"
     ]
    },
    {
-    "titulo": "Impacto de lockdowns nos incendios globais",
+    "titulo": "Histórico de incêndios florestais durante os lockdowns da Covid-19",
     "ids": [
      "f6708dd5d15d"
     ]
    },
    {
-    "titulo": "Dispositivos inteligentes da Amazon na Black Friday",
-    "ids": [
-     "21a87d20e46b",
-     "839bbe1e9500"
-    ]
-   },
-   {
-    "titulo": "Fornecimento de celulares para o Senado",
+    "titulo": "Contrato de fornecimento de celulares e serviços para o Senado Federal",
     "ids": [
      "8b77476d53a0"
     ]
    },
    {
-    "titulo": "Jogos gratis no celular",
+    "titulo": "Liberação de jogos gratuitos para celular pela Epic Games",
     "ids": [
      "02882e9edff7"
     ]
    },
    {
-    "titulo": "Minerais criticos e terras raras no Brasil",
+    "titulo": "Estratégia do Brasil para exploração de minerais críticos e terras raras",
     "ids": [
      "ef3883469ef7"
     ]
    },
    {
-    "titulo": "Teste de gentileza em processos seletivos",
+    "titulo": "Práticas de recrutamento e testes de gentileza em empresas",
     "ids": [
      "65c6c155cf36"
     ]
    },
    {
-    "titulo": "Debate sobre regulacao das redes sociais",
+    "titulo": "Debate sobre regulamentação das redes sociais no Brasil",
     "ids": [
      "4c847f6537fa"
     ]
    },
    {
-    "titulo": "Testes e lancamentos do foguete Starship da SpaceX",
+    "titulo": "Testes e pouso de foguetes Starship da SpaceX",
     "ids": [
      "ce3d0293b235",
      "46f76adf161f"
     ]
    },
    {
-    "titulo": "Telescopio James Webb encontra gelo antigo",
+    "titulo": "Multa aplicada à Meta na Itália por uso de fotos de usuários",
+    "ids": [
+     "14cf10ff9828",
+     "acb0dc959470"
+    ]
+   },
+   {
+    "titulo": "Descobertas astronômicas do telescópio James Webb",
     "ids": [
      "36a3bda31172"
     ]
    },
    {
-    "titulo": "Sustentabilidade na producao de vinhos",
+    "titulo": "Práticas de conservação na viticultura",
     "ids": [
      "c03a709644df"
     ]
    },
    {
-    "titulo": "Cobertura de prejuizo de roubo de criptomoedas pela Binance",
+    "titulo": "Binance cobre prejuízos de ataques hackers",
     "ids": [
      "8a1e44df695e"
     ]
    },
    {
-    "titulo": "Bloqueio de telemarketing pela TIM",
+    "titulo": "Anatel determina desligamento de função de bloqueio de telemarketing na TIM",
     "ids": [
      "3d5338c3e8fc"
     ]
    },
    {
-    "titulo": "Suspensao de voos e equipamentos obsoletos nos EUA",
-    "ids": [
-     "a3eec27e07e1"
-    ]
-   },
-   {
-    "titulo": "Uso de medicamentos GLP-1",
+    "titulo": "Padrões de uso de medicamentos para perda de peso",
     "ids": [
      "d1bdb0722f55"
     ]
    },
    {
-    "titulo": "Uso de IA no controle de trafego aereo",
+    "titulo": "FAA amplia uso de IA para gerenciar o tráfego aéreo nos EUA",
     "ids": [
      "c479f2841d4a"
     ]
    },
    {
-    "titulo": "Ecologia e populacao de elefantes no Sri Lanka",
+    "titulo": "Impactos das mudanças ecológicas em populações de elefantes",
     "ids": [
      "577455be57bd"
     ]
    },
    {
-    "titulo": "Novas versoes do Euro-Office",
+    "titulo": "Lançamento da suíte de escritório Euro-Office / Nextcloud Office",
     "ids": [
      "5d2365cd94ab"
     ]
    },
    {
-    "titulo": "Kalshi afasta conselheiro ligado a Trump",
+    "titulo": "Mudanças na assessoria da plataforma Kalshi",
     "ids": [
      "61497b9e7ad8"
     ]
    },
    {
-    "titulo": "Ofertas de smartphones na Amazon",
-    "ids": [
-     "922758251b27"
-    ]
-   },
-   {
-    "titulo": "Fim do suporte a documentos antigos do Word",
+    "titulo": "Microsoft encerra suporte a formatos antigos de documentos do Word",
     "ids": [
      "b3c70ce275d8"
     ]
    },
    {
-    "titulo": "Riscos existenciais da Inteligencia Artificial",
+    "titulo": "Debates sobre riscos existenciais e controle da inteligência artificial",
     "ids": [
      "743e8b03b2d9"
     ]
    },
    {
-    "titulo": "ChatGPT Wallet para compras com agentes de IA",
+    "titulo": "OpenAI anuncia ChatGPT Wallet para agentes de IA realizarem compras",
     "ids": [
      "32ca5638c673"
     ]
    },
    {
-    "titulo": "Controle da pressao arterial e saude cardiovascular",
+    "titulo": "Pesquisa sobre controle da pressão arterial na prevenção de AVC e infarto",
     "ids": [
      "8591c45b7888"
     ]
    },
    {
-    "titulo": "Retrocompatibilidade de jogos no Xbox",
+    "titulo": "Expansão de retrocompatibilidade de jogos pela Xbox",
     "ids": [
      "ba96d7741d4b"
     ]
    },
    {
-    "titulo": "Vazamento de dados no Tesouro Nacional",
+    "titulo": "Boletins e resumos de tecnologia e inteligência artificial",
     "ids": [
-     "95f867ecfe5a"
-    ]
-   },
-   {
-    "titulo": "Noticias do setor tecnologico",
-    "ids": [
-     "f1dbc25a6463"
-    ]
-   },
-   {
-    "titulo": "Historico da revista Pesquisa FAPESP",
-    "ids": [
-     "e9ef57d27d2f"
-    ]
-   },
-   {
-    "titulo": "Implantes cerebrais e autonomia de pacientes",
-    "ids": [
-     "04ab322d24b7"
-    ]
-   },
-   {
-    "titulo": "Analise sobre previsoes politicas do Vale do Silicio",
-    "ids": [
+     "f1dbc25a6463",
+     "e9ef57d27d2f",
+     "04ab322d24b7",
      "5de37488cd54"
     ]
    }
   ],
   "resumos": {
-   "10269d46aa88a96b": {
-    "resumo": "A Caixa Vida e Previdência sofreu uma invasão em seus sistemas que resultou no vazamento de dados de 7,6 milhões de clientes e ex-clientes. Informações como nomes, CPFs, datas de nascimento, e-mails e telefones foram copiadas por invasores, embora a empresa tenha afirmado que não há indícios de vazamento de dados financeiros ou de senhas. A instituição comunicou o incidente à ANPD e aos clientes afetados, alertando sobre o risco de tentativas de fraudes.",
-    "pontos": [
-     "A ataque hacker expõe dados cadastrais de 7,6 milhões de clientes da Caixa Vida e Previdência.",
-     "Informações como CPF, nome, e-mail e telefone foram comprometidas.",
-     "Empresa informou que dados financeiros e senhas não foram acessados e notificou a ANPD."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794536997.3936
-   },
-   "d45339f8891ae450": {
-    "resumo": "Diversos serviços da Microsoft, incluindo o Outlook e o Microsoft 365, apresentaram instabilidade e quedas na tarde desta quinta-feira (12). Usuários relataram dificuldades de acesso e login, com dezenas de milhares de notificações registradas no DownDetector. A Microsoft confirmou que o problema decorre de uma sobrecarga de infraestrutura em múltiplas regiões afetando o Exchange Online. A empresa suspendeu atualizações e iniciou o processo de recuperação e reinicialização dos servidores afetados, sem prazo definido para a normalização completa.",
-    "pontos": [
-     "Outlook e Microsoft 365 instáveis nesta quinta-feira (12).",
-     "Empresa aponta sobrecarga de infraestrutura em várias regiões.",
-     "Serviço Exchange Online foi o principal afetado.",
-     "Sem previsão exata para a restauração completa dos serviços."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794536997.3935938
-   },
-   "79c6f68d4f77a024": {
-    "resumo": "O Google anunciou nesta quinta-feira (12/11) o novo modelo de inteligência artificial Gemini 4 Hydrogen, focado em tarefas cotidianas e perguntas complexas. O lançamento substitui o Gemini 3.8 Flash, prometendo respostas mais rápidas, menor taxa de alucinação e novos níveis de raciocínio. O modelo já está disponível de forma gratuita na Busca e no aplicativo do Gemini, além de contar com opções pagas de API para desenvolvedores.",
-    "pontos": [
-     "Google lança o modelo de IA Gemini 4 Hydrogen.",
-     "Substitui o antigo Gemini 3.8 Flash com melhorias de velocidade.",
-     "Disponibilizado na Busca do Google e no aplicativo Gemini.",
-     "Oferece novos modos de raciocínio e preços específicos para API."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794536997.3935966
-   },
-   "4e44a47e27346a89": {
-    "resumo": "Jensen Huang aceitou prestar depoimento ao Congresso dos Estados Unidos a portas fechadas para esclarecer suas relações com Alice Huang, apontada como possível agente de inteligência chinesa. O convite foi feito por três comissões da Câmara dos Representantes, que também pretendem investigar os protocolos de segurança da Nvidia e políticas de exportação de chips. A confirmação ocorre no mesmo dia em que Huang deixou o comando da fabricante de semicondutores. A data exata do encontro ainda está em negociação entre os parlamentares e representantes do executivo.",
-    "pontos": [
-     "Jensen Huang aceita depor ao Congresso dos EUA.",
-     "Foco é a relação com Alice Huang e a segurança nacional.",
-     "Anúncio ocorre após a saída de Huang da liderança da Nvidia.",
-     "Data da reunião a portas fechadas ainda está sendo definida."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794536997.3935978
-   },
-   "1aa2537101a5c7e5": {
-    "resumo": "O Tesouro Nacional identificou um acesso não autorizado a dados de aproximadamente 30 mil cadastros do portal e-Serviços e 4 mil chaves Pix de beneficiários do governo federal. O incidente, descoberto em 4 de novembro, não causou impacto financeiro nem comprometeu sistemas estruturantes do órgão. O Tesouro alertou que as informações vazadas podem ser exploradas por criminosos em golpes de engenharia social e comunicou o caso à ANPD e ao CTIR Gov.",
-    "pontos": [
-     "Acesso não autorizado atingiu 30 mil cadastros e 4 mil chaves Pix.",
-     "Incidente foi descoberto em 4 de novembro e divulgado dia 12.",
-     "Não houve impacto financeiro ou queda de sistemas principais.",
-     "Órgão alerta para riscos de uso dos dados em golpes."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794536997.3935988
-   },
    "81f0e3daa6153860": {
     "resumo": "O Google anunciou o lançamento do Gemini 4 Hydrogen, um novo modelo de IA que substitui o Gemini 3.8 Flash e promete respostas mais rápidas e maior precisão para tarefas cotidianas. A novidade está disponível no aplicativo Gemini e na Busca do Google, com preços específicos de API para desenvolvedores. Paralelamente, a empresa alterou as condições de acesso do plano Google AI Plus, cujos assinantes perderam o acesso aos modelos Gemini Pro a partir de 13 de novembro de 2026. Com isso, os usuários do plano mais barato ficaram restritos às categorias Flash-Lite e Flash, enquanto os modelos Pro e avançados passaram a ser exclusivos de planos superiores.",
     "pontos": [
@@ -1955,7 +1936,7 @@
      "Governo pretende suspender o certificado obtido pelo primeiro colocado."
     ],
     "enquadramentos": {},
-    "usado_em": 1794786739.62205
+    "usado_em": 1794807592.2250931
    },
    "4c367766fe11ca7c": {
     "resumo": "A Black Friday e a Black November trazem diversas promoções e descontos em produtos eletrônicos e de tecnologia. Entre os destaques estão a chave de fenda elétrica sem fio Fanttik S1 Pro com desconto na Amazon, o Echo Pop da Amazon com compatibilidade com a Alexa Plus e o notebook ASUS Vivobook Go 15 com queda de preço no Pix. As ofertas buscam atrair consumidores interessados em economia para compras de fim de ano.",
@@ -1995,7 +1976,7 @@
      "Empresa notificou autoridades e gerou investigação judicial."
     ],
     "enquadramentos": {},
-    "usado_em": 1794786739.6220536
+    "usado_em": 1794807592.2250993
    },
    "98a7039e126fe884": {
     "resumo": "Jensen Huang renunciou ao cargo de CEO da Nvidia após revelações de relacionamentos extraconjugais, incluindo ligações com uma empresária investigada nos Estados Unidos por suspeita de espionagem e comércio irregular de chips. A saída gerou debates sobre a segurança das informações da empresa e sua relação com o mercado chinês. O secretário do Tesouro dos EUA, Scott Bessent, sugeriu que a companhia busque um novo líder fora de seus quadros para uma reformulação, enquanto Colette Kress assumiu o comando interinamente.",
@@ -2015,7 +1996,7 @@
      "Empresa contestou a penalidade e informou que vai recorrer."
     ],
     "enquadramentos": {},
-    "usado_em": 1794786739.6220562
+    "usado_em": 1794807592.225101
    },
    "8441a2fefef36fb8": {
     "resumo": "A Secretaria do Tesouro Nacional (STN) emitiu um alerta informando sobre um vazamento de dados que atingiu 30 mil usuários do portal e-Serviços, expondo nomes, CPFs e e-mails. Além disso, 4 mil chaves Pix vinculadas a pagamentos do Governo Federal foram expostas, embora sem comprovação de comprometimento das contas bancárias. O incidente foi mitigado e notificado à Autoridade Nacional de Proteção de Dados (ANPD).",
@@ -2055,7 +2036,7 @@
      "Impacto para contratos de segurança nacional e concorrência"
     ],
     "enquadramentos": {},
-    "usado_em": 1794786739.6220527
+    "usado_em": 1794807592.2250972
    },
    "fb89a7758f8b9ed9": {
     "resumo": "O comércio antecipa promoções da Black Friday e Black November com descontos em eletrônicos e ferramentas. A Amazon oferece a chave de fenda elétrica Fanttik S1 Pro com redução de preço e o notebook ASUS Vivobook Go 15 com desconto de 46% no Pix. As ofertas buscam atrair consumidores em busca de itens para o dia a dia.",
@@ -2076,28 +2057,101 @@
     ],
     "enquadramentos": {},
     "usado_em": 1794786739.622055
+   },
+   "c5b618336d67c2df": {
+    "resumo": "Um apagão global de sistemas da Microsoft na quinta-feira (12) afetou serviços como Outlook, Teams e Copilot em mais de 70 países, atingindo hospitais, tribunais, companhias aéreas e governos. A interrupção ocorreu devido a uma atualização na capacidade de rede e foi totalmente solucionada no sábado (14), sem indícios de ataques cibernéticos. O incidente destacou os riscos da forte concentração tecnológica em poucos fornecedores. Simultaneamente, uma falha separada no controle de tráfego aéreo dos Estados Unidos paralisou voos por mais de quatro horas na sexta-feira (13).",
+    "pontos": [
+     "Pane global da Microsoft afetou mais de 70 países e serviços essenciais.",
+     "Atualização de rede causou o problema, descartando-se ataques cibernéticos.",
+     "Apagão aéreo nos EUA na mesma data foi provocado por falha no tráfego aéreo, sem relação com disquetes."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807592.2250893
+   },
+   "d973f4c5ca22f0e2": {
+    "resumo": "Jensen Huang renunciou aos cargos de liderança na Nvidia na quinta-feira (12) após revelações de casos extraconjugais com uma subordinada e com uma mulher suspeita de espionagem chinesa. Poucos dias depois, surgiram informações de que ele articula um retorno ao cargo com apoio de líderes do Vale do Silício, enquanto a empresa enfrenta forte desvalorização de mercado e ele foi convocado para prestar depoimento ao Congresso dos EUA. A possível volta enfrenta resistência de autoridades governamentais em Washington.",
+    "pontos": [
+     "Jensen Huang renunciou após escândalo envolvendo casos extraconjugais.",
+     "Aliados e executivos do Vale do Silício articulam seu retorno à liderança da Nvidia.",
+     "Empresa sofreu forte perda de valor de mercado e Huang foi convocado pelo Congresso americano."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807592.2250917
+   },
+   "afff709e0a898667": {
+    "resumo": "Vários veículos de tecnologia passaram a divulgar promoções e guias de compra antecipados para a Black Friday de 2026. Entre os itens destacados com descontos estão a chave de fenda elétrica Fanttik S1 Pro, o smart speaker Echo Pop com suporte à Alexa Plus e o notebook ASUS Vivobook Go 15. As ofertas buscam atrair consumidores interessados em eletrônicos e utilidades antes da data oficial do evento em novembro.",
+    "pontos": [
+     "Veículos destacam ofertas antecipadas para a Black Friday 2026.",
+     "Produtos como furadeiras, smart speakers e notebooks aparecem com descontos significativos."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807592.2250953
+   },
+   "69f48bc8289cf628": {
+    "resumo": "Boletins e resumos recentes de tecnologia abordaram temas como a aproximação de líderes do Vale do Silício com a agenda política do governo dos EUA e a confirmação privada da Nvidia sobre a viabilidade de rastrear chips para evitar o contrabismo. Além disso, publicações resgataram o histórico de desenvolvimento científico nacional, como a criação de um pigmento branco inovador a partir de fosfato de alumínio desenvolvido na Unicamp com apoio da FAPESP.",
+    "pontos": [
+     "Nvidia confirma possibilidade de rastrear chips para combater contrabismo.",
+     "Resumos abordam estratégias do Vale do Silício e inovações científicas históricas apoiadas pela FAPESP."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807592.2251027
    }
   }
  },
  "ia": {
-  "chave": "18cb022916cd9737",
+  "chave": "6d983724a3ad1fef",
   "grupos": [
    {
-    "titulo": "Falha em foguete Vulcan da ULA destrói satélites e afeta competidores",
+    "titulo": "Lançamento do Qwen3.8-27B-Perplexing-Pegasus-Heretic",
+    "ids": [
+     "2bd7a4457d0a"
+    ]
+   },
+   {
+    "titulo": "Discussões sobre modelos de linguagem especializados de 4B",
+    "ids": [
+     "f976512e92b3"
+    ]
+   },
+   {
+    "titulo": "Nubank obtém aprovação do Banco Central e se torna banco oficial no Brasil",
+    "ids": [
+     "247bd8f30e17"
+    ]
+   },
+   {
+    "titulo": "Apple inicia novo estudo para avaliar eficácia de ferramentas de saúde baseadas em IA",
+    "ids": [
+     "f7214e14d1e1"
+    ]
+   },
+   {
+    "titulo": "Uso de LoRA em modelos Flash Next no llama.cpp",
+    "ids": [
+     "da146515c89b"
+    ]
+   },
+   {
+    "titulo": "Falha no lançamento do foguete Vulcan da United Launch Alliance",
     "ids": [
      "2eef4a5b12a1",
      "c8f9f37dbdfe"
     ]
    },
    {
-    "titulo": "Lançamentos de games da semana incluindo GTA 6",
+    "titulo": "Lançamentos de games da semana",
     "ids": [
-     "04d3bfe93c1e",
-     "0d8873279428"
+     "04d3bfe93c1e"
     ]
    },
    {
-    "titulo": "Vagas para trabalho remoto internacional",
+    "titulo": "Discussão sobre autopromoção no Reddit LocalLLaMA",
+    "ids": [
+     "d73ed044719b"
+    ]
+   },
+   {
+    "titulo": "Vagas de home office para trabalho remoto internacional",
     "ids": [
      "fe2f3202d435"
     ]
@@ -2109,40 +2163,120 @@
     ]
    },
    {
-    "titulo": "Saída e possível retorno de Jensen Huang à Nvidia após escândalo",
+    "titulo": "Criação de ferramenta para observar o funcionamento interno de LLMs",
+    "ids": [
+     "b5238598920e"
+    ]
+   },
+   {
+    "titulo": "Configuração de hardware para execução de modelos locais",
+    "ids": [
+     "9fc77940b54a"
+    ]
+   },
+   {
+    "titulo": "Saída de Jensen Huang da Nvidia e polêmicas relacionadas",
     "ids": [
      "2f1f5cbf7ce8",
      "041453c06eb5",
      "1207b5c1c70b",
      "ec771738a3c8",
-     "4c525e5e54fa",
-     "fc996ef608e8"
+     "fc996ef608e8",
+     "d0a5fc429c8e"
     ]
    },
    {
-    "titulo": "Novo ataque cibernético intercepta chamadas e mensagens em redes móveis",
+    "titulo": "Melhorias de desempenho no Llama.cpp",
+    "ids": [
+     "469451edb21a"
+    ]
+   },
+   {
+    "titulo": "BigMoeOnEdge supera outros métodos em placas de 8-16 GB e Mac",
+    "ids": [
+     "ffca8863156d"
+    ]
+   },
+   {
+    "titulo": "Chat de avatar local em tempo real usando audio.cpp",
+    "ids": [
+     "61b2f5857229"
+    ]
+   },
+   {
+    "titulo": "Novo ataque cibernético sequestra redes móveis",
     "ids": [
      "c336f921881c"
     ]
    },
    {
-    "titulo": "Promoções e ofertas da Black Friday e Black November",
+    "titulo": "Lançamento da coleção Villanova2",
     "ids": [
-     "c98e56eebb00",
-     "cdb14c6097ac",
-     "589f2eca044b",
-     "21a87d20e46b",
-     "839bbe1e9500",
-     "c086327fd014",
-     "f2f552875308",
-     "922758251b27",
-     "f428b9e266cd"
+     "4a337929e85a"
     ]
    },
    {
-    "titulo": "Análise de Rachelle Hampton sobre o uso da palavra murmur em Twilight",
+    "titulo": "Otimização de offload de MoE em RTX 3090",
+    "ids": [
+     "6cc8e79b80d8"
+    ]
+   },
+   {
+    "titulo": "Atualização do Basalt 0.4.0 com suporte a múltiplos modelos",
+    "ids": [
+     "dfa4091e0696"
+    ]
+   },
+   {
+    "titulo": "Aplicativos pagos e pacotes de ícones gratuitos na Play Store",
+    "ids": [
+     "c98e56eebb00",
+     "3d3e1e235e15"
+    ]
+   },
+   {
+    "titulo": "Promoções de Black Friday em produtos Fanttik",
+    "ids": [
+     "cdb14c6097ac"
+    ]
+   },
+   {
+    "titulo": "Desenvolvimento dos primeiros óculos inteligentes da Apple",
+    "ids": [
+     "f2d2038ff2ce"
+    ]
+   },
+   {
+    "titulo": "Guia de lançamento e horários de GTA 6 no Brasil",
+    "ids": [
+     "0d8873279428"
+    ]
+   },
+   {
+    "titulo": "Entrevista com Rachelle Hampton sobre Twilight",
     "ids": [
      "86b92c1c4e1d"
+    ]
+   },
+   {
+    "titulo": "Samsung divide fábricas no Texas para chips espaciais e de IA",
+    "ids": [
+     "8c39505262ce"
+    ]
+   },
+   {
+    "titulo": "Intel inicia suporte no kernel Linux para Coral Rapids e Razor Lake",
+    "ids": [
+     "0778629c4ffb"
+    ]
+   },
+   {
+    "titulo": "Apagão aéreo nos EUA e problemas em infraestrutura tecnológica",
+    "ids": [
+     "8d20b32119c4",
+     "50760c1d8ffc",
+     "a3eec27e07e1",
+     "d39e476e1deb"
     ]
    },
    {
@@ -2152,401 +2286,273 @@
     ]
    },
    {
-    "titulo": "História e revolução dos robôs Sony Aibo",
+    "titulo": "Promoções de TVs OLED da LG",
+    "ids": [
+     "589f2eca044b"
+    ]
+   },
+   {
+    "titulo": "História e impacto do robô Sony Aibo",
     "ids": [
      "93924dd20f9b"
     ]
    },
    {
-    "titulo": "Contador na Coreia do Sul confessa fraude em exame usando IA",
+    "titulo": "Contador confessa uso de IA para fraudar exame nacional na Coreia do Sul",
     "ids": [
      "51ab5774516d",
      "d783a4ffcf68"
     ]
    },
    {
-    "titulo": "Impacto das restrições da COVID-19 nas queimadas globais",
+    "titulo": "Impacto dos lockdowns da COVID-19 na atividade global de incêndios",
     "ids": [
      "f6708dd5d15d"
     ]
    },
    {
-    "titulo": "Fornecimento de iPhones e celulares pela Claro para o Senado",
+    "titulo": "Promoções de smart speakers Echo Pop na Black Friday",
+    "ids": [
+     "21a87d20e46b"
+    ]
+   },
+   {
+    "titulo": "Ofertas de dispositivos Amazon Fire TV Stick",
+    "ids": [
+     "839bbe1e9500"
+    ]
+   },
+   {
+    "titulo": "Claro fornecerá iPhones e celulares para o Senado Federal",
     "ids": [
      "8b77476d53a0"
     ]
    },
    {
-    "titulo": "Resgate de jogos grátis no celular pela Epic Games",
+    "titulo": "Epic Games libera novo jogo grátis para celular no Android",
     "ids": [
      "02882e9edff7"
     ]
    },
    {
-    "titulo": "Ataque cibernético à subsidiária dos Correios da França",
+    "titulo": "Hackers invadem subsidiária dos Correios da França e expõem dados",
     "ids": [
      "61414f276f1e"
     ]
    },
    {
-    "titulo": "Busca do Brasil por desenvolvimento de minerais críticos e terras raras",
+    "titulo": "Planos do governo brasileiro para exploração de minerais críticos e terras raras",
     "ids": [
      "ef3883469ef7"
     ]
    },
    {
-    "titulo": "Teste de gentileza do Duolingo para contratação de cargos altos",
+    "titulo": "Teste de gentileza aplicado pelo Duolingo em processos seletivos",
     "ids": [
      "65c6c155cf36"
     ]
    },
    {
-    "titulo": "Debate sobre a regulação das redes sociais pelo governo brasileiro",
+    "titulo": "Discussão sobre regulação de redes sociais pelo governo brasileiro",
     "ids": [
      "4c847f6537fa"
     ]
    },
    {
-    "titulo": "Retorno e pouso do foguete Starship da SpaceX",
+    "titulo": "Discussão sobre soluções de refrigeração excessiva para componentes de PC",
+    "ids": [
+     "40fac276e737"
+    ]
+   },
+   {
+    "titulo": "Novo chip de IA DeepX DX-M2 fabricado com tecnologia de 2nm da Samsung",
+    "ids": [
+     "1f8bd20f1358"
+    ]
+   },
+   {
+    "titulo": "SpaceX realiza teste com o foguete Starship",
     "ids": [
      "ce3d0293b235",
      "46f76adf161f"
     ]
    },
    {
-    "titulo": "Apagão aéreo nos Estados Unidos e dependência de tecnologia obsoleta",
+    "titulo": "Solução para quebra por evento único (SEB) em eletrônicos",
     "ids": [
-     "50760c1d8ffc",
-     "a3eec27e07e1"
+     "1ecd3f2acf05"
     ]
    },
    {
-    "titulo": "Tentativas de golpe após falha global nos serviços da Microsoft",
+    "titulo": "Discussão sobre ausência de ASICs para inteligência artificial",
     "ids": [
-     "122e051ecbdc",
-     "d6eb0bccf40a"
+     "0c1bd9a06a20"
     ]
    },
    {
-    "titulo": "Itália multa Meta em bilhões por uso de fotos e vídeos sem consentimento",
+    "titulo": "Microsoft emite alerta sobre golpes após instabilidade no Teams e Outlook",
+    "ids": [
+     "122e051ecbdc"
+    ]
+   },
+   {
+    "titulo": "Itália multa Meta por uso de fotos e vídeos de usuários sem consentimento",
     "ids": [
      "acb0dc959470"
     ]
    },
    {
-    "titulo": "Telescópio James Webb encontra gelo mais antigo que sua estrela",
+    "titulo": "Telescópio James Webb encontra gelo mais antigo que a estrela que orbita",
     "ids": [
      "36a3bda31172"
     ]
    },
    {
-    "titulo": "Práticas de conservação em vinícolas para adaptação ambiental",
+    "titulo": "Práticas de conservação na viticultura e produção de vinho",
     "ids": [
      "c03a709644df"
     ]
    },
    {
-    "titulo": "Binance cobre prejuízo de megarroubo de criptomoedas",
+    "titulo": "Microsoft afirma que serviços foram totalmente restabelecidos após falha global",
+    "ids": [
+     "d6eb0bccf40a"
+    ]
+   },
+   {
+    "titulo": "Binance cobre prejuízo de grande roubo de criptomoedas",
     "ids": [
      "8a1e44df695e"
     ]
    },
    {
-    "titulo": "Anatel determina desligamento de bloqueador de telemarketing da TIM",
+    "titulo": "Anatel determina que TIM desative função de bloqueio de telemarketing",
     "ids": [
      "3d5338c3e8fc"
     ]
    },
    {
-    "titulo": "Uso de medicamentos GLP-1 e barreiras de acesso nos EUA",
+    "titulo": "Desbloqueio de geração de quadros DLSS em placas de vídeo antigas",
+    "ids": [
+     "189f673376b0"
+    ]
+   },
+   {
+    "titulo": "Intel ganha participação de mercado em CPUs de desktop frente à AMD",
+    "ids": [
+     "0577d5759c9a"
+    ]
+   },
+   {
+    "titulo": "Descontos em notebooks ASUS Vivobook Go 15 na Black November",
+    "ids": [
+     "c086327fd014"
+    ]
+   },
+   {
+    "titulo": "Uso incorreto e barreiras de custo em medicamentos GLP-1 nos EUA",
     "ids": [
      "d1bdb0722f55"
     ]
    },
    {
-    "titulo": "FAA expande uso de IA para gerenciar tráfego aéreo nos EUA",
+    "titulo": "FAA expande uso de IA para gerenciar congestionamento de tráfego aéreo",
     "ids": [
      "c479f2841d4a"
     ]
    },
    {
-    "titulo": "Suíte de escritório Euro-Office lança versões para Windows, Mac e Linux",
+    "titulo": "Ofertas de soundbars JBL com descontos de Black Friday",
+    "ids": [
+     "f2f552875308"
+    ]
+   },
+   {
+    "titulo": "Impacto das mudanças ecológicas na população de elefantes no Sri Lanka",
+    "ids": [
+     "577455be57bd"
+    ]
+   },
+   {
+    "titulo": "Lançamento das versões do Euro-Office para Windows, Mac e Linux",
     "ids": [
      "5d2365cd94ab"
     ]
    },
    {
-    "titulo": "Kalshi afasta Donald Trump Jr. como conselheiro após polêmica",
+    "titulo": "Kalshi afasta Donald Trump Jr. como conselheiro após polêmicas",
     "ids": [
      "61497b9e7ad8"
     ]
    },
    {
-    "titulo": "Microsoft encerra suporte a documentos antigos do Word",
+    "titulo": "Ofertas e menores preços para o iPhone 16 na Amazon",
+    "ids": [
+     "922758251b27"
+    ]
+   },
+   {
+    "titulo": "Lançamento do processador Intel Core Ultra 7 260K exclusivo para Newegg",
+    "ids": [
+     "bb415020fe39"
+    ]
+   },
+   {
+    "titulo": "Guia de compra de melhores TVs de 65 polegadas",
+    "ids": [
+     "f428b9e266cd"
+    ]
+   },
+   {
+    "titulo": "Microsoft encerrará suporte a formatos antigos de documentos do Word",
     "ids": [
      "b3c70ce275d8"
     ]
    },
    {
-    "titulo": "Membro do conselho da OpenAI alerta sobre riscos de dominação da IA",
+    "titulo": "Membro do conselho da OpenAI expressa preocupação com riscos existenciais da IA",
     "ids": [
      "743e8b03b2d9"
     ]
    },
    {
-    "titulo": "ChatGPT Wallet permite que agentes de IA façam compras",
+    "titulo": "OpenAI anuncia ChatGPT Wallet para compras automatizadas por agentes de IA",
     "ids": [
      "32ca5638c673"
     ]
    },
    {
-    "titulo": "Xbox amplia retrocompatibilidade com jogos antigos no PC",
+    "titulo": "Xbox expande retrocompatibilidade de jogos clássicos no PC",
     "ids": [
      "ba96d7741d4b"
     ]
    },
    {
-    "titulo": "Tesouro Nacional relata vazamento de dados pessoais e chaves Pix",
-    "ids": [
-     "95f867ecfe5a"
-    ]
-   },
-   {
-    "titulo": "Notícias e boletins diários do Tech Download sobre tecnologia",
+    "titulo": "Boletim tecnológico diário sobre semicondutores e Vale do Silício",
     "ids": [
      "f1dbc25a6463"
     ]
    },
    {
-    "titulo": "Novas demandas e autonomia em testes de implantes cerebrais",
+    "titulo": "Anúncio da linha de GPUs AMD Instinct MI430X",
+    "ids": [
+     "999f003a3598"
+    ]
+   },
+   {
+    "titulo": "Novas demandas de voluntários em testes de implantes cerebrais",
     "ids": [
      "04ab322d24b7"
     ]
    },
    {
-    "titulo": "Críticas de líderes do Vale do Silício sobre previsões eleitorais",
+    "titulo": "Críticas às previsões políticas de líderes do Vale do Silício",
     "ids": [
      "5de37488cd54"
-    ]
-   },
-   {
-    "titulo": "Someone should do an analysis on the rate of Self-promo here.",
-    "ids": [
-     "d73ed044719b"
-    ]
-   },
-   {
-    "titulo": "I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token",
-    "ids": [
-     "b5238598920e"
-    ]
-   },
-   {
-    "titulo": "Best direction to go for my setup EPYC 32core + 512GB DDR4 + 44GB GPU ?",
-    "ids": [
-     "9fc77940b54a"
-    ]
-   },
-   {
-    "titulo": "Llama.cpp performance improvement over time (Gemma4 models)",
-    "ids": [
-     "469451edb21a"
-    ]
-   },
-   {
-    "titulo": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
-    "ids": [
-     "ffca8863156d"
-    ]
-   },
-   {
-    "titulo": "[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat",
-    "ids": [
-     "61b2f5857229"
-    ]
-   },
-   {
-    "titulo": "1Cat-vLLM vs Strata",
-    "ids": [
-     "e4efadbb04dd"
-    ]
-   },
-   {
-    "titulo": "Villanova2 - a VillanovaAI Collection",
-    "ids": [
-     "4a337929e85a"
-    ]
-   },
-   {
-    "titulo": "MoE offload on a 3090: prefill 345 -> 466 t/s by tuning cudaMemcpy (Qwen3.6 35B-A3B)",
-    "ids": [
-     "6cc8e79b80d8"
-    ]
-   },
-   {
-    "titulo": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
-    "ids": [
-     "dfa4091e0696"
-    ]
-   },
-   {
-    "titulo": "Apple’s first smart glasses are coming together",
-    "ids": [
-     "f2d2038ff2ce"
-    ]
-   },
-   {
-    "titulo": "CPU-only boost for Q2_0 on AVX-VNNI · Pull Request #26348 · ggml-org/llama.cpp",
-    "ids": [
-     "839c5cb47911"
-    ]
-   },
-   {
-    "titulo": "X3Guard: A 150M parameter prompt guard",
-    "ids": [
-     "ff12d5f7f613"
-    ]
-   },
-   {
-    "titulo": "3 apps pagos ficam de graça na Play Store; confira os achados da semana",
-    "ids": [
-     "3d3e1e235e15"
-    ]
-   },
-   {
-    "titulo": "Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando?",
-    "ids": [
-     "8d20b32119c4"
-    ]
-   },
-   {
-    "titulo": "In elephants, the resilience of communities has its limits",
-    "ids": [
-     "577455be57bd"
     ]
    }
   ],
   "resumos": {
-   "d45339f8891ae450": {
-    "resumo": "Microsoft Outlook e diversos serviços da Microsoft, como o Microsoft 365, Teams e a própria página de status, apresentaram instabilidade global na tarde de quinta-feira (12). Os primeiros relatos começaram a surgir por volta das 14h30 ou 14h45, com dezenas de milhares de reclamações registradas no DownDetector. A Microsoft informou que o problema foi causado por uma sobrecarga de infraestrutura em várias regiões e que trabalha para mitigar os impactos, sem prazo para normalização.",
-    "pontos": [
-     "Microsoft Outlook e servicos enfrentam instabilidade globalmente.",
-     "Falhas comecaram a ser registradas por volta das 14h30 de quinta-feira (12).",
-     "Empresa apontou sobrecarga em infraestrutura e investiga o caso."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.5695364
-   },
-   "e07b96153af7a829": {
-    "resumo": "O Google anunciou o lançamento do Gemini 4 Hydrogen, um novo modelo de inteligência artificial voltado para tarefas cotidianas que substitui o Gemini 3.8 Flash. A ferramenta promete respostas mais rápidas, melhor compreensão de perguntas complexas e redução drástica de alucinações. O modelo já está disponível no aplicativo Gemini, na Busca e em plataformas de desenvolvimento do Google. Veículos divergem ligeiramente sobre os ganhos exatos de velocidade, com fontes citando respostas até 2,5 vezes mais rápidas.",
-    "pontos": [
-     "Substitui o Gemini 3.8 Flash com foco em tarefas cotidianas.",
-     "Promete maior velocidade e menor taxa de alucinação.",
-     "Disponível na Busca, app Gemini e para desenvolvedores via API."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.5695336
-   },
-   "4f393e26faf4a187": {
-    "resumo": "Pesquisas e redes de notícias apontam problemas em plataformas digitais e riscos no uso de ferramentas de IA generativa. Um estudo da Podqi revelou que ChatGPT, Gemini e Perplexity podem direcionar usuários a lojas online falsas ou suspensas, sendo o Perplexity o pior avaliado. Em paralelo, a plataforma Humble Bundle removeu opções de configuração de verificação em duas etapas em seu recente redesign. As falhas acendem alertas sobre segurança e privacidade em ambientes digitais.",
-    "pontos": [
-     "Ferramentas de IA indicam lojas falsas ou inativas.",
-     "Perplexity apresentou o pior desempenho no estudo de confiabilidade.",
-     "Humble Bundle remove verificação em duas etapas em novo visual."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.5695384
-   },
-   "9630048e5acf38ea": {
-    "resumo": "O Tesouro Nacional do Brasil sofreu um ataque hacker que expôs 30 mil cadastros do portal e-Serviços e 4 mil chaves PIX, sem impacto financeiro direto. Separadamente, a Caixa Vida e Previdência confirmou o vazamento de dados de 7,6 milhões de clientes após uma invasão aos seus sistemas. Além disso, especialistas alertam para uma onda de e-mails falsos com notificações judiciais na América Latina focados em roubo de dados. Instituições reforçaram o monitoramento e acionaram órgãos de proteção.",
-    "pontos": [
-     "Tesouro Nacional sofre ataque com vazamento de CPFs e chaves PIX.",
-     "Caixa Vida e Previdência tem dados de 7,6 milhões de clientes vazados.",
-     "Golpes com e-mails judiciais falsos crescem na América Latina."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.5695393
-   },
-   "1edb6b52c34f7cae": {
-    "resumo": "A plataforma Zoom corrigiu falhas críticas de segurança no Windows que permitiam invasão remota e ampliação de privilégios sem autenticação. Em paralelo, a Microsoft reconheceu um bug na atualização de novembro do Windows 11 que impedia a instalação do pacote KB5132061 em algumas versões. A empresa iniciou a distribuição de uma correção automática para os computadores afetados em até 48 horas. Os usuários são orientados a manterem os sistemas atualizados.",
-    "pontos": [
-     "Zoom corrige brechas críticas de segurança no Windows.",
-     "Microsoft lança correção para falha de instalação no Windows 11.",
-     "Atualizações automáticas buscam estabilizar os sistemas afetados."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.56954
-   },
-   "7c6a73bc954ceb0e": {
-    "resumo": "A Microsoft e a Netflix anunciaram novidades no setor de entretenimento. A Xbox confirmou oficialmente a produção de Wolfenstein 3 pela MachineGames, trazendo o retorno de atores clássicos da franquia. Paralelamente, a Netflix divulgou um novo trailer do filme animado Ray Gunn, dirigido por Brad Bird. O projeto mistura estéticas futuristas com o estilo noir dos anos 1930 e já gera expectativas entre o público.",
-    "pontos": [
-     "Xbox anuncia o desenvolvimento de Wolfenstein 3.",
-     "Netflix lança novo trailer da animação Ray Gunn, de Brad Bird.",
-     "Novidades movimentam o mercado de jogos e cinema."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.5695405
-   },
-   "23ccef788dc7dcf3": {
-    "resumo": "A Whoop lançou uma rede social integrada ao seu aplicativo chamada Whoop Humans, permitindo que usuários compartilhem dados de wearables com perfis verificados. Enquanto isso, o smartwatch Huawei Watch GT 7 Pro ganhou destaque com descontos agressivos na Black Friday antecipada no Mercado Livre. O relógio focado em saúde oferece recursos avançados como ECG, detecção de arritmias e mais de 110 modos de treino.",
-    "pontos": [
-     "Whoop lança rede social baseada em dados de condicionamento físico.",
-     "Huawei Watch GT 7 Pro entra em oferta antecipada de Black Friday.",
-     "Smartwatch da Huawei destaca-se por recursos avançados de saúde e bateria."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.5695415
-   },
-   "5152c4283b482679": {
-    "resumo": "Análises recentes detalham o desempenho de smartphones intermediários no mercado brasileiro. O Moto G86 da Motorola foi testado por veículos especializados, que destacaram sua tela POLED de 120 Hz e bateria duradoura, mas criticaram o desempenho em jogos e a política limitada de atualizações. Por outro lado, guias de compra avaliam o Samsung Galaxy A57 para a Black Friday, elogiando sua construção premium, tela de alta qualidade e controle térmico aprimorado.",
-    "pontos": [
-     "Moto G86 oferece boa tela e bateria, mas peca em desempenho para jogos.",
-     "Samsung Galaxy A57 se destaca pelo design em alumínio e tela Super AMOLED Plus.",
-     "Especialistas ajudam consumidores a definir preços ideais para a Black Friday."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.569542
-   },
-   "5c684f51e116c927": {
-    "resumo": "Dados recentes de mercado mostram o panorama de preços de placas de vídeo para data centers e estações de trabalho no eBay, classificadas pelo custo por gigabyte de VRAM. No ecossistema de hardware para servidores, a AMD destacou as vantagens do SMT na arquitetura Zen 6, mesmo em processadores de alta densidade como o EPYC 9996 de 256 núcleos. As novidades refletem o avanço contínuo em desempenho para computação de alto desempenho.",
-    "pontos": [
-     "Levantamento detalha preços de GPUs usadas para IA e data centers no eBay.",
-     "AMD demonstra vantagens da tecnologia SMT em processadores EPYC de alta contagem de núcleos.",
-     "Mercado de hardware de alto desempenho registra novidades técnicas e de preços."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.5695426
-   },
-   "42998059bdbf11b6": {
-    "resumo": "A Administração Federal de Aviação dos EUA (FAA) expandiu o uso de uma ferramenta de IA para gerenciar o tráfego aéreo em todo o espaço nacional, visando reduzir atrasos e consumo de combustível. Contudo, o sindicato de controladores de tráfego aéreo criticou a falta de envolvimento no projeto. Em contrapartida, a United Airlines proibiu agentes de inteligência artificial de acessar contas de clientes para reservar voos, citando riscos à privacidade e conformidade regulatória.",
-    "pontos": [
-     "FAA expande sistema de IA para gerenciar tráfego aéreo nos EUA.",
-     "Controladores de voo criticam falta de consulta prévia sobre a ferramenta.",
-     "United Airlines proíbe agentes de IA de realizarem reservas em contas de clientes."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.5695434
-   },
-   "34e5084fa016dd30": {
-    "resumo": "Representantes da Nvidia confirmaram privadamente a legisladores que é tecnicamente possível rastrear chips para combater o contrabando, apesar de o setor público questionar a viabilidade da medida na Lei de Segurança de Chips. Enquanto isso, o Google enfrenta forte resistência de famílias e grupos comunitários contra a implementação obrigatória de IA em ferramentas de busca educacionais. Protestos em várias cidades exigem moratórias no uso de ferramentas como o Gemini em escolas.",
-    "pontos": [
-     "Nvidia admite privadamente viabilidade técnica de rastreamento de chips.",
-     "Google enfrenta protestos de pais contra a integração obrigatória de IA em escolas.",
-     "Grupos exigem moratórias no uso de chatbots educacionais."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.569544
-   },
-   "ffcab41acf871e82": {
-    "resumo": "O Google iniciou testes públicos de chaves digitais na Carteira do Google para abrir fechaduras inteligentes compatíveis com o padrão Matter e Aliro. O recurso permite destravar portas aproximando o smartphone, dispensando chaves físicas. Paralelamente, a empresa abriu a pré-venda de óculos inteligentes habilitados para Gemini, desenvolvidos em parceria com a Samsung, Gentle Monster e Warby Parker, focados em interações por voz e design voltado à privacidade.",
-    "pontos": [
-     "Carteira do Google testa suporte a chaves digitais para fechaduras inteligentes.",
-     "Google inicia pré-venda de óculos inteligentes com Gemini em parceria com marcas de óculos.",
-     "Novos dispositivos integram IA e conectividade sem fio ao ecossistema da empresa."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794537008.5695448
-   },
    "f2c3e1a380c60215": {
     "resumo": "Uma falha global iniciada na tarde de quinta-feira afetou serviços da Microsoft como Outlook, Teams, Copilot e SharePoint em dezenas de países. A empresa descartou qualquer ataque cibernético e atribuiu o problema a uma carga elevada em sua infraestrutura de servidores. A companhia iniciou manobras de recuperação e redirecionamento de tráfego, registrando melhorias graduais na estabilidade. Até o momento, a Microsoft não divulgou um prazo exato para o restabelecimento completo dos serviços.",
     "pontos": [
@@ -2925,7 +2931,7 @@
      "Governo sul-coreano pretende suspender rapidamente o certificado do fraudador."
     ],
     "enquadramentos": {},
-    "usado_em": 1794786780.792752
+    "usado_em": 1794807603.1112068
    },
    "ea7f4b720299c357": {
     "resumo": "Diversas plataformas divulgaram promoções de produtos e aplicativos durante o período de ofertas. O TecMundo listou aplicativos pagos e pacotes de ícones gratuitos temporariamente na Play Store. O The Verge destacou descontos em ferramentas como a chave de fenda elétrica Fanttik S1 Pro na Amazon. Já o Tecnoblog informou sobre o desconto de 46% no notebook ASUS Vivobook Go 15 na Amazon durante a Black November.",
@@ -2945,7 +2951,7 @@
      "Empresas investigam a anomalia e reafirmam parceria."
     ],
     "enquadramentos": {},
-    "usado_em": 1794786780.7927508
+    "usado_em": 1794807603.1112041
    },
    "fa936f923d91bb91": {
     "resumo": "Jensen Huang avalia retornar ao cargo de CEO da Nvidia após renunciar em meio a revelações de envolvimento com uma subordinada e com uma mulher suspeita de espionagem. Segundo o Financial Times, ele discutiu a possibilidade com aliados e busca apoio de líderes do Vale do Silício e da Casa Branca. Enquanto isso, figuras como Elon Musk apoiam uma carta aberta pedindo sua volta, ao mesmo tempo em que a companhia enfrenta quedas drásticas no valor de mercado.",
@@ -2966,39 +2972,65 @@
     ],
     "enquadramentos": {},
     "usado_em": 1794786780.7927535
+   },
+   "9fbccfcb16e8dcf0": {
+    "resumo": "Um apagão aéreo nos Estados Unidos paralisou voos domésticos por mais de quatro horas na sexta-feira, afetando mais de um milhão de passageiros. Autoridades informaram que o problema foi causado por uma falha de comunicação decorrente de equipamentos analógicos antiquados e de uma atualização tecnológica. O secretário de Transportes, Sean Duffy, destacou que o sistema de tráfego aéreo ainda utiliza tecnologias antigas, como disquetes, embora tenha esclarecido que estes não foram a causa direta do incidente. O Congresso americano aprovou investimentos para a modernização da infraestrutura, enquanto novas falhas e paralisações continuam a ser alertadas para o futuro.",
+    "pontos": [
+     "Apagão aéreo nos EUA afetou milhares de voos e mais de um milhão de passageiros.",
+     "Autoridades apontaram equipamentos antigos e falha de comunicação como causas.",
+     "O sistema de tráfego aéreo americano ainda depende de tecnologias obsoletas, como disquetes."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807603.1112
+   },
+   "736f78a8e512c7c6": {
+    "resumo": "O cofundador e ex-CEO da Nvidia, Jensen Huang, avalia retornar ao cargo após renunciar em meio a escândalos de casos extraconjugais, incluindo com uma mulher suspeita de ser espiã chinesa. Uma campanha pública com carta aberta e mais de 150 mil assinaturas, apoiada por figuras como Elon Musk e Tim Sweeney, pressiona o conselho pelo retorno do executivo, embora a autenticidade de algumas assinaturas seja questionada. A tentativa de volta enfrenta resistência da Casa Branca e de autoridades, enquanto a empresa registrou grandes perdas de valor de mercado e tem Colette Kress como CEO interina.",
+    "pontos": [
+     "Jensen Huang articula retorno à liderança da Nvidia após escândalo pessoal e renúncia.",
+     "Carta aberta com apoio de executivos famosos pressiona pela volta do ex-CEO.",
+     "A Nvidia sofreu perdas bilionárias em seu valor de mercado e enfrenta investigações e resistência política."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1794807603.1112022
    }
   }
  },
  "carros": {
-  "chave": "d55f59fe300ba753",
+  "chave": "c4d3bd4d3b6e427e",
   "grupos": [
    {
-    "titulo": "Fim do prazo para pagamento de pedágio Free Flow atrasado",
+    "titulo": "Prazo para pagamento de pedagio Free Flow em atraso",
     "ids": [
      "966d25959963",
      "26612c2e9a04"
     ]
    },
    {
-    "titulo": "Rimac desiste de hipercarro elétrico Nevera",
+    "titulo": "Dicas sobre luz de injecao acesa no painel do carro",
+    "ids": [
+     "28c874348dfb"
+    ]
+   },
+   {
+    "titulo": "Desistencia da Rimac do Nevera eletrico para focar em motores V16 da Bugatti",
     "ids": [
      "693a6755e99a"
     ]
    },
    {
-    "titulo": "Cadillac terá sedã V8 e SUV elétrico no Brasil em 2027",
+    "titulo": "Novos modelos da Cadillac e outras marcas no Brasil em 2027",
     "ids": [
      "4c968654774e"
     ]
    },
    {
-    "titulo": "Novo Mercedes Classe S chega ao Brasil",
+    "titulo": "Novo Mercedes Classe S no Brasil",
     "ids": [
      "3b8571e1044f"
     ]
    },
    {
-    "titulo": "História do carro elétrico La Jamais Contente",
+    "titulo": "Historico do carro eletrico La Jamais Contente",
     "ids": [
      "07a26265b327"
     ]
@@ -3010,49 +3042,49 @@
     ]
    },
    {
-    "titulo": "Desempenho de vendas da GWM e Leapmotor no mercado",
+    "titulo": "Desempenho de vendas da GWM e Leapmotor",
     "ids": [
      "ddbf41bfc70e"
     ]
    },
    {
-    "titulo": "Impressões ao dirigir o Cadillac Optiq",
+    "titulo": "Impressoes ao dirigir o Cadillac Optiq",
     "ids": [
      "9e23dc662fe9"
     ]
    },
    {
-    "titulo": "Robô da BYD para recarga de carros elétricos em Abu Dhabi",
+    "titulo": "Robo da BYD para recarga de carros eletricos",
     "ids": [
      "a1428c5e9619"
     ]
    },
    {
-    "titulo": "História e trajetória de 50 anos do Fiat Uno",
+    "titulo": "Historia de 50 anos do Fiat Uno",
     "ids": [
      "eb6b8e6b6916"
     ]
    },
    {
-    "titulo": "Avaliação do Jeep Avenger Altitude",
+    "titulo": "Prós e contras do Jeep Avenger Altitude",
     "ids": [
      "17ee78d549df"
     ]
    },
    {
-    "titulo": "Novo Toyota Corolla nacional com motores híbridos",
+    "titulo": "Novo Toyota Corolla nacional com motores hibridos",
     "ids": [
      "bdf396d7f64c"
     ]
    },
    {
-    "titulo": "Ofertas de rádios automotivos na Black Friday",
+    "titulo": "Ofertas de radios para carro na Black Friday",
     "ids": [
      "3507481899d6"
     ]
    },
    {
-    "titulo": "Opções de compra do Honda New Civic usado",
+    "titulo": "Opcoes de Honda New Civic usado",
     "ids": [
      "45920f85d27d"
     ]
@@ -3064,19 +3096,19 @@
     ]
    },
    {
-    "titulo": "Ford Bronco V8 e seu motor potente",
+    "titulo": "Ford Bronco V8 com motor mais potente da marca",
     "ids": [
      "6b659932d2e4"
     ]
    },
    {
-    "titulo": "Mercedes-Benz e vidros de carros como telas multimídia",
+    "titulo": "Pesquisa da Mercedes-Benz sobre vidros como telas multimidia",
     "ids": [
      "10dbf0fe7c58"
     ]
    },
    {
-    "titulo": "Como identificar problemas no alinhamento e direção do carro",
+    "titulo": "Sinais de problema no alinhamento ou direcao do carro",
     "ids": [
      "5c7783c6660d"
     ]
@@ -3088,43 +3120,37 @@
     ]
    },
    {
-    "titulo": "Como consultar recalls de veículos",
+    "titulo": "Como consultar recall de veiculos",
     "ids": [
      "83197e22ed5c"
     ]
    },
    {
-    "titulo": "Recall da Chery para Tiggo 5X e Omoda 5 na China",
+    "titulo": "Recall de Chery Tiggo 5X e Omoda 5 na China",
     "ids": [
      "7d469c509352"
     ]
    },
    {
-    "titulo": "Descontinuação do Audi A8",
+    "titulo": "Descontinuacao do Audi A8 apos 32 anos",
     "ids": [
      "99036570d8ab"
     ]
    },
    {
-    "titulo": "Declaração da Porsche sobre o Tesla Roadster de Elon Musk",
+    "titulo": "Critica da Porsche ao Tesla Roadster de Elon Musk",
     "ids": [
      "edf122f877e8"
     ]
    },
    {
-    "titulo": "Avaliação do superesportivo Audi Nuvolari",
-    "ids": [
-     "3a65de28c79f"
-    ]
-   },
-   {
-    "titulo": "Opções do Kia Sorento usado",
+    "titulo": "Opcoes de Kia Sorento usado",
     "ids": [
      "7d863f90be94"
     ]
    },
    {
-    "titulo": "Premiação do Carro do Ano 2027",
+    "titulo": "Edicao especial do premio Carro do Ano",
     "ids": [
      "13eda17732ce"
     ]
@@ -3136,19 +3162,19 @@
     ]
    },
    {
-    "titulo": "Projeção do novo Kia Sportage",
+    "titulo": "Projecao do novo Kia Sportage",
     "ids": [
      "23adfd4ff957"
     ]
    },
    {
-    "titulo": "Análise da coluna de veículos sobre lançamentos e mercado",
+    "titulo": "Lancamento da Renault Niagara e outras novidades do setor",
     "ids": [
      "f1f899225660"
     ]
    },
    {
-    "titulo": "Apresentação do hatch elétrico Baic Arcfox T1",
+    "titulo": "Detalhes do hatch eletrico Baic Arcfox T1",
     "ids": [
      "2d26d8971cac"
     ]
@@ -3160,19 +3186,19 @@
     ]
    },
    {
-    "titulo": "Avaliação clássica do Lexus LS 400",
+    "titulo": "Avaliacao historica do Lexus LS 400",
     "ids": [
      "77871b249783"
     ]
    },
    {
-    "titulo": "Avaliação da bigtrail Voge DS900X",
+    "titulo": "Avaliacao da bigtrail Voge DS900X",
     "ids": [
      "5a36c90bfe8a"
     ]
    },
    {
-    "titulo": "Registro de novo nome para futuro carro da Jaguar",
+    "titulo": "Registro de novo nome pela Jaguar para carros eletricos",
     "ids": [
      "0f0be7158089"
     ]
@@ -3184,13 +3210,13 @@
     ]
    },
    {
-    "titulo": "Estudo sobre margem de lucro por veículo na Volkswagen",
+    "titulo": "Estudo sobre lucro da Volkswagen por veiculo vendido",
     "ids": [
      "f490cfd2749e"
     ]
    },
    {
-    "titulo": "Recall e orientação da NHTSA para carros da BMW nos EUA",
+    "titulo": "Recall e orientacao de seguranca para veiculos da BMW nos EUA",
     "ids": [
      "93d4eab34b6f"
     ]
@@ -3290,148 +3316,288 @@
   }
  },
  "politica": {
-  "chave": "e2cb8c1182a93faf",
+  "chave": "348e20107947138c",
   "grupos": [
    {
-    "titulo": "Michelle Bolsonaro tirará dez dias de descanso",
+    "titulo": "Motorista coloca mochila pesada no colo para evitar furtos no semáforo",
     "ids": [
-     "95ff0396186a",
-     "8101487707eb"
+     "2c907d8b2702"
     ]
    },
    {
-    "titulo": "Ataque com drones contra instalação militar no Bahrein",
+    "titulo": "Batiscafo Trieste e exploração dos oceanos",
+    "ids": [
+     "aa1d8a49d0a8"
+    ]
+   },
+   {
+    "titulo": "Fachin vai definir data para julgamento no STF sobre decisão de Dino",
+    "ids": [
+     "3a4cabca676c"
+    ]
+   },
+   {
+    "titulo": "Prazo para quitar débitos com pedágios free flow",
+    "ids": [
+     "64da1244b56f"
+    ]
+   },
+   {
+    "titulo": "Agenda legislativa e ajuste fiscal no Congresso",
+    "ids": [
+     "10e27726f86b",
+     "02be8797911c"
+    ]
+   },
+   {
+    "titulo": "Morador estaciona caminhonete no corredor da garagem",
+    "ids": [
+     "deadacc0897b"
+    ]
+   },
+   {
+    "titulo": "Articulações de Alcolumbre para a presidência do Senado",
+    "ids": [
+     "c854315082a2",
+     "369c4434f257"
+    ]
+   },
+   {
+    "titulo": "Cientistas descobrem método para crescer bigode",
+    "ids": [
+     "3e7eedf840df"
+    ]
+   },
+   {
+    "titulo": "Jovem avança semáforo vermelho por medo de assalto",
+    "ids": [
+     "afbb2497dd6f"
+    ]
+   },
+   {
+    "titulo": "Significado das listras nas portas das barbearias",
+    "ids": [
+     "6431b1b2abd3"
+    ]
+   },
+   {
+    "titulo": "Erros comuns ao oferecer frutas para cães",
+    "ids": [
+     "b2d40942bac8"
+    ]
+   },
+   {
+    "titulo": "Poeta Rumi e a transformação da dor em força",
+    "ids": [
+     "60f3ede3a0f0"
+    ]
+   },
+   {
+    "titulo": "Motorista leva multa ao passar por vistoria sem estepe",
+    "ids": [
+     "6b64f03cf5de"
+    ]
+   },
+   {
+    "titulo": "Governo mapeia indicações e negociações com o Congresso",
+    "ids": [
+     "59d5714de174"
+    ]
+   },
+   {
+    "titulo": "Anac registra casos de indisciplina após novas regras",
+    "ids": [
+     "0bd7d756e277"
+    ]
+   },
+   {
+    "titulo": "Lula se reúne com Pedro Sánchez na Espanha",
+    "ids": [
+     "bf0275d101ca",
+     "66e986f375dc",
+     "46421c15abd5"
+    ]
+   },
+   {
+    "titulo": "Governo dos EUA reconhece problemas no transporte aéreo",
+    "ids": [
+     "b761351a574b"
+    ]
+   },
+   {
+    "titulo": "Motivo dos tracinhos em relevo nas teclas F e J",
+    "ids": [
+     "89d3a83a837b"
+    ]
+   },
+   {
+    "titulo": "Receita Federal e PGFN anunciam perdão de dívidas do MEI",
+    "ids": [
+     "45d2f54c7ef7"
+    ]
+   },
+   {
+    "titulo": "Apreensões de canetas emagrecedoras no Galeão",
+    "ids": [
+     "b4607fcbb760"
+    ]
+   },
+   {
+    "titulo": "Novo Jeep Renegade com sistema híbrido no Brasil",
+    "ids": [
+     "424630254351"
+    ]
+   },
+   {
+    "titulo": "Petrobras cai em ranking mundial de lucro",
+    "ids": [
+     "d17644caff4a"
+    ]
+   },
+   {
+    "titulo": "Michelle Bolsonaro tira dias de descanso",
+    "ids": [
+     "80d2d961a1e8",
+     "41f19a7a5a77",
+     "95ff0396186a"
+    ]
+   },
+   {
+    "titulo": "Declarações de Benedita da Silva sobre racismo e machismo na esquerda",
+    "ids": [
+     "c828a21bca2a"
+    ]
+   },
+   {
+    "titulo": "Guerrilha digital inspirada em Janones",
+    "ids": [
+     "c9917cd24d3a"
+    ]
+   },
+   {
+    "titulo": "Parlamentares tentam travar orçamento para manter emendas",
+    "ids": [
+     "40b69eb84e4b"
+    ]
+   },
+   {
+    "titulo": "Ações judiciais e possível mudança na base de Lula no Senado",
+    "ids": [
+     "043a9c719a94"
+    ]
+   },
+   {
+    "titulo": "Mulheres mais velhas puxam comparecimento às urnas no Nordeste",
+    "ids": [
+     "0e5fd1fbefb2"
+    ]
+   },
+   {
+    "titulo": "Criança é esquecida dentro de avião da Latam",
+    "ids": [
+     "6075d065a64d"
+    ]
+   },
+   {
+    "titulo": "Gilmarpalooza na Argentina",
+    "ids": [
+     "c404a515842b"
+    ]
+   },
+   {
+    "titulo": "Abstenção no segundo dia do Enem",
+    "ids": [
+     "154220e04a27",
+     "197245e6c1bd",
+     "c75307dee234",
+     "caa6de302185"
+    ]
+   },
+   {
+    "titulo": "Cidadania convoca congresso para votar incorporação ao PP",
+    "ids": [
+     "66a688965172"
+    ]
+   },
+   {
+    "titulo": "Prejuízo dos Correios em 2026",
+    "ids": [
+     "39fdfc20efc4"
+    ]
+   },
+   {
+    "titulo": "PGR insiste em crédito extra para pagar penduricalhos",
+    "ids": [
+     "68b28f2e31ed"
+    ]
+   },
+   {
+    "titulo": "Protestos na França",
+    "ids": [
+     "d29e90691137"
+    ]
+   },
+   {
+    "titulo": "Deputados pedem comissão para tratar da dívida de Minas Gerais",
+    "ids": [
+     "860f0b6239f9"
+    ]
+   },
+   {
+    "titulo": "Fortes chuvas colocam São Paulo em estado de atenção",
+    "ids": [
+     "c3e2f5224dc7"
+    ]
+   },
+   {
+    "titulo": "Ataque com drones do Irã contra instalação militar no Bahrein",
     "ids": [
      "61ba1feda0f3"
     ]
    },
    {
-    "titulo": "Lançamento e novidades do Honda WR-V 2026",
-    "ids": [
-     "2f4c0afa1f13"
-    ]
-   },
-   {
-    "titulo": "Riscos de ataques hackers e segurança digital",
+    "titulo": "Análise sobre ataques hackers e riscos",
     "ids": [
      "0a6ee21e94d6"
     ]
    },
    {
-    "titulo": "Túnel da Rodovia dos Tamoios na Serra do Mar",
-    "ids": [
-     "9a81f3b64d1c"
-    ]
-   },
-   {
-    "titulo": "Adolescente apreendido ao tentar furtar joalheria em shopping de SP",
+    "titulo": "Adolescente apreendido ao tentar furtar joalheria em SP",
     "ids": [
      "2c1cd5e70578"
     ]
    },
    {
-    "titulo": "Rede de decoração entra em falência e fecha unidades",
-    "ids": [
-     "4c0284c9a054"
-    ]
-   },
-   {
-    "titulo": "Marcelo Freixo defende pacote de ajuste fiscal do governo Lula",
-    "ids": [
-     "deb84ae8fc8d"
-    ]
-   },
-   {
-    "titulo": "Debate sobre o sionismo e recusa de associação ao racismo",
-    "ids": [
-     "0bb6797e1e60"
-    ]
-   },
-   {
-    "titulo": "Descoberta de montanhas submarinas no oceano",
-    "ids": [
-     "4835bcad0880"
-    ]
-   },
-   {
-    "titulo": "Roda de Falkirk na Escócia eleva barcos entre canais",
-    "ids": [
-     "afc414cdce27"
-    ]
-   },
-   {
-    "titulo": "Sede do STF ganhará escultura de símbolo de orixá",
+    "titulo": "Sede do STF ganhará símbolo de orixá",
     "ids": [
      "c1167a206b56",
      "1079b66e36b9"
     ]
    },
    {
-    "titulo": "Registro de jornalistas assassinados no México",
+    "titulo": "Jornalistas assassinados no México",
     "ids": [
      "7fcb13c90e34"
     ]
    },
    {
-    "titulo": "Crescimento do PIB de São Paulo em 2026",
-    "ids": [
-     "2e6a2e1eec68"
-    ]
-   },
-   {
-    "titulo": "Desempenho e especificações do Jeep Commander Blackhawk 2027",
-    "ids": [
-     "b39c4d97039f"
-    ]
-   },
-   {
-    "titulo": "Papa destaca papel de tradições religiosas em Cuzco",
+    "titulo": "Papa destaca tradições religiosas em Cuzco",
     "ids": [
      "d1c0a638e995"
     ]
    },
    {
-    "titulo": "Origem da frase de Benjamin Franklin sobre morte e impostos",
+    "titulo": "Inglaterra vence a Espanha pela Liga das Nações",
     "ids": [
-     "88555f4f8aa0"
-    ]
-   },
-   {
-    "titulo": "Inglaterra vence Espanha pela Liga das Nações",
-    "ids": [
-     "718fa9f2f9cf"
-    ]
-   },
-   {
-    "titulo": "Carteira digital para gratuidade em viagens de ônibus",
-    "ids": [
-     "de19aab0c2f4",
-     "2044dbe9520a"
-    ]
-   },
-   {
-    "titulo": "Zelensky pede fim de restrições a satélites Starlink",
-    "ids": [
-     "fabe9c37086a"
-    ]
-   },
-   {
-    "titulo": "Perguntas e respostas sobre o Enem 2026",
-    "ids": [
-     "197245e6c1bd"
-    ]
-   },
-   {
-    "titulo": "Debate sobre os efeitos do CO2 na atmosfera",
-    "ids": [
-     "47a79b75e01e"
+     "718fa9f2f9cf",
+     "98189fdd9b22",
+     "e87c77c086b0"
     ]
    },
    {
     "titulo": "Alexandre de Moraes concentra inquéritos no STF",
     "ids": [
      "2b37ca9ddc03",
-     "5058989462f0",
      "4139f81dfc05"
     ]
    },
@@ -3442,22 +3608,26 @@
     ]
    },
    {
-    "titulo": "Formação de ministérios e viagens de Lula",
+    "titulo": "Lula decidirá formação de ministérios ao voltar de viagem",
     "ids": [
      "ba8fad7decd9",
-     "312177c98c34",
-     "9d4682bcaf1f"
+     "312177c98c34"
     ]
    },
    {
-    "titulo": "Senador Cleitinho liga para prefeito após polêmica com show",
+    "titulo": "Senador Cleitinho liga para prefeito após show de Claudia Leitte",
     "ids": [
-     "5bb17a59593e",
-     "8e8e43626f3e"
+     "5bb17a59593e"
     ]
    },
    {
-    "titulo": "Críticas do PT ao ajuste fiscal e debate político",
+    "titulo": "Internacional conquista Copa do Brasil Feminina",
+    "ids": [
+     "5fe4ee5a328e"
+    ]
+   },
+   {
+    "titulo": "Críticas do PT ao ajuste fiscal",
     "ids": [
      "657866c43a07",
      "15e8d154b9ce",
@@ -3465,78 +3635,32 @@
     ]
    },
    {
-    "titulo": "Acordo entre Brasil e Filipinas no agronegócio",
+    "titulo": "Brasil e Filipinas firmam acordo no agronegócio",
     "ids": [
      "cd22409e9987"
     ]
    },
    {
-    "titulo": "Análise política sobre partidos e cenário institucional",
-    "ids": [
-     "93104e2f3dcd"
-    ]
-   },
-   {
-    "titulo": "Colunistas e notas diversas",
-    "ids": [
-     "90240088a061"
-    ]
-   },
-   {
-    "titulo": "Avião agrícola colide com carro e mata homem em Goiás",
-    "ids": [
-     "437ec5d4e77e"
-    ]
-   },
-   {
-    "titulo": "Provas e temas do segundo dia do Enem 2026",
-    "ids": [
-     "c75307dee234"
-    ]
-   },
-   {
-    "titulo": "Declarações de Hugo Motta sobre união nacional",
+    "titulo": "Declarações de Hugo Motta sobre união pelo Brasil",
     "ids": [
      "85dd07152b2a"
     ]
    },
    {
-    "titulo": "Prejuízo financeiro registrado pelos Correios",
-    "ids": [
-     "1d6565c799af"
-    ]
-   },
-   {
-    "titulo": "Milei confirma intenção de disputar reeleição na Argentina em 2027",
-    "ids": [
-     "7763708359cb"
-    ]
-   },
-   {
     "titulo": "Encontro entre Lula e Gianni Infantino nas Filipinas",
     "ids": [
-     "2174d053b1f4",
      "41e9d525ff51"
     ]
    },
    {
     "titulo": "Ronaldinho Gaúcho retorna aos gramados em partida pelo Ravenna",
     "ids": [
-     "b3b17e021d26",
      "ac62e20ed009",
      "e1fee6a952ab"
     ]
    },
    {
-    "titulo": "Lula comenta parcerias comerciais e críticas a tarifas dos EUA",
-    "ids": [
-     "7ae369f862f1",
-     "e28ac3b6afff",
-     "6760c4688d0d"
-    ]
-   },
-   {
-    "titulo": "Testes de segurança em eleições brasileiras e internacionais",
+    "titulo": "Eleição brasileira passa em testes de segurança",
     "ids": [
      "be2eb208cdaa"
     ]
@@ -3548,20 +3672,20 @@
     ]
    },
    {
-    "titulo": "Artigo de opinião sobre investigações e cenário político",
+    "titulo": "Artigo sobre o controle da Polícia Federal e o STF",
     "ids": [
      "082e17a9dab1"
     ]
    },
    {
-    "titulo": "Treinos e lesões no elenco do Palmeiras",
+    "titulo": "Treinos e lesões no Palmeiras",
     "ids": [
      "12930acbc07d",
      "7c565d74711a"
     ]
    },
    {
-    "titulo": "Preparação da Seleção Brasileira para amistoso",
+    "titulo": "Seleção Brasileira realiza treinos com foco em amistoso",
     "ids": [
      "23a66d572010"
     ]
@@ -3573,57 +3697,21 @@
     ]
    },
    {
-    "titulo": "Alteração no cabeçalho da Folha pelo Dia da Proclamação da República",
+    "titulo": "Folha altera cabeçalho no Dia da Proclamação da República",
     "ids": [
      "fa544c809477"
     ]
    },
    {
-    "titulo": "Evento de produtores de vinho francês no Brasil",
+    "titulo": "Evento reúne produtores de vinho franceses no Brasil",
     "ids": [
      "8da55190cb51"
     ]
    },
    {
-    "titulo": "Morte do músico Aroldo Macêdo em Salvador",
+    "titulo": "Morre Aroldo Macêdo, mestre da guitarra baiana",
     "ids": [
      "097f9ae3e97d"
-    ]
-   },
-   {
-    "titulo": "FaZe Clan vence Major Osaka de Rainbow Six Siege",
-    "ids": [
-     "fae7c8cea01b"
-    ]
-   },
-   {
-    "titulo": "Cenário dos clubes gaúchos nas séries A e B do Campeonato Brasileiro",
-    "ids": [
-     "a64fd74fbe5c"
-    ]
-   },
-   {
-    "titulo": "Tentativas de ataques hackers à página do Inep no Enem",
-    "ids": [
-     "caa6de302185"
-    ]
-   },
-   {
-    "titulo": "Regras da cláusula de barreira eleitoral",
-    "ids": [
-     "75d325208040"
-    ]
-   },
-   {
-    "titulo": "Receitas culinárias com frutos do mar para o domingo",
-    "ids": [
-     "ee8b603130cf"
-    ]
-   },
-   {
-    "titulo": "Senadores retomam debate sobre fim da reeleição presidencial",
-    "ids": [
-     "70bdaae31a5a"
     ]
    },
    {
@@ -3633,354 +3721,150 @@
     ]
    },
    {
-    "titulo": "Tramitação e expectativa de votação do ajuste fiscal no Congresso",
+    "titulo": "Alckmin afirma que ajuste fiscal vai na direção correta",
     "ids": [
      "19910856a0d0"
     ]
    },
    {
-    "titulo": "Agenda internacional de Lula na Europa após cúpulas",
-    "ids": [
-     "46421c15abd5"
-    ]
-   },
-   {
-    "titulo": "Governo de SP endurece regras para destinação de lixo em grandes eventos",
+    "titulo": "Regras para destinação de lixo em grandes eventos em SP",
     "ids": [
      "ae8ef8b53ff2"
     ]
    },
    {
-    "titulo": "Defesa de Lula e Alckmin rebate apontamentos do TSE sobre contas",
+    "titulo": "Defesa de Lula e Alckmin rebate apontamentos do TSE",
     "ids": [
      "cefb1bc7b4ee"
     ]
    },
    {
-    "titulo": "Contexto histórico do feriado da Proclamação da República",
+    "titulo": "Feriado de 15 de novembro e a Proclamação da República",
     "ids": [
-     "45f4555270a8",
-     "7c8dd0983469"
+     "45f4555270a8"
     ]
    },
    {
-    "titulo": "Governo de SP estuda recriar Secretaria do Planejamento",
+    "titulo": "Aliados de Lula esperam permanência de Moretti no Planejamento",
     "ids": [
-     "f6404561f99f"
+     "9d4682bcaf1f"
     ]
    },
    {
-    "titulo": "Compromissos ambientais do governo brasileiro",
+    "titulo": "Declarações de Lula sobre tecnologia, meio ambiente e tarifaço dos EUA",
     "ids": [
+     "e28ac3b6afff",
      "72b4f60555d4",
-     "20e01018f13b"
+     "20e01018f13b",
+     "6760c4688d0d",
+     "222612e6c7ec"
     ]
    },
    {
-    "titulo": "Página de últimas notícias do Brasil",
+    "titulo": "Últimas notícias do Brasil",
     "ids": [
      "7eb7ddaa33f4"
     ]
    },
    {
-    "titulo": "Primeiro diplomata indígena do Itamaraty",
-    "ids": [
-     "9afc206f2a6b"
-    ]
-   },
-   {
-    "titulo": "Debate e tramitação do PL das big techs e regulação de internet",
-    "ids": [
-     "d9460a6f3510",
-     "8c438b4c5528",
-     "631496e4a8f4"
-    ]
-   },
-   {
-    "titulo": "Revisão judicial e julgamentos envolvendo Jair Bolsonaro no STF",
-    "ids": [
-     "9738977e0726"
-    ]
-   },
-   {
-    "titulo": "PGR prepara primeiras denúncias no caso Master",
-    "ids": [
-     "f3554433abee"
-    ]
-   },
-   {
-    "titulo": "Lula defende parcerias com Sudeste Asiático e exploração de minerais",
-    "ids": [
-     "222612e6c7ec"
-    ]
-   },
-   {
-    "titulo": "Artigo sobre relações de senadores e impeachment do STF",
+    "titulo": "Análise sobre senadores e impeachment contra o STF",
     "ids": [
      "bddd956ca7c4"
     ]
    },
    {
-    "titulo": "Lula participa da Cúpula da Asean nas Filipinas",
-    "ids": [
-     "0d8026baa4d3",
-     "4e6e1b1909ba",
-     "66c9c2811cc2"
-    ]
-   },
-   {
-    "titulo": "Orientações e horários para candidatos no Enem 2026",
-    "ids": [
-     "28997a7a98a1"
-    ]
-   },
-   {
-    "titulo": "Desafios de Lula para aprovar indicações ao STF no Senado",
+    "titulo": "Lula enfrenta Senado de oposição para aprovar nomes no STF",
     "ids": [
      "ee6231761cbe",
      "9a77681e3eaa"
     ]
    },
    {
-    "titulo": "Governo lança guia para direcionamento de famílias em risco de fome",
+    "titulo": "Governo lança guia para famílias em risco de fome",
     "ids": [
      "b65e994539aa"
     ]
    },
    {
-    "titulo": "Indicações para agências reguladoras e Banco Central no governo Lula",
+    "titulo": "Lula terá indicações para agências reguladoras e Banco Central",
     "ids": [
      "67fa7b16236e"
     ]
    },
    {
-    "titulo": "Composição da maior bancada feminina da história do Congresso",
+    "titulo": "Mulheres na política e bancada feminina no Congresso",
     "ids": [
      "d874e418f991"
     ]
    },
    {
-    "titulo": "Início da operacionalização do cashback da reforma tributária",
+    "titulo": "Cashback da reforma tributária começa em janeiro",
     "ids": [
      "9c0b852faf70"
     ]
    },
    {
-    "titulo": "Perfil dos novos eleitores idosos no segundo turno",
-    "ids": [
-     "4c3e9503a5de",
-     "a6ad6a23aa12",
-     "bfa2bc434e90"
-    ]
-   },
-   {
-    "titulo": "Proposta de CPI para investigar governo por Deltan Dallagnol",
-    "ids": [
-     "5e7fbea6c22b"
-    ]
-   },
-   {
-    "titulo": "Críticas à gestão do Ministério da Cultura dividem artistas",
+    "titulo": "Críticas ao Ministério da Cultura dividem artistas",
     "ids": [
      "1dbd8180034c"
     ]
    },
    {
-    "titulo": "Mudanças e especulações na composição de ministérios do governo",
+    "titulo": "Mudanças e articulações no governo e ministérios",
     "ids": [
      "e445a0461953"
     ]
    },
    {
-    "titulo": "Alvos da Operação Lava Jato nas eleições de 2026",
+    "titulo": "Alvos da Lava Jato vencem as eleições de 2026",
     "ids": [
      "52a514c36a41"
     ]
    },
    {
-    "titulo": "PGR apoia pedido de recursos extras para penduricalhos no MPU",
+    "titulo": "Colunistas | Página: 553",
     "ids": [
-     "1b05408311be"
+     "90240088a061"
     ]
    },
    {
-    "titulo": "Fux suspende julgamento sobre escala de trabalho e leva ao plenário",
+    "titulo": "A cláusula de barreira depois da vírgula",
     "ids": [
-     "1256ca72dd17",
-     "dfe5285bc8e3"
+     "75d325208040"
     ]
    },
    {
-    "titulo": "Claro vence pregão para serviço de telefonia do Senado",
+    "titulo": "‘Vou estar pronto para trabalhar com qualquer governo’, diz primeiro diplomata indígena do Itamaraty",
     "ids": [
-     "9df93b028180"
+     "9afc206f2a6b"
     ]
    },
    {
-    "titulo": "Retomada de debates sobre o voto distrital misto no Congresso",
+    "titulo": "Associação de Internet aponta falta de clareza no PL das big techs",
     "ids": [
-     "274f9856be63"
+     "d9460a6f3510"
+    ]
+   },
+   {
+    "titulo": "Economistas e entidades da sociedade civil defendem PL das big techs",
+    "ids": [
+     "8c438b4c5528"
+    ]
+   },
+   {
+    "titulo": "Após parecer da PGR, Kassio deve levar revisão de Bolsonaro ao plenário",
+    "ids": [
+     "9738977e0726"
+    ]
+   },
+   {
+    "titulo": "PGR prepara primeiras denúncias no caso Master um ano após operação",
+    "ids": [
+     "f3554433abee"
     ]
    }
   ],
   "resumos": {
-   "f65e0a64f933adcd": {
-    "resumo": "O procurador-geral da República, Paulo Gonet, manifestou-se contrariamente ao pedido de revisão criminal apresentado pela defesa de Jair Bolsonaro para anular sua condenação a 27 anos de prisão por tentativa de golpe de Estado. No parecer enviado ao relator Kassio Nunes Marques nesta quinta-feira (12), Gonet argumentou que os advogados não apresentaram fatos novos, evidências de cerceamento de defesa ou adulterações concretas, limitando-se a reescrever teses já rejeitadas. A defesa havia alegado falhas na cadeia de custódia de provas digitais e supostas nulidades processuais. O ex-presidente cumpre pena em prisão domiciliar.",
-    "pontos": [
-     "PGR vota contra revisão criminal da condenação de Bolsonaro.",
-     "Defesa apontou falhas em provas digitais e pediu anulação da sentença.",
-     "Gonet afirmou que o parecer técnico da defesa não traz novidades relevantes."
-    ],
-    "enquadramentos": {
-     "eef4aca00cdb": "Estadão detalha os argumentos técnicos da defesa sobre a cadeia de custódia e destaca o parecer de Gonet enviado a Nunes Marques.",
-     "fb4f87118184": "Gazeta do Povo enfatiza a pena de 27 anos, a prisão domiciliar e os argumentos centrais da defesa e do PGR sobre o suposto risco moral.",
-     "cda59a4f8023": "CartaCapital foca na rejeição da tentativa de anulação e contextualiza o cenário político e as eleições de 2026.",
-     "c30bef9d24a1": "Folha traz nota sucinta informando a manifestação da PGR contrária à revisão criminal de Bolsonaro.",
-     "e2eddc9f2a7e": "g1 destaca a defesa da rejeição do pedido por Gonet, ilustrando com imagem recente do ex-presidente."
-    },
-    "usado_em": 1794537042.7470865
-   },
-   "e18b0867984cd8c7": {
-    "resumo": "A direção nacional do PSB aprovou por unanimidade, nesta quinta-feira (12), o início das negociações para formar uma federação partidária com o PDT. O arranjo busca fortalecer o campo progressista e assegurar a sustentação política do governo Lula, além de ajudar siglas menores a superarem a cláusula de barreira para garantir acesso a recursos do fundo partidário e tempo de TV. Contudo, o processo enfrenta resistências internas, como a oposição da senadora eleita Marília Arraes no PDT e divergências sobre o comando do grupo com outros partidos aliados.",
-    "pontos": [
-     "PSB aprova por unanimidade início de negociações para federação com o PDT.",
-     "Movimento visa superar cláusula de barreira e fortalecer o governo Lula.",
-     "Aliança enfrenta resistência interna no PDT e disputas de comando."
-    ],
-    "enquadramentos": {
-     "948e388b256a": "CartaCapital destaca o aval unânime do PSB, o acesso a recursos públicos e a resistência da senadora Marília Arraes.",
-     "506186615558": "Folha enfatiza a participação de João Campos e Geraldo Alckmin e os riscos do PDT ser engolido pelo PSB.",
-     "b6d713aa14d6": "Estadão enquadra a federação como uma busca de sobrevivência diante do endurecimento da cláusula de barreira."
-    },
-    "usado_em": 1794537042.7470894
-   },
-   "8b43fd9c8e393037": {
-    "resumo": "O ministro Cristiano Zanin, do STF, rejeitou o pedido de liminar do PSD para anular a decisão do TSE e realizar um segundo turno nas eleições para o governo do Rio de Janeiro. O partido questionava a anulação dos votos de Anthony Garotinho, o que havia consagrado Douglas Ruas (PL) vencedor em primeiro turno. Zanin apontou uso inadequado da Arguição de Descumprimento de Preceito Fundamental (ADPF) como substituta de recurso, embora o mérito da ação siga em tramitação.",
-    "pontos": [
-     "Zanin nega liminar do PSD para segundo turno no Rio de Janeiro.",
-     "Ação questionava a anulação de votos de Anthony Garotinho pelo TSE.",
-     "Ministro apontou uso inadequado da ADPF, mas manteve o processo em andamento."
-    ],
-    "enquadramentos": {
-     "bbbb9d969f3d": "Gazeta do Povo destaca o atrito entre STF e TSE e relata questionamentos nos bastidores sobre a demora de Zanin.",
-     "92b8017d7d8c": "Estadão enfatiza a fundamentação técnica de Zanin sobre o uso incorreto da ADPF e detalha o impacto dos votos de Garotinho.",
-     "e69f1ba069dc": "Folha relata a rejeição da liminar, destacando o impacto na vitória de Douglas Ruas e os argumentos da defesa de Paes."
-    },
-    "usado_em": 1794537042.7470906
-   },
-   "a109c49ef3f21dc1": {
-    "resumo": "A defesa de Daniel Vorcaro protocolou petição para questionar a atuação temporária do presidente do STF, Edson Fachin, na relatoria do caso Banco Master. Os advogados alegam violação ao princípio do juiz natural e pedem que o recurso seja encaminhado ao decano Gilmar Mendes para definir a relatoria definitiva e analisar a soltura de Vorcaro, ou que o caso seja submetido ao plenário.",
-    "pontos": [
-     "Defesa de Daniel Vorcaro contesta Fachin na condução do caso Banco Master.",
-     "Advogados alegam violação do princípio do juiz natural.",
-     "Pedido solicita que Gilmar Mendes defina a relatoria e avalie prisões."
-    ],
-    "enquadramentos": {
-     "2d229d7501cc": "Folha detalha os argumentos da defesa de Vorcaro sobre as competências da presidência do STF e o impasse gerado nos inquéritos."
-    },
-    "usado_em": 1794537042.7470918
-   },
-   "cf7e878c0ba030f3": {
-    "resumo": "O ministro Alexandre de Moraes, do STF, proibiu as visitas dos senadores Magno Malta e Damares Alves ao general Augusto Heleno, atendendo a pedido da defesa fundamentado no quadro de saúde do ex-ministro. Heleno, que cumpre pena no Comando Militar do Planalto por tentativa de golpe de Estado, relata diagnóstico de Alzheimer.",
-    "pontos": [
-     "Moraes proíbe visitas de senadores a Augusto Heleno.",
-     "Decisão atende pedido da defesa com base em razões médicas.",
-     "General cumpre pena por tentativa de golpe de Estado."
-    ],
-    "enquadramentos": {
-     "1eb393b94df0": "O Antagonista resume sucintamente a proibição de visitas aos senadores por motivos de saúde a pedido da defesa.",
-     "93d5a6752699": "Folha detalha os informes médicos sobre Alzheimer e o cumprimento da pena de Heleno no Comando Militar do Planalto."
-    },
-    "usado_em": 1794537042.7470927
-   },
-   "6c497d73d0d9cb09": {
-    "resumo": "O ministro Flávio Dino, do STF, estabeleceu diretrizes para a transição do fim da escala 6x1, permitindo que empresas adotem jornadas diárias de 8h24 sem pagamento de horas extras até dezembro de 2026. A medida flexibiliza as regras de descanso, reduz prazos de adaptação para contratos públicos e sugere regras especiais para micro e pequenas empresas.",
-    "pontos": [
-     "Flávio Dino fixa diretrizes para a transição do fim da escala 6x1.",
-     "Jornada diária de 8h24 é permitida sem adicional de hora extra.",
-     "Decisão flexibiliza folgas e reduz prazos para contratos públicos."
-    ],
-    "enquadramentos": {
-     "6e947e9f1347": "Gazeta do Povo detalha as regras da nova jornada diária, a flexibilização das folgas e os impactos para contratos públicos e pequenas empresas.",
-     "7ae652ede048": "Estadão foca na devolução do julgamento sobre a criminalização de jogos de azar ao plenário do STF por Flávio Dino."
-    },
-    "usado_em": 1794537042.7470937
-   },
-   "86f0db69371d1d05": {
-    "resumo": "A presidência do Banco do Brasil apontou resistência de médios e grandes produtores rurais inadimplentes na renegociação de dívidas do agronegócio, registrando adesão de apenas 15% dos clientes elegíveis. A instituição destacou o chamado 'risco moral', em que devedores evitam pagar ou apresentar garantias na expectativa de melhores condições futuras, impactando o lucro trimestral do banco.",
-    "pontos": [
-     "Banco do Brasil aponta recusa de grandes produtores em renegociar dívidas.",
-     "Adesão a programas facilitados ficou abaixo do esperado.",
-     "Diretoria do BB aponta 'risco moral' e endurece regras de cobrança."
-    ],
-    "enquadramentos": {
-     "7a3fc49ebe26": "CartaCapital detalha as declarações da presidenta do BB sobre o risco moral e a concentração de inadimplência no Centro-Oeste.",
-     "d523b3687d7b": "Gazeta do Povo enquadra o cenário como uma crise histórica no agro que provocou forte queda no lucro líquido do banco."
-    },
-    "usado_em": 1794537042.7470946
-   },
-   "7ed3dff48e8988cc": {
-    "resumo": "O diretor-geral da Polícia Federal, Andrei Rodrigues, defendeu sua atuação e o afastamento de delegados envolvidos na elaboração de relatórios sobre ministros do STF no caso Banco Master. O ministro da Justiça declarou apoiar a condução legal do caso, enquanto surgem debates internos sobre vazamentos e o racha na corporação.",
-    "pontos": [
-     "Diretor-geral da PF afasta delegados após relatórios sobre ministros do STF.",
-     "Andrei Rodrigues afirma ter agido estritamente conforme a lei.",
-     "Ministro da Justiça respalda a conduta, mas pede novos esclarecimentos."
-    ],
-    "enquadramentos": {
-     "2b8ad5e26dc1": "Estadão critica a gestão de Andrei Rodrigues e aponta riscos de vazamentos e interferência política na Polícia Federal.",
-     "28d3a37e5133": "Folha relata a conversa entre o chefe da PF e o ministro da Justiça sobre o afastamento dos delegados e o sigilo dos relatórios."
-    },
-    "usado_em": 1794537042.7470956
-   },
-   "c9f0238cd36bdbd7": {
-    "resumo": "A Secretaria do Tesouro Nacional identificou um acesso não autorizado ao seu ambiente tecnológico que expôs dados de 30 mil cadastros e cerca de 4 mil chaves Pix de beneficiários do governo. O órgão informou que o incidente não causou impacto financeiro e comunicou o caso à ANPD e a órgãos de segurança cibernética.",
-    "pontos": [
-     "Tesouro Nacional sofre acesso não autorizado a dados e chaves Pix.",
-     "Incidente atingiu 30 mil cadastros e cerca de 4 mil chaves Pix.",
-     "Órgão garante ausência de impacto financeiro e aciona autoridades."
-    ],
-    "enquadramentos": {
-     "10aca9f75cc2": "CartaCapital detalha a extensão do vazamento de dados, os riscos de fraudes e as medidas de contenção adotadas pelo Tesouro."
-    },
-    "usado_em": 1794537042.7470963
-   },
-   "764c1a636ba4afb9": {
-    "resumo": "O presidente do Senado, Davi Alcolumbre, defendeu publicamente em suas redes sociais o contrato de fornecimento de celulares a parlamentares, gerando críticas sobre patrimonialismo na Casa. Paralelamente, analistas políticos apontam que Alcolumbre adota discursos governistas rigorosos devido ao receio de perder o apoio do presidente Lula na disputa pela reeleição à presidência do Senado.",
-    "pontos": [
-     "Alcolumbre defende contrato de distribuição de celulares a senadores.",
-     "Declarações geram críticas de comentaristas políticos sobre patrimonialismo.",
-     "Senador busca consolidar aliança com o governo para garantir reeleição."
-    ],
-    "enquadramentos": {
-     "6d78fb1fae8f": "Gazeta do Povo analisa a estratégia eleitoral de Alcolumbre e seu temor de isolamento político na disputa pelo comando do Senado.",
-     "54332df7fc25": "Estadão critica a postura de Alcolumbre sobre o uso de recursos públicos e estruturas institucionais do Senado."
-    },
-    "usado_em": 1794537042.7470973
-   },
-   "0049d4c8874fbc3a": {
-    "resumo": "Um ataque a tiros em uma academia de ginástica próxima à Casa Branca, em Washington, deixou um morto e quatro feridos. O atirador, identificado como um médico em conflito com a associação de moradores de seu prédio, cometeu suicídio após o crime, gerando intensa mobilização policial e reavivando o debate sobre o controle de armas nos EUA.",
-    "pontos": [
-     "Ataque a tiros em academia perto da Casa Branca deixa um morto e quatro feridos.",
-     "Atirador cometeu suicídio após o crime.",
-     "Episódio reacende debate sobre controle de armas nos Estados Unidos."
-    ],
-    "enquadramentos": {
-     "8e8e75b9fcbe": "CartaCapital detalha os desdobramentos do ataque armado, a identidade do atirador e o contexto do debate sobre armamentos nos EUA."
-    },
-    "usado_em": 1794537042.7470984
-   },
-   "5b907dc37bf08cbc": {
-    "resumo": "O partido Novo protocolou ofício junto ao presidente do STF, Edson Fachin, exigindo medidas para proibir estruturas informais de recebimento de documentos nos gabinetes dos ministros, após revelações sobre procedimentos adotados no Inquérito das Fake News. A sigla também pediu o fim do sigilo de investigações relacionadas ao controle público.",
-    "pontos": [
-     "Partido Novo cobra Fachin por regras contra estruturas informais em gabinetes do STF.",
-     "Requerimento surge após revelações sobre trâmites no Inquérito das Fake News.",
-     "Sigla pede fim do sigilo de investigações de controle público."
-    ],
-    "enquadramentos": {
-     "d40cc741c8ab": "Gazeta do Povo destaca o pedido do Partido Novo por maior transparência e controle na tramitação interna de documentos na Corte."
-    },
-    "usado_em": 1794537042.7470992
-   },
    "161fbc6e54d18d66": {
     "resumo": "A Polícia Federal deflagrou a segunda fase da Operação Make Up para investigar o desvio de emendas parlamentares destinadas ao financiamento do filme Dark Horse, biografia de Jair Bolsonaro. Foram cumpridos mandados de busca e apreensão expedidos pelo STF contra um assessor do deputado Mário Frias. O parlamentar negou anteriormente o envio de verbas para produções cinematográficas, enquanto a investigação apura crimes como peculato e lavagem de dinheiro.",
     "pontos": [
@@ -5143,7 +5027,7 @@
      "c1167a206b56": "A CNN Brasil apresenta o fato de forma sucinta por meio de seu título.",
      "1079b66e36b9": "A Gazeta do Povo detalha a origem da escultura, a data de inauguração e contextualiza com a decisão anterior sobre laicidade."
     },
-    "usado_em": 1794786804.0713613
+    "usado_em": 1794807633.672477
    },
    "cc8af0c1f9b1d60b": {
     "resumo": "O ministro Luiz Fux suspendeu o julgamento virtual sobre a transição e implementação do fim da escala 6x1 ao apresentar um pedido de destaque, enviando o caso para o plenário físico do STF. A decisão anula o placar parcial de 4 a 0 favorável à manutenção da liminar do relator Flávio Dino. Enquanto o tema não for votado presencialmente pelo plenário, a decisão de Dino que mantém o cronograma e flexibiliza regras de transição continua em vigor.",
@@ -5183,6 +5067,97 @@
      "ac62e20ed009": "A CartaCapital destaca a declaração de Ronaldinho sobre não descartar novas partidas e sua satisfação com a reestreia."
     },
     "usado_em": 1794786804.0713625
+   },
+   "5d328f079b2eb4fc": {
+    "resumo": "O presidente Luiz Inácio Lula da Silva se reuniu nesta segunda-feira (16) com o primeiro-ministro espanhol, Pedro Sánchez, em Madri, encerrando seu primeiro giro internacional após a reeleição. A viagem incluiu passagens pela Turquia para a COP 31, onde cobrou compromissos de países ricos sobre o clima, e pelas Filipinas, onde debateu parcerias em minerais críticos e semicondutores. Sánchez busca apoio político de Lula para as eleições na Espanha em novembro. A comitiva brasileira contou com ministros e com o deputado André Janones.",
+    "pontos": [
+     "Lula encerra giro internacional na Espanha com encontro com Pedro Sánchez.",
+     "Passagem pela Turquia incluiu participação na COP 31 com cobranças a países ricos.",
+     "Viagem às Filipinas focou em cooperação em semicondutores e minerais críticos."
+    ],
+    "enquadramentos": {
+     "bf0275d101ca": "Enfatiza a conclusão da primeira viagem internacional de Lula após a reeleição, detalhando acordos e a participação de sua comitiva.",
+     "66e986f375dc": "Trata o fato de forma breve, destacando apenas a chegada do presidente à Espanha para a reunião.",
+     "46421c15abd5": "Resume a viagem como um retorno ao Brasil após passagens pela COP e cúpula da Asean."
+    },
+    "usado_em": 1794807633.6724718
+   },
+   "0cb39d965d5c285a": {
+    "resumo": "A ex-primeira-dama e senadora eleita Michelle Bolsonaro anunciou que tirará dez dias de descanso com o aval e incentivo do marido, Jair Bolsonaro, e de suas filhas. A viagem ocorre após quatro anos intensos e visa prepará-la para o ano desafiador que se aproxima. Enquanto veículos apontam que o destino é Israel com uma excursão de evangélicos, a própria publicação não especifica o local. A filha mais velha, Letícia, ajudará a cuidar de Jair Bolsonaro, que cumpre prisão domiciliar.",
+    "pontos": [
+     "Michelle Bolsonaro anuncia dez dias de descanso após período eleitoral intenso.",
+     "Destino seria Israel segundo o portal Metrópoles, enquanto a postagem não confirma o local.",
+     "A filha mais velha auxiliará nos cuidados do ex-presidente Jair Bolsonaro durante a ausência."
+    ],
+    "enquadramentos": {
+     "80d2d961a1e8": "Foca no apoio familiar e menciona o aval de Bolsonaro, contextualizando com a condenação e prisão domiciliar do ex-presidente.",
+     "41f19a7a5a77": "Destaca a repercussão de críticas e confirma a viagem internacional a Israel com base em informações de terceiros.",
+     "95ff0396186a": "Enfatiza a reação de Michelle às críticas de apoiadores e detalha seu isolamento em relação à campanha de Flávio Bolsonaro."
+    },
+    "usado_em": 1794807633.6724741
+   },
+   "8ed3fcd75f7d2920": {
+    "resumo": "O vice-presidente e ministro apontado indicou que a definição sobre a formação dos novos ministérios do governo ocorrerá a partir do retorno de viagens e do início da semana.",
+    "pontos": [
+     "Decisão sobre ministérios fica para o retorno de viagens oficiais.",
+     "Alckmin indicou o prazo para o anúncio a partir da semana."
+    ],
+    "enquadramentos": {
+     "ba8fad7decd9": "Atribui a declaração ao vice-presidente Alckmin sobre o momento em que ocorrerão as escolhas ministeriais.",
+     "312177c98c34": "Aponta que a decisão sobre a composição ministerial começa a ser tratada a partir de segunda-feira."
+    },
+    "usado_em": 1794807633.6724749
+   },
+   "c47c9f578750eebe": {
+    "resumo": "Em declarações nas Filipinas durante a cúpula da Asean, Lula afirmou que o Brasil buscou novos parceiros comerciais em vez de 'chorar' pelas tarifas impostas pelos Estados Unidos. O presidente destacou o crescimento das trocas comerciais com China, Alemanha, Indonésia e Vietnã, além de defender o multilateralismo e investimentos em ciência e economia verde.",
+    "pontos": [
+     "Lula diz que Brasil buscou novos parceiros comerciais após tarifaço dos EUA.",
+     "Crescimento do comércio com países asiáticos e europeus foi destacado.",
+     "Presidente reforçou foco em economia verde e tecnologia no quarto mandato."
+    ],
+    "enquadramentos": {
+     "20e01018f13b": "Foca nos aportes financeiros internacionais voltados à proteção ambiental obtidos após reuniões.",
+     "6760c4688d0d": "Destaca a frase forte de Lula sobre evitar lamentações ante tarifas dos EUA e buscar diversificação comercial."
+    },
+    "usado_em": 1794807633.6724753
+   },
+   "b2744d0dc292cf8e": {
+    "resumo": "Durante o segundo dia do Enem 2026, o ministro da Educação, Leonardo Barchini, afirmou que a página do Inep sofreu tentativas de ataques hackers, mas garantiu que a situação está sob controle. A declaração foi feita em visita à sala de controle em Brasília ao lado do presidente em exercício, Geraldo Alckmin. O exame conta com mais de 5 milhões de inscritos.",
+    "pontos": [
+     "Inep sofreu tentativas de ataques hackers no segundo dia do Enem.",
+     "Governo garantiu monitoramento e controle da situação.",
+     "Alckmin e ministro visitaram a sala de controle em Brasília."
+    ],
+    "enquadramentos": {
+     "c75307dee234": "Foca no conteúdo acadêmico e nos temas cobrados na prova do segundo dia do Enem.",
+     "caa6de302185": "Enfatiza a declaração oficial do governo sobre a segurança cibernética e a logística do exame."
+    },
+    "usado_em": 1794807633.6724758
+   },
+   "7305c6df34796d86": {
+    "resumo": "Levantamento com base em dados do STF aponta que o ministro Alexandre de Moraes concentra a maior parte das ações penais e execuções penais em andamento na corte, mesmo após o arquivamento do inquérito das fake news. Moraes responde por cerca de 97% das ações penais sem decisão final e por uma fatia expressiva dos inquéritos atuais.",
+    "pontos": [
+     "Moraes concentra grande parcela das ações penais ativas no STF.",
+     "Arquivamento do inquérito das fake news não alterou o volume expressivo de sua relatoria.",
+     "Maioria das ações sob sua responsabilidade foi aberta recentemente."
+    ],
+    "enquadramentos": {
+     "2b37ca9ddc03": "Analisa estatísticas do STF apontando a manutenção do alto volume de processos com Moraes após o fim do inquérito das fake news.",
+     "4139f81dfc05": "Traz números detalhados por fases processuais e inclui críticas editoriais sobre o ritmo e o escopo das investigações."
+    },
+    "usado_em": 1794807633.6724784
+   },
+   "d07eafdc23a0106a": {
+    "resumo": "Em partidas e competições esportivas recentes, a Inglaterra venceu a Espanha fora de casa pela Liga das Nações em um jogo disputado, enquanto a Copa do Mundo da Vela definiu suas últimas seleções classificadas com destaque para as atuações de Cuba e Uruguai no Rio de Janeiro.",
+    "pontos": [
+     "Inglaterra derrota a Espanha fora de casa na Liga das Nações.",
+     "Cuba e Uruguai garantem vagas na Copa do Mundo da Vela no Rio."
+    ],
+    "enquadramentos": {
+     "718fa9f2f9cf": "Trata o confronto de futebol como um jogo de grande destaque e vitória inglesa na casa do adversário.",
+     "98189fdd9b22": "Foca nas regatas de vela na Baía de Guanabara e na classificação de equipes latino-americanas."
+    },
+    "usado_em": 1794807633.672479
    }
   }
  }
