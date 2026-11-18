@@ -1,366 +1,405 @@
 {
  "macro": {
-  "chave": "80a5335dbc756288",
+  "chave": "7282748a4f3da6f1",
   "grupos": [
    {
-    "titulo": "Nissan aposta em híbrido plug-in na China",
+    "titulo": "Um ano após a liquidação do Banco Master",
     "ids": [
-     "5aa00ef1ccdd"
+     "738b983f5105",
+     "f3339a049956",
+     "1ce407e41d2a"
     ]
    },
    {
-    "titulo": "A Fazenda 18: votações, roças e conflitos entre os peões",
+    "titulo": "Waymo suspende operações em rodovias nos EUA",
     "ids": [
-     "034a23b22e5f",
-     "dbdf2b7d53dc",
-     "44cce51b21e3",
-     "33a43b950284",
-     "07b63abe79f0",
-     "468ce26ccf83",
-     "ff7c396c0827",
-     "b4f235895a70",
-     "249005d5d6dd"
+     "160f3200a95f"
     ]
    },
    {
-    "titulo": "Conheça os participantes do programa Acerte ou Caia!",
+    "titulo": "Prisão de suspeito de roubo e atropelamento na Barra Funda",
     "ids": [
-     "a03a554ee98c"
+     "b05973e536a8"
     ]
    },
    {
-    "titulo": "Debates sobre inteligência artificial no EmTech Brasil",
+    "titulo": "Tarcísio cria Secretaria de Planejamento e reorganiza infraestrutura",
     "ids": [
-     "5ec9723c8f69"
+     "2ed127c8d711"
     ]
    },
    {
-    "titulo": "Novo estudo aponta o Custo Brasil",
+    "titulo": "Estabilização do minério de ferro na China",
     "ids": [
-     "28143dddea34",
-     "8ea88a377a0c"
+     "f5c4c3922f76"
     ]
    },
    {
-    "titulo": "Um ano após liquidação extrajudicial, clientes relatam impactos do Banco Master",
+    "titulo": "Queda na taxa de desemprego no 3º trimestre segundo o IBGE",
     "ids": [
-     "1ce407e41d2a",
-     "72292be99b84"
+     "7e416a12086e",
+     "a3294ad38ad5",
+     "8f2e998884a7",
+     "6384cbca8707"
     ]
    },
    {
-    "titulo": "Banco do Japão avalia corte de impostos e economia japonesa registra déficit comercial",
+    "titulo": "Rede D'Or vende SulAmérica Investimentos para a BlackRock",
     "ids": [
-     "8b9dd2345e49",
-     "376940ea53e2"
+     "764e0f407e79",
+     "3b1bd2109da0"
     ]
    },
    {
-    "titulo": "Panes tecnológicas globais alimentam desconfiança",
+    "titulo": "Restrições dos EUA à exportação de chips e tecnologia",
+    "ids": [
+     "06af8a4ffc17",
+     "22860e99013a",
+     "2f972d01357f",
+     "389ec27aa6db"
+    ]
+   },
+   {
+    "titulo": "Tramitação e debates sobre o ajuste fiscal na Câmara e no Senado",
+    "ids": [
+     "a0340cb1d962",
+     "a0bbbba987a3",
+     "bc0022ab87dc"
+    ]
+   },
+   {
+    "titulo": "Impacto do governo Lula e da política monetária dos EUA no dólar e juros",
+    "ids": [
+     "26d039e9147e",
+     "0cc963aac382",
+     "1ac54ef47916",
+     "8b61f9e9e3d6",
+     "41a48dc67054",
+     "b262a91cbc5e"
+    ]
+   },
+   {
+    "titulo": "Lançamento e recepção crítica de GTA VI",
+    "ids": [
+     "dcdfbf044dbc",
+     "e247d7aefb8e",
+     "248196286c2c",
+     "07040bef3d96"
+    ]
+   },
+   {
+    "titulo": "Estudo sobre a influência e publicidade do agronegócio",
+    "ids": [
+     "d189aac83b79"
+    ]
+   },
+   {
+    "titulo": "Idosa é agredida e roubada no RJ",
+    "ids": [
+     "74c8e2d9d7d1"
+    ]
+   },
+   {
+    "titulo": "Reunião da APEC e encontro entre Trump, Xi e Putin na China",
+    "ids": [
+     "6c5eba4a73fc",
+     "67caea7c4a93",
+     "285e531edf0b",
+     "35e3fbdca11d",
+     "b02ab8938c85",
+     "0b0896588bcf",
+     "fb8107be1fb1"
+    ]
+   },
+   {
+    "titulo": "Nikolas ameaça deixar o PL",
+    "ids": [
+     "216cee9a6e6b"
+    ]
+   },
+   {
+    "titulo": "EUA perdem status de país livre do sarampo",
+    "ids": [
+     "caa997547fa8"
+    ]
+   },
+   {
+    "titulo": "Previsões econômicas globais para 2027 pela Oxford Economics",
+    "ids": [
+     "27e0d1f5498f"
+    ]
+   },
+   {
+    "titulo": "Ações da RECORD Goiás com foco em segurança e saúde",
+    "ids": [
+     "e0a7c8017b25",
+     "6ca8aa7e11ba"
+    ]
+   },
+   {
+    "titulo": "Visa expande programa para comércio agêntico",
+    "ids": [
+     "f8f64068b138"
+    ]
+   },
+   {
+    "titulo": "Amazon investe em energia renovável na Índia",
+    "ids": [
+     "1ad996c625a2"
+    ]
+   },
+   {
+    "titulo": "Deutsche Bank e o vazamento de dados fiscais de Trump em 2017",
+    "ids": [
+     "88e5c278b3b7"
+    ]
+   },
+   {
+    "titulo": "Circuito de Beach Tennis da RECORD Paulista",
+    "ids": [
+     "e1f38ec652f4",
+     "293e86c94d90"
+    ]
+   },
+   {
+    "titulo": "Eleições nos EUA: vitória democrata no Alasca define Senado",
+    "ids": [
+     "aa87671c3392"
+    ]
+   },
+   {
+    "titulo": "Acontecimentos e repercussões em A Fazenda",
+    "ids": [
+     "a41b03ff452f",
+     "7e3a21bd24b1",
+     "f6bf6994b94f",
+     "28bded525178",
+     "7a151dc54b2d",
+     "d062ca465b5c"
+    ]
+   },
+   {
+    "titulo": "Trump destaca controle sobre o petróleo da Venezuela",
+    "ids": [
+     "eaf95b8ee74d"
+    ]
+   },
+   {
+    "titulo": "Análise da ausência de impacto nos preços do petróleo após conflito no Irã",
+    "ids": [
+     "7df22a68ec72"
+    ]
+   },
+   {
+    "titulo": "Divulgação do gabarito oficial do Enem 2026",
+    "ids": [
+     "3ec5891a6968"
+    ]
+   },
+   {
+    "titulo": "Tabus sobre a saúde masculina e cirurgia de próstata",
+    "ids": [
+     "c3addd7fb18f"
+    ]
+   },
+   {
+    "titulo": "Debates sobre a articulação do governo para aprovar ajuste fiscal",
+    "ids": [
+     "aff4b6490118"
+    ]
+   },
+   {
+    "titulo": "Desempenho financeiro e estratégias da Dexco",
+    "ids": [
+     "75d5c5a1adf3"
+    ]
+   },
+   {
+    "titulo": "Pesquisa aponta falta de engajamento entre trabalhadores brasileiros",
+    "ids": [
+     "761c8761c3fd",
+     "a0d8f28a546a",
+     "e7d9b5eb6d5e"
+    ]
+   },
+   {
+    "titulo": "Adiantamento sobre relações do Reino Unido com a UE por Burnham",
+    "ids": [
+     "f8635252795e"
+    ]
+   },
+   {
+    "titulo": "Mudanças na liderança e resultados financeiros da Nvidia",
+    "ids": [
+     "52f327624a19",
+     "333614d8cf53",
+     "b30e85a6c0aa",
+     "72b94b57e1a4"
+    ]
+   },
+   {
+    "titulo": "Operação da PF contra apostas ilegais bloqueia bilhões",
+    "ids": [
+     "f7e8f9721113"
+    ]
+   },
+   {
+    "titulo": "Panorama sobre fundos imobiliários e conceitos financeiros",
+    "ids": [
+     "5f257c779411",
+     "92a5c2c632f5",
+     "aacc25643da2",
+     "0362f01e0c57",
+     "1dc943991c54",
+     "c18029031bc7",
+     "e813b4c644a2",
+     "264426f10212"
+    ]
+   },
+   {
+    "titulo": "Dirigente do Fed comenta segurança em finanças tokenizadas e ataque à Binance",
+    "ids": [
+     "743348c4bd47"
+    ]
+   },
+   {
+    "titulo": "Mercado de cannabis medicinal no Brasil ultrapassa marca financeira",
+    "ids": [
+     "af685a1c8056"
+    ]
+   },
+   {
+    "titulo": "Dona do Claude define preço de IPO",
+    "ids": [
+     "82c33b608561"
+    ]
+   },
+   {
+    "titulo": "Boom de petróleo e gás na Argentina impulsiona emissão de títulos",
+    "ids": [
+     "12fea67724e2"
+    ]
+   },
+   {
+    "titulo": "Estreia de 'A Odisseia' nos streamings",
+    "ids": [
+     "af64dd6f3dbd"
+    ]
+   },
+   {
+    "titulo": "Comunicados da Reuters",
+    "ids": [
+     "5b3aa27da859"
+    ]
+   },
+   {
+    "titulo": "Erros de paginação ou registros de teste da Jovem Pan",
+    "ids": [
+     "29cb14036d82"
+    ]
+   },
+   {
+    "titulo": "Perspectivas econômicas e desafios para empresas em 2027",
+    "ids": [
+     "bb931951ef38",
+     "f87ba8c624f3"
+    ]
+   },
+   {
+    "titulo": "Agronegócio e soluções tecnológicas para mudanças climáticas",
+    "ids": [
+     "d827806ecb46"
+    ]
+   },
+   {
+    "titulo": "Universo e expansão da franquia Jogos Vorazes",
+    "ids": [
+     "1e3b9740ee4c"
+    ]
+   },
+   {
+    "titulo": "Abordagem da Anthropic sobre riscos existenciais da IA",
+    "ids": [
+     "3027384e5ee3"
+    ]
+   },
+   {
+    "titulo": "Estudo estima impacto do Custo Brasil na economia",
+    "ids": [
+     "43754d403c66",
+     "28143dddea34"
+    ]
+   },
+   {
+    "titulo": "Debates sobre a Lei da Dosimetria no STF",
+    "ids": [
+     "bd583f5a29ac"
+    ]
+   },
+   {
+    "titulo": "Aumento nos preços de itens da cesta básica",
+    "ids": [
+     "e75ca8849cc7"
+    ]
+   },
+   {
+    "titulo": "Análise da saúde financeira de estatais brasileiras",
+    "ids": [
+     "757867db92a3"
+    ]
+   },
+   {
+    "titulo": "Panes tecnológicas geram desconfiança em diversos setores",
     "ids": [
      "3202a98ae3fe"
     ]
    },
    {
-    "titulo": "Congresso aprova crédito para empresas afetadas por tarifas e guerras",
+    "titulo": "Aprovação de créditos legislativos para empresas afetadas por tarifas e guerras",
     "ids": [
      "76dd453da8ad",
-     "d2404fcb66e2",
-     "1f18db198e9b"
+     "d2404fcb66e2"
     ]
    },
    {
-    "titulo": "Decisão da Aneel sobre a Enel SP é adiada",
-    "ids": [
-     "77253c0a9369",
-     "cd1e2ac583e5",
-     "2ffc998ea7d9"
-    ]
-   },
-   {
-    "titulo": "Alerta de emergência interrompe programação de emissoras nos EUA",
-    "ids": [
-     "33ca1e27cc75"
-    ]
-   },
-   {
-    "titulo": "Edir Macedo realiza aporte milionário no Banco Digimais",
+    "titulo": "Aporte bilionário para capitalização do Banco Digimais",
     "ids": [
      "a6ae0a47e125",
      "87a1c84688bf"
     ]
    },
    {
-    "titulo": "Resultados financeiros e balanços da Nvidia",
-    "ids": [
-     "5e1782d16c72",
-     "52f327624a19",
-     "e272d5f331bf",
-     "dba6a83bb4de"
-    ]
-   },
-   {
-    "titulo": "Perspectivas financeiras e orçamentárias para empresas",
-    "ids": [
-     "f87ba8c624f3"
-    ]
-   },
-   {
-    "titulo": "Advent e Bain avaliam ativos da Hapvida",
+    "titulo": "Avaliação de ativos da Hapvida por fundos de investimento",
     "ids": [
      "a8a6e09c3c75"
     ]
    },
    {
-    "titulo": "Impacto da restrição de compra de chips de IA pelo Brasil",
-    "ids": [
-     "389ec27aa6db",
-     "47aced300b3a"
-    ]
-   },
-   {
-    "titulo": "Mudanças políticas no Parlamento de Israel",
-    "ids": [
-     "c33c4d2943e1",
-     "9792978a4f81"
-    ]
-   },
-   {
-    "titulo": "Chuva de meteoros Leônidas atinge o pico",
-    "ids": [
-     "8827855575b9"
-    ]
-   },
-   {
-    "titulo": "Conselho da Nvidia descarta retorno de Jensen Huang como CEO",
-    "ids": [
-     "d21174a9830a",
-     "b0b1c4970c82",
-     "918e0b0b8da8",
-     "d8a7e2ae90fc",
-     "16c6ac7dd8e8"
-    ]
-   },
-   {
-    "titulo": "Novelas e séries: atualizações de tramas e estreias",
-    "ids": [
-     "d5dcaf0d5f35"
-    ]
-   },
-   {
-    "titulo": "Sugestão de reunião entre líderes globais feita pelo Canadá",
-    "ids": [
-     "747d4e9793f4"
-    ]
-   },
-   {
-    "titulo": "Goldman Sachs rebaixa o Brasil para neutro na Bolsa",
+    "titulo": "Goldman Sachs rebaixa recomendação para o Brasil na Bolsa",
     "ids": [
      "44c601e6be07"
     ]
    },
    {
-    "titulo": "Resultados das Loterias Caixa",
+    "titulo": "Resultado do sorteio da Mega-Sena",
     "ids": [
-     "f966d4782a12",
-     "d649f861cd12",
-     "f844d507fa1f",
-     "c3e95a6b58fe",
-     "24f5911c7b6d"
+     "c3e95a6b58fe"
     ]
    },
    {
-    "titulo": "Negociações e tramitação do projeto de ajuste fiscal no Congresso",
-    "ids": [
-     "19905572c591",
-     "1ee06acc034c",
-     "ff9f7890ff54",
-     "7d418adc8a5b",
-     "5aae43242bbc"
-    ]
-   },
-   {
-    "titulo": "Projeto para taxar big techs apresentado no Congresso",
-    "ids": [
-     "21378e9e86c6"
-    ]
-   },
-   {
-    "titulo": "Notícias gerais de mundo",
-    "ids": [
-     "570663ae4f80"
-    ]
-   },
-   {
-    "titulo": "Lançamentos e análises no cinema",
-    "ids": [
-     "3c2f1453122c",
-     "051e43086529"
-    ]
-   },
-   {
-    "titulo": "Mercado Bitcoin retoma operações após ataque cibernético",
-    "ids": [
-     "0ef7c937ed60"
-    ]
-   },
-   {
-    "titulo": "Posicionamento do governo sobre votações e reformas",
-    "ids": [
-     "51be7b77cd95"
-    ]
-   },
-   {
-    "titulo": "Greve nacional de trabalhadores na França",
-    "ids": [
-     "96abe4485652"
-    ]
-   },
-   {
-    "titulo": "Movimentações políticas para a presidência da Câmara",
-    "ids": [
-     "4d3110afb034"
-    ]
-   },
-   {
-    "titulo": "STF debate julgamento sobre a Lei da Dosimetria",
-    "ids": [
-     "f7aa5c1ed8dc",
-     "76ca9b299dd4"
-    ]
-   },
-   {
-    "titulo": "Inteligência dos EUA aponta erros em atualizações como causa de falhas tecnológicas",
-    "ids": [
-     "1c2fe5ed25f5"
-    ]
-   },
-   {
-    "titulo": "OpenAI oferece bolsas para pesquisas com o ChatGPT",
-    "ids": [
-     "348535173cfa"
-    ]
-   },
-   {
-    "titulo": "Notícias sobre celebridades e cultura pop",
-    "ids": [
-     "75a62d1e97ff",
-     "26039db26e47",
-     "4297e0335076"
-    ]
-   },
-   {
-    "titulo": "Aneel confirma leilão de capacidade para térmicas",
-    "ids": [
-     "a11b62595177"
-    ]
-   },
-   {
-    "titulo": "Incerteza sobre a política fiscal e impacto no mercado",
-    "ids": [
-     "ff9be4e71fc1",
-     "757657cb03b6",
-     "90d485bdc4b6"
-    ]
-   },
-   {
-    "titulo": "Estados Unidos perdem status de país livre do sarampo",
-    "ids": [
-     "88a936c5cbd1"
-    ]
-   },
-   {
-    "titulo": "Renegociação de dívidas rurais no Brasil",
-    "ids": [
-     "f72c8c55d921"
-    ]
-   },
-   {
-    "titulo": "Inteligência artificial ajuda a encontrar falha crítica em software Java",
-    "ids": [
-     "75227e999b44"
-    ]
-   },
-   {
-    "titulo": "Animais em destaque na mídia",
-    "ids": [
-     "78d33dbb019e"
-    ]
-   },
-   {
-    "titulo": "Herdeiros tentam parar leilão de quadro valioso de Van Gogh",
-    "ids": [
-     "09f8ad82d796"
-    ]
-   },
-   {
-    "titulo": "Bolsas de NY fecham em queda influenciadas por bancos e tecnologia",
-    "ids": [
-     "4657dfda3a35"
-    ]
-   },
-   {
-    "titulo": "Ataques dos EUA contra locais de lançamento de mísseis no Irã",
-    "ids": [
-     "688bdc9460e8"
-    ]
-   },
-   {
-    "titulo": "Mudanças na gestão e secretariado em São Paulo",
-    "ids": [
-     "bd70f7f851d9"
-    ]
-   },
-   {
-    "titulo": "Inmetro identifica valores perdidos na economia com novo selo",
-    "ids": [
-     "c1b1496ecde4"
-    ]
-   },
-   {
-    "titulo": "B3 vai incorporar ações de empresas brasileiras listadas no exterior ao Ibovespa",
+    "titulo": "B3 vai incorporar ações de empresas brasileiras no exterior ao Ibovespa",
     "ids": [
      "5eb5ae86d7dc"
     ]
    },
    {
-    "titulo": "Recapitulação e novidades sobre séries de TV",
+    "titulo": "Análise financeira dos resultados da Rede D'Or",
     "ids": [
-     "eedb2658bb6d"
+     "2a7926c18a9e"
     ]
    },
    {
-    "titulo": "Governo deve assinar decreto sobre o fim da escala 6x1",
-    "ids": [
-     "63d508741749"
-    ]
-   },
-   {
-    "titulo": "Relembre como funciona a Casa de Vidro do Big Brother Brasil",
-    "ids": [
-     "745b025adc73"
-    ]
-   },
-   {
-    "titulo": "Câmara aprova projeto que torna hediondo crime de maus-tratos a animais",
-    "ids": [
-     "2b87421e37fb"
-    ]
-   },
-   {
-    "titulo": "Declarações sobre a seleção de Portugal e reações familiares",
-    "ids": [
-     "0b3c016fb4b7"
-    ]
-   },
-   {
-    "titulo": "Escaloni comenta sobre o futuro de Messi na seleção argentina",
-    "ids": [
-     "e3546f6b4d43"
-    ]
-   },
-   {
-    "titulo": "Checagens de fatos sobre notícias falsas e desinformação",
+    "titulo": "Checagens de fatos realizadas pela Reuters",
     "ids": [
      "4cc9035b3f6e",
      "2506b3d024fe",
@@ -368,167 +407,13 @@
     ]
    },
    {
-    "titulo": "STJ suspende decisão que impedia cobrança de taxa da Uber",
+    "titulo": "Nike planeja retomar crescimento com foco em esportes de alta performance",
     "ids": [
-     "229be8a39302"
-    ]
-   },
-   {
-    "titulo": "Governo retira urgência de projeto sobre criminalização de bets",
-    "ids": [
-     "538196584bc4"
-    ]
-   },
-   {
-    "titulo": "Exame nacional obrigatório para concursos de cartórios",
-    "ids": [
-     "147e32c50403"
-    ]
-   },
-   {
-    "titulo": "Ministério da Fazenda comenta impactos da reforma tributária na inflação",
-    "ids": [
-     "b32fa5e528cc"
-    ]
-   },
-   {
-    "titulo": "Receita Federal libera apuração assistida da reforma tributária",
-    "ids": [
-     "dca6b37b4977"
-    ]
-   },
-   {
-    "titulo": "Planos de crescimento e projeções financeiras de grandes empresas",
-    "ids": [
-     "13d9556c75c1",
-     "dffc49feafc4",
-     "bf0263711ed7",
-     "1ad426f1ed9b",
-     "8bb48b52eae5"
-    ]
-   },
-   {
-    "titulo": "Notícias sobre tecnologia",
-    "ids": [
-     "6c215452a72b"
-    ]
-   },
-   {
-    "titulo": "Mercado de commodities e projeções para o preço do café",
-    "ids": [
-     "8f4925276eb5"
-    ]
-   },
-   {
-    "titulo": "Inflação na América Latina supera metas de bancos centrais",
-    "ids": [
-     "0ad3f174ccbb"
-    ]
-   },
-   {
-    "titulo": "Crise na Microsoft evidencia riscos da dependência de IA",
-    "ids": [
-     "6c435894c464"
-    ]
-   },
-   {
-    "titulo": "Rede D’Or ganha com preço e sinistralidade, mas volume pede atenção, segundo analistas",
-    "ids": [
-     "2a7926c18a9e"
+     "13d9556c75c1"
     ]
    }
   ],
   "resumos": {
-   "4d994ed56932675a": {
-    "resumo": "O ex-jogador e senador Romário pediu publicamente a demissão do técnico Carlo Ancelotti do comando da seleção brasileira após a derrota por 3 a 2 para o Japão em amistoso disputado em Singapura. Romário reconheceu a vitoriosa carreira de Ancelotti em clubes, mas afirmou que ele não apresentou resultados satisfatórios na Seleção e cobrou atitude do presidente da CBF, Samir Xaud. A derrota recente aumentou a pressão sobre o treinador, que já acumulava críticas desde a eliminação na Copa do Mundo de 2026 e teve contrato renovado até 2030. Durante a partida contra o Japão, o técnico ainda foi expulso por reclamação.",
-    "pontos": [
-     "Romário cobra a demissão do técnico Carlo Ancelotti após derrota para o Japão.",
-     "Ex-jogador critica desempenho do treinador na Seleção e cobra ação da CBF.",
-     "Derrota recente amplia pressão e questionamentos sobre o futuro do comando técnico."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721161.7443342
-   },
-   "6850900f32f56dea": {
-    "resumo": "Uma falha no sistema de controle de tráfego aéreo dos Estados Unidos, ocorrida durante a modernização de equipamentos que substituiu cabos de cobre por fibra óptica, provocou a suspensão temporária dos voos no país na sexta-feira (13). O tráfego aéreo começou a ser retomado no mesmo dia, mas a interrupção gerou milhares de cancelamentos e atrasos que afetaram centenas de milhares de passageiros durante o fim de semana. O secretário de Transportes, Sean Duffy, e o chefe da FAA, Bryan Bedford, afirmaram que o pior já passou e estimam que o sistema seja totalmente normalizado até o fim do domingo (15). As autoridades descartam a hipótese de ataque cibernético.",
-    "pontos": [
-     "Pane no tráfego aéreo dos EUA causou milhares de cancelamentos e atrasos.",
-     "Problema ocorreu durante substituição de cabos de cobre por fibra óptica.",
-     "Expectativa do governo é de normalização total do sistema até domingo."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721161.7443264
-   },
-   "a1f2ec8fa63850f2": {
-    "resumo": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), pediu destaque neste sábado (14) e interrompeu o julgamento virtual que avaliava a liminar do ministro Flávio Dino sobre o fim da escala de trabalho 6x1. Com a decisão, a análise da norma que mantém o cronograma de transição da jornada e flexibiliza regras de folgas será transferida para o plenário físico da Corte. Os votos já proferidos por Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes em acompanhamento a Dino foram preservados, mas o placar será zerado na retomada. Ainda não há data definida para o novo julgamento pelo plenário presencial.",
-    "pontos": [
-     "Ministro Luiz Fux pede destaque e leva julgamento da escala 6x1 ao plenário físico.",
-     "Decisão liminar de Flávio Dino que mantém o cronograma de transição continua valendo.",
-     "Votos de Moraes, Cármen Lúcia e Gilmar Mendes já haviam acompanhado o relator."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721161.7443295
-   },
-   "885b63923421d46e": {
-    "resumo": "Jensen Huang deixou os cargos de CEO, presidente e membro do conselho de administração da Nvidia após a revelação pública de casos extraconjugais. O executivo admitiu ter traído a esposa, Lori Huang, com quem é casado há 40 anos. Reportagens da imprensa apontaram que ele manteve relacionamentos com Alice Huang, apontada por inteligência americana como suspeita de espionagem para a China, com a vice-presidente da Nvidia Kimberly Powell, e com uma terceira funcionária da empresa. A renúncia abalou o setor de inteligência artificial e gerou debates sobre segurança corporativa e nacional.",
-    "pontos": [
-     "Jensen Huang renuncia aos cargos de liderança na Nvidia após escândalo pessoal.",
-     "Executivo admitiu infidelidade conjugal após revelações de relacionamentos extraconjugais.",
-     "Um dos casos envolveu pessoa suspeita de espionagem para a China, gerando alertas de segurança."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721161.7443304
-   },
-   "c30feadef61a17c7": {
-    "resumo": "O presidente Luiz Inácio Lula da Silva participa neste domingo (15) da abertura da 49ª Cúpula da Asean nas Filipinas e de reuniões bilaterais antes de embarcar para a Espanha. Paralelamente, o ministro da Agricultura, André de Paula, declarou estar otimista em relação às negociações com autoridades filipinas para reverter a suspensão temporária de 60 dias aplicada pelo país asiático à importação de carne suína do Brasil. O mercado filipino é o principal comprador do produto brasileiro, respondendo por 25% das exportações do setor.",
-    "pontos": [
-     "Lula participa da Cúpula da Asean nas Filipinas antes de viajar para a Espanha.",
-     "Governo brasileiro negocia reversão de suspensão filipina à importação de carne suína.",
-     "Ministro da Agricultura classifica a restrição do país asiático como uma medida temporária de 60 dias."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721161.7443314
-   },
-   "a31fbb0071b31ae6": {
-    "resumo": "A SpaceX concluiu com sucesso o 15º voo de teste da nave Starship após uma missão orbital de 22 horas, registrando a primeira captura bem-sucedida do foguete pelos braços mecânicos da torre de lançamento. No entanto, a tentativa de recuperar o propulsor Super Heavy falhou durante a descida devido a uma falha nos motores e em sistemas de orientação. O primeiro estágio foi redirecionado automaticamente para o Golfo do México, onde acabou destruído. A operação reforça o avanço da empresa rumo a um sistema de lançamento totalmente reutilizável.",
-    "pontos": [
-     "SpaceX realiza primeiro pouso e captura bem-sucedida da nave Starship após voo orbital.",
-     "Tentativa de recuperar o propulsor Super Heavy falhou, resultando na sua destruição no Golfo do México.",
-     "Missão faz parte dos testes da empresa para desenvolver foguetes totalmente reutilizáveis."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721161.744332
-   },
-   "8b8145a5c8256aee": {
-    "resumo": "A Federação Portuguesa de Futebol anunciou uma mudança no design gráfico do número 7 da camisa da seleção nacional em homenagem a Cristiano Ronaldo, que se aposentou da equipe após 23 anos. O novo uniforme passa a ser utilizado neste sábado (14) na partida contra a Dinamarca, pela Liga das Nações. O jovem jogador Carlos Forbs foi o encarregado de vestir a camisa histórica na partida. A entidade destacou que a alteração serve para eternizar o legado do atleta, preservando o modelo tradicional para a história.",
-    "pontos": [
-     "Federação Portuguesa altera grafia do número 7 em homenagem a Cristiano Ronaldo.",
-     "Homenagem estreia no jogo da seleção contra a Dinamarca pela Liga das Nações.",
-     "Atacante Carlos Forbs herdou o número histórico na partida."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721161.7443326
-   },
-   "4263b98d47da7d0e": {
-    "resumo": "Milhares de manifestantes participaram da Marcha pelo Clima em Antália, na Turquia, durante o encerramento da primeira semana da COP31. Sob forte policiamento e controle de segurança, os protestos reuniram entre 10 mil e vários milhares de pessoas que criticaram a inação climática dos líderes mundiais, a saída dos Estados Unidos do Acordo de Paris sob Donald Trump, e exigiram justiça socioambiental. O ato contou com obras de arte provocativas, como esculturas da Estátua da Liberdade com a inscrição 'liberdade para poluir' e representações de figuras políticas.",
-    "pontos": [
-     "Marcha pelo Clima na COP31 reúne milhares de pessoas em protesto na Turquia.",
-     "Manifestantes criticam inação climática de governos e a ausência dos EUA no Acordo de Paris.",
-     "Protesto transcorreu de forma pacífica sob forte esquema de segurança policial."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721161.744333
-   },
-   "8e32495b0bdcc2a4": {
-    "resumo": "O Brasil registrou a primeira morte por mpox em 2026, em meio a um aumento nas infecções pelo vírus no país. Dados divulgados pela Fundação Oswaldo Cruz (Fiocruz) apontam um total de 1.009 casos confirmados no ano, com forte concentração nos estados do Rio de Janeiro e de São Paulo, que somam cerca de 76% dos registros. O óbito ocorreu no Rio de Janeiro, onde o número de casos dobrou recentemente. Apesar do avanço, as autoridades de saúde reforçam que a situação permanece abaixo do pico de 2022 e que o governo adquiriu novas doses de vacina para prevenção.",
-    "pontos": [
-     "Brasil registra a primeira morte por mpox de 2026, ocorrida no Rio de Janeiro.",
-     "Fiocruz confirma 1.009 casos da doença no país ao longo do ano.",
-     "Estados de São Paulo e Rio de Janeiro concentram a maioria das infecções registradas."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721161.7443335
-   },
    "395a185f75f7c76e": {
     "resumo": "O presidente Luiz Inácio Lula da Silva criticou o tarifaço imposto pelos Estados Unidos, mas afirmou que o Brasil buscou novos parceiros comerciais em vez de ficar chorando. Durante viagem à Ásia após participar da Asean, Lula destacou o crescimento das exportações para países como China, Vietnã, Indonésia e Alemanha. Além disso, o Canadá anunciou um aporte de US$ 400 milhões ao fundo de florestas tropicais brasileiro durante reunião com Lula em Manila.",
     "pontos": [
@@ -1048,7 +933,7 @@
      "Operação de recapitalização ainda aguarda validação do Banco Central."
     ],
     "enquadramentos": {},
-    "usado_em": 1794972458.5265934
+    "usado_em": 1795006245.9048798
    },
    "67e6a72013834602": {
     "resumo": "A oposição em Israel conseguiu retirar o comando do Parlamento (Knesset) do partido do primeiro-ministro Benjamin Netanyahu por meio da eleição de um novo presidente para a Casa. A mudança política enfraquece o controle de Netanyahu sobre a agenda legislativa e sinaliza instabilidade e divisão na base governista no atual cenário político israelense.",
@@ -1059,6 +944,116 @@
     ],
     "enquadramentos": {},
     "usado_em": 1794972458.5265944
+   },
+   "3d24816966cb9c98": {
+    "resumo": "Os Estados Unidos anunciaram novas restrições à exportação de chips avançados para países do Sudeste Asiático e o Brasil devido a riscos de desvio para a China. A China criticou as medidas e ameaçou retaliar caso os EUA avancem com restrições ao acesso remoto a semicondutores. Em meio à crise, a Nvidia interrompeu o envio de chips Hopper para o mercado chinês. No Brasil, o setor avalia que a medida não inviabiliza data centers, mas aumenta a burocracia.",
+    "pontos": [
+     "EUA endurecem regras para exportação de chips de IA.",
+     "China ameaça retaliação comercial contra Washington.",
+     "Nvidia suspende envios de chips Hopper para a China."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.9048686
+   },
+   "086542ab182c5093": {
+    "resumo": "A taxa de desemprego no Brasil recuou para 5,2% no terceiro trimestre de 2026, o menor nível para o período desde 2012, segundo o IBGE. O desemprego caiu em 8 das 27 unidades da federação. A Bahia liderou a queda regional, enquanto Santa Catarina registrou a menor taxa do país e Pernambuco a maior. O resultado foi impulsionado pelo avanço na ocupação, especialmente no setor da construção.",
+    "pontos": [
+     "Taxa de desemprego nacional cai para 5,2% no 3º trimestre.",
+     "Desemprego recua em 8 estados brasileiros.",
+     "Setor da construção destaca-se na geração de vagas."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.9048717
+   },
+   "f02a1cafcbe44441": {
+    "resumo": "O presidente da China, Xi Jinping, e o líder russo, Vladimir Putin, criticaram o protecionismo ocidental e sanções durante a cúpula da APEC em Shenzhen. As declarações antecedem uma esperada reunião trilateral com o presidente dos EUA, Donald Trump. Putin afirmou esperar grandes benefícios do encontro, enquanto líderes globais discutem tensões comerciais e geopolíticas.",
+    "pontos": [
+     "Xi Jinping e Putin criticam protecionismo em cúpula da APEC.",
+     "Donald Trump chega à China para encontro trilateral.",
+     "Reunião entre as potências gera expectativas e debates globais."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.904873
+   },
+   "f0aef7e5de8e4f17": {
+    "resumo": "O dólar e os juros futuros operam em alta no Brasil, influenciados pela cautela dos investidores em relação à tramitação do pacote de ajuste fiscal no Congresso e à espera pela ata da última reunião do Federal Reserve. O Banco Central programou leilões de linha para conter a volatilidade. O cenário fiscal e as definições sobre a equipe do governo Lula também pressionam o mercado cambial.",
+    "pontos": [
+     "Dólar avança acima de R$ 5,80 no mercado interno.",
+     "Investidores monitoram pacote fiscal e ata do Fed.",
+     "Banco Central realiza leilões para intervir no câmbio."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.904874
+   },
+   "059aa79f42761b91": {
+    "resumo": "A Nvidia descartou o retorno de Jensen Huang ao comando da empresa e contratou uma consultoria para buscar um novo CEO definitivo. A companhia registrou o dobro de lucro no terceiro trimestre, alcançando US$ 65,3 bilhões. A liderança interina destacou forte desempenho e demanda inicial explosiva para o novo chip Vera Rubin, tranquilizando investidores após a saída de Huang.",
+    "pontos": [
+     "Nvidia descarta recontratação de Jensen Huang e busca novo CEO.",
+     "Lucro trimestral da empresa dobra para US$ 65,3 bilhões.",
+     "Nova liderança aponta forte demanda pelo chip Vera Rubin."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.9048748
+   },
+   "7c2b9ea66d248817": {
+    "resumo": "A votação do projeto de ajuste fiscal no Senado foi adiada para esta quarta-feira após falta de acordo sobre destaques da oposição. O relator na Câmara, Mauro Benevides, defendeu a manutenção do veto à compensação cruzada, argumentando que o volume de créditos tributários é insustentável para o país. O impasse legislativo afeta as expectativas dos mercados financeiros.",
+    "pontos": [
+     "Senado adia votação do pacote de ajuste fiscal.",
+     "Relator na Câmara defende proibição da compensação cruzada.",
+     "Impasses em destaques atrasam avanço das medidas fiscais."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.9048755
+   },
+   "39c8e6538653790d": {
+    "resumo": "O jogo 'Grand Theft Auto VI' estreou com nota recorde de 99 pontos no Metacritic, empatando com o clássico 'The Legend of Zelda: Ocarina of Time'. O título da Rockstar Games recebeu avaliações aclamadas pela crítica devido ao realismo e à amplitude do mundo aberto. Além do lançamento, o game liderou as indicações para o The Game Awards.",
+    "pontos": [
+     "GTA VI atinge nota 99 no Metacritic e empata recorde histórico.",
+     "Crítica destaca nível de detalhamento e realismo do mundo aberto.",
+     "Jogo lidera indicações na premiação do The Game Awards."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.9048762
+   },
+   "f591b006f9005dd4": {
+    "resumo": "Um estudo realizado pela Flash em parceria com a FGV EAESP apontou que seis em cada dez trabalhadores brasileiros não estão engajados. A desmotivação pode gerar prejuízos anuais de até R$ 74,1 bilhões para as empresas devido à queda de produtividade e rotatividade. A pesquisa indica que jornadas longas e tempo elevado de deslocamento reduzem ainda mais os índices de engajamento.",
+    "pontos": [
+     "60% dos trabalhadores brasileiros estão desengajados, aponta estudo.",
+     "Prejuízo estimado para as empresas chega a R$ 74,1 bilhões por ano.",
+     "Jornadas extensas e trânsito afetam negativamente o engajamento."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.9048767
+   },
+   "1567d5939b55e0a5": {
+    "resumo": "Um estudo do Movimento Brasil Competitivo (MBC) estimou que o Custo Brasil atinge R$ 3,5 trilhões anualmente, o equivalente a 27,5% do PIB de 2025. O levantamento incorporou novos indicadores, como custos de insegurança, ilegalidade e juros reais. Embora o país tenha avançado em escolaridade e digitalização de serviços, os gargalos estruturais continuam distantes dos padrões da OCDE.",
+    "pontos": [
+     "Custo Brasil é estimado em R$ 3,5 trilhões por ano.",
+     "Montante representa 27,5% do PIB brasileiro.",
+     "Estudo passa a incluir juros reais, ilegalidade e insegurança."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.9048777
+   },
+   "3202d59af528332c": {
+    "resumo": "Um ano após a decretação da liquidação extrajudicial do Banco Master pelo Banco Central e a prisão do banqueiro Daniel Vorcaro, as fraudes deixaram um rastro de prejuízos de R$ 76 bilhões. A quebra provocou a maior operação da história do Fundo Garantidor de Créditos (FGC), que já desembolsou dezenas de bilhões para cobrir ressarcimentos a investidores de CDBs emitidos pelas instituições ligadas ao esquema.",
+    "pontos": [
+     "Fraude do Banco Master completa um ano com prejuízo de R$ 76 bilhões.",
+     "FGC realiza a maior operação de sua história para cobrir ressarcimentos.",
+     "Esquema envolveu emissão massiva de CDBs e liquidação de instituições ligadas a Vorcaro."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.9048784
+   },
+   "dca560c3d9a5afd2": {
+    "resumo": "A Rede D'Or assinou um acordo para vender a SulAmérica Investimentos à BlackRock Brasil por aproximadamente R$ 850 milhões. Do valor total, R$ 700 milhões serão pagos à vista na conclusão do negócio, enquanto o restante está condicionado ao atingimento de metas. A concretização da operação ainda depende das aprovações do Banco Central e do Cade.",
+    "pontos": [
+     "Rede D'Or vende SulAmérica Investimentos para a BlackRock por R$ 850 milhões.",
+     "Pagamento inicial será de R$ 700 milhões à vista.",
+     "Negócio aguarda aprovação do Banco Central e do Cade."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006245.9048789
    }
   }
  },
@@ -1989,342 +1984,231 @@
   }
  },
  "ia": {
-  "chave": "9a5c54a92ba5c1e5",
+  "chave": "21a38b555bd96c19",
   "grupos": [
    {
-    "titulo": "Integração do Microsoft Copilot com o Office",
+    "titulo": "Voyager 1 atinge marca de um dia-luz de distância da Terra",
     "ids": [
-     "ab50b7af668b",
-     "19a99a65dd42"
+     "ed4b1a2490d0",
+     "9ddaf7c0f719"
     ]
    },
    {
-    "titulo": "Declarações de Satya Nadella sobre AGI",
+    "titulo": "Exigência de habilidades com inteligência artificial no mercado de trabalho",
+    "ids": [
+     "825cb5d2f11f"
+    ]
+   },
+   {
+    "titulo": "Lançamento e recepção de Grand Theft Auto VI (GTA 6)",
+    "ids": [
+     "6d6c0dfd02af",
+     "0e989cdbc6d8",
+     "adb37b83e4f0",
+     "c90b3d46ccfd",
+     "07cb18d7c472",
+     "d04699c673d6",
+     "30d66465589d",
+     "fb46dc829ce4"
+    ]
+   },
+   {
+    "titulo": "Restrições de exportação de chips e sanções dos EUA envolvendo a Nvidia",
+    "ids": [
+     "2f972d01357f",
+     "d6cfac2fb34f",
+     "5257e3fb3711"
+    ]
+   },
+   {
+    "titulo": "Suno lança ferramenta de geração de vídeos para músicas de IA",
+    "ids": [
+     "da6c827addce"
+    ]
+   },
+   {
+    "titulo": "Saída de Jensen Huang do comando da Nvidia e desdobramentos",
+    "ids": [
+     "333614d8cf53",
+     "7b60d9f880f9",
+     "bf22fc83169f",
+     "dba6a83bb4de",
+     "d2f90fb918d9",
+     "d8a7e2ae90fc",
+     "31fe7db62eca",
+     "15316cf2cd2a",
+     "9c493a96e3fa"
+    ]
+   },
+   {
+    "titulo": "Startup desenvolve nariz artificial baseado em IA",
+    "ids": [
+     "d1dd49b4f83d"
+    ]
+   },
+   {
+    "titulo": "Amazon e Google terão ações da Anthropic após IPO",
+    "ids": [
+     "3870090dfd0e"
+    ]
+   },
+   {
+    "titulo": "Escolha de celulares Android e impacto da inteligência artificial",
+    "ids": [
+     "d321d6344dc4"
+    ]
+   },
+   {
+    "titulo": "Integração do Copilot com aplicativos do Microsoft Office",
+    "ids": [
+     "ab50b7af668b"
+    ]
+   },
+   {
+    "titulo": "Alerta sobre o aumento de ataques automatizados por inteligência artificial",
+    "ids": [
+     "0db22ea3b09a"
+    ]
+   },
+   {
+    "titulo": "Declarações de Satya Nadella sobre a inteligência artificial geral (AGI)",
     "ids": [
      "19bce111d0ee"
     ]
    },
    {
-    "titulo": "Colaboração entre NBA 2K27 e GTA 6",
-    "ids": [
-     "fb46dc829ce4"
-    ]
-   },
-   {
-    "titulo": "San Diego remove câmeras de vigilância Flock e luzes inteligentes",
+    "titulo": "San Diego desativa câmeras Flock e postes inteligentes",
     "ids": [
      "f21ea4053092"
     ]
    },
    {
-    "titulo": "ChatGPT ganha ferramenta para identificar abuso infantil",
+    "titulo": "ChatGPT ganha ferramenta para identificar materiais de abuso infantil",
     "ids": [
      "b2f35d44c370"
     ]
    },
    {
-    "titulo": "Empresa de satélites busca foguete para infraestrutura europeia",
+    "titulo": "Empresas do setor espacial disputam novos foguetes",
     "ids": [
      "86eb1d31e3b1"
     ]
    },
    {
-    "titulo": "Envolvimento de Jeff Bezos na escolha do novo James Bond",
+    "titulo": "Jeff Bezos envolvido na escolha do novo ator de James Bond",
     "ids": [
      "7b09432fe04f"
     ]
    },
    {
-    "titulo": "Resultados financeiros e liderança da Nvidia",
+    "titulo": "Campanha de malware atinge centenas de sites na internet",
     "ids": [
-     "7b60d9f880f9",
-     "bf22fc83169f",
-     "7465bbc4c963",
-     "dba6a83bb4de"
+     "58043437b94b"
     ]
    },
    {
-    "titulo": "Malware em centenas de sites para roubo de criptomoedas",
-    "ids": [
-     "58043437b94b",
-     "91f17790059f",
-     "d34f396f0777"
-    ]
-   },
-   {
-    "titulo": "Promoções de jogos na Nuuvem",
+    "titulo": "Promoções e descontos em jogos na Steam e Nuuvem",
     "ids": [
      "69900aec4729"
     ]
    },
    {
-    "titulo": "Análise de reparabilidade do Apple HomeView pelo iFixit",
+    "titulo": "Desmonte do Apple HomeView pela iFixit revela dificuldade de reparo",
     "ids": [
      "abc9fd7680c3"
     ]
    },
    {
-    "titulo": "MediaTek e a evolução para o Wi-Fi 8",
-    "ids": [
-     "723e5be5f4a1"
-    ]
-   },
-   {
-    "titulo": "Novos recursos de IA da OpenAI",
+    "titulo": "OpenAI anuncia novos modelos GPT-6.2 Astra e Sol",
     "ids": [
      "81defd12dd9e"
     ]
    },
    {
-    "titulo": "Desconto no MacBook Neo antes da Black Friday",
-    "ids": [
-     "b8b8a9d24770"
-    ]
-   },
-   {
-    "titulo": "Promoções da Black November no Nintendo Switch",
-    "ids": [
-     "fc6a5ed8288f"
-    ]
-   },
-   {
-    "titulo": "Nova tecnologia de solado da Nike",
-    "ids": [
-     "b6fce55d8985"
-    ]
-   },
-   {
-    "titulo": "Brasileiro encontra falha de segurança em software global",
+    "titulo": "Engenheiro brasileiro encontra falha global em software",
     "ids": [
      "3b265baa7277"
     ]
    },
    {
-    "titulo": "Deepfakes de IA envolvendo executivos no Instagram",
+    "titulo": "Instagram lança ferramenta contra cópia não autorizada de vídeos",
     "ids": [
-     "859fe7425ca0"
+     "ae5a9eb7ed3d"
     ]
    },
    {
-    "titulo": "Ferramenta do Instagram contra cópia não autorizada de vídeos",
-    "ids": [
-     "ae5a9eb7ed3d",
-     "99d0991b3141"
-    ]
-   },
-   {
-    "titulo": "25 anos do Xbox",
-    "ids": [
-     "3a1a6fe07814"
-    ]
-   },
-   {
-    "titulo": "Promoção do relógio Huawei Watch Fit 5",
-    "ids": [
-     "90a2f84ff4b1"
-    ]
-   },
-   {
-    "titulo": "Declarações e situação de Jensen Huang na Nvidia",
-    "ids": [
-     "d2f90fb918d9",
-     "d8a7e2ae90fc",
-     "31fe7db62eca",
-     "9c493a96e3fa"
-    ]
-   },
-   {
-    "titulo": "Opiniões sobre tecnologia e facilidade de uso",
-    "ids": [
-     "4d3dc8043ea0"
-    ]
-   },
-   {
-    "titulo": "Como desbloquear alguém no TikTok",
-    "ids": [
-     "27ddc6bd7c9c"
-    ]
-   },
-   {
-    "titulo": "Oracle admite erro na comunicação sobre data centers",
-    "ids": [
-     "1800dd92e932"
-    ]
-   },
-   {
-    "titulo": "Vazamento da tela do novo iPhone",
-    "ids": [
-     "9720ed763e30"
-    ]
-   },
-   {
-    "titulo": "Demitizes na desenvolvedora Firaxis Games",
+    "titulo": "Firaxis Games anuncia demissão de parte de sua equipe",
     "ids": [
      "77e9d4b8bfaa"
     ]
    },
    {
-    "titulo": "Instabilidade em serviços da Apple",
+    "titulo": "Ataque hacker afeta centenas de sites globais e rouba dados",
     "ids": [
-     "e38df5db159a"
+     "91f17790059f",
+     "d34f396f0777"
     ]
    },
    {
-    "titulo": "Guia de celulares Xiaomi",
-    "ids": [
-     "bb18b9f788df"
-    ]
-   },
-   {
-    "titulo": "Apreensão de conteúdos ilegais sobre apostas no Brasil",
+    "titulo": "Ministério da Justiça identifica dezenas de milhares de conteúdos ilegais de apostas",
     "ids": [
      "f7a91bbba4ce"
     ]
    },
    {
-    "titulo": "Supercomputador de mesa da Nvidia",
+    "titulo": "Pesquisas e debates sobre imortalidade cognitiva",
     "ids": [
-     "371366ba5809"
+     "63e33b4081ff",
+     "d9f515a3f9f0"
     ]
    },
    {
-    "titulo": "Novo aplicativo de mensagens da Meta independente do Instagram",
-    "ids": [
-     "0ce0d939c0cf"
-    ]
-   },
-   {
-    "titulo": "Busca por imortalidade cognitiva e tecnologia",
-    "ids": [
-     "63e33b4081ff"
-    ]
-   },
-   {
-    "titulo": "Teaser da segunda temporada de 3 Body Problem",
+    "titulo": "Divulgação de teaser da segunda temporada de 3 Body Problem",
     "ids": [
      "43f1125fa4c6"
     ]
    },
    {
-    "titulo": "Processo contra a OpenAI na Califórnia por incidentes de perda de controle",
+    "titulo": "Processo contra a OpenAI movido pela Califórnia por incidentes de perda de controle",
     "ids": [
      "89d80c21bb59"
     ]
    },
    {
-    "titulo": "Hacker do GTA 6 usou Fire TV Stick",
-    "ids": [
-     "c8ccb483f2f5"
-    ]
-   },
-   {
-    "titulo": "Investigação sobre falha no foguete Vulcan",
+    "titulo": "Investigação sobre falha do foguete Vulcan e motores BE-4",
     "ids": [
      "1cc34e861f35"
     ]
    },
    {
-    "titulo": "Queda na geração de energia hidrelétrica no Sudoeste dos EUA",
+    "titulo": "Queda histórica na geração de energia hidrelétrica no Sudoeste dos EUA",
     "ids": [
      "6a38a59720a4"
     ]
    },
    {
-    "titulo": "Lançamento do app de classificados Achados da Meta no Brasil",
-    "ids": [
-     "77d2ba2801c5",
-     "8f5c993a2441"
-    ]
-   },
-   {
-    "titulo": "Como bloquear no TikTok",
-    "ids": [
-     "12b903acacd1"
-    ]
-   },
-   {
-    "titulo": "Google facilita uso do Gemini sem treinar IA com dados do usuário",
+    "titulo": "Google facilita controle de dados de usuários no Gemini",
     "ids": [
      "a513c3b2bdea"
     ]
    },
    {
-    "titulo": "China ameaça retaliar EUA por restrições a chips de IA",
-    "ids": [
-     "d6cfac2fb34f"
-    ]
-   },
-   {
-    "titulo": "Cade investiga Apple por restrições ao NFC do iPhone",
-    "ids": [
-     "9704062569b0"
-    ]
-   },
-   {
-    "titulo": "Retorno dos democratas dos EUA a conversas globais sobre clima",
-    "ids": [
-     "88b9d79fac3c"
-    ]
-   },
-   {
-    "titulo": "Discussão do Ars Live sobre ataques a data centers",
-    "ids": [
-     "75c7ee7437ec"
-    ]
-   },
-   {
-    "titulo": "Relatórios de pesquisa da MIT Technology Review",
+    "titulo": "Relatórios de pesquisa em tecnologia",
     "ids": [
      "86f07be892b0"
     ]
    },
    {
-    "titulo": "Newsletter The Download da MIT Technology Review",
+    "titulo": "Meta lança aplicativo de compra e venda de produtos usados no Brasil",
     "ids": [
-     "15316cf2cd2a",
-     "d9f515a3f9f0"
+     "8f5c993a2441"
     ]
    },
    {
-    "titulo": "Nvidia cria comitê de segurança nacional e controle de exportação",
+    "titulo": "Segurança e controle em inteligência artificial e agentes autônomos",
     "ids": [
-     "5257e3fb3711"
-    ]
-   },
-   {
-    "titulo": "Investigação da União Europeia contra a Temu",
-    "ids": [
-     "a658ccdb7308"
-    ]
-   },
-   {
-    "titulo": "Investigação dos EUA sobre desvio de chips para a China pela Megaspeed",
-    "ids": [
-     "fcec24a850ea"
-    ]
-   },
-   {
-    "titulo": "Boatos de fim do mundo e abrigos no Brasil",
-    "ids": [
-     "f728040e293c"
-    ]
-   },
-   {
-    "titulo": "Pesquisa sobre IA confiável e alinhamento",
-    "ids": [
-     "adba844aff17"
-    ]
-   },
-   {
-    "titulo": "Desenvolvimento de agentes de IA para empresas",
-    "ids": [
+     "adba844aff17",
      "e6b37f5da94e"
-    ]
-   },
-   {
-    "titulo": "Previsão de aumento de ataques automatizados por IA pelo Google",
-    "ids": [
-     "0db22ea3b09a"
     ]
    }
   ],
@@ -2339,36 +2223,6 @@
     "enquadramentos": {},
     "usado_em": 1794750205.722127
    },
-   "527fc3e832bcf695": {
-    "resumo": "Um apagao aereo nos Estados Unidos na ultima sexta-feira (13) causou o cancelamento de milhares de voos e afetou mais de um milhão de passageiros. O secretário de Transportes, Sean Duffy, afirmou que o problema ocorreu devido a falhas durante a substituição de cabos de cobre antigos por fibra óptica em uma instalação remota da FAA, o que gerou sobrecarga em um novo roteador. Duffy aproveitou para destacar que o sistema de controle de tráfego aéreo do país é antigo, operando inclusive com disquetes em alguns locais, e pediu mais financiamento ao Congresso. A L3Harris, empresa envolvida na modernização, declarou estar colaborando com a investigação.",
-    "pontos": [
-     "Apagão aéreo nos EUA cancelou milhares de voos na sexta-feira (13).",
-     "Causa foi atribuída a falhas na troca de cabos por fibra óptica e sobrecarga em roteador.",
-     "Secretário de Transportes criticou a obsolescência do sistema e pediu mais recursos ao Congresso."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721180.1490874
-   },
-   "675e2386972711e2": {
-    "resumo": "A OpenAI anunciou o lançamento de uma carteira digital integrada ao ChatGPT, desenvolvida em parceria com American Express, Mastercard e Visa. A ferramenta permite que o agente de IA \"dots\" realize compras e pagamentos online em nome do usuário. O sistema utiliza tokens temporários para concluir transações de forma segura sem expor os dados reais do cartão, exigindo autorização prévia e verificação biométrica do titular a cada compra. Inicialmente, o recurso está disponível apenas para assinantes do ChatGPT Pro maiores de idade nos Estados Unidos.",
-    "pontos": [
-     "OpenAI lançou carteira digital para agentes de IA realizarem compras online.",
-     "Parceiras incluem American Express, Mastercard e Visa para emissão de tokens seguros.",
-     "Recurso foi lançado inicialmente para assinantes do ChatGPT Pro nos Estados Unidos."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721180.1490924
-   },
-   "835131674877ffa7": {
-    "resumo": "O fundador e CEO da Nvidia, Jensen Huang, renunciou aos seus cargos após a revelação de casos extraconjugais, incluindo um suposto envolvimento com uma mulher investigada por espionagem pela China. O escândalo gerou forte pressão do conselho de administração da empresa e abalou a imagem do executivo. Relatos apontam que Huang estava esgotado e apático nos dias anteriores à sua saída. Em seu lugar, o conselho assumiu a transição da liderança.",
-    "pontos": [
-     "Jensen Huang renunciou à presidência e ao cargo de CEO da Nvidia.",
-     "A saída ocorreu após a revelação de múltiplos relacionamentos extraconjugais, incluindo com uma suposta espiã chinesa.",
-     "O conselho de administração da Nvidia abriu investigações e pressionou pela saída do executivo."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721180.1490843
-   },
    "69454123f726b64f": {
     "resumo": "A SpaceX realizou com sucesso a captura do estágio superior do foguete Starship utilizando os braços mecânicos da torre de lançamento, apelidados de 'Mechazilla', após um voo orbital. A manobra inédita representa um avanço importante para a reutilização total de foguetes gigantes. No entanto, a empresa não conseguiu recuperar o propulsor do primeiro estágio, que explodiu sobre o Golfo do México. A missão foi celebrada pela NASA, que utiliza a Starship em seus planos espaciais.",
     "pontos": [
@@ -2378,16 +2232,6 @@
     ],
     "enquadramentos": {},
     "usado_em": 1794771580.938619
-   },
-   "80e3902168e59d8c": {
-    "resumo": "A Microsoft anunciou que os serviços do Microsoft 365, como Outlook, Teams e Copilot, foram totalmente restabelecidos após uma interrupção global que afetou mais de 70 países. A falha teve início nos Estados Unidos e impactou governos, empresas, bancos, hospitais e companhias aéreas. A empresa descartou ataques cibernéticos e atribuiu o problema a uma falha decorrente de uma atualização anterior na capacidade da rede. O episódio gerou debates sobre a dependência excessiva de infraestruturas tecnológicas globais.",
-    "pontos": [
-     "A Microsoft restabeleceu completamente os serviços do Microsoft 365 após uma queda global.",
-     "A interrupção afetou governos, bancos e serviços de saúde em mais de 70 países.",
-     "A empresa descartou ataques cibernéticos e culpou uma falha relacionada à atualização de rede."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794721180.149089
    },
    "63ffaf8838b4bc90": {
     "resumo": "Jensen Huang deixou os cargos de CEO, presidente e membro do conselho da Nvidia após repercussão de casos extraconjugais e de escândalos envolvendo suspeitas de espionagem chinesa. Veículos relataram que ele manteve relações com Alice Huang (suspeita de espionagem), Kimberly Powell e outra funcionária não identificada. A pressão interna e o esgotamento mental culminaram na sua renúncia após mais de 33 anos na liderança.",
@@ -2634,12 +2478,86 @@
     ],
     "enquadramentos": {},
     "usado_em": 1794972477.91789
+   },
+   "d7088f367b5b1fea": {
+    "resumo": "A Nvidia descartou a recontratação de Jensen Huang como presidente-executivo após sua renúncia devido a revelações sobre sua vida pessoal e investigações. O conselho nomeou Colette Kress como CEO interina e contratou uma empresa de recrutamento para buscar um substituto definitivo. Enquanto isso, o caso gerou debates políticos e de segurança nos EUA, e a empresa busca tranquilizar investidores e clientes sobre sua liderança e operações. Veículos divergem sobre os detalhes exatos das investigações e a pressão política envolvendo o governo dos EUA.",
+    "pontos": [
+     "Jensen Huang renunciou após revelações de comportamento inadequado.",
+     "Nvidia descarta seu retorno e busca um novo CEO.",
+     "Colette Kress assumiu interinamente o cargo de CEO."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006339.517214
+   },
+   "c9ddf2ad91c5205a": {
+    "resumo": "O aguardado jogo Grand Theft Auto VI (GTA 6) foi lançado após mais de uma década de espera e estreou com nota 99 no Metacritic. O título combina a tradicional ação em mundo aberto em Vice City com uma forte narrativa centrada em uma história de amor entre dois criminosos. A recepção da crítica especializada foi extremamente positiva, destacando a grandiosidade, os detalhes e o cuidado no desenvolvimento pela Rockstar Games.",
+    "pontos": [
+     "GTA 6 foi lançado para PS5 e Xbox Series X/S após 13 anos.",
+     "O jogo estreou com nota 99 no Metacritic.",
+     "A narrativa inova ao focar em uma história de amor entre os protagonistas criminosos."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006339.517216
+   },
+   "359eac3732a02dba": {
+    "resumo": "A sonda Voyager 1 atingiu a marca histórica de estar a um dia-luz de distância da Terra, equivalente a mais de 16 bilhões de milhas. Lançada em 1977, a espaçonave continua operacional e enviando dados científicos para a NASA. O marco comemora quase cinco décadas de viagem espacial, enquanto pesquisadores também relembram detalhes históricos sobre o Disco de Ouro a bordo.",
+    "pontos": [
+     "Voyager 1 alcançou a distância de um dia-luz da Terra.",
+     "A sonda foi lançada em 1977 e continua operacional.",
+     "É o objeto feito pelo homem mais distante do planeta."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006339.5172167
    }
   }
  },
  "carros": {
-  "chave": "944f0b0e26d93d8c",
+  "chave": "1a16f1c4632abbb3",
   "grupos": [
+   {
+    "titulo": "BYD Dolphin GT no Brasil",
+    "ids": [
+     "a4ca4a76b198",
+     "cb52a9d63959"
+    ]
+   },
+   {
+    "titulo": "Avaliação Cadillac Escalade V8",
+    "ids": [
+     "afbd0148fe1d"
+    ]
+   },
+   {
+    "titulo": "Possível Chevrolet Sonic híbrido flex",
+    "ids": [
+     "5a95401bb6d6"
+    ]
+   },
+   {
+    "titulo": "Jetour assume fábrica da Land Rover",
+    "ids": [
+     "aa6559e4aca7"
+    ]
+   },
+   {
+    "titulo": "Regras para ensinar a dirigir na rua",
+    "ids": [
+     "5a55a7c7309b"
+    ]
+   },
+   {
+    "titulo": "Novo SUV de luxo da Audi",
+    "ids": [
+     "4f83a13ad348"
+    ]
+   },
+   {
+    "titulo": "Novidades da linha Chery e Omoda",
+    "ids": [
+     "8a70122dffbf",
+     "67af97c0db14"
+    ]
+   },
    {
     "titulo": "Regras para estrangeiros dirigirem no Brasil",
     "ids": [
@@ -2647,209 +2565,155 @@
     ]
    },
    {
-    "titulo": "Versões 1.4 turbo de Volkswagen Polo e Virtus usados",
+    "titulo": "Sugestão de carros usados Volkswagen",
     "ids": [
      "e835a74480c8"
     ]
    },
    {
-    "titulo": "Novo Ford Mustang Cobra programado para 2027",
+    "titulo": "Novo Ford Mustang Cobra e retorno da Ranger flex",
     "ids": [
-     "99588f706304"
-    ]
-   },
-   {
-    "titulo": "Retorno da Ford aos carros flex com a nova Ranger Tremor",
-    "ids": [
+     "99588f706304",
      "db00730c4ca8"
     ]
    },
    {
-    "titulo": "Lançamento e preço do Denza Z9 GT no Brasil",
+    "titulo": "Avaliação Denza Z9 GT",
     "ids": [
      "532355cda7af"
     ]
    },
    {
-    "titulo": "Novo conceito GTI da Volkswagen feito por estagiários",
+    "titulo": "Novo conceito GTI da Volkswagen",
     "ids": [
      "0aa12926d34f"
     ]
    },
    {
-    "titulo": "Flagra da versão mais barata do Fiat Argo",
+    "titulo": "Flagra do novo Fiat Argo",
     "ids": [
      "ed30fc0366ea"
     ]
    },
    {
-    "titulo": "Promoção e bônus no preço do Hyundai i20",
+    "titulo": "Promoção Hyundai i20",
     "ids": [
      "7fe57e95c91c"
     ]
    },
    {
-    "titulo": "Abertura de encomendas e restrições de compra do Tesla Cybercab",
+    "titulo": "Lançamento do Tesla Cybercab",
     "ids": [
-     "f1a49874c8dc",
-     "839c27cce7b8"
+     "f1a49874c8dc"
     ]
    },
    {
-    "titulo": "Carros icônicos da franquia GTA para relembrar antes do GTA VI",
+    "titulo": "Carros icônicos do GTA",
     "ids": [
      "aab50ac735db"
     ]
    },
    {
-    "titulo": "Ofertas de aspiradores de pó automotivos na Black Friday",
+    "titulo": "Aspiradores automotivos na Black Friday",
     "ids": [
      "b11ddb58a010"
     ]
    },
    {
-    "titulo": "Versões usadas do Citroën Basalt por menos de R$ 100 mil",
+    "titulo": "Sugestão de Citroën Basalt usado",
     "ids": [
      "23792e8853ee"
     ]
    },
    {
-    "titulo": "Novo caminhão da Volvo com sistema de detecção de sono",
+    "titulo": "Novo sistema de segurança em caminhões Volvo",
     "ids": [
      "8ad0a6a3272c"
     ]
    },
    {
-    "titulo": "Flagra de nova versão mais barata do GWM Ora 5",
+    "titulo": "Novo GWM Ora 5",
     "ids": [
      "f4ba121b3ef8"
     ]
    },
    {
-    "titulo": "Sugestões de SUVs híbridos usados a partir de R$ 100 mil",
+    "titulo": "Sugestão de SUVs híbridos usados",
     "ids": [
      "80919fcccebf"
     ]
    },
    {
-    "titulo": "Flagra do novo Toyota SW4 com sistema híbrido leve",
+    "titulo": "Novo Toyota SW4",
     "ids": [
      "2493f28aef8c"
     ]
    },
    {
-    "titulo": "Chegada do novo Mercedes-Benz Classe S V8 híbrido ao Brasil",
+    "titulo": "Novo Mercedes-Benz Classe S no Brasil",
     "ids": [
      "bd7bc126fba0"
     ]
    },
    {
-    "titulo": "Podcast aborda moto elétrica da Chery e novos modelos",
+    "titulo": "Podcast sobre motos e novidades",
     "ids": [
      "f50375b9fe9a"
     ]
    },
    {
-    "titulo": "Recorde de vendas da Bajaj e da Pulsar N150 em outubro",
+    "titulo": "Recorde de vendas da Bajaj",
     "ids": [
      "dffc35411347"
     ]
    },
    {
-    "titulo": "Versão esportiva do Honda HR-V com suspensão rebaixada",
+    "titulo": "Versão esportiva do Honda HR-V",
     "ids": [
      "fab22e5f8c40"
     ]
    },
    {
-    "titulo": "Nova regra do Contran permite vistoria veicular em domicílio",
+    "titulo": "Nova regra de vistoria veicular do Contran",
     "ids": [
      "3d3f4c98b289"
     ]
    },
    {
-    "titulo": "Recall mundial da BMW por risco de incêndio",
+    "titulo": "Recall da BMW",
     "ids": [
      "6f6aef321aca"
     ]
    },
    {
-    "titulo": "Lançamento de motor V8 biturbo pela joint venture Horse para supercarro da Lotus",
+    "titulo": "Novo motor V8 da Horse para Lotus",
     "ids": [
      "eaa65374886a"
     ]
    },
    {
-    "titulo": "Teste do Honda City Sedan Touring 2027",
+    "titulo": "Teste Honda City Sedan",
     "ids": [
      "50077f4b5fb5"
     ]
    },
    {
-    "titulo": "Fim de linha para o hipercarro elétrico Rimac Nevera",
+    "titulo": "Fim de linha para o Rimac Nevera",
     "ids": [
      "a48bd4783794"
     ]
    },
    {
-    "titulo": "Responsabilidade civil por queda de árvore em veículos",
-    "ids": [
-     "54c8ab5b84ad"
-    ]
-   },
-   {
-    "titulo": "Chegada do BYD Dolphin GT híbrido ao Brasil",
-    "ids": [
-     "cb52a9d63959"
-    ]
-   },
-   {
-    "titulo": "Desconto de fábrica no Hyundai HB20 Limited 2027",
-    "ids": [
-     "db11ff7fe727"
-    ]
-   },
-   {
-    "titulo": "Avaliação do Caoa Chery Tiggo 9 PHEV",
+    "titulo": "Avaliação Caoa Chery Tiggo 9",
     "ids": [
      "ce91b11b2ca6"
     ]
    },
    {
-    "titulo": "Recall de modelos da Ford Ranger",
-    "ids": [
-     "6917f1afc8d2"
-    ]
-   },
-   {
-    "titulo": "Indenização e procedimentos para danos em carros causados por buracos",
-    "ids": [
-     "d52377e25aaf"
-    ]
-   },
-   {
-    "titulo": "Ofertas de macacos automotivos no Magalu",
-    "ids": [
-     "8d042907d292"
-    ]
-   },
-   {
-    "titulo": "Retrospectiva e planejamento de metas automotivas para o fim de ano",
+    "titulo": "Retrospectiva e planos de fim de ano",
     "ids": [
      "a1b1c56edcee",
      "bd447c1f1a7f"
-    ]
-   },
-   {
-    "titulo": "Protótipo secreto M7 revelado pela BMW",
-    "ids": [
-     "c57e5185da00"
-    ]
-   },
-   {
-    "titulo": "Anúncio de produção da picape Tacoma híbrida na Argentina pela Toyota",
-    "ids": [
-     "cb733d650ed8"
     ]
    }
   ],
@@ -2884,6 +2748,39 @@
     ],
     "enquadramentos": {},
     "usado_em": 1794972480.6988716
+   },
+   "aedbfcfa6900bd4f": {
+    "resumo": "O BYD Dolphin GT, nome provisório para a versão híbrida plug-in do hatch, começou a ser estocado no Brasil com unidades importadas no Espírito Santo. O lançamento oficial no mercado brasileiro está previsto para o primeiro trimestre de 2027. O modelo ocupará uma posição entre o Dolphin Mini e o Dolphin SE na linha nacional. Posteriormente, a produção do veículo deverá ocorrer na fábrica da BYD em Camaçari, na Bahia.",
+    "pontos": [
+     "Estoque inicial no ES com unidades importadas",
+     "Lançamento previsto para o início de 2027",
+     "Posicionado entre Dolphin Mini e Dolphin SE",
+     "Futura fabricação em Camaçari (BA)"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006344.818208
+   },
+   "39952cdf09f06c1d": {
+    "resumo": "A Chery lançou na China o Tiggo 5X Fastback 2027, versão que utiliza o mesmo projeto do Omoda 5 comercializado internacionalmente. O modelo traz motor 1.5 turbo a gasolina de 154 cv acoplado a câmbio CVT e aposta em preços competitivos no mercado chinês. Na imprensa nacional, especula-se também sobre futuros desdobramentos da linha Omoda e versões flex no Brasil. Não há planos de eletrificação anunciados para esta versão Fastback na China.",
+    "pontos": [
+     "Lançamento do Tiggo 5X Fastback na China",
+     "Compartilha projeto com o Omoda 5",
+     "Motor 1.5 turbo a gasolina de 154 cv",
+     "Foco em preço e volume sem eletrificação"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006344.81821
+   },
+   "2dd9c10e45b186fe": {
+    "resumo": "A Ford anunciou o retorno do Mustang Cobra para o final de 2027, com promessa de motor naturalmente aspirado voltado para o desempenho. Além disso, a marca confirmou a chegada da Ranger Tremor ao Brasil para o primeiro ou segundo trimestre de 2027, equipada com motor flex 2.3 EcoBoost. A novidade marcará o retorno da fabricante aos veículos bicombustíveis no país após um jejum de seis anos. A picape terá apelo off-road e desenvolvimento da engenharia brasileira.",
+    "pontos": [
+     "Retorno do Mustang Cobra previsto para 2027",
+     "Ford Ranger Tremor flex chega em 2027",
+     "Fim do jejum de seis anos sem carros flex da marca",
+     "Motor 2.3 EcoBoost exclusivo para o Brasil"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795006344.8182106
    }
   }
  },
