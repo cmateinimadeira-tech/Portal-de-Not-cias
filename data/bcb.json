@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T20:55:39.068748+00:00",
+ "atualizado_em": "2026-11-19T21:00:03.114497+00:00",
  "selic": {
   "valor": 13.75,
   "anterior": 14.0,
@@ -18,9 +18,9 @@
   "fonte": "https://www3.bcb.gov.br/sgspub/"
  },
  "dolar": {
-  "valor": 5.8102,
-  "anterior": 5.7851,
-  "data": "2026-11-18",
+  "valor": 5.8889,
+  "anterior": 5.8102,
+  "data": "2026-11-19",
   "rotulo": "Dólar (PTAX venda)",
   "fonte": "https://www3.bcb.gov.br/sgspub/"
  },
