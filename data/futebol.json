@@ -313,7 +313,7 @@
     {
      "id": 555081,
      "data": "2026-11-18T22:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -328,14 +328,14 @@
       "sigla": "SAN",
       "escudo": "https://crests.football-data.org/6685.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 1,
      "liga": "BSA"
     },
     {
      "id": 555086,
      "data": "2026-11-18T23:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -350,14 +350,14 @@
       "sigla": "CHA",
       "escudo": "https://crests.football-data.org/1772_large.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 0,
      "liga": "BSA"
     },
     {
      "id": 555082,
      "data": "2026-11-18T23:30:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -372,14 +372,14 @@
       "sigla": "PAL",
       "escudo": "https://crests.football-data.org/1769.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 1,
      "liga": "BSA"
     },
     {
      "id": 555083,
      "data": "2026-11-18T23:30:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -394,14 +394,14 @@
       "sigla": "CAP",
       "escudo": "https://crests.football-data.org/1768.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 1,
      "liga": "BSA"
     },
     {
      "id": 555084,
      "data": "2026-11-19T00:30:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -416,14 +416,14 @@
       "sigla": "BAH",
       "escudo": "https://crests.football-data.org/1777.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 0,
      "liga": "BSA"
     },
     {
      "id": 555080,
      "data": "2026-11-19T00:30:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -438,8 +438,8 @@
       "sigla": "BOT",
       "escudo": "https://crests.football-data.org/1770.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 0,
      "liga": "BSA"
     },
     {
@@ -3823,18 +3823,18 @@
     "id": "401841313",
     "data": "2026-11-18T23:30Z",
     "competicao": "Brasileirão",
-    "estado": "pre",
-    "detalhe": "11/18 - 6:30 PM EST",
+    "estado": "in",
+    "detalhe": "90'+2'",
     "local": "Estadio do Maracana",
     "casa": {
      "nome": "Flamengo",
      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-     "gols": null
+     "gols": "2"
     },
     "fora": {
      "nome": "Athletico-PR",
      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
-     "gols": null
+     "gols": "1"
     }
    },
    {
@@ -3985,5 +3985,5 @@
    }
   ]
  },
- "atualizado_em": "2026-11-18T20:55:49.050510+00:00"
+ "atualizado_em": "2026-11-19T01:27:23.829552+00:00"
 }
