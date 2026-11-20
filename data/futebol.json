@@ -445,7 +445,7 @@
     {
      "id": 555089,
      "data": "2026-11-19T22:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -460,14 +460,14 @@
       "sigla": "RBB",
       "escudo": "https://crests.football-data.org/4286.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 1,
      "liga": "BSA"
     },
     {
      "id": 555088,
      "data": "2026-11-19T22:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -482,14 +482,14 @@
       "sigla": "SCI",
       "escudo": "https://crests.football-data.org/6684.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 1,
      "liga": "BSA"
     },
     {
      "id": 555087,
      "data": "2026-11-20T00:30:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -504,8 +504,8 @@
       "sigla": "FLU",
       "escudo": "https://crests.football-data.org/1765.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 1,
      "liga": "BSA"
     },
     {
@@ -4188,5 +4188,5 @@
    }
   ]
  },
- "atualizado_em": "2026-11-19T21:00:25.645588+00:00"
+ "atualizado_em": "2026-11-20T01:12:28.154741+00:00"
 }
