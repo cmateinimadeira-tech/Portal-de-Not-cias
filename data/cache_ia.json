@@ -1,459 +1,503 @@
 {
  "macro": {
-  "chave": "e5b5258417f5b4bf",
+  "chave": "713e8eb908359c69",
   "grupos": [
    {
-    "titulo": "Banco Central faz intervenção no câmbio e dólar reage após declarações de Lula",
+    "titulo": "Investigacoes sobre o caso Banco Master e o ministro Andre Mendonca",
     "ids": [
-     "cba7ed543932",
-     "70eb68d391b7",
-     "4acca4b00906",
-     "f176f51ca21e",
-     "d77d102c2568"
+     "d68bc1f06b89",
+     "217260d003a0",
+     "7ab2d7c13ee1",
+     "a5aa37d18ae9",
+     "3dbe3bdb4985",
+     "9e9007a0daf3",
+     "2bdab2a02fd4"
     ]
    },
    {
-    "titulo": "Fachin envia relatórios do caso Master para a PGR e ministros do STF",
+    "titulo": "Impasse no Congresso dos EUA e risco de paralizacao do governo",
     "ids": [
-     "2923099ecfc0",
-     "31387bbfc22c",
-     "b063521612df",
-     "e1ec7a9061db"
+     "afdfe91ea002",
+     "63e42c1c3fa4"
     ]
    },
    {
-    "titulo": "Anthropic estreia na bolsa de valores com alta avaliação de mercado",
+    "titulo": "Nvidia perde valor de mercado e acoes caem",
     "ids": [
-     "dadc094d82c2",
-     "b19f142e5b41",
-     "f98ae0078519",
-     "58bd9d51449b"
+     "683036eda728"
     ]
    },
    {
-    "titulo": "Estados Unidos aprovam envio de chips de IA para a China",
+    "titulo": "Pagamento do decimo terceiro salario",
     "ids": [
-     "0a593e8b1d36",
-     "72986888e6ea",
-     "82c179b8e376"
+     "5915c9e96417"
     ]
    },
    {
-    "titulo": "Encontro entre Trump, Putin e Xi Jinping repercute internacionalmente",
+    "titulo": "Decisao do STF sobre passaportes de Flavio Bolsonaro",
     "ids": [
-     "88fcff23d20a",
-     "5e0147596422",
-     "a6f67bcecf62"
+     "d12e46a85523"
     ]
    },
    {
-    "titulo": "Relator mantém texto do pacote fiscal e votação é prevista para segunda-feira",
+    "titulo": "Declaracoes do secretario do Tesouro dos EUA sobre juros e energia",
     "ids": [
-     "a6ccead3a2cc",
-     "2378ae13fc37",
-     "ce10327775ae"
+     "32ea57b75645"
     ]
    },
    {
-    "titulo": "Mega-Sena acumula e prêmio vai a R$ 45 milhões",
+    "titulo": "Ajudas financeiras e estragos causados por tempestade no Rio Grande do Sul",
     "ids": [
-     "7a886b7dcb80",
-     "844acda0f435",
-     "431d016bcb67"
+     "383385ffb86e",
+     "d4101e39beea",
+     "72d14d3eae1d"
     ]
    },
    {
-    "titulo": "U.S. Steel firma acordo com sindicato para aumento salarial",
+    "titulo": "Homem sobrevive a ferimento grave no pescoco",
     "ids": [
-     "d09a592555e9"
+     "6088779dc318",
+     "506357567e86"
     ]
    },
    {
-    "titulo": "Montadoras japonesas preparam-se para queda nas vendas globais",
+    "titulo": "Desempenho de acoes de empresas de inteligencia artificial e Anthropic",
     "ids": [
-     "6cf9ddf6d72b"
+     "5f30d030bdd8",
+     "226080dcb4ea",
+     "f98ae0078519"
     ]
    },
    {
-    "titulo": "Estudo aponta que salário mínimo compra menos carne bovina que em 2007",
+    "titulo": "Prefeito de Nova York sofre lesao em partida com jornalistas",
+    "ids": [
+     "215a269c1478"
+    ]
+   },
+   {
+    "titulo": "Motorista que atropelou bancario estava com CNH cassada",
+    "ids": [
+     "4cadb4569a81"
+    ]
+   },
+   {
+    "titulo": "Protestos na Europa contra custo de vida e orcamento",
+    "ids": [
+     "c5fd15fc280e",
+     "e4b16a8138dc"
+    ]
+   },
+   {
+    "titulo": "Trajetoria e impacto de Jensen Huang na Nvidia",
+    "ids": [
+     "2d70a840f78a"
+    ]
+   },
+   {
+    "titulo": "Uso de previdencia privada para planejamento financeiro",
+    "ids": [
+     "d8d56fbe0125"
+    ]
+   },
+   {
+    "titulo": "Indicadores economicos e sentimento do consumidor nos Estados Unidos",
+    "ids": [
+     "547550834efa"
+    ]
+   },
+   {
+    "titulo": "Acontecimentos e repercussoes no reality show A Fazenda",
+    "ids": [
+     "6aaf0bf4fd45",
+     "68e515e56999",
+     "1c6bc2e061fa",
+     "890da57c17d9"
+    ]
+   },
+   {
+    "titulo": "Melhoria na confianca do consumidor na Zona do Euro",
+    "ids": [
+     "6dfad25e2e60"
+    ]
+   },
+   {
+    "titulo": "Impacto do conflito na Ucrania sobre criancas segundo a Unicef",
+    "ids": [
+     "127635c34ccb"
+    ]
+   },
+   {
+    "titulo": "Demissao de diretor de seguranca cibernetica no governo dos EUA",
+    "ids": [
+     "bff7386b5667"
+    ]
+   },
+   {
+    "titulo": "Debate sobre isencao de IPVA para aplicativos de transporte em Sao Paulo",
+    "ids": [
+     "aad8c15b4e21"
+    ]
+   },
+   {
+    "titulo": "Fofocas e desentendimentos entre celebridades e influenciadores",
+    "ids": [
+     "61c288d51647",
+     "2a1df6ac538b"
+    ]
+   },
+   {
+    "titulo": "Investigacao da Policia Federal sobre pagamentos ligados a Fabiano Zettel",
+    "ids": [
+     "786356622678"
+    ]
+   },
+   {
+    "titulo": "Morte do influenciador Gabriel Félix",
+    "ids": [
+     "e139fab966da",
+     "57bf670f4694",
+     "0b69177135f0"
+    ]
+   },
+   {
+    "titulo": "Decisao judicial sobre agressao em Santa Teresa",
+    "ids": [
+     "923b393e889f"
+    ]
+   },
+   {
+    "titulo": "Acoes policiais e reacoes a assaltos",
+    "ids": [
+     "26bcdc1f4aeb"
+    ]
+   },
+   {
+    "titulo": "Recurso judicial do PSD sobre segundo turno no Rio de Janeiro",
+    "ids": [
+     "ecf8e093b5b8"
+    ]
+   },
+   {
+    "titulo": "Apresentacoes e talentos populares em programas de TV",
+    "ids": [
+     "788406049c7c"
+    ]
+   },
+   {
+    "titulo": "Regulamentacao e impactos do fim da escala de trabalho 6x1",
+    "ids": [
+     "b8698fad39a6",
+     "bac0ac9077d9",
+     "d4681796280a"
+    ]
+   },
+   {
+    "titulo": "Ataques da coalizao liderada pela Arabia Saudita no Iemen",
+    "ids": [
+     "cf684eb9128b"
+    ]
+   },
+   {
+    "titulo": "Acordos entre Reino Unido e Uniao Europeia pos-Brexit",
+    "ids": [
+     "9e230ad97d95",
+     "c145f4d9381e"
+    ]
+   },
+   {
+    "titulo": "Assassinato de tio e sobrinho em restaurante em Sao Paulo",
+    "ids": [
+     "a2b626c01cb8"
+    ]
+   },
+   {
+    "titulo": "Desenvolvimento de supercomputador para soberania em inteligencia artificial",
+    "ids": [
+     "9462390dcac9"
+    ]
+   },
+   {
+    "titulo": "Declaracoes de Jennifer Lawrence sobre beijos em cena",
+    "ids": [
+     "1857c4d41d3a"
+    ]
+   },
+   {
+    "titulo": "Relacao da Arabia Saudita com a franquia de jogos GTA",
+    "ids": [
+     "4302f3b30f05"
+    ]
+   },
+   {
+    "titulo": "Punicao da selecao da Inglaterra por canticos na Nations League",
+    "ids": [
+     "0730eefc480a"
+    ]
+   },
+   {
+    "titulo": "Debate internacional sobre o uso de armas autonomas e IAs em conflitos",
+    "ids": [
+     "90364238795c",
+     "d3f3776f3d1b"
+    ]
+   },
+   {
+    "titulo": "Debates e reflexoes sobre financiamento climatico",
+    "ids": [
+     "3abb779b5150"
+    ]
+   },
+   {
+    "titulo": "Historico da participacao negra no futebol brasileiro",
+    "ids": [
+     "8041489496a1"
+    ]
+   },
+   {
+    "titulo": "Parceria educacional e industrial em Petropolis",
+    "ids": [
+     "d9111e131509"
+    ]
+   },
+   {
+    "titulo": "Disputas e bastidores no futebol brasileiro",
+    "ids": [
+     "19d99078e1e1",
+     "c868a191cfc4"
+    ]
+   },
+   {
+    "titulo": "Habitos de leitura de CEOs e executivos",
+    "ids": [
+     "30ccca4eb414"
+    ]
+   },
+   {
+    "titulo": "Manutencao da prisao preventiva de Daniel Vorcaro",
+    "ids": [
+     "4aa05ffe2a81"
+    ]
+   },
+   {
+    "titulo": "Renovacao de votos de casamento de celebridade",
+    "ids": [
+     "95f1970bd1b6"
+    ]
+   },
+   {
+    "titulo": "Desigualdade racial e abismo salarial no Brasil",
+    "ids": [
+     "7043990b7ccd",
+     "8e102f7a1b0c"
+    ]
+   },
+   {
+    "titulo": "Prisao mantida para advogado suspeito de agressao em Sao Paulo",
+    "ids": [
+     "5f413e7989ab"
+    ]
+   },
+   {
+    "titulo": "Montagem de secretariado e decisoes politicas estaduais",
+    "ids": [
+     "4fc1d2880b52"
+    ]
+   },
+   {
+    "titulo": "Denuncia de racismo em loja de luxo em Sao Paulo",
+    "ids": [
+     "b461e6d9004e"
+    ]
+   },
+   {
+    "titulo": "Morte do ator Lance Broadway",
+    "ids": [
+     "928dc744057c"
+    ]
+   },
+   {
+    "titulo": "Articulacoes politicas do governo federal e planos para Autoridade Climatica",
+    "ids": [
+     "7bd896d7ee0f",
+     "f801919de4e2",
+     "e4d8419f546e"
+    ]
+   },
+   {
+    "titulo": "Divulgacao de jogos de azar e bets ilegais por influenciadores",
+    "ids": [
+     "c07549530390"
+    ]
+   },
+   {
+    "titulo": "Inovacoes sustentaveis com aproveitamento de materiais na regiao amazonica",
+    "ids": [
+     "5d6979e75381"
+    ]
+   },
+   {
+    "titulo": "Noticias gerais sobre o mundo e economia internacional",
+    "ids": [
+     "bc18c9cfe7d3"
+    ]
+   },
+   {
+    "titulo": "Dicas de restaurantes e espacos exclusivos em Sao Paulo",
+    "ids": [
+     "3dab54ed43cf"
+    ]
+   },
+   {
+    "titulo": "Venda de imobiliario de luxo",
+    "ids": [
+     "0005ed3a75c1"
+    ]
+   },
+   {
+    "titulo": "Busca de licencas bancarias por empresas de criptoativos e stablecoins",
+    "ids": [
+     "81b5bb7a3572"
+    ]
+   },
+   {
+    "titulo": "Ferramentas e configuracoes de privacidade em chats de inteligencia artificial",
+    "ids": [
+     "f4265e026026"
+    ]
+   },
+   {
+    "titulo": "Estrategias de varejo e campanhas de vendas na Black Friday",
+    "ids": [
+     "762e5af9bd63"
+    ]
+   },
+   {
+    "titulo": "Retorno da Nike a Formula 1",
+    "ids": [
+     "d889c4eb5542"
+    ]
+   },
+   {
+    "titulo": "Preferencias de investimento de bancos na America Latina",
+    "ids": [
+     "58c9d6a873b9"
+    ]
+   },
+   {
+    "titulo": "Queda na producao mundial de vinho devido a clima e seca",
+    "ids": [
+     "a442b5b2d977"
+    ]
+   },
+   {
+    "titulo": "Verificacao de boatos e informacoes falsas sobre beneficios e programas do governo",
+    "ids": [
+     "95bf4d20dd3f",
+     "3f212206f1b8",
+     "1037f98446e9"
+    ]
+   },
+   {
+    "titulo": "Tendencias de moradia compartilhada entre desconhecidos",
+    "ids": [
+     "4e35dae4d19d"
+    ]
+   },
+   {
+    "titulo": "Evolucao do poder de compra do salario minimo em relacao a produtos basicos",
     "ids": [
      "4cf313751971"
     ]
    },
    {
-    "titulo": "Rivalidade entre CEOs da Anthropic e OpenAI vira símbolo da corrida pela IA",
-    "ids": [
-     "226080dcb4ea"
-    ]
-   },
-   {
-    "titulo": "Homenagem e interações entre participantes em A Fazenda",
-    "ids": [
-     "8a28ba7bf667",
-     "55a7d00e6148",
-     "bbbf86b4b8c7",
-     "73567e755577",
-     "7c6d6caf6cc7",
-     "31f63ae87004",
-     "10928014104a"
-    ]
-   },
-   {
-    "titulo": "Desafios de palavras cruzadas e caça-palavras do dia",
-    "ids": [
-     "996074048758",
-     "91596e453463"
-    ]
-   },
-   {
-    "titulo": "Reinaldo Gottino reflete sobre a vida adulta",
-    "ids": [
-     "06c334c73e4f"
-    ]
-   },
-   {
-    "titulo": "Michelle Barros convoca público para o Miss Universe",
-    "ids": [
-     "87e9a8360ace"
-    ]
-   },
-   {
-    "titulo": "Rafa Brites celebra visita inesperada em seu sítio",
-    "ids": [
-     "7d93ee0a26cc"
-    ]
-   },
-   {
-    "titulo": "Entenda os riscos da inadimplência e como sair das dívidas",
+    "titulo": "Educacao financeira e orientacoes para sair do endividamento",
     "ids": [
      "0b312ca96427"
     ]
    },
    {
-    "titulo": "CEO da BlackRock comenta sobre regulamentação de IA e risco de recessão",
-    "ids": [
-     "157529ae9491"
-    ]
-   },
-   {
-    "titulo": "China mantém taxas de juros de referência inalteradas",
-    "ids": [
-     "0f7060677584"
-    ]
-   },
-   {
-    "titulo": "Cotações e análises do mercado financeiro e B3",
+    "titulo": "Cotacoes e informacoes de mercado financeiro",
     "ids": [
      "7a224bf4c30d",
      "fbc6b006ae8b"
     ]
    },
    {
-    "titulo": "OAB discorda de Dino e pede julgamento presencial de Van Hattem",
+    "titulo": "Intervencao cambial do Banco Central e flutuacao do dolar",
     "ids": [
-     "cc9ace85d069"
+     "cba7ed543932"
     ]
    },
    {
-    "titulo": "JBS conclui operação para produção de carnes no Oriente Médio",
-    "ids": [
-     "9a34c88b9198"
-    ]
-   },
-   {
-    "titulo": "Cleitinho discute dívida de Minas Gerais e defende união entre Estados",
-    "ids": [
-     "089a5d6ed68e",
-     "6f6238b8aae9"
-    ]
-   },
-   {
-    "titulo": "Análise política sobre a relação entre Lula e o mercado",
-    "ids": [
-     "3befa936046b",
-     "798414f750a6"
-    ]
-   },
-   {
-    "titulo": "Bancos buscam grandes empresas para conter piora do crédito",
+    "titulo": "Estrategias de credito dos bancos voltadas a grandes empresas",
     "ids": [
      "f4d899ae2c29"
     ]
    },
    {
-    "titulo": "Exportação aos países árabes cresce com demanda para o Ramadã",
+    "titulo": "Analises sobre a heranca economica e politica dos governos",
+    "ids": [
+     "798414f750a6"
+    ]
+   },
+   {
+    "titulo": "Crescimento nas exportacoes para paises arabes",
     "ids": [
      "366dc37c1cd3"
     ]
    },
    {
-    "titulo": "Vitória vence o RB Bragantino e ganha fôlego no Brasileirão",
+    "titulo": "Resultado do sorteio da Mega-Sena",
     "ids": [
-     "50e04235213a"
+     "844acda0f435"
     ]
    },
    {
-    "titulo": "Resultados de loterias: Lotofácil e Dia de Sorte",
+    "titulo": "Tramitacao e votacao de projetos de ajuste fiscal no Congresso",
     "ids": [
-     "6cf5b29532a3",
-     "8bd9a48b8553"
+     "2378ae13fc37"
     ]
    },
    {
-    "titulo": "Moraes se antecipa a Fachin e marca posição sobre dosimetria",
-    "ids": [
-     "4562456c6e82",
-     "3d5d133e9a38"
-    ]
-   },
-   {
-    "titulo": "Resultado da Quina do dia 19",
-    "ids": [
-     "baf61db74a77"
-    ]
-   },
-   {
-    "titulo": "Mari Gonzalez revela critérios para escolher pai de seus filhos",
-    "ids": [
-     "f4a18f34ca3d"
-    ]
-   },
-   {
-    "titulo": "Notícias gerais e locais de Jovem Pan",
-    "ids": [
-     "c3c13ff4d9eb",
-     "37fa4a0d3ae8",
-     "e8ac1f49a092",
-     "5fd186e35eff",
-     "7b1392362034",
-     "4db7ebea3e4c",
-     "5a47006e41fb",
-     "be957a477d39"
-    ]
-   },
-   {
-    "titulo": "Truques simples ajudam a recuperar visibilidade em vidros embaçados",
-    "ids": [
-     "7611987195e8"
-    ]
-   },
-   {
-    "titulo": "Operação policial no Haiti deixa mortos entre integrantes de gangues",
-    "ids": [
-     "781639dad158"
-    ]
-   },
-   {
-    "titulo": "Ana Carolina Raimundi se afasta da TV após diagnóstico médico",
-    "ids": [
-     "ec79b21257a2"
-    ]
-   },
-   {
-    "titulo": "Sanção de pacote fiscal trará credibilidade, diz especialista",
-    "ids": [
-     "374f9ddaf13d"
-    ]
-   },
-   {
-    "titulo": "Alibaba é acusada de vínculo com empresa em processo nos EUA",
-    "ids": [
-     "ff9a42181d0c"
-    ]
-   },
-   {
-    "titulo": "Veterano brasileiro da Segunda Guerra Mundial morre aos 104 anos",
-    "ids": [
-     "c581e35867a9"
-    ]
-   },
-   {
-    "titulo": "PSD recorre de decisão de Zanin sobre segundo turno no Rio de Janeiro",
-    "ids": [
-     "8f8125967706"
-    ]
-   },
-   {
-    "titulo": "Banco Central reúne setor cripto para esclarecer regras de transferências",
-    "ids": [
-     "49e16c6f9155"
-    ]
-   },
-   {
-    "titulo": "Discussão sobre urbanismo e convívio entre classes em nova vizinhança",
+    "titulo": "Debates urbanisticos sobre densidade e convivio entre classes",
     "ids": [
      "4338fc5b371c"
     ]
    },
    {
-    "titulo": "Band realiza primeira edição do Prêmio Inspira SP",
+    "titulo": "Realizacao de premicoes culturais e regionais",
     "ids": [
      "09e3246d8c5c"
     ]
    },
    {
-    "titulo": "Mercado de seguros adapta produtos para atender população idosa",
+    "titulo": "Liberacao de chips avancados de IA para empresas chinesas pelos EUA",
     "ids": [
-     "66afbd45625e"
+     "72986888e6ea"
     ]
    },
    {
-    "titulo": "Onde assistir ao jogo entre São Paulo e Fluminense",
-    "ids": [
-     "150758ab23d3"
-    ]
-   },
-   {
-    "titulo": "Diretor do Pine analisa impacto das eleições dos EUA na força do dólar",
-    "ids": [
-     "3eb8f14d3d34"
-    ]
-   },
-   {
-    "titulo": "Impactos da mudança para a escala de trabalho 5x2",
-    "ids": [
-     "d4681796280a"
-    ]
-   },
-   {
-    "titulo": "Juíza é investigada após mentir sobre decisão em leilão",
-    "ids": [
-     "7efd9c2ba075"
-    ]
-   },
-   {
-    "titulo": "Comparativo entre smartphones Samsung Galaxy S25 e iPhone 17 Pro Max",
+    "titulo": "Comparativos entre modelos de smartphones",
     "ids": [
      "20c6db819950"
     ]
    },
    {
-    "titulo": "Empresário cria plataforma para novos sócios com foco em crescimento",
-    "ids": [
-     "f8042b86be36"
-    ]
-   },
-   {
-    "titulo": "Atriz de GTA 6 fala sobre sua personagem no jogo",
+    "titulo": "Elenco e informacoes sobre personagens de jogos eletronicos",
     "ids": [
      "c38527fd20a0"
     ]
    },
    {
-    "titulo": "CEO da Ultrapar fala sobre confiança e execução de ajustes",
-    "ids": [
-     "6d0f22c27de6"
-    ]
-   },
-   {
-    "titulo": "Lançamento de filmes e guias sobre franquias de entretenimento",
-    "ids": [
-     "c5392f04bfff",
-     "f6c801ca9efb",
-     "e6b535c0937f"
-    ]
-   },
-   {
-    "titulo": "Análise sobre carga tributária no Brasil e no mundo",
-    "ids": [
-     "cb9f246b5896"
-    ]
-   },
-   {
-    "titulo": "Marlon Jackson, irmão de Michael Jackson, revela câncer de próstata",
-    "ids": [
-     "ba515cc2cc10"
-    ]
-   },
-   {
-    "titulo": "Apple desenvolve agente de inteligência artificial para concorrer com ChatGPT",
-    "ids": [
-     "189c16878a07"
-    ]
-   },
-   {
-    "titulo": "Lionel Messi prepara medida judicial contra a AFA",
-    "ids": [
-     "afe67b7971e8"
-    ]
-   },
-   {
-    "titulo": "Estudo aponta universitários como primeiros disseminadores de novas variantes de Covid-19",
-    "ids": [
-     "afb44827615d"
-    ]
-   },
-   {
-    "titulo": "Checagem de fatos desmente boicote de 12 países à vitória de Lula",
-    "ids": [
-     "3f212206f1b8"
-    ]
-   },
-   {
-    "titulo": "Presidente de El Salvador busca terceiro mandato inédito",
+    "titulo": "Eleicoes e situacao politica em El Salvador",
     "ids": [
      "2fc2721820f8"
     ]
    },
    {
-    "titulo": "Criptomoeda sofre forte queda após uso por hackers da Coreia do Norte",
+    "titulo": "Skatista de 28 anos morre em acidente com ônibus na zona oeste de São Paulo",
     "ids": [
-     "eb366444ac6f"
-    ]
-   },
-   {
-    "titulo": "Grandes empresas financeiras relatam ataques cibernéticos",
-    "ids": [
-     "d9cae02af5b4",
-     "c24d39627cd3"
-    ]
-   },
-   {
-    "titulo": "Pesquisa analisa comportamento de brasileiros em relação a comparações de preços por IA",
-    "ids": [
-     "24bb67c6225b"
-    ]
-   },
-   {
-    "titulo": "Checagem de fatos esclarece decisão antiga do STF sobre remédios",
-    "ids": [
-     "1037f98446e9"
-    ]
-   },
-   {
-    "titulo": "Pacientes com câncer jogam cinzas em comissário europeu em protesto",
-    "ids": [
-     "981f8806433a"
-    ]
-   },
-   {
-    "titulo": "JPMorgan analisa venda de hospitais para cortar dívida da Hapvida",
-    "ids": [
-     "f2fac828fc81"
-    ]
-   },
-   {
-    "titulo": "CEO do Bradesco prega prudência diante de cenário adverso em 2027",
-    "ids": [
-     "4850e18d69d0"
-    ]
-   },
-   {
-    "titulo": "Inadimplência bancária cresce na América Latina com destaque para Argentina e Brasil",
-    "ids": [
-     "17c6e3f83e81"
-    ]
-   },
-   {
-    "titulo": "Inteligência artificial amplia influência no mercado de cobre",
-    "ids": [
-     "dd5b4c43e877"
-    ]
-   },
-   {
-    "titulo": "Ação da Apple se destaca entre as gigantes de tecnologia no ano",
-    "ids": [
-     "2680523a04df"
+     "29cdb206de7f"
     ]
    }
   ],
@@ -2789,22 +2833,84 @@
   }
  },
  "carros": {
-  "chave": "a7ef3f347f123b2e",
+  "chave": "d775376328344198",
   "grupos": [
    {
-    "titulo": "Regras de idade máxima para carros de autoescola",
+    "titulo": "Hipercarro Sanrivatti ONE V10",
+    "ids": [
+     "332e8f3a1e3a"
+    ]
+   },
+   {
+    "titulo": "Regulamentação sobre películas de vidro e antivandalismo",
+    "ids": [
+     "428eb198b5f2"
+    ]
+   },
+   {
+    "titulo": "Conceito Volkswagen ID. Polo GTI Clubsport",
+    "ids": [
+     "c6152b113f3a",
+     "e2fd721e8ee3",
+     "cebe20473082"
+    ]
+   },
+   {
+    "titulo": "Comparativo entre Toyota Corolla Cross e Hyundai Creta",
+    "ids": [
+     "e126ddb31491"
+    ]
+   },
+   {
+    "titulo": "Desconto no BYD Shark",
+    "ids": [
+     "3d56d9772cf7"
+    ]
+   },
+   {
+    "titulo": "Guia de compra de Hyundai HB20 usado",
+    "ids": [
+     "8bed9db1e7b1"
+    ]
+   },
+   {
+    "titulo": "Novo SUV Jetour T0",
+    "ids": [
+     "96fb8774e2ab"
+    ]
+   },
+   {
+    "titulo": "Panorama da infraestrutura de recarga para carros elétricos no Brasil",
+    "ids": [
+     "2ce0b96a20eb"
+    ]
+   },
+   {
+    "titulo": "Carregador ultrarrápido da BYD para caminhões",
+    "ids": [
+     "dd3ca4e276f7"
+    ]
+   },
+   {
+    "titulo": "Premiação da Picape Willys como Carro do Ano",
+    "ids": [
+     "15e99cab5150"
+    ]
+   },
+   {
+    "titulo": "Idade máxima dos carros de autoescola",
     "ids": [
      "3707fafd172a"
     ]
    },
    {
-    "titulo": "Carros inspirados em marcas famosas no GTA 6",
+    "titulo": "Carros inspirados em Ferrari e Porsche em GTA 6",
     "ids": [
      "002097641d66"
     ]
    },
    {
-    "titulo": "Novos SUVs com estilo de cupê",
+    "titulo": "SUVs novos com estilo de cupê",
     "ids": [
      "08e03f85aabc"
     ]
@@ -2816,29 +2922,28 @@
     ]
    },
    {
-    "titulo": "Novo Lamborghini Temerario Spyder",
+    "titulo": "Lamborghini Temerario Spyder",
     "ids": [
      "3c2824948d33",
      "622946baf28a"
     ]
    },
    {
-    "titulo": "Nova geração do BMW X5 e do elétrico iX5",
+    "titulo": "Nova geração do BMW X5 e iX5",
     "ids": [
      "9c554f375e91"
     ]
    },
    {
-    "titulo": "Dicas e guia para viagens de carro",
+    "titulo": "Dicas para road trip",
     "ids": [
      "46c279f141f8"
     ]
    },
    {
-    "titulo": "Novo Mercedes-Benz GLB elétrico no Brasil",
+    "titulo": "Novo Mercedes-Benz GLB elétrico",
     "ids": [
-     "ba191e1bdfcc",
-     "84bd41ad22b9"
+     "ba191e1bdfcc"
     ]
    },
    {
@@ -2848,13 +2953,13 @@
     ]
    },
    {
-    "titulo": "Campanha de descontos Black Friday da BMW",
+    "titulo": "Campanha Black Friday da BMW",
     "ids": [
      "38a825035c8a"
     ]
    },
    {
-    "titulo": "Omoda 5 transformado em Tiggo 5X Fastback na China",
+    "titulo": "Omoda 5 rebatizado como Tiggo 5X Fastback na China",
     "ids": [
      "4270f48e48e0"
     ]
@@ -2866,49 +2971,21 @@
     ]
    },
    {
-    "titulo": "Jetour T0 no Brasil",
+    "titulo": "Menção ao T0",
     "ids": [
-     "4461951efb60",
-     "32f5d17d1018"
+     "4461951efb60"
     ]
    },
    {
-    "titulo": "Toyota SW4",
+    "titulo": "Menção ao SW4",
     "ids": [
      "d9341f931cab"
     ]
    },
    {
-    "titulo": "Projeto de lei sobre isenção de IPVA para motoristas de aplicativo em SP",
-    "ids": [
-     "67b6e53d8edb"
-    ]
-   },
-   {
-    "titulo": "Vendas do VW Tera no Brasil",
+    "titulo": "VW Tera supera o T-Cross em vendas",
     "ids": [
      "3d2d618fb6b0"
-    ]
-   },
-   {
-    "titulo": "Promoção de óleos lubrificantes para motor",
-    "ids": [
-     "97e52c88b957"
-    ]
-   },
-   {
-    "titulo": "Toyota Corolla Deck e novos modelos da marca",
-    "ids": [
-     "9ae6e347c1cc",
-     "f93807a8d936",
-     "d585a5980e8a",
-     "659cefd44b28"
-    ]
-   },
-   {
-    "titulo": "Nova regra do Contran sobre vistoria veicular e transferência",
-    "ids": [
-     "e1e337999085"
     ]
    },
    {
@@ -2918,62 +2995,45 @@
     ]
    },
    {
-    "titulo": "Mitsubishi Triton ganha versão especial para o agro",
+    "titulo": "Mitsubishi Triton versão para o agro",
     "ids": [
      "abec4adbb090"
     ]
    },
    {
-    "titulo": "Chegada da XPeng e seus SUVs ao Brasil",
-    "ids": [
-     "e9c4837f80d2"
-    ]
-   },
-   {
-    "titulo": "Participação de plataformas nas vendas da Stellantis",
+    "titulo": "Vendas de plataformas da Stellantis",
     "ids": [
      "1ad9d119b173"
     ]
    },
    {
-    "titulo": "Casal transforma Quantum 1995 em motorhome",
+    "titulo": "Nova picape Toyota Corolla Deck",
+    "ids": [
+     "f93807a8d936",
+     "659cefd44b28"
+    ]
+   },
+   {
+    "titulo": "Casal viaja em Quantum 1995 transformada em motorhome",
     "ids": [
      "a9ecb753d778"
     ]
    },
    {
-    "titulo": "Regras de trânsito sobre som alto em veículos",
-    "ids": [
-     "f3574df0bbfe"
-    ]
-   },
-   {
-    "titulo": "Fila de espera pelo Volkswagen ID. Polo",
-    "ids": [
-     "3c3264e5db36"
-    ]
-   },
-   {
-    "titulo": "Checagem de fatos sobre imposto em carros",
+    "titulo": "Fake news sobre imposto em carros em 2027",
     "ids": [
      "2e908c7f019e"
     ]
    },
    {
-    "titulo": "Como baixar e usar a CNH Digital",
-    "ids": [
-     "938556a20b9f"
-    ]
-   },
-   {
-    "titulo": "Anúncio de fábrica e novos SUVs da Jetour no Brasil",
+    "titulo": "Anúncio de fábrica da Jetour no Brasil",
     "ids": [
      "276a546f1ed5",
      "fcb9e067c033"
     ]
    },
    {
-    "titulo": "Motor1 Podcast sobre o mercado automotivo",
+    "titulo": "Motor1 Podcast sobre mercado automotivo",
     "ids": [
      "8453cb898a48"
     ]
@@ -2985,21 +3045,9 @@
     ]
    },
    {
-    "titulo": "Toyota confirma picape Tacoma híbrida no Brasil",
+    "titulo": "Chegada da picape Toyota Tacoma ao Brasil",
     "ids": [
      "eb8973ca0ab6"
-    ]
-   },
-   {
-    "titulo": "Desempenho de vendas da Jaecoo no Reino Unido",
-    "ids": [
-     "6d17c8aeddd2"
-    ]
-   },
-   {
-    "titulo": "Caoa Chery Tiggo 9 no mercado brasileiro",
-    "ids": [
-     "ce91b11b2ca6"
     ]
    }
   ],
@@ -3210,620 +3258,570 @@
   }
  },
  "politica": {
-  "chave": "15daaa1eb3cefe07",
+  "chave": "b258ca6f0b680aa1",
   "grupos": [
    {
-    "titulo": "Falência de rede de roupas e calçados",
+    "titulo": "Moraes vota para manter passaportes de Flávio Bolsonaro cancelados",
     "ids": [
-     "c263f0520445"
+     "d12e46a85523",
+     "af3a03f78a2f",
+     "ef390ebfe433",
+     "41cd63995df9",
+     "1cf4b0cda1cf",
+     "2064e0446011",
+     "c942cca9b506"
     ]
    },
    {
-    "titulo": "Descoberta de nova espécie de peixe no Mar Vermelho",
+    "titulo": "Flávio Bolsonaro questiona STF e defende imunidade parlamentar de Marcel van Hattem",
     "ids": [
-     "e4596a5a3fed"
+     "9d9811094c32"
     ]
    },
    {
-    "titulo": "Projeto de lei sobre limite de pontos na CNH",
+    "titulo": "Flávio Dino vota para tornar Marcel van Hattem réu no STF",
     "ids": [
-     "234f6f49fcea"
+     "bfaec7f72655",
+     "39e67861d745",
+     "d8a2290a2fc8",
+     "aade23055f08",
+     "b4a2ad3f2960",
+     "350cb7b3df14",
+     "e24e473f4d59"
     ]
    },
    {
-    "titulo": "Rede de moda em insolvência",
+    "titulo": "Fachin nega pedidos e mantém Daniel Vorcaro em prisão preventiva",
     "ids": [
-     "569041035e8a"
-    ]
-   },
-   {
-    "titulo": "Pesquisa sobre acidificação do solo agrícola",
-    "ids": [
-     "30f90f9ce487"
-    ]
-   },
-   {
-    "titulo": "Estreitamento do Rio Amazonas em Óbidos",
-    "ids": [
-     "ba7311262a48"
-    ]
-   },
-   {
-    "titulo": "Desafio matemático com potências",
-    "ids": [
-     "1fbd97c74c07"
-    ]
-   },
-   {
-    "titulo": "Aumento da presença negra no Judiciário",
-    "ids": [
-     "833e0c9ceb89",
-     "f2fb2266a099"
-    ]
-   },
-   {
-    "titulo": "Agenda de eventos do fim de semana no DF",
-    "ids": [
-     "01e13023994e"
-    ]
-   },
-   {
-    "titulo": "Julgamento da Lei da Dosimetria no STF",
-    "ids": [
-     "5a28a921ac86",
-     "204e45e0ebd9",
-     "27628795506a",
-     "c784f5252a57",
-     "8d2ef8d50a12",
-     "bf78ad1fecce",
-     "d994ed3e60fb",
-     "50e6328c0b2d"
-    ]
-   },
-   {
-    "titulo": "Candidaturas para a presidência da Câmara",
-    "ids": [
-     "64d3e3b432b3",
-     "2c39b7f56730"
-    ]
-   },
-   {
-    "titulo": "Frase de Gabriel García Márquez sobre a velhice",
-    "ids": [
-     "f5f3cce68614"
-    ]
-   },
-   {
-    "titulo": "Edifício construído com módulos de madeira na Suécia",
-    "ids": [
-     "5ea37e2f5b1f"
-    ]
-   },
-   {
-    "titulo": "Gigante de cosméticos entra em insolvência",
-    "ids": [
-     "eceb330d41b4"
-    ]
-   },
-   {
-    "titulo": "Dicas de acabamento e preparação de massa por pedreiro",
-    "ids": [
-     "2774504b6fef"
-    ]
-   },
-   {
-    "titulo": "Perturbação do vórtice polar e riscos de frio",
-    "ids": [
-     "5d228e8fc451"
-    ]
-   },
-   {
-    "titulo": "Divergências e debates na esquerda sobre o governo Lula",
-    "ids": [
-     "1b775d17e716",
-     "107e4b00c050",
-     "25c6aa4670d0",
-     "0dab3c41df93",
-     "2ac8403c3e89"
-    ]
-   },
-   {
-    "titulo": "Pressão por indicação de mulher negra ao STF",
-    "ids": [
-     "c8e623b90a72",
-     "7abdc8268d51"
-    ]
-   },
-   {
-    "titulo": "Tramitação do ajuste fiscal na Câmara",
-    "ids": [
-     "a61e3c4dfca1",
-     "2378ae13fc37",
-     "f14abdd90307",
-     "ca3b3b92cab8"
-    ]
-   },
-   {
-    "titulo": "Julgamento de Marcel van Hattem no STF",
-    "ids": [
-     "cc9ace85d069",
-     "214ab627fabe"
-    ]
-   },
-   {
-    "titulo": "Treino livre do GP de Las Vegas",
-    "ids": [
-     "1fc3d09ed4f7"
-    ]
-   },
-   {
-    "titulo": "Ataque terrorista em Riade, na Arábia Saudita",
-    "ids": [
-     "3c0f9eee68f2"
-    ]
-   },
-   {
-    "titulo": "Recurso do PSD sobre segundo turno no Rio de Janeiro",
-    "ids": [
-     "470f723cc4b0",
-     "329e26d3bd69",
-     "8f8125967706"
-    ]
-   },
-   {
-    "titulo": "Manutenção de inelegibilidade de Alfredo Kaefer",
-    "ids": [
-     "f5a0941ecd09"
-    ]
-   },
-   {
-    "titulo": "Críticas da Fecomercio ao decreto da escala de trabalho",
-    "ids": [
-     "a301192973df",
-     "4c01e599a9cf"
-    ]
-   },
-   {
-    "titulo": "Posição da Guatemala sobre operações de tropas dos EUA",
-    "ids": [
-     "09fe86058306"
-    ]
-   },
-   {
-    "titulo": "Acumulação do prêmio da Mega-Sena",
-    "ids": [
-     "7a886b7dcb80"
-    ]
-   },
-   {
-    "titulo": "Apuração de eleições estaduais em tempo real",
-    "ids": [
-     "1d9db7fc74a5",
-     "7c7637cf0f31",
-     "585306c2577b"
-    ]
-   },
-   {
-    "titulo": "Ciberataque com uso de IA na Comissão Europeia",
-    "ids": [
-     "af7264876c88"
-    ]
-   },
-   {
-    "titulo": "Partida do Campeonato Brasileiro",
-    "ids": [
-     "a1f2549429f9",
-     "b0d9d2482e52",
-     "e7db6f21da3f"
-    ]
-   },
-   {
-    "titulo": "Projeto para mudar o lema da bandeira do Brasil",
-    "ids": [
-     "3a589a070924"
-    ]
-   },
-   {
-    "titulo": "Treinamento de jogadores do Palmeiras",
-    "ids": [
-     "57a165a82084"
-    ]
-   },
-   {
-    "titulo": "Atuação e importância da Coopavel no agronegócio",
-    "ids": [
-     "963bfd5c836b"
-    ]
-   },
-   {
-    "titulo": "Possível federalização do Memorial da América Latina",
-    "ids": [
-     "38f383cc95ba"
-    ]
-   },
-   {
-    "titulo": "Balanço de crédito injetado pelo BNDES",
-    "ids": [
-     "ce28e341810b"
-    ]
-   },
-   {
-    "titulo": "Desempenho do Vila Nova no Brasileirão",
-    "ids": [
-     "8916b41a244a"
-    ]
-   },
-   {
-    "titulo": "Queda de destroços de drone russo na embaixada do Brasil na Ucrânia",
-    "ids": [
-     "ecf2ece69d76"
-    ]
-   },
-   {
-    "titulo": "Mudança de local do Jogo das Estrelas, de Zico",
-    "ids": [
-     "f911308da9c7"
-    ]
-   },
-   {
-    "titulo": "Desistência de federação entre PSB e PDT",
-    "ids": [
-     "1200efe2b535"
-    ]
-   },
-   {
-    "titulo": "Manutenção da cúpula da Segurança Pública em SP",
-    "ids": [
-     "700edd259a30",
-     "6f1bccd47975"
-    ]
-   },
-   {
-    "titulo": "Notícias gerais e prestadores de serviço",
-    "ids": [
-     "c3c13ff4d9eb",
-     "37fa4a0d3ae8",
-     "719513faceb0",
-     "e8ac1f49a092",
-     "490c3cc83b06",
-     "5fd186e35eff",
-     "603a07874174"
-    ]
-   },
-   {
-    "titulo": "História de Sylvester Stallone e o filme Rocky",
-    "ids": [
-     "26cdccf86826"
-    ]
-   },
-   {
-    "titulo": "Prejuízo dos Correios",
-    "ids": [
-     "786bbb1a8b5b"
-    ]
-   },
-   {
-    "titulo": "Ofensiva militar de Israel em Gaza",
-    "ids": [
-     "81df1ca253c1"
-    ]
-   },
-   {
-    "titulo": "Cobrança de indenização da Braskem por Maceió",
-    "ids": [
-     "4c045c618714"
-    ]
-   },
-   {
-    "titulo": "Transferência de Mauro Cid para o Rio de Janeiro",
-    "ids": [
-     "05787d6cf02a"
-    ]
-   },
-   {
-    "titulo": "OAB-RJ barra intermediação irregular por plataformas digitais",
-    "ids": [
-     "e1a1b3a7842b"
-    ]
-   },
-   {
-    "titulo": "Partidos contestam incorporação partidária",
-    "ids": [
-     "99de39fabb78"
-    ]
-   },
-   {
-    "titulo": "Decisão sobre licitação de iPhones para o Senado",
-    "ids": [
-     "854428d5a0bf",
-     "60a7cb41a608"
-    ]
-   },
-   {
-    "titulo": "Disputa interna no comando do PL na Alesp",
-    "ids": [
-     "9f1cd83aa029"
-    ]
-   },
-   {
-    "titulo": "Operação contra vice do TCE-RS",
-    "ids": [
-     "52cc1e81e94f"
-    ]
-   },
-   {
-    "titulo": "Aprovação de regras para transição presidencial",
-    "ids": [
-     "106a5f4e8d9e"
-    ]
-   },
-   {
-    "titulo": "Câmara cobra devolução de valores de Alexandre Ramagem",
-    "ids": [
-     "eb355a20bcfb"
-    ]
-   },
-   {
-    "titulo": "Articulação para composição do futuro governo Lula",
-    "ids": [
-     "7feb4f538f76",
-     "0e93a55acccb"
-    ]
-   },
-   {
-    "titulo": "Ministro Edson Fachin centraliza investigações sobre o Banco Master no STF",
-    "ids": [
+     "3de9909ab25f",
+     "2ee95bf39e9e",
+     "ebc6381ecdad",
+     "4aa05ffe2a81",
+     "cb337e47d71d",
+     "f8f50825caa5",
+     "052291ff77a5",
      "d71bbf8d9add"
     ]
    },
    {
-    "titulo": "Galípolo diz que ligou para PF para alertar sobre possível fuga de Vorcaro",
+    "titulo": "Empresário preso por golpe em clientes de mármore e granito",
     "ids": [
-     "73b84d988165"
+     "bf3e20211614",
+     "76decb74c8ff"
     ]
    },
    {
-    "titulo": "PF inclui Mendonça em apuração sobre Vorcaro após Andrei pedir novos relatórios, diz jornal",
+    "titulo": "Uma cidade construiu 176 km de metrô distribuídos em seis linhas e 85 estações, formando a maior rede automatizada sem motoristas do mundo",
     "ids": [
-     "a0617cbfd693"
+     "fab46e16c901"
     ]
    },
    {
-    "titulo": "PGR terá núcleo com Gonet para avaliar relatórios sobre ministros do STF e deve superar prazo de 15 dias",
+    "titulo": "Michelle Bolsonaro disse ficar feliz por ter uma mulher candidata no Senado, afirma Tereza Cristina",
     "ids": [
-     "3616692b1c12"
+     "c8d4c0e7d35d"
     ]
    },
    {
-    "titulo": "Jornais negros surgiram há quase 200 anos para reivindicar cidadania e denunciar racismo",
+    "titulo": "Casa Branca recolhe celulares a bordo do avião de Trump depois de viagem à China",
     "ids": [
-     "76936ad83cd2"
+     "5af01b921829"
     ]
    },
    {
-    "titulo": "PSD recorre ao STF e insiste em 2º turno para governador do Rio",
+    "titulo": "Morte de Clezão completa 3 anos",
     "ids": [
-     "c6c8e7ca2d64"
+     "e91ccacc3baa"
     ]
    },
    {
-    "titulo": "Pressão para salvar Moraes e risco de nulidades fazem Fachin segurar caso Master",
+    "titulo": "A pedido de Mendonça, Fachin retira sigilo de relatório da PF sobre o ministro e Vorcaro",
     "ids": [
-     "2c0bcc2d2516"
+     "4f3beed939e3"
     ]
    },
    {
-    "titulo": "Caso Master: Fachin envia à PGR relatórios sobre Moraes, Toffoli, Nunes Marques e Mendonça",
+    "titulo": "Cortes na pele: veja erros comuns que podem dificultar a recuperação",
     "ids": [
-     "0b013cb65667"
+     "bf107e1c40fc"
     ]
    },
    {
-    "titulo": "Master: Fachin arquiva seis relatórios sobre ministros e envia quatro à PGR",
+    "titulo": "Representatividade na infância: brinquedos e livros ajudam crianças negras a construir identidade e autoestima",
     "ids": [
-     "2923099ecfc0"
+     "09ffe4052286"
     ]
    },
    {
-    "titulo": "Moraes se antecipa a Fachin para marcar posição sobre dosimetria",
+    "titulo": "Ventania de 60 km/h destrói teto da UnB e deixa formatura sem energia",
     "ids": [
-     "4562456c6e82"
+     "fa39be4ca14c"
     ]
    },
    {
-    "titulo": "Ministros do STF recebem cópia do relatório da PF em que são citados sobre relações com Vorcaro",
+    "titulo": "Quem vai ocupar os empregos da economia verde no Brasil?",
     "ids": [
-     "c8d619d3fd27"
+     "5c2b17e45ce0"
     ]
    },
    {
-    "titulo": "Cabe a Fachin dar foco às investigações do Master no Supremo",
+    "titulo": "Motorista que atropelou bancário em São Caetano estava com CNH cassada desde 2025",
     "ids": [
-     "875bbf2b35cd"
+     "4cadb4569a81"
     ]
    },
    {
-    "titulo": "Caso Master: Fachin envia à PGR relatórios sobre Moraes, Toffoli, Nunes Marques e Mendonça",
+    "titulo": "Mulher deixa Buenos Aires aos 40 anos e constrói casa circular de barro nas serras de Córdoba",
     "ids": [
-     "684841eba658"
+     "75df694a1f19"
     ]
    },
    {
-    "titulo": "Relator do ajuste fiscal na Câmara propõe aprovar proposta como veio do Senado",
+    "titulo": "Entenda o que se sabe sobre relatórios da PF a respeito de ministros do STF e o que acontece agora",
     "ids": [
-     "50f2c637d99a"
+     "8629f9777947"
     ]
    },
    {
-    "titulo": "Fachin envia à PGR relatórios sobre Moraes, Kassio, Toffoli e Mendonça",
+    "titulo": "Dia Nacional de Combate à Dengue terá vacinação gratuita e atividades no Parque da Cidade",
     "ids": [
-     "015d7a7085e2"
+     "a2e6153e4d3e"
     ]
    },
    {
-    "titulo": "Fachin envia à PGR relatórios sobre Moraes, Kassio, Toffoli e Mendonça após citações no caso Master",
+    "titulo": "Trabalhador recebe R$ 300 de vale-transporte em dinheiro e decisão do STJ pode garantir R$ 24 a mais de FGTS por mês",
     "ids": [
-     "7e606475f6d6"
+     "fad6bfb88941"
     ]
    },
    {
-    "titulo": "PF inclui Mendonça em pedido de apuração sobre relação com Vorcaro após interferência de Andrei",
+    "titulo": "No caso do BRB, Lula está certo",
     "ids": [
-     "956532cf6ce6"
+     "e31e4399d1ce"
     ]
    },
    {
-    "titulo": "PGR reitera pedido para arquivar investigação sobre falas de Bolsonaro na pandemia",
+    "titulo": "Dia da Consciência Negra: conheça 5 pratos da culinária afro-brasileira para fazer em casa",
     "ids": [
-     "7c3ad3a50cbe"
+     "56464d6d5c5f"
     ]
    },
    {
-    "titulo": "Fachin envia relatórios do caso Master a ministros do STF",
+    "titulo": "Da ora-pro-nóbis ao quiabo: 7 alimentos presentes na culinária afro-brasileira e seus benefícios",
     "ids": [
-     "0d12c713a709"
+     "6bd172680b34"
     ]
    },
    {
-    "titulo": "Em meio à crise do Master, autoridades voltam a defender reforma do Judiciário",
+    "titulo": "Horóscopo semanal: previsões para os signos de 23 a 29 de novembro de 2026",
     "ids": [
-     "330bb95fa506"
+     "97076c35a7b2"
     ]
    },
    {
-    "titulo": "Campos Neto diz que Esteves, do BTG, levantou suspeitas sobre Master, mas diretor do BC as descartou",
+    "titulo": "Engenheiros escavam 27 quilômetros de túneis a quase 800 metros debaixo de montanhas para construir uma usina capaz de armazenar eletricidade",
     "ids": [
-     "7cbf584c840e"
+     "3d9a00725179"
     ]
    },
    {
-    "titulo": "André Esteves depõe à PF: ‘Master era um banco muito pequeno, inexpressivo’",
+    "titulo": "Senado prevê quase R$ 1,6 milhão em compras para abastecer gráfica",
     "ids": [
-     "be7aefc12615"
+     "962c5fc2abed"
+    ]
+   },
+   {
+    "titulo": "Ministrocracia em debate: como o STF estaria ampliando seu poder no Brasil",
+    "ids": [
+     "8da709ae7304"
+    ]
+   },
+   {
+    "titulo": "Milhares protestam na Itália contra orçamento de Meloni e custo de vida",
+    "ids": [
+     "e4b16a8138dc"
+    ]
+   },
+   {
+    "titulo": "Quem era Gabriel Félix, influenciador que morreu aos 29 anos",
+    "ids": [
+     "e139fab966da"
+    ]
+   },
+   {
+    "titulo": "Com apenas 7 anos, Tinotenda Pudu andou 49 km e bebeu água cavando a terra para sobreviver 5 dias na savana cercado por leões",
+    "ids": [
+     "5bd77bbfb2b1"
+    ]
+   },
+   {
+    "titulo": "Crusoé: Um instituto do Master para Moraes em Londres?",
+    "ids": [
+     "a1043c973439"
+    ]
+   },
+   {
+    "titulo": "Cleitinho diz que vai a Lula \"quantas vezes precisar\" por dívida de MG",
+    "ids": [
+     "f8c884887c96"
+    ]
+   },
+   {
+    "titulo": "Montanhas italianas podem subir até dez vezes mais rápido do que se imaginava",
+    "ids": [
+     "60be6e36bf15"
+    ]
+   },
+   {
+    "titulo": "Mais de 100 cachoeiras cercam uma cidade do Paraná, incluindo uma queda de 196 metros considerada a maior do Sul do Brasil",
+    "ids": [
+     "97bed85976e6"
+    ]
+   },
+   {
+    "titulo": "Moraes vota para manter suspensão de privatização no Paraná e Zanin diverge",
+    "ids": [
+     "03f40ed72ec3"
+    ]
+   },
+   {
+    "titulo": "Relatório da PF tem diálogos de Vorcaro sobre Mendonça, mas não aponta conversa direta com ministro",
+    "ids": [
+     "402a7911b1fc"
+    ]
+   },
+   {
+    "titulo": "Influenciador Gabriel Félix morre aos 29 anos",
+    "ids": [
+     "57bf670f4694"
+    ]
+   },
+   {
+    "titulo": "Vorcaro compartilhou com ex-diretor do BC mensagem sobre vitória no STF",
+    "ids": [
+     "a55913114301"
+    ]
+   },
+   {
+    "titulo": "Dino vota para tornar Juscelino Filho réu por suspeita de desvio de emendas",
+    "ids": [
+     "224fe5a18267"
+    ]
+   },
+   {
+    "titulo": "Parque da Cidade recebe campanha de vacinação contra dengue e ações de prevenção",
+    "ids": [
+     "5af1ee8b14e8"
+    ]
+   },
+   {
+    "titulo": "Tempestade deixa um morto no interior do Rio Grande do Sul",
+    "ids": [
+     "aa417c684cc6"
+    ]
+   },
+   {
+    "titulo": "Temporal arranca teto de prédio da UnB e derruba árvores sobre carros",
+    "ids": [
+     "7b18553a8352"
+    ]
+   },
+   {
+    "titulo": "JPMorgan, Visa e Mastercard relatam ataque hacker",
+    "ids": [
+     "d3c24f26c01e"
+    ]
+   },
+   {
+    "titulo": "Deputado quer ‘CPI do Vorcaro do Agro’ para apurar fraudes no crédito rural",
+    "ids": [
+     "f50e5d1e3bdf"
+    ]
+   },
+   {
+    "titulo": "Mau hálito atinge 30% dos brasileiros e pode indicar problemas de saúde bucal",
+    "ids": [
+     "cb80ae50f913"
+    ]
+   },
+   {
+    "titulo": "Tio e sobrinho são mortos a tiros em restaurante na zona leste de SP",
+    "ids": [
+     "a2b626c01cb8"
+    ]
+   },
+   {
+    "titulo": "Esporte sem Firula: assista ao programa de 20/11/2026",
+    "ids": [
+     "4f0577d6680d"
+    ]
+   },
+   {
+    "titulo": "‘Exército do Lula’ perde 1,4 milhão de seguidores e Janones é criticado por desprezar queixas",
+    "ids": [
+     "70f2e47635d9"
+    ]
+   },
+   {
+    "titulo": "Ceasa-DF oferece até 99% de desconto em juros e multas para renegociar dívidas",
+    "ids": [
+     "434159359938"
+    ]
+   },
+   {
+    "titulo": "Trump demite diretor de cibersegurança da Casa Branca",
+    "ids": [
+     "118217a934f0"
+    ]
+   },
+   {
+    "titulo": "PF diz não ter encontrado evidências de dialogo direto entre Vorcaro e Mendonça",
+    "ids": [
+     "9e9007a0daf3"
+    ]
+   },
+   {
+    "titulo": "Seleção da Inglaterra é punida por cânticos contra católicos na Nations League",
+    "ids": [
+     "0730eefc480a"
+    ]
+   },
+   {
+    "titulo": "Fachin retira sigilo de relatório da PF sobre menções a Mendonça",
+    "ids": [
+     "14a36867e953"
+    ]
+   },
+   {
+    "titulo": "Mário Filho promovoeu uma discussão pioneira no país sobre o negro no futebol nacional",
+    "ids": [
+     "8041489496a1"
+    ]
+   },
+   {
+    "titulo": "Em novo álbum, a afro-indígena Héloa transforma aridez em ambiente fértil",
+    "ids": [
+     "f18bfaa9f7ee"
+    ]
+   },
+   {
+    "titulo": "Primeira rodada da SSL Gold Cup tem quatro seleções na liderança e disputa aberta por vagas na próxima fase",
+    "ids": [
+     "f5b0b7f869b5"
+    ]
+   },
+   {
+    "titulo": "Galípolo diz que relatou vazamento de reuniões internas sobre Master à PF",
+    "ids": [
+     "846bcf888efc"
+    ]
+   },
+   {
+    "titulo": "Leila x BAP: jogo ‘padrão novela’",
+    "ids": [
+     "19d99078e1e1"
+    ]
+   },
+   {
+    "titulo": "Fachin nega prisão domiciliar a policial federal da ‘turma’ de Daniel Vorcaro",
+    "ids": [
+     "32f8bf203839"
+    ]
+   },
+   {
+    "titulo": "Atlético-MG x Boca Juniors: retrospecto, prováveis escalações e onde assistir",
+    "ids": [
+     "583c3c024bd0"
+    ]
+   },
+   {
+    "titulo": "Projeto que impede depoimentos como os de Suzane von Richthofen trava na Alesp",
+    "ids": [
+     "be88b9cdb9f0"
+    ]
+   },
+   {
+    "titulo": "Moraes autoriza visita de vice-presidente do TCU a Bolsonaro",
+    "ids": [
+     "4587f234420f"
+    ]
+   },
+   {
+    "titulo": "COP31: Grupo de países pede ‘transição clara’ para abandonar combustíveis fósseis",
+    "ids": [
+     "270bdeeda217"
+    ]
+   },
+   {
+    "titulo": "Galípolo diz que avisou PF sobre possibilidade de fuga de Vorcaro",
+    "ids": [
+     "dd4b197158c5"
+    ]
+   },
+   {
+    "titulo": "Quem tem medo de mulheres negras na política?",
+    "ids": [
+     "ba8531c4f239"
+    ]
+   },
+   {
+    "titulo": "Bastidores: Como a PF vasculhou o celular de Vorcaro em 5 dias para incluir Mendonça em relatório",
+    "ids": [
+     "938bab9c7297"
+    ]
+   },
+   {
+    "titulo": "PSD recorre ao STF e volta a pedir segundo turno entre Paes e Ruas no RJ",
+    "ids": [
+     "4ed18e03ac60"
+    ]
+   },
+   {
+    "titulo": "Saiba como ficam os pagamentos de contas neste feriado da Consciência Negra",
+    "ids": [
+     "7219f5de8cfb"
+    ]
+   },
+   {
+    "titulo": "Saúde concentra dúvidas de Tarcísio na reta final da montagem do novo secretariado",
+    "ids": [
+     "4fc1d2880b52"
+    ]
+   },
+   {
+    "titulo": "Tarcísio mantém mais três secretários para novo governo em SP",
+    "ids": [
+     "d634af4bef0d"
+    ]
+   },
+   {
+    "titulo": "STF precisa de um acordão para não rifar cabeças de ministros da Corte",
+    "ids": [
+     "0e28c09f7072"
+    ]
+   },
+   {
+    "titulo": "Fachin retira sigilo de relatório da PF sobre Mendonça após pedido do ministro",
+    "ids": [
+     "c1767402aaa8"
+    ]
+   },
+   {
+    "titulo": "Lula tentará tirar do papel Autoridade Climática para acomodar Marina Silva",
+    "ids": [
+     "7bd896d7ee0f"
+    ]
+   },
+   {
+    "titulo": "Vorcaro e Faria planejaram instituto para Moraes com aval do ministro, indicam diálogos",
+    "ids": [
+     "df1cf79b18e2"
+    ]
+   },
+   {
+    "titulo": "Lula avalia escolher deputado como líder do governo no Congresso",
+    "ids": [
+     "f801919de4e2"
+    ]
+   },
+   {
+    "titulo": "Justiça reconhece racismo em 68% dos casos, diz levantamento",
+    "ids": [
+     "301171ce5641"
+    ]
+   },
+   {
+    "titulo": "André Mendonça pede ao STF abertura de sigilo de relatório da PF sobre ele",
+    "ids": [
+     "40362cb00f14"
+    ]
+   },
+   {
+    "titulo": "Master: relatório da PF sobre Mendonça cita tentativas de aproximação de Vorcaro ao ministro do STF",
+    "ids": [
+     "7ab2d7c13ee1"
+    ]
+   },
+   {
+    "titulo": "Caso Master: Mendonça pede, e Fachin torna público relatório da PF com menções ao ministro do STF",
+    "ids": [
+     "d52f448da232"
+    ]
+   },
+   {
+    "titulo": "Governo Tarcísio chega a 161 convênios com cidades da região de São José dos Campos",
+    "ids": [
+     "508972a4541d"
+    ]
+   },
+   {
+    "titulo": "Fachin tira sigilo de relatório da PF sobre Mendonça no caso Master a pedido do ministro",
+    "ids": [
+     "6189b8d7cb5a"
+    ]
+   },
+   {
+    "titulo": "Após embates, Nunes e Pavanato trocam elogios e se aproximam",
+    "ids": [
+     "a5eff0e90234"
+    ]
+   },
+   {
+    "titulo": "Últimas Notícias de São Paulo",
+    "ids": [
+     "91a5abdab390"
+    ]
+   },
+   {
+    "titulo": "Congresso terá 158 parlamentares autodeclarados negros a partir de 2027",
+    "ids": [
+     "992250b15917"
+    ]
+   },
+   {
+    "titulo": "Consciência Negra: Congresso tem ao menos 57 propostas de inclusão",
+    "ids": [
+     "e2c80fa7a8c8"
+    ]
+   },
+   {
+    "titulo": "STF se aproxima do recesso com 6x1, dosimetria e relatórios da PF em aberto",
+    "ids": [
+     "d4898f286490"
+    ]
+   },
+   {
+    "titulo": "Livro do filho resgata dúvidas sobre morte de Jango durante a ditadura",
+    "ids": [
+     "b2281abe89eb"
+    ]
+   },
+   {
+    "titulo": "PGR analisará só 4 dos 10 relatórios da PF sobre ministros do STF; entenda",
+    "ids": [
+     "3b9e306d994c"
+    ]
+   },
+   {
+    "titulo": "Paulo Martins e Luiz Philippe desafiam favoritismo de Hugo Motta na Câmara",
+    "ids": [
+     "64d3e3b432b3"
+    ]
+   },
+   {
+    "titulo": "Pessoas negras representaram 45% dos novos servidores públicos nos últimos quatro anos",
+    "ids": [
+     "f2fb2266a099"
+    ]
+   },
+   {
+    "titulo": "Briga na esquerda menos de um mês após eleição expõe divergências sobre rumos do governo Lula 4",
+    "ids": [
+     "1b775d17e716"
     ]
    }
   ],
   "resumos": {
-   "de5d763ce3d2b96f": {
-    "resumo": "O Senado Federal vota destaques ao projeto de lei complementar do ajuste fiscal do governo Lula nesta terça-feira. O texto-base foi aprovado na última quinta-feira por 45 votos a 31 para conter despesas e aumentar a arrecadação. Quatro destaques precisam ser analisados antes do envio à Câmara, incluindo um que propõe retirar a autorização para o Executivo limitar créditos tributários. A medida gerou resistência de entidades empresariais, enquanto o governo tenta conter críticas internas da própria base.",
-    "pontos": [
-     "Senado vota destaques do ajuste fiscal nesta terça-feira",
-     "Destaques discutem restrições a créditos tributários",
-     "Governo enfrenta resistência e críticas da própria base"
-    ],
-    "enquadramentos": {
-     "e37bdce5a671": "A CNN Brasil enquadra o fato sob a ótica da pressão do mercado financeiro e sua influência na aprovação.",
-     "ed344cbd5060": "O R7 destaca a tentativa do governo de antecipar o ajuste e conter pressões e críticas internas.",
-     "ae3b15064462": "O g1 detalha os impactos técnicos dos destaques e a reação contrária de 119 entidades empresariais.",
-     "e9972a932d28": "A Gazeta do Povo enfatiza a pressão da base governista de esquerda e a rejeição de acusações de estelionato eleitoral."
-    },
-    "usado_em": 1794911398.9855893
-   },
-   "8aec89cc24eccd16": {
-    "resumo": "O vice-presidente Geraldo Alckmin afirmou nesta segunda-feira que não há razão para as oscilações negativas do mercado financeiro após o anúncio do pacote fiscal. O dólar fechou em alta e o Ibovespa caiu, refletindo a desconfiança de economistas com as medidas que preveem impacto de até R$ 60 bilhões em 2027. Alckmin classificou as reações como passageiras e defendeu a solidez da economia brasileira. O pacote ainda passa por votação de destaques no Congresso.",
-    "pontos": [
-     "Alckmin minimiza oscilações do mercado após pacote fiscal",
-     "Dólar subiu e Ibovespa caiu na segunda-feira",
-     "Governo defende eficácia das medidas para o resultado primário de 2027"
-    ],
-    "enquadramentos": {
-     "20ed00f85d73": "A Revista Oeste destaca a reação negativa do mercado, cotações e especulações sobre a sucessão na Fazenda.",
-     "73284b49b2af": "O g1 foca na defesa de Alckmin sobre a segurança jurídica e fundamentos sólidos da economia brasileira.",
-     "064050b1c01d": "A Jovem Pan enfatiza a confiança do vice-presidente na manutenção do texto do PLP no Senado.",
-     "78204f904415": "O R7 resume a declaração de Alckmin classificando o movimento do mercado como passageiro e sem fundamento."
-    },
-    "usado_em": 1794911398.985591
-   },
-   "a6f06e611caa8673": {
-    "resumo": "A Câmara dos Deputados deve votar nesta terça-feira o projeto do governo que cria uma superintendência de regulação de mercados digitais no Cade. O texto estabelece regras de concorrência para grandes plataformas com faturamento bilionário, sem incluir moderação de conteúdo. A proposta busca garantir a livre concorrência e evitar o favorecimento de produtos próprios. O avanço da matéria depende de acordo entre líderes partidários.",
-    "pontos": [
-     "Câmara vota projeto de regulação de mercados digitais nesta terça",
-     "Proposta cria superintendência no Cade sem moderação de conteúdo",
-     "Empresas reguladas devem atender a critérios de faturamento e poder de mercado"
-    ],
-    "enquadramentos": {
-     "18ced123d6cf": "A CNN Brasil destaca que o avanço da matéria depende diretamente de articulação e acordo entre líderes.",
-     "7426228cedba": "O g1 detalha o funcionamento técnico da nova superintendência do Cade e as obrigações impostas às big techs.",
-     "658b746b51b0": "O R7 resume de forma direta a pauta de votação da regulação dos mercados digitais na Câmara."
-    },
-    "usado_em": 1794911398.9855914
-   },
-   "829875e87c5cf8f0": {
-    "resumo": "O diretor-geral da Polícia Federal, Andrei Rodrigues, entregará nesta quarta-feira ao presidente do STF, Edson Fachin, novos relatórios sobre menções a ministros no celular de Daniel Vorcaro. A elaboração anterior gerou crise interna e o afastamento de delegados que incluíram análises interpretativas. A nova diretriz determina documentos descritivos e individuais, sem cruzamento de dados ou juízo de valor. Cabe exclusivamente ao Supremo avaliar eventuais investigações.",
-    "pontos": [
-     "PF entrega novos relatórios sobre ministros ao STF na quarta-feira",
-     "Troca de delegados gerou crise interna na corporação",
-     "Documentos devem ser descritivos e sem juízo de valor"
-    ],
-    "enquadramentos": {
-     "8a178a5bd4e3": "A CNN Brasil enfatiza a proximidade temporal entre a troca de delegados e a entrega do parecer.",
-     "3a984072b839": "O Estadão detalha a crise interna na PF, o embate entre ministros e o contexto das investigações.",
-     "95e4cbfa63f4": "A Folha foca na orientação rigorosa dada pela cúpula da PF para evitar análises e preservar a competência do STF."
-    },
-    "usado_em": 1794911398.985592
-   },
-   "9111774d6b6cdd97": {
-    "resumo": "O caso do Banco Master completa um ano nesta terça-feira com o banqueiro Daniel Vorcaro preso e expectativa de denúncia pela PGR. Vorcaro foi detido em novembro de 2025 e enfrentou novas prisões e tentativas frustradas de delação premiada. A investigação provocou forte crise institucional e repercussões no Supremo Tribunal Federal. A defesa tenta reverter a prisão enquanto o banco segue em processo de liquidação.",
-    "pontos": [
-     "Caso Master e prisão de Daniel Vorcaro completam um ano",
-     "PGR avalia denúncia por supostas fraudes financeiras",
-     "Investigação gerou instabilidade e crise no STF"
-    ],
-    "enquadramentos": {
-     "e3b4028d858e": "O Antagonista enquadra o caso como o epicentro de uma crise que extrapolou o mercado bancário.",
-     "6f5f69d9e4c0": "O R7 resume de forma sintética a manutenção da prisão e a crise em aberto na mais alta corte.",
-     "88f2778f6317": "O g1 detalha a rotina na prisão, os antecedentes da fuga frustrada e o histórico das fases da operação."
-    },
-    "usado_em": 1794911398.9855921
-   },
-   "575ba1b8e93347ef": {
-    "resumo": "O presidente Luiz Inácio Lula da Silva retornou ao Brasil após giro internacional que incluiu passagens por Turquia, Filipinas e Espanha. Na agenda interna, Lula enfrenta o desafio de definir a formação de seu ministério e negociar o pacote de ajuste fiscal. Enquanto o mercado financeiro cobra medidas mais duras, alas da esquerda resistem aos cortes. Em paralelo, a primeira-dama Janja desembarcou em Roma para agendas oficiais ligadas à FAO.",
-    "pontos": [
-     "Lula retorna ao Brasil após agenda internacional",
-     "Governo lida com impasses na formação ministerial e ajuste fiscal",
-     "Janja cumpre agenda oficial em Roma pela FAO"
-    ],
-    "enquadramentos": {
-     "fac6f2207a0b": "A CNN Brasil destaca o contraste entre o fim da viagem internacional e o acúmulo de cobranças internas.",
-     "dc18965b69f2": "O g1 aprofunda os nós políticos do governo entre mercado e base aliada na economia e na Esplanada.",
-     "42225bfa0e21": "A Gazeta do Povo foca na viagem e nos compromissos oficiais da primeira-dama Janja em Roma."
-    },
-    "usado_em": 1794911398.9855924
-   },
-   "296c23c72230ff56": {
-    "resumo": "O deputado Alencar Santana e advogados do Grupo Prerrogativas peticionaram ao STF o bloqueio do salário e verbas de gabinete do senador Flávio Bolsonaro. A medida argumenta que o parlamentar descumpriu cautelares ao permanecer nos Estados Unidos após as eleições e que recursos públicos estariam financiando sua estadia. A petição requer também a suspensão de funções remotas e inclusão na Difusão Vermelha da Interpol.",
-    "pontos": [
-     "Petição ao STF pede bloqueio de salário e verbas de Flávio Bolsonaro",
-     "Grupo aponta descumprimento de cautelares e permanência nos EUA",
-     "Requerimento inclui suspensão de votações remotas e pedido à Interpol"
-    ],
-    "enquadramentos": {
-     "dbfb7c8099b2": "O Estadão detalha os valores da estrutura de gabinete contestada e o pedido de extradição internacional.",
-     "8d7b4da7c6db": "A Folha enfatiza o argumento de que dinheiro público estaria sustentando a evasão do parlamentar."
-    },
-    "usado_em": 1794911398.9855926
-   },
-   "a3c406dfa7ec5c7a": {
-    "resumo": "A defesa de Daniel Vorcaro intensificou esforços no STF para revogar sua prisão preventiva, alegando duração excessiva e violação de direitos. O empresário teve três propostas de delação rejeitadas pelas autoridades devido à insuficiência de informações. Em paralelo, os advogados questionaram a competência do presidente da corte, Edson Fachin, sobre a relatoria do caso, exigindo o envio ao decano Gilmar Mendes.",
-    "pontos": [
-     "Defesa de Vorcaro busca revogação da prisão preventiva no STF",
-     "Acordos de delação premiada foram rejeitados pela PGR e PF",
-     "Advogados contestam relatoria temporária de Fachin no caso"
-    ],
-    "enquadramentos": {
-     "902092c10414": "A Revista Oeste destaca a tentativa de liberdade baseada na duração da prisão e o fracasso nas delações.",
-     "b941ec5f42d8": "A Folha foca na estratégia jurídica da defesa para contestar a relatoria e cobrar celeridade nos pedidos."
-    },
-    "usado_em": 1794911398.985593
-   },
-   "a4ce5c1e8a9c2869": {
-    "resumo": "O deputado Sanderson apresentou o projeto de lei",
-    "pontos": [
-     "..."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794911398.9855933
-   },
    "bdb74d3a7f9c1671": {
     "resumo": "A votação do projeto de lei de regulação das big techs foi adiada na Câmara dos Deputados por falta de consenso. O presidente da Casa, Hugo Motta, afirmou que o relator, Aliel Machado, precisa concluir o diálogo com as bancadas e participará de uma viagem internacional, deixando a proposta sem data definida para análise. O projeto visa fortalecer o Cade e fiscalizar plataformas com alto faturamento.",
     "pontos": [
