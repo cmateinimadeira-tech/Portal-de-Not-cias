@@ -1,582 +1,438 @@
 {
  "macro": {
-  "chave": "19baf85d5738b870",
+  "chave": "9f31b1163057ff86",
   "grupos": [
    {
-    "titulo": "Declarações de Donald Trump sobre substituição de produtos agrícolas do Brasil pelos dos EUA pelas Filipinas",
+    "titulo": "Pagamento do 13º salario",
+    "ids": [
+     "0ec3b829b39b",
+     "c9de55f0dade"
+    ]
+   },
+   {
+    "titulo": "Impactos e tendencias da inteligencia artificial",
+    "ids": [
+     "5ca20efa4602",
+     "70eda60283b1"
+    ]
+   },
+   {
+    "titulo": "Fim da escala 6x1",
+    "ids": [
+     "fc3c3ed55060"
+    ]
+   },
+   {
+    "titulo": "Saida e situacao de Jensen Huang na Nvidia",
+    "ids": [
+     "627860aee685",
+     "2d70a840f78a",
+     "8ce4b9b9f8f3"
+    ]
+   },
+   {
+    "titulo": "Historia do cafe na Alemanha Oriental e Vietna",
+    "ids": [
+     "3816435a63c3"
+    ]
+   },
+   {
+    "titulo": "Acerola como conservante natural de alimentos",
+    "ids": [
+     "3ff8422ac89d"
+    ]
+   },
+   {
+    "titulo": "A Fazenda: festa, estrategias e roca",
+    "ids": [
+     "65c71a427dd4",
+     "3ad0612fbc45",
+     "a935cd35294c",
+     "ec570cdbd173",
+     "fd1acc7a6cf2",
+     "d77c05719ec7"
+    ]
+   },
+   {
+    "titulo": "Caça-Palavras do dia",
+    "ids": [
+     "5d20ee940398"
+    ]
+   },
+   {
+    "titulo": "Ana Hickmann e seus pets",
+    "ids": [
+     "db8bed921b03"
+    ]
+   },
+   {
+    "titulo": "Vencedoras do Miss Universe",
+    "ids": [
+     "a997cb4e56f7",
+     "1f8b265bdf9a"
+    ]
+   },
+   {
+    "titulo": "Comprar ou alugar imoveis",
+    "ids": [
+     "7f0785242b35"
+    ]
+   },
+   {
+    "titulo": "Looks e estilo country",
+    "ids": [
+     "42b66ff75dc8"
+    ]
+   },
+   {
+    "titulo": "Revisao de precatorios",
+    "ids": [
+     "4ad10e1e088a"
+    ]
+   },
+   {
+    "titulo": "Invasao a banco de dados do FBI",
+    "ids": [
+     "ac75b778ed42"
+    ]
+   },
+   {
+    "titulo": "Noticias de esportes",
+    "ids": [
+     "d20e6f5bdc1b"
+    ]
+   },
+   {
+    "titulo": "IPO e desempenho das acoes da Anthropic",
+    "ids": [
+     "56e0b8ef494d",
+     "c5c4d743820b",
+     "cfe372501f93",
+     "23f04cabe30f",
+     "5f30d030bdd8"
+    ]
+   },
+   {
+    "titulo": "Lancamento e faturamento de GTA 6",
+    "ids": [
+     "ce5852238b2f",
+     "2f3dcdeda242",
+     "0f8c5fba2e78"
+    ]
+   },
+   {
+    "titulo": "Venda de negocio de niquel da Anglo American",
+    "ids": [
+     "c9e22191fa3b"
+    ]
+   },
+   {
+    "titulo": "Terremoto no Peru",
+    "ids": [
+     "d38a50bbd517",
+     "c1f757d67369",
+     "03f869a6efee"
+    ]
+   },
+   {
+    "titulo": "Julgamento de Ney Santos no TSE",
+    "ids": [
+     "a32ec6eaf084"
+    ]
+   },
+   {
+    "titulo": "Hospitalizacao de Jair Bolsonaro",
+    "ids": [
+     "360cea053f85",
+     "2c808aee575c",
+     "cb0c7f996ea4",
+     "077234eeb7d6"
+    ]
+   },
+   {
+    "titulo": "Disparada do dolar e juros nos EUA",
+    "ids": [
+     "d6bc79503acb",
+     "b0eb460bac6b"
+    ]
+   },
+   {
+    "titulo": "Caso Master e investigacoes envolvendo o STF",
+    "ids": [
+     "3533b65232ff",
+     "772f7188c609",
+     "82dee44b7e67",
+     "53abbe8f6072"
+    ]
+   },
+   {
+    "titulo": "Assinatura de contratos imobiliarios",
+    "ids": [
+     "221dbffeef72"
+    ]
+   },
+   {
+    "titulo": "Guerra e tecnologia",
+    "ids": [
+     "45c4334c2b0f"
+    ]
+   },
+   {
+    "titulo": "Decisoes judiciais e politicas no STF e Congresso",
+    "ids": [
+     "085f8217cae7"
+    ]
+   },
+   {
+    "titulo": "Gols e lances no futebol",
+    "ids": [
+     "27195f7bbe89"
+    ]
+   },
+   {
+    "titulo": "Acordo da Bayer com tribunais",
+    "ids": [
+     "c62f8a903bb0"
+    ]
+   },
+   {
+    "titulo": "Reeleicao na Fifa",
+    "ids": [
+     "f9750480f38c"
+    ]
+   },
+   {
+    "titulo": "Declaracoes de Donald Trump sobre o agro brasileiro e as Filipinas",
     "ids": [
      "6fad0e83d1ca",
+     "153ff221dd18",
      "0ae4c356334a",
      "4563d7845b95",
-     "d2416ca27c33",
-     "1da8af91e587",
      "ae1d6c5832b9",
-     "04bb5e4bd9f9",
      "f0e63d845086"
     ]
    },
    {
-    "titulo": "Conmebol admite ter milhões aplicados em banco paraguaio liquidado",
+    "titulo": "Conmebol e banco paraguaio Ueno",
     "ids": [
      "47bb527195f2"
     ]
    },
    {
-    "titulo": "Quiz especial sobre esportes",
+    "titulo": "Lesao de Harry Kane",
     "ids": [
-     "f3479603612b"
+     "bdc5f8cb1c1a"
     ]
    },
    {
-    "titulo": "Previsão do tempo para tempestades no Sul e Sudeste",
+    "titulo": "Declaracoes de Trump sobre Putin e a Ucrania",
+    "ids": [
+     "8297ec444a39",
+     "e6a8888922a3",
+     "115c537b5f9a"
+    ]
+   },
+   {
+    "titulo": "Previsao do tempo e tempestades no Sul e Sudeste",
     "ids": [
      "e693dcf05331",
-     "bd94407a2009",
-     "db36bab23efd",
-     "2c1584ce058d"
+     "2c1584ce058d",
+     "bd94407a2009"
     ]
    },
    {
-    "titulo": "Nova caravana de migrantes no México rumo aos EUA",
+    "titulo": "Migracao rumo aos EUA",
     "ids": [
      "08a73ba06728"
     ]
    },
    {
-    "titulo": "Investigação e quebra de sigilo envolvendo STF e Caso Master",
+    "titulo": "Museu-hotel de Dolly Parton",
     "ids": [
-     "772f7188c609",
-     "82dee44b7e67",
-     "53abbe8f6072",
-     "70dff94985ba",
-     "7ab2d7c13ee1"
+     "00fd51e8616d"
     ]
    },
    {
-    "titulo": "Projeto de lei sobre proibição de exploração comercial de crimes",
-    "ids": [
-     "c142469a63ed"
-    ]
-   },
-   {
-    "titulo": "Situação do atacante Paulinho no Palmeiras",
+    "titulo": "Situacao de Paulinho no Palmeiras",
     "ids": [
      "b174b32be7fa"
     ]
    },
    {
-    "titulo": "Ataques israelenses na Faixa de Gaza",
+    "titulo": "Ataques em Gaza",
     "ids": [
      "729555de3a62"
     ]
    },
    {
-    "titulo": "A Fazenda 18: reality show e rotina dos peões",
-    "ids": [
-     "a04dfd88f79a",
-     "53d933850807",
-     "f584371b5b7c",
-     "99691b8ec705"
-    ]
-   },
-   {
-    "titulo": "Causa da morte do ator Patrick Stewart",
+    "titulo": "Morte de Patrick Stewart",
     "ids": [
      "488c0c95f20f"
     ]
    },
    {
-    "titulo": "Primeiro óbito por sarampo na Virgínia em 2026",
+    "titulo": "Caso de sarampo nos EUA",
     "ids": [
      "19a252ad2e3a"
     ]
    },
    {
-    "titulo": "Internação e estado de saúde do ex-presidente Jair Bolsonaro",
+    "titulo": "Investigacao da SEC sobre a Nvidia e queda de acoes",
     "ids": [
-     "e33ad1155c2d",
-     "1ec8516f0b52",
-     "f00046bb380d",
-     "2c808aee575c",
-     "cb0c7f996ea4",
-     "077234eeb7d6",
-     "970b9793ad3a"
+     "b49014949853",
+     "d3876b0108c4",
+     "1f34f53c1473"
     ]
    },
    {
-    "titulo": "Prédio do antigo Maksoud Plaza em São Paulo",
+    "titulo": "Comportamento do dolar e moedas globais",
+    "ids": [
+     "abf1273875b6"
+    ]
+   },
+   {
+    "titulo": "Transformacao do hotel Maksoud Plaza",
     "ids": [
      "d6321e600a1d",
      "823f6c91be62"
     ]
    },
    {
-    "titulo": "Prisão de ex-integrante do grupo Os Hawaianos no Rio de Janeiro",
+    "titulo": "Queda do Bitcoin",
     "ids": [
-     "1a87c366c3f8"
+     "fa9e915fc7bb"
     ]
    },
    {
-    "titulo": "Posicionamento e atuação política do PSDB",
+    "titulo": "Posicionamento politico do PSDB",
     "ids": [
      "5e614bc1fb05"
     ]
    },
    {
-    "titulo": "Declarações de Donald Trump sobre Vladimir Putin e a guerra na Ucrânia",
-    "ids": [
-     "e6a8888922a3",
-     "115c537b5f9a"
-    ]
-   },
-   {
-    "titulo": "Investigação ambiental sobre morte de peixes no Rio Araguari",
-    "ids": [
-     "42d26a2688a8",
-     "53eb592ef8ae"
-    ]
-   },
-   {
-    "titulo": "Prefeito de Nova York sofre lesão em partida de futebol",
-    "ids": [
-     "75bf443a86f5"
-    ]
-   },
-   {
-    "titulo": "Fórum da Longevidade da Bradesco Seguros",
+    "titulo": "Forum de Longevidade da Bradesco Seguros",
     "ids": [
      "8351cbccb872"
     ]
    },
    {
-    "titulo": "Programa de trainee em inteligência artificial do Grupo OLX",
+    "titulo": "Espacos e programas de trainee em IA",
     "ids": [
      "cda4e3fee904"
     ]
    },
    {
-    "titulo": "Alta do dólar e intervenção do Banco Central",
-    "ids": [
-     "b0eb460bac6b",
-     "cba7ed543932"
-    ]
-   },
-   {
-    "titulo": "Homem sobrevive após faca cravada na nuca em Sergipe",
-    "ids": [
-     "c7cd551987ee"
-    ]
-   },
-   {
-    "titulo": "Mercado de petróleo e fechamento semanal",
-    "ids": [
-     "5ab3007c3b62"
-    ]
-   },
-   {
-    "titulo": "Investigação do Banco Central sobre ativos do Banco Master",
-    "ids": [
-     "608773a8db24"
-    ]
-   },
-   {
-    "titulo": "Lançamento e faturamento recorde do jogo GTA 6",
-    "ids": [
-     "2f3dcdeda242",
-     "0f8c5fba2e78"
-    ]
-   },
-   {
-    "titulo": "Emissão de títulos da SpaceX",
+    "titulo": "Emissao de titulos da SpaceX",
     "ids": [
      "3990e5947b95"
     ]
    },
    {
-    "titulo": "Tom Brady compra ações de clube da Premier League",
+    "titulo": "Investigacao de juizes e administradores judiciais em SP",
     "ids": [
-     "ea657849a0f1"
-    ]
-   },
-   {
-    "titulo": "Investigação do Tribunal de Justiça de São Paulo sobre viagens de juíza",
-    "ids": [
-     "fd1ef6933b71"
-    ]
-   },
-   {
-    "titulo": "Investigação do TJ de SP sobre honorários de administradores judiciais",
-    "ids": [
+     "fd1ef6933b71",
      "e456499c42fb"
     ]
    },
    {
-    "titulo": "Entrevista com Caito Maia sobre os desafios da Chilli Beans",
+    "titulo": "Avanco da mosca-da-bicheira",
+    "ids": [
+     "8ee3d085b49d"
+    ]
+   },
+   {
+    "titulo": "Trajetoria de Caito Maia na Chilli Beans",
     "ids": [
      "319f461fd02b"
     ]
    },
    {
-    "titulo": "Avanço da mosca-da-bicheira nos Estados Unidos",
+    "titulo": "Dicas sobre Google Fotos",
     "ids": [
-     "8ee3d085b49d",
-     "4ddb8ef1107f"
+     "29325729b710"
     ]
    },
    {
-    "titulo": "Declarações de Donald Trump sobre JD Vance",
-    "ids": [
-     "4c388e6e1301"
-    ]
-   },
-   {
-    "titulo": "Proposta de Trump sobre taxação de data centers fora dos EUA",
+    "titulo": "Proposta de taxacao de data centers por Trump",
     "ids": [
      "02465da5e8c7"
     ]
    },
    {
-    "titulo": "Ataques da Arábia Saudita no Iêmen e tensões no Mar Vermelho",
+    "titulo": "Conflito no Iêmen e Mar Vermelho",
     "ids": [
      "cf4a34272fc5"
     ]
    },
    {
-    "titulo": "Acordo histórico entre Reino Unido e União Europeia após o Brexit",
+    "titulo": "Acordo entre Reino Unido e UE",
     "ids": [
      "188014301fe7"
     ]
    },
    {
-    "titulo": "Dinamarca avalia restringir vistos a russos",
+    "titulo": "Restricoes de vistos pela Dinamarca",
     "ids": [
      "9788b4b8f596"
     ]
    },
    {
-    "titulo": "Conclusão e impasses da COP31 na Turquia",
+    "titulo": "COP31 e negociacoes climaticas",
     "ids": [
      "591c905f0e57",
      "a44aa9e63a20"
     ]
    },
    {
-    "titulo": "Atualização e sincronização de arquivos no Google Drive e Gemini",
+    "titulo": "Dicas de atualizacao no Google Drive e Gemini",
     "ids": [
      "ddbe5d27cf01"
     ]
    },
    {
-    "titulo": "Aliança 'Escudo das Américas' proposta por Trump na OEA",
+    "titulo": "Aliança Escudo das Américas",
     "ids": [
      "589d4b1ddfd5"
     ]
    },
    {
-    "titulo": "Decisão de Alexandre de Moraes sobre Flávio Bolsonaro",
-    "ids": [
-     "d12e46a85523"
-    ]
-   },
-   {
-    "titulo": "Protestos na Itália contra o orçamento do governo de Giorgia Meloni",
-    "ids": [
-     "e4b16a8138dc"
-    ]
-   },
-   {
-    "titulo": "Novo supercomputador da Petrobras e do Cesar para IA",
+    "titulo": "Supercomputador da Petrobras e Cesar",
     "ids": [
      "9462390dcac9"
     ]
    },
    {
-    "titulo": "Uso de 'robôs assassinos' em conflitos globais e debates na ONU",
-    "ids": [
-     "90364238795c"
-    ]
-   },
-   {
-    "titulo": "Discussões sobre financiamento climático global",
+    "titulo": "Financiamento climatico",
     "ids": [
      "3abb779b5150"
     ]
    },
    {
-    "titulo": "Parceria entre GE Aerospace e SENAI em Petrópolis",
+    "titulo": "Parceria entre GE Aerospace e SENAI",
     "ids": [
      "d9111e131509"
     ]
    },
    {
-    "titulo": "Risco de paralisação do governo dos Estados Unidos",
-    "ids": [
-     "63e42c1c3fa4"
-    ]
-   },
-   {
-    "titulo": "Divulgação de apostas ilegais por influenciadores digitais",
-    "ids": [
-     "c07549530390"
-    ]
-   },
-   {
-    "titulo": "Notícias gerais da agência Reuters",
+    "titulo": "Noticias mundiais da Reuters",
     "ids": [
      "bc18c9cfe7d3"
     ]
    },
    {
-    "titulo": "Desigualdade salarial entre influenciadores negros e brancos",
-    "ids": [
-     "8e102f7a1b0c"
-    ]
-   },
-   {
-    "titulo": "Retorno da Nike à Fórmula 1",
+    "titulo": "Retorno da Nike a Formula 1",
     "ids": [
      "d889c4eb5542"
     ]
    },
    {
-    "titulo": "Preferência de bancos por ações no México e América Latina",
+    "titulo": "Preferencias de bancos para acoes na America Latina",
     "ids": [
      "58c9d6a873b9"
-    ]
-   },
-   {
-    "titulo": "Preparação de construtoras para o fim da escala 6x1",
-    "ids": [
-     "bac0ac9077d9"
-    ]
-   },
-   {
-    "titulo": "Queda na produção mundial de vinho em 2026",
-    "ids": [
-     "a442b5b2d977"
-    ]
-   },
-   {
-    "titulo": "Atrações de capital estrangeiro para o Brasil avaliadas pelo BofA",
-    "ids": [
-     "fbc6b006ae8b"
-    ]
-   },
-   {
-    "titulo": "Diferença entre arquivar e trancar fotos no Google Fotos",
-    "ids": [
-     "29325729b710"
-    ]
-   },
-   {
-    "titulo": "Demissão do diretor nacional de cibernética dos EUA por Donald Trump",
-    "ids": [
-     "fa31e6ae95e3"
-    ]
-   },
-   {
-    "titulo": "Atropelamento em São Caetano do Sul com motorista CNH cassada",
-    "ids": [
-     "4cadb4569a81"
-    ]
-   },
-   {
-    "titulo": "Trajetória profissional de Jensen Huang na Nvidia",
-    "ids": [
-     "2d70a840f78a",
-     "8ce4b9b9f8f3"
-    ]
-   },
-   {
-    "titulo": "Declarações da ministra Anielle Franco sobre letalidade policial",
-    "ids": [
-     "65a94172576a"
-    ]
-   },
-   {
-    "titulo": "Queda das ações em Wall Street reacende dúvidas sobre o fôlego do rali da IA",
-    "ids": [
-     "70eda60283b1"
-    ]
-   },
-   {
-    "titulo": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
-    "ids": [
-     "cfe372501f93"
-    ]
-   },
-   {
-    "titulo": "Nvidia afunda após notícia de investigação da SEC; ação acumula queda de quase 28% em sete pregões",
-    "ids": [
-     "b49014949853"
-    ]
-   },
-   {
-    "titulo": "Moedas: dólar tem sinais díspares com incertezas sobre Fed; cautela em NY apoia iene",
-    "ids": [
-     "abf1273875b6"
-    ]
-   },
-   {
-    "titulo": "Bitcoin cai a US$ 57 mil e vai à mínima em mais de 2 anos, de olho em mercado global",
-    "ids": [
-     "fa9e915fc7bb"
-    ]
-   },
-   {
-    "titulo": "Aversão a risco derruba bolsas de NY em meio a dúvidas sobre IA",
-    "ids": [
-     "1f34f53c1473"
-    ]
-   },
-   {
-    "titulo": "Ações da Anthropic recuam 8,50% no segundo dia de negociações na Nasdaq",
-    "ids": [
-     "23f04cabe30f"
-    ]
-   },
-   {
-    "titulo": "Goleiro do Corinthians vai ser pai de duas meninas e de mães diferentes #PodcastDasVenenosas #Shorts",
-    "ids": [
-     "d258c9d3959f"
-    ]
-   },
-   {
-    "titulo": "Tombo das ações de IA derruba Nasdaq em 5,28% e provoca onda de perdas em Wall Street",
-    "ids": [
-     "d3876b0108c4"
-    ]
-   },
-   {
-    "titulo": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
-    "ids": [
-     "162a5a626d4c"
-    ]
-   },
-   {
-    "titulo": "Anthropic despenca em segundo dia de negociação em meio à queda de ações de IA",
-    "ids": [
-     "5f30d030bdd8"
-    ]
-   },
-   {
-    "titulo": "Cotações ANT:UN Bloomberg Línea Brasil",
-    "ids": [
-     "7a224bf4c30d"
     ]
    }
   ],
   "resumos": {
-   "f22606bf80c33fb0": {
-    "resumo": "O conselho de administração da Nvidia, liderado pelo novo presidente Harvey Jones, descartou categoricamente a recontratação de Jensen Huang como CEO da empresa. Huang havia renunciado na semana passada em meio a revelações de casos extraconjugais e investigações sobre laços com a China. Apesar disso, Huang afirmou publicamente que aceitaria retornar ao comando se o conselho considerasse a melhor decisão, amparado por pedidos de funcionários e investidores. A empresa contratou uma consultoria de recrutamento para buscar um novo presidente-executivo.",
-    "pontos": [
-     "Conselho da Nvidia descarta o retorno de Jensen Huang como CEO.",
-     "Harvey Jones assumiu como presidente do conselho e lidera a busca por um substituto.",
-     "Huang renunciou após escândalo pessoal, mas declarou que aceitaria voltar se solicitado.",
-     "Colette Kress segue como CEO interina enquanto a empresa passa pela transição."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.5265822
-   },
-   "546957a98d6d98f4": {
-    "resumo": "A Nvidia divulgou resultados financeiros recordes no terceiro trimestre, marcando seu primeiro balanço sem Jensen Huang no comando. A receita da fabricante de chips mais que dobrou em relação ao ano anterior, alcançando US$ 115,8 bilhões, e o lucro líquido subiu para US$ 65,3 bilhões, superando as expectativas de Wall Street. A empresa também projetou vendas de US$ 130 bilhões para o próximo trimestre, impulsionadas pela forte demanda por infraestrutura de inteligência artificial. O desempenho positivo ajudou a acalmar investidores e impulsionou as ações da companhia no pós-mercado.",
-    "pontos": [
-     "Receita da Nvidia mais que dobrou, atingindo US$ 115,8 bilhões no terceiro trimestre.",
-     "Lucro líquido saltou para US$ 65,3 bilhões, superando as projeções de analistas.",
-     "Empresa projeta faturar US$ 130 bilhões no próximo trimestre com alta demanda por IA.",
-     "Balanço positivo acalmou investidores após a saída conturbada de Jensen Huang."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.5265858
-   },
-   "71889b3a4f0371e9": {
-    "resumo": "O Senado adiou a votação dos destaques do projeto de lei complementar de ajuste fiscal para quarta-feira, deixando sem data definida a análise na Câmara dos Deputados. O líder da oposição no Senado, Rogério Marinho, propôs uma contraproposta ao governo para retirar destaques em troca de regras mais rígidas de crescimento de despesas, mas a equipe econômica recusou. Enquanto isso, o governo tenta negociar a manutenção de dispositivos sobre compensações tributárias de empresas, mecanismo que foi amplamente utilizado para quitar tributos federais em 2026.",
-    "pontos": [
-     "Senado adiou a votação de destaques do ajuste fiscal para quarta-feira.",
-     "Oposição e governo negociam pontos sensíveis, como a limitação de compensações tributárias.",
-     "Proposta de Marinho por ajuste mais rigoroso de despesas foi rejeitada pela equipe econômica.",
-     "Atraso no Senado empurra a votação final na Câmara e adia possível sanção presidencial."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.5265872
-   },
-   "b5e759fb3a25c0b0": {
-    "resumo": "O mercado financeiro e o Banco Central enfrentam forte incerteza em relação à política fiscal do governo para o quarto mandato de Lula, o que gerou volatilidade nos ativos. A alta do dólar, a queda da bolsa e disparada nos juros futuros refletem a percepção de que o pacote de ajuste fiscal aprovado pelo Senado foca no aumento de receitas em vez de conter o crescimento estrutural das despesas. Analistas e economistas dividem-se sobre a suficiência das medidas, enquanto a inflação pressiona e o Copom mantém cautela diante do cenário macroeconômico adverso.",
-    "pontos": [
-     "Incerteza sobre a política fiscal pressiona o câmbio, a bolsa e as taxas de juros futuros.",
-     "Analistas criticam pacote fiscal por focar em arrecadação e não conter despesas estruturais.",
-     "Divergências entre economistas persistem sobre a eficácia das medidas do governo para o PIB e inflação.",
-     "Banco Central permanece pressionado pelo cenário fiscal desafiador e expectativas de inflação."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.5265882
-   },
-   "d09f5fc461bee58e": {
-    "resumo": "O Congresso Nacional movimentou-se em torno de medidas de socorro a empresas afetadas pelo tarifaço dos Estados Unidos e por conflitos internacionais. O Senado aprovou a Medida Provisória do Brasil Soberano 3, que libera até R$ 13,5 bilhões para conter os impactos das sobretaxas americanas sobre produtos brasileiros. Paralelamente, a Câmara dos Deputados aprovou um crédito extraordinário adicional de R$ 6,5 bilhões para antecipar recursos do programa via BNDES, dado que a demanda inicial superou os limites previstos. Os textos seguem para sanção presidencial e tramitação no Senado.",
-    "pontos": [
-     "Senado aprova o Brasil Soberano 3, liberando até R$ 13,5 bilhões para empresas afetadas por tarifas dos EUA.",
-     "Câmara aprova crédito extra de R$ 6,5 bilhões para antecipar recursos e atender demanda do BNDES.",
-     "Medidas visam socorrer setores exportadores e industriais atingidos por sobretaxas e conflitos.",
-     "Textos seguem para as etapas finais de tramitação e sanção presidencial."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.526589
-   },
-   "f70b5c7f4f2cbb1f": {
-    "resumo": "A diretoria da Aneel formou maioria para recomendar ao Ministério de Minas e Energia a caducidade do contrato de concessão da Enel São Paulo devido a falhas estruturais e apagões durante eventos climáticos entre 2023 e 2025. Contudo, a decisão final foi adiada por um pedido de vista do diretor-geral Sandoval Feitosa. Enquanto a agência aponta o esgotamento dos instrumentos regulatórios e mais de R$ 320 milhões em multas aplicadas desde 2018, a Enel argumenta que melhorou seus indicadores de desempenho e que a medida deve considerar o interesse público.",
-    "pontos": [
-     "Aneel forma maioria pela recomendação de caducidade da concessão da Enel SP.",
-     "Decisão final é adiada após pedido de vista do diretor-geral Sandoval Feitosa.",
-     "Processo avalia falhas graves e apagões decorrentes de eventos climáticos severos.",
-     "Enel defende melhorias operacionais e aponta que penalidades anteriores não refletem a evolução recente."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.5265896
-   },
-   "351655f3c95c68d2": {
-    "resumo": "A nova regra do governo dos Estados Unidos que exige licença prévia para a venda de chips avançados de inteligência artificial ao Brasil não deve inviabilizar projetos locais de data centers, mas pode inibir novos investimentos e aumentar a burocracia. Segundo a Associação Brasileira das Empresas de Software (Abes), a medida reflete a cautela americana em relação à expansão tecnológica da China e afeta a importação de componentes. O cenário coincide com a regulamentação do regime tributário Redata no país.",
-    "pontos": [
-     "EUA passam a exigir licença para venda de chips avançados de IA ao Brasil.",
-     "Abes avalia que exigência não inviabiliza data centers, mas afasta investimentos e eleva burocracia.",
-     "Medida é vista como reflexo de restrições americanas à expansão tecnológica da China.",
-     "Impacto ocorre em meio à regulamentação do regime tributário Redata no Brasil."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.5265903
-   },
-   "5ac5961aada37392": {
-    "resumo": "O presidente do STF, ministro Edson Fachin, declarou que o julgamento das ações sobre a Lei da Dosimetria poderá ocorrer ainda em 2026, caso o relator Alexandre de Moraes libere os processos. A declaração ocorre após reuniões com os presidentes do Senado e da Câmara para pautar o tema. A lei, aprovada pelo Parlamento para reduzir penas de condenados por atos golpistas, é vista por ministros como uma forma de aliviar tensões institucionais e esvaziar pressões por uma anistia ampla no Congresso.",
-    "pontos": [
-     "Fachin afirma que STF poderá julgar a Lei da Dosimetria ainda em 2026 se Moraes liberar os autos.",
-     "Presidentes do Senado e da Câmara reuniram-se com o relator para pedir celeridade na liberação.",
-     "A medida pode reduzir penas de condenados por atos golpistas e abrandar pressões políticas.",
-     "Expectativa de alívio na relação entre o Judiciário e o Parlamento motiva a discussão."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.5265913
-   },
-   "565ffd0ac1655413": {
-    "resumo": "Um novo estudo do Movimento Brasil Competitivo (MBC), com apoio técnico da Monitor Deloitte, estimou o Custo Brasil em R$ 3,5 trilhões por ano, o equivalente a 27,5% do PIB de 2025. A nova edição adotou uma metodologia inédita que incorpora custos de insegurança, ilegalidade e juros reais, o que impede a comparação direta com séries anteriores. Embora o país tenha avançado em indicadores como escolaridade e digitalização, a distância em relação aos países da OCDE aumentou em gargalos como logística, encargos e carga tributária.",
-    "pontos": [
-     "Estudo aponta Custo Brasil de R$ 3,5 trilhões anuais, representando 27,5% do PIB de 2025.",
-     "Nova metodologia inclui custos de insegurança, ilegalidade e juros reais pela primeira vez.",
-     "Brasil apresentou melhorias pontuais em escolaridade e serviços públicos digitais.",
-     "Gargalos estruturais como logística, encargos e tributação mantêm grande distância da OCDE."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.526592
-   },
-   "c818b91ce7f258a8": {
-    "resumo": "Um ano após o Banco Central decretar a liquidação extrajudicial do Banco Master, clientes ainda relatam perdas financeiras, dificuldades para reaver valores não cobertos pelo FGC e desconfiança no sistema financeiro. O escândalo gerou investigações da Polícia Federal sobre fraudes documentais e transações irregulares, além de desdobramentos no STF envolvendo figuras públicas. O caso marcou o maior acionamento da história do fundo garantidor de créditos, afetando profundamente poupadores que buscavam rentabilidade.",
-    "pontos": [
-     "Completa-se um ano da liquidação extrajudicial do Banco Master pelo Banco Central.",
-     "Caso gerou investigações da Polícia Federal sobre fraudes, documentos falsos e operações sem lastro.",
-     "Clientes relatam perdas, recuperação parcial via FGC e busca por reparação na Justiça.",
-     "Escândalo provocou o maior acionamento da história do FGC e abalou investidores."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.5265927
-   },
    "2faeeccb3fa738f1": {
     "resumo": "O bispo Edir Macedo realizou aportes financeiros somando R$ 1,714 bilhão para capitalizar o Banco Digimais, que enfrentava grave descapitalização e interrompeu concessões de crédito no primeiro semestre de 2026, período em que registrou prejuízo de R$ 581,4 milhões. A injeção de recursos, realizada em outubro, permitiu recompor o Índice de Basileia para 11,29%, mas ainda aguarda a aprovação oficial do Banco Central. A instituição também monitora tratativas de aquisição e medidas para preservar a liquidez.",
     "pontos": [
@@ -587,16 +443,6 @@
     ],
     "enquadramentos": {},
     "usado_em": 1795006245.9048798
-   },
-   "67e6a72013834602": {
-    "resumo": "A oposição em Israel conseguiu retirar o comando do Parlamento (Knesset) do partido do primeiro-ministro Benjamin Netanyahu por meio da eleição de um novo presidente para a Casa. A mudança política enfraquece o controle de Netanyahu sobre a agenda legislativa e sinaliza instabilidade e divisão na base governista no atual cenário político israelense.",
-    "pontos": [
-     "Oposição israelense conquista a presidência do Knesset, retirando o comando do partido de Netanyahu.",
-     "Mudança enfraquece o controle do primeiro-ministro sobre o Parlamento.",
-     "Resultado evidencia divisões e perda de influência na base governista."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972458.5265944
    },
    "3d24816966cb9c98": {
     "resumo": "Os Estados Unidos anunciaram novas restrições à exportação de chips avançados para países do Sudeste Asiático e o Brasil devido a riscos de desvio para a China. A China criticou as medidas e ameaçou retaliar caso os EUA avancem com restrições ao acesso remoto a semicondutores. Em meio à crise, a Nvidia interrompeu o envio de chips Hopper para o mercado chinês. No Brasil, o setor avalia que a medida não inviabiliza data centers, mas aumenta a burocracia.",
@@ -1255,136 +1101,159 @@
     ],
     "enquadramentos": {},
     "usado_em": 1795218617.6801114
+   },
+   "8b64d7ec68c0d450": {
+    "resumo": "O presidente dos EUA, Donald Trump, afirmou ter exigido que as Filipinas deixassem de comprar produtos agrícolas do Brasil e passassem a adquirir 100% de seus produtos dos EUA a partir de 1 de janeiro, condicionando a relação comercial e de segurança ao acordo. O governo filipino não confirmou as declarações, informando apenas que negociações comerciais continuam em andamento. O Brasil, que tem nas Filipinas um importante comprador de carne suína, registrou US$ 1,3 bilhão em exportações para o país asiático entre janeiro e outubro de 2026.",
+    "pontos": [
+     "Trump exige que Filipinas troquem agro brasileiro por americano a partir de janeiro",
+     "Governo filipino não confirma acordo e diz que negociações continuam",
+     "Filipinas lideram compras de carne suína do Brasil, mas representam o 22º destino geral das exportações do agro"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.956425
+   },
+   "0746f6beb1d98d0c": {
+    "resumo": "As ações da Anthropic fecharam em queda de 8,5% no segundo dia de negociações na Nasdaq, cotadas a US$ 88,91, aproximando-se do valor de US$ 83 fixado no IPO. A abertura de capital havia movimentado US$ 93,5 bilhões, superando recordes anteriores. A desvalorização ocorreu em meio ao pessimismo generalizado e à cautela dos investidores em relação ao setor de inteligência artificial. Outras gigantes de tecnologia e fabricantes de semicondutores também registraram perdas expressivas no pregão.",
+    "pontos": [
+     "Ações da Anthropic caem 8,5% no segundo dia de negociação na Nasdaq",
+     "IPO da empresa havia movimentado US$ 93,5 bilhões",
+     "Queda reflete cautela e ceticismo dos investidores em relação ao setor de IA"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564276
+   },
+   "300d126d245a291a": {
+    "resumo": "O ex-presidente Jair Bolsonaro foi internado no hospital DF Star, em Brasília, nesta sexta-feira (20), após apresentar fortes dores e distensão abdominal. O médico responsável afirmou haver suspeita de obstrução quase total do intestino delgado com aderências na parede abdominal. Bolsonaro ficará internado sob observação e medicação até pelo menos sábado, quando a equipe médica decidirá a conduta terapêutica. O filho do ex-presidente, Carlos Bolsonaro, obteve autorização para acompanhá-lo no hospital.",
+    "pontos": [
+     "Jair Bolsonaro é internado em Brasília com fortes dores abdominais",
+     "Médicos suspeitam de obstrução quase total do intestino delgado",
+     "Ex-presidente permanece sob observação e sem previsão de alta até nova avaliação"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564285
+   },
+   "f8dbe2ff78671fee": {
+    "resumo": "Jensen Huang renunciou ao cargo de CEO da Nvidia após revelações de relacionamentos extraconjugais e de um estilo de gestão abusivo baseado em humilhações. A saída do executivo gerou incertezas sobre os rumos da empresa e o futuro dos investimentos em inteligência artificial. O presidente dos EUA, Donald Trump, defendeu publicamente o retorno de Huang ao comando da fabricante de chips, sugerindo que ele faça um pedido de desculpas públicas. O conselho da Nvidia, contudo, enfrenta resistência e busca um novo líder.",
+    "pontos": [
+     "Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalos pessoais e de gestão",
+     "Donald Trump defende o retorno de Huang e sugere pedido de desculpas públicas",
+     "Saída gera incertezas no mercado e investidores avaliam impactos no setor de IA"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564292
+   },
+   "0d4fb0108a134690": {
+    "resumo": "Um terremoto de forte magnitude atingiu o Peru nesta sexta-feira, gerando alertas e levando moradores da capital, Lima, às ruas. Veículos de imprensa divergiram ligeiramente sobre a medição exata do tremor, registrando magnitudes de 6,7, 6,8 e 6,9. Apesar da intensidade e do susto na população, o Sistema de Alerta de Tsunami dos Estados Unidos informou que não há ameaça de tsunami e não há relatos imediatos de danos materiais significativos ou vítimas.",
+    "pontos": [
+     "Terremoto atinge a região central do Peru e assusta moradores em Lima",
+     "Veículos divergem sobre a magnitude exata, citando 6,7, 6,8 e 6,9",
+     "Sistema de Alerta de Tsunami dos EUA descarta risco de ondas gigantes"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564297
+   },
+   "ee290e8ab1e553f7": {
+    "resumo": "O presidente do STF, Edson Fachin, retirou o sigilo de relatórios da Polícia Federal a pedido do ministro André Mendonça. O documento aponta sete conjuntos de mensagens com menções a Mendonça em conversas do ex-banqueiro Daniel Vorcaro, embora a PF ressalte não haver diálogos diretos entre eles. O ministro Gilmar Mendes comentou a medida afirmando que a abertura de sigilo não resolve a questão de fundo e reiterou que o tema deveria ser levado ao plenário da corte.",
+    "pontos": [
+     "Edson Fachin retira sigilo de relatório da PF sobre menções a André Mendonça",
+     "Relatório aponta citações a Mendonça em conversas de Daniel Vorcaro, sem contato direto",
+     "Gilmar Mendes diz que medida não resolve a questão e defende discussão no plenário"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564307
+   },
+   "21213bab49bcec01": {
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que ele e o líder russo, Vladimir Putin, tiveram conversas muito boas sobre a Ucrânia durante encontro na China e que Putin deseja o fim da guerra por meios diplomáticos. Trump evitou discutir garantias de segurança para Kiev antes de um acordo de paz amplo. Enquanto o assessor Jared Kushner havia sinalizado abertura para garantias nos moldes da Otan aceitáveis por Moscou, o vice-ministro das Relações Exteriores russo rejeitou qualquer forma de quase adesão ucraniana à aliança.",
+    "pontos": [
+     "Trump diz que Putin deseja fim da guerra na Ucrânia por via diplomática",
+     "Presidente americano condiciona garantias de segurança à Ucrânia a acordo de paz",
+     "Moscou rejeita qualquer formato de aproximação ucraniana com a Otan"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.956431
+   },
+   "edc0b5142be3ef1d": {
+    "resumo": "Quase 100 milhões de brasileiros começaram a receber a primeira parcela do décimo terceiro salário, cuja data limite de pagamento é 30 de novembro. O benefício deve injetar cerca de R$ 400 bilhões na economia nacional e auxiliar famílias a quitar dívidas e organizar gastos de início de ano, como impostos. Com o valor médio em torno de R$ 3,7 mil, especialistas recomendam priorizar a amortização de dívidas com juros mais altos para aliviar o orçamento familiar.",
+    "pontos": [
+     "Primeira parcela do 13º salário deve ser paga até o final de novembro",
+     "Benefício injetará cerca de R$ 400 bilhões na economia do país",
+     "Especilistas recomendam usar o valor extra para quitar dívidas de juros altos"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564314
+   },
+   "09d8d102470fcfbe": {
+    "resumo": "O setor de perfumaria tem adotado ferramentas de inteligência artificial para otimizar a criação de novas formulações, reduzir o tempo de desenvolvimento em até 30% e automatizar tarefas regulatórias. Empresas como Estée Lauder e IFF utilizam algoritmos para solucionar paradoxos de texturas, buscar moléculas substitutas a ingredientes de origem animal e verificar conformidades internacionais. Apesar do avanço tecnológico, especialistas ressaltam que a experiência sensorial humana permanece indispensável.",
+    "pontos": [
+     "Inteligência artificial é integrada à criação e desenvolvimento de novos perfumes",
+     "Tecnologia reduz em até 30% o tempo de produção e auxilia em exigências regulatórias",
+     "Setor mantém a avaliação de que a experiência sensorial humana é insubstituível"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564319
+   },
+   "270301248e210fa8": {
+    "resumo": "O jogo Grand Theft Auto VI (GTA VI) faturou US$ 3,79 bilhões em suas primeiras 24 horas após o lançamento, tornando-se o maior lançamento da história do entretenimento. O valor superou bilheterias de grandes produções cinematográficas e o recorde de pré-vendas com 32,5 milhões de cópias comercializadas antes da estreia oficial. O título da Rockstar Games foi disponibilizado para PlayStation 5 e Xbox Series X e S, superando amplamente o desempenho de seu antecessor, GTA V.",
+    "pontos": [
+     "GTA VI fatura US$ 3,79 bilhões em 24 horas e bate recorde no entretenimento",
+     "Jogo registra 32,5 milhões de cópias vendidas em pré-vendas",
+     "Título é lançado para PlayStation 5 e Xbox Series X e S pela Rockstar Games"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564323
+   },
+   "41c8ed51e15fa133": {
+    "resumo": "A disparada do dólar levou a moeda americana a fechar cotada a R$ 5,93, pressionada por fatores externos como a perspectiva de juros altos nos Estados Unidos e a fraqueza da economia chinesa. No cenário doméstico, a alta tem sido agravada por incertezas econômicas e fiscais em relação ao controle das contas públicas do governo. Mesmo com um leilão extraordinário de US$ 1 bilhão realizado pelo Banco Central, a cotação continuou a subir, gerando preocupações sobre inflação e dívida.",
+    "pontos": [
+     "Dólar fecha a R$ 5,93 impulsionado por juros altos nos EUA e incertezas fiscais locais",
+     "Banco Central realizou leilão de US$ 1 bilhão, mas cotação seguiu pressionada",
+     "Especialistas apontam que cenário fiscal incerto acentua desvalorização do real"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564328
+   },
+   "068a036214709b39": {
+    "resumo": "As ações da Nvidia desabaram em Wall Street após a Reuters informar que a Comissão de Valores Mobiliários dos Estados Unidos (SEC) investiga potenciais problemas contábeis na empresa. A fabricante de chips registrou queda de 14% em um único pregão e acumula baixa de quase 28% em sete sessões. O tombo da companhia puxou para baixo os principais índices acionários americanos, fazendo o Nasdaq despencar 5,28% em meio a preocupações gerais com a sustentabilidade dos investimentos em inteligência artificial.",
+    "pontos": [
+     "Nvidia despenca após notícia de investigação contábil pela SEC",
+     "Ações acumulam forte queda e arrastam principais índices de Wall Street para baixo",
+     "Índice Nasdaq cai 5,28% com cautela generalizada em relação ao setor de IA"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242078.9564333
    }
   }
  },
  "ciencia": {
-  "chave": "c2d9aab612925b61",
+  "chave": "de02e109218b78c7",
   "grupos": [
    {
-    "titulo": "Matemático da Anthropic afirma ter resolvido a Hipótese de Riemann com o Claude",
+    "titulo": "Pesquisador da Anthropic afirma ter provado a Hipótese de Riemann com auxílio de IA",
     "ids": [
      "3a07b73196cd",
-     "07d5c896dc8d",
      "859ee3ec8c20"
     ]
    },
    {
-    "titulo": "Estreia e queda das ações da Anthropic na bolsa",
+    "titulo": "Ações da Anthropic caem após estreia na bolsa dos EUA",
     "ids": [
+     "c5c4d743820b",
      "cfe372501f93"
     ]
    },
    {
-    "titulo": "Promoções de jogos para Nintendo Switch",
+    "titulo": "Trump ameaça taxar e proibir empresas de construírem data centers fora dos EUA",
     "ids": [
-     "965d3e5ae71a"
+     "fcb0baaa4588",
+     "3a0cb236fd32",
+     "0ddbaa590a6d"
     ]
    },
    {
-    "titulo": "FCC proíbe Califórnia de aplicar regras de serviços de telefonia",
+    "titulo": "TikTok lança ferramentas para identificar conteúdos gerados por IA e deepfakes",
     "ids": [
-     "b05c36fbb62f"
-    ]
-   },
-   {
-    "titulo": "Problemas do Starshield da SpaceX na Ucrânia",
-    "ids": [
-     "3a6032c14ad0"
-    ]
-   },
-   {
-    "titulo": "Google atualiza página de busca com histórico de chat de IA",
-    "ids": [
-     "5a49fd4a2d77",
-     "e8500ad19606"
-    ]
-   },
-   {
-    "titulo": "Ofertas de produtos Lenovo na Black November",
-    "ids": [
-     "7b264abc3b55",
-     "360b8fd5f3b1"
-    ]
-   },
-   {
-    "titulo": "Mensagens apreendidas pela PF no Caso Master",
-    "ids": [
-     "82dee44b7e67",
-     "70dff94985ba"
-    ]
-   },
-   {
-    "titulo": "Meta reavalia meta climática para 2030 devido a emissões de data centers",
-    "ids": [
-     "c4b0222f29f2",
-     "ad6bb3aab8de"
-    ]
-   },
-   {
-    "titulo": "Carlos Bolsonaro no hospital e anúncio de volta de Michelle",
-    "ids": [
-     "1ec8516f0b52"
-    ]
-   },
-   {
-    "titulo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes",
-    "ids": [
+     "1c57ddf60943",
      "3ce45f843b62"
-    ]
-   },
-   {
-    "titulo": "Estado de saúde de Jair Bolsonaro após exames médicos",
-    "ids": [
-     "f00046bb380d"
-    ]
-   },
-   {
-    "titulo": "WhatsApp corrige falhas de segurança",
-    "ids": [
-     "7854ca502763"
-    ]
-   },
-   {
-    "titulo": "Prefeito de Nova York se lesiona em jogo de futebol",
-    "ids": [
-     "75bf443a86f5"
-    ]
-   },
-   {
-    "titulo": "Pesquisador insere canários em cadeia de suprimentos de IA e expõe falha de privacidade",
-    "ids": [
-     "99727b65c290"
-    ]
-   },
-   {
-    "titulo": "Ofertas do Samsung Galaxy Z Fold 8 na Black November",
-    "ids": [
-     "a364141514d1"
-    ]
-   },
-   {
-    "titulo": "Análise do jogo Beyond the Dark: Nightwatch no Switch 2",
-    "ids": [
-     "5cb2dfb253d7"
-    ]
-   },
-   {
-    "titulo": "Governo envia equipes da Defesa Civil para Tupanciretã",
-    "ids": [
-     "db36bab23efd"
-    ]
-   },
-   {
-    "titulo": "YouTube prepara acordo milionário sobre alegações de vício em redes sociais",
-    "ids": [
-     "9efc52d1f8b3"
-    ]
-   },
-   {
-    "titulo": "Estudo sobre estrela engolindo vizinha e explodindo",
-    "ids": [
-     "51cbc0040f44"
     ]
    },
    {
@@ -1397,204 +1266,336 @@
     ]
    },
    {
-    "titulo": "Novo plano da Lua da NASA",
+    "titulo": "Google leva histórico de chat de IA à página inicial de buscas",
+    "ids": [
+     "5a49fd4a2d77",
+     "e8500ad19606"
+    ]
+   },
+   {
+    "titulo": "Meta reavalia meta climática para 2030 após aumento nas emissões",
+    "ids": [
+     "c4b0222f29f2",
+     "ad6bb3aab8de"
+    ]
+   },
+   {
+    "titulo": "IA aprende a imitar o olfato humano",
+    "ids": [
+     "5ca20efa4602",
+     "5fe5c48115f1",
+     "d1dd49b4f83d"
+    ]
+   },
+   {
+    "titulo": "Saída de Jensen Huang da Nvidia e queda das ações da empresa",
+    "ids": [
+     "627860aee685",
+     "162a5a626d4c"
+    ]
+   },
+   {
+    "titulo": "Olhar Espacial: Voyager 1 e os 350 anos da velocidade da luz",
+    "ids": [
+     "74bb853b1b34"
+    ]
+   },
+   {
+    "titulo": "Ministro do TSE vota para barrar eleição de Ney Santos por ligação com PCC",
+    "ids": [
+     "a32ec6eaf084"
+    ]
+   },
+   {
+    "titulo": "Análise: Manobra da PF vira atestado a favor de Mendonça",
+    "ids": [
+     "3533b65232ff"
+    ]
+   },
+   {
+    "titulo": "Confira o Olhar Digital News na íntegra (20/11/2026)",
+    "ids": [
+     "b87bac3b9434"
+    ]
+   },
+   {
+    "titulo": "Bayer pagará até US$ 7,25 bi após decisão final sobre caso Roundup",
+    "ids": [
+     "b97d26b297fc"
+    ]
+   },
+   {
+    "titulo": "Terremoto de magnitude 6,9 atinge o Peru, diz agência",
+    "ids": [
+     "03f869a6efee"
+    ]
+   },
+   {
+    "titulo": "Dino vota para tornar Van Hattem réu por calúnia; Zanin pede destaque",
+    "ids": [
+     "085f8217cae7"
+    ]
+   },
+   {
+    "titulo": "Lateral faz gol contra bizarro, chora, pede para sair e é consolado; veja",
+    "ids": [
+     "27195f7bbe89"
+    ]
+   },
+   {
+    "titulo": "Defesa Civil apura microexplosão após estragos em cidade do RS",
+    "ids": [
+     "d8783552d658"
+    ]
+   },
+   {
+    "titulo": "Kane, vencedor da Bola de Ouro, sofre lesão e será desfalque por meses",
+    "ids": [
+     "bdc5f8cb1c1a"
+    ]
+   },
+   {
+    "titulo": "Trump: \"Putin disse que não teria invadido Ucrânia se eu fosse presidente\"",
+    "ids": [
+     "8297ec444a39"
+    ]
+   },
+   {
+    "titulo": "Suíte de 173 m² e diária de até R$ 10 mil: por dentro do museu-hotel de 240 quartos que guarda a memória e o último show de Dolly Parton",
+    "ids": [
+     "00fd51e8616d"
+    ]
+   },
+   {
+    "titulo": "Brasil não vê impacto imediato de fala de Trump sobre agro e Filipinas",
+    "ids": [
+     "153ff221dd18"
+    ]
+   },
+   {
+    "titulo": "Orbitals e mais jogos para Switch na eShop com até 90% OFF",
+    "ids": [
+     "965d3e5ae71a"
+    ]
+   },
+   {
+    "titulo": "Trump FCC declares California isn't allowed to enforce phone service rules",
+    "ids": [
+     "b05c36fbb62f"
+    ]
+   },
+   {
+    "titulo": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+    "ids": [
+     "3a6032c14ad0"
+    ]
+   },
+   {
+    "titulo": "Black November: Lenovo Idea Tab Pro Gen 2 aparece com maior desconto registrado",
+    "ids": [
+     "7b264abc3b55"
+    ]
+   },
+   {
+    "titulo": "WhatsApp corrige três falhas de segurança, uma delas suspeita de uso em golpes",
+    "ids": [
+     "7854ca502763"
+    ]
+   },
+   {
+    "titulo": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "ids": [
+     "99727b65c290"
+    ]
+   },
+   {
+    "titulo": "Black November: Galaxy Z Fold 8 (512 GB) tem melhor oferta desde lançamento",
+    "ids": [
+     "a364141514d1"
+    ]
+   },
+   {
+    "titulo": "Beyond the Dark: Nightwatch review: o terror que só funciona a dois no Switch 2",
+    "ids": [
+     "5cb2dfb253d7"
+    ]
+   },
+   {
+    "titulo": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+    "ids": [
+     "9efc52d1f8b3"
+    ]
+   },
+   {
+    "titulo": "Watching as a giant star swallowed its neighbor and exploded",
+    "ids": [
+     "51cbc0040f44"
+    ]
+   },
+   {
+    "titulo": "NASA’s new Moon plan is taking shape, but some big questions remain",
     "ids": [
      "1400be933d41"
     ]
    },
    {
-    "titulo": "Tom Brady compra ações de clube da Premier League",
-    "ids": [
-     "ea657849a0f1"
-    ]
-   },
-   {
-    "titulo": "Buscas pelo ator de Broadway sobem após anúncio de morte",
-    "ids": [
-     "81c679113e0c"
-    ]
-   },
-   {
-    "titulo": "MSI apresenta RTX 5080 temática de Call of Duty",
+    "titulo": "MSI apresenta RTX 5080 de COD MW4 e confirma lançamento para o Brasil",
     "ids": [
      "6e4c99bfa749"
     ]
    },
    {
-    "titulo": "Golpes e perfis falsos na Black Friday",
+    "titulo": "Perfis e anúncios falsos dominaram ameaças na Black Friday 2026; saiba como se proteger",
     "ids": [
-     "5ee6e41c0741",
-     "3c94625fa3d6"
+     "5ee6e41c0741"
     ]
    },
    {
-    "titulo": "Declarações de Donald Trump sobre Vance e as Midterms",
-    "ids": [
-     "4c388e6e1301"
-    ]
-   },
-   {
-    "titulo": "Prisões autorizadas a usar bloqueadores de celular",
+    "titulo": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
     "ids": [
      "bd891512041a"
     ]
    },
    {
-    "titulo": "Declarações de Donald Trump sobre produtos agrícolas das Filipinas e o Brasil",
+    "titulo": "Como trocar a câmera em GTA 6 a pé e no carro? Confira o tutorial",
     "ids": [
-     "d2416ca27c33",
-     "1da8af91e587"
+     "e0263b59344e"
     ]
    },
    {
-    "titulo": "Ministra fala sobre reduzir letalidade contra negros",
+    "titulo": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
     "ids": [
-     "65a94172576a"
+     "7a104b2f8055"
     ]
    },
    {
-    "titulo": "Tutoriais e guias de troféus para GTA 6",
+    "titulo": "Confira guia de troféus de GTA 6 e como desbloquear todas as conquistas",
     "ids": [
-     "e0263b59344e",
      "dd55c7d828cf"
     ]
    },
    {
-    "titulo": "Ofertas de robôs aspiradores antes da Black Friday",
+    "titulo": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
     "ids": [
      "7225edced384"
     ]
    },
    {
-    "titulo": "Formação de supercélulas na região Sul",
+    "titulo": "Entenda por que o Sul é a região mais propícia à formação de supercélulas",
     "ids": [
      "c1746cbab4b5"
     ]
    },
    {
-    "titulo": "Cinebiografias e o desafio de contar vidas no cinema",
+    "titulo": "Cinebiografias e o desafio de contar uma vida no cinema",
     "ids": [
      "6bbb6d3ed358"
     ]
    },
    {
-    "titulo": "Donald Trump ameaça taxar empresas que construírem data centers fora dos EUA",
+    "titulo": "Black Friday: Saiba como não cair em golpes e economizar ainda mais",
     "ids": [
-     "3a0cb236fd32",
-     "0ddbaa590a6d"
+     "3c94625fa3d6"
     ]
    },
    {
-    "titulo": "Queda das ações da Nvidia na bolsa",
-    "ids": [
-     "162a5a626d4c",
-     "45033cca988f"
-    ]
-   },
-   {
-    "titulo": "Rússia desenvolve arma nuclear para satélites, diz relatório dos EUA",
-    "ids": [
-     "37e09d5e4f01"
-    ]
-   },
-   {
-    "titulo": "Atualizações e debates sobre gráficos e capacidades de IA",
+    "titulo": "The most misunderstood graph in AI just got a major update",
     "ids": [
      "01449c61c8b8"
     ]
    },
    {
-    "titulo": "Jogos gratuitos resgatáveis na Steam",
+    "titulo": "Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (20)",
     "ids": [
      "e1ec0e6d8604"
     ]
    },
    {
-    "titulo": "Custos e opções de armazenamento para o Nintendo Switch 2",
+    "titulo": "Multiplying your Switch 2’s storage costs less than usual right now",
     "ids": [
      "4ae683aa8267"
     ]
    },
    {
-    "titulo": "Google descontinuará o Google Assistant em caixas de som inteligentes",
+    "titulo": "Google says it’s going to shut off Google Assistant on smart speakers next year",
     "ids": [
      "d1e87ef3ac12"
     ]
    },
    {
-    "titulo": "Participações especiais em GTA 6",
+    "titulo": "GTA 6 traz participações especiais de outros personagens da franquia? Confira",
     "ids": [
      "61a2c0f7a2e3"
     ]
    },
    {
-    "titulo": "Editora brasileira processa OpenAI pelo uso de livros",
-    "ids": [
-     "bc927c3b47ae"
-    ]
-   },
-   {
-    "titulo": "Demissão de diretor de segurança cibernética dos EUA após falhas",
+    "titulo": "Após falhas que afetaram Microsoft e suspenderam voos, Trump demite diretor de segurança cibernética",
     "ids": [
      "fa31e6ae95e3"
     ]
    },
    {
-    "titulo": "Ofertas de produtos Apple para a Black Friday",
+    "titulo": "Here are the Apple deals actually worth picking up ahead of Black Friday",
     "ids": [
      "79c0f44d64a7"
     ]
    },
    {
-    "titulo": "Falha crítica de segurança em aplicações Java",
+    "titulo": "Falha crítica em Java permite invasão remota a aplicações corporativas",
     "ids": [
      "a7cf3e12a3be"
     ]
    },
    {
-    "titulo": "Brechas de segurança ameaçam o Telegram",
+    "titulo": "‘Widgets’: brechas de segurança ameaçam o Telegram",
     "ids": [
      "0b4f3c2e2437"
     ]
    },
    {
-    "titulo": "Guia para encontrar garrafas vazias em Zelda: Ocarina of Time",
+    "titulo": "Onde encontrar as 5 garrafas vazias de Zelda: Ocarina of Time",
     "ids": [
      "66c4fbd5dfdc"
     ]
    },
    {
-    "titulo": "Teenage Engineering lança reprodutor de CD moderno",
+    "titulo": "Teenage Engineering’s first CD player puts the spinning disc on display",
     "ids": [
      "5b66ad549a6a"
     ]
    },
    {
-    "titulo": "Lançamento musical de Boys Noize",
+    "titulo": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
     "ids": [
      "f8baaec16099"
     ]
    },
    {
-    "titulo": "Motorola confirma celulares que receberão o Android 17",
+    "titulo": "Motorola confirma mais celulares que receberão o Android 17",
     "ids": [
      "16713a7c186f"
     ]
    },
    {
-    "titulo": "Valve comenta sobre possível aumento de preço das Steam Machines",
+    "titulo": "Valve says it might have to raise the price of supply-limited Steam Machines",
     "ids": [
      "fbf5db5de0d1"
     ]
    },
    {
-    "titulo": "Samsung permite bloqueio individual de aplicativos na One UI",
+    "titulo": "Samsung agora permite bloquear apps individualmente nos celulares",
     "ids": [
      "038a387765ed"
     ]
    },
    {
-    "titulo": "Investigação sobre a causa raiz de pane na FAA",
+    "titulo": "Lenovo Ideapad Slim 3 com 16 GB de RAM fica mais barato no esquenta Black 2026",
+    "ids": [
+     "360b8fd5f3b1"
+    ]
+   },
+   {
+    "titulo": "US will soon announce root cause behind FAA nationwide ground stop",
     "ids": [
      "b05b4f3ec057"
     ]
@@ -1606,178 +1607,103 @@
     ]
    },
    {
-    "titulo": "WhatsApp aumenta limite de participantes em grupos",
+    "titulo": "WhatsApp aumenta limite de grupos para até 1.500 pessoas",
     "ids": [
      "cada1b39462b"
     ]
    },
    {
-    "titulo": "Credores da SpaceX querem garantias sobre chips",
+    "titulo": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
     "ids": [
      "8194e1cabb8a"
     ]
    },
    {
-    "titulo": "Ofertas do Kindle na Black Friday",
+    "titulo": "Kindle Colorsoft tem R$ 500 OFF em até 10x às vésperas da Black Friday",
     "ids": [
-     "071ed1ff2cbf",
-     "2c51994eba4c"
+     "071ed1ff2cbf"
     ]
    },
    {
-    "titulo": "Uso de 'robôs assassinos' em guerras e debates na ONU",
+    "titulo": "'Robôs assassinos' já são usados em guerras, mas países não chegam a acordo sobre limites na ONU",
     "ids": [
      "90364238795c"
     ]
    },
    {
-    "titulo": "Ofertas do Echo Dot na Black November",
+    "titulo": "Echo Dot (5.ª geração) tem queima de estoque com menor preço na Black November",
     "ids": [
      "1a018fece96c"
     ]
    },
    {
-    "titulo": "Resumo diário de notícias da tecnologia MIT Technology Review",
+    "titulo": "The Download: inside the quest to make our minds immortal",
     "ids": [
-     "956a058c400b",
-     "0011ae0145f0",
-     "5fe5c48115f1"
+     "956a058c400b"
     ]
    },
    {
-    "titulo": "Estudantes processam empresa por erro de IA que confundiu salgadinho com arma",
+    "titulo": "Black da Amazon: Kindle Paperwhite com 37% OFF em até 10x sem juros",
+    "ids": [
+     "2c51994eba4c"
+    ]
+   },
+   {
+    "titulo": "Estudantes processam empresa de tecnologia por erro em sistema de IA que confundiu pacote de salgadinho com arma",
     "ids": [
      "8fc5f2affc82"
     ]
    },
    {
-    "titulo": "Projeto sobre o ensino da história e cultura africana nas escolas",
+    "titulo": "O ensino da história e da cultura africana nas escolas",
     "ids": [
      "aadc75b82d82"
     ]
    },
    {
-    "titulo": "Grupo assume vazamento de dados de clientes de grandes instituições financeiras",
+    "titulo": "Grupo assume vazamento de dados de clientes da Visa, Mastercard e JPMorgan",
     "ids": [
-     "342c12bae181",
-     "d9cae02af5b4"
+     "342c12bae181"
     ]
    },
    {
-    "titulo": "Rivalidade entre CEOs da Anthropic e OpenAI",
+    "titulo": "Anthropic x OpenAI: como a rivalidade entre os CEOs virou símbolo da corrida pelo domínio da IA",
     "ids": [
      "226080dcb4ea"
     ]
    },
    {
-    "titulo": "Governo Trump libera chips de IA para empresas chinesas",
+    "titulo": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
     "ids": [
-     "72986888e6ea"
+     "0011ae0145f0"
     ]
    },
    {
-    "titulo": "Pesquisas sobre o fígado mantido vivo fora do corpo humano",
+    "titulo": "A human liver has been kept alive outside the body for a record seven weeks",
     "ids": [
      "200c26dcc801"
     ]
    },
    {
-    "titulo": "Pesquisas históricas sobre inteligência artificial em São Paulo",
+    "titulo": "30 anos antes do ChatGPT, SP já pesquisava fundamentos da IA",
     "ids": [
      "c562bad0769c"
     ]
    },
    {
-    "titulo": "Acordo bilionário no mercado de baterias nos EUA",
+    "titulo": "What a billion-dollar deal says about the US battery market",
     "ids": [
      "1208f01e00a6"
     ]
    },
    {
-    "titulo": "Discussões sobre o índice de exagero e popularidade da IA",
+    "titulo": "The AI Hype Index: AI is everywhere",
     "ids": [
      "bb3ee1cf50e2"
-    ]
-   },
-   {
-    "titulo": "Startup desenvolve nariz artificial com inteligência artificial",
-    "ids": [
-     "d1dd49b4f83d"
-    ]
-   },
-   {
-    "titulo": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-    "ids": [
-     "7a104b2f8055"
     ]
    }
   ],
   "resumos": {
-   "e066793944c692e3": {
-    "resumo": "A Meta lançou no Brasil o aplicativo independente 'Achados', voltado para a compra e venda de produtos usados e novos. Disponível inicialmente apenas para usuários de Android, o app centraliza ofertas do Facebook Marketplace, de grupos do Facebook e do Instagram. A plataforma não intermedeia pagamentos ou entregas, que devem ser combinados diretamente com os vendedores. A ferramenta chega em um momento de alta no mercado de segunda mão e conta com recursos de inteligência artificial e comparação de preços.",
-    "pontos": [
-     "Achados é o novo app de compra e venda da Meta lançado no Brasil.",
-     "Disponível inicialmente apenas para sistemas Android.",
-     "Reúne anúncios do Facebook Marketplace e Instagram, sem intermediar pagamentos."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972468.515747
-   },
-   "420c5b936b6718c0": {
-    "resumo": "O conselho de administração da Nvidia afirmou que não pretende reconduzir Jensen Huang ao cargo de CEO, apesar de o cofundador ter manifestado o desejo de retornar após sua saída na semana passada. A decisão ocorre em meio a repercussões sobre sua saída devido a relacionamentos extraconjugais e investigações de segurança nacional. O retorno de Huang conta com o apoio de figuras como Elon Musk e o presidente Donald Trump, além de uma petição de funcionários e apoiadores. Paralelamente, a Nvidia divulgou resultados financeiros expressivos e negou que abordará as circunstâncias da renúncia.",
-    "pontos": [
-     "Conselho da Nvidia descarta o retorno de Jensen Huang à liderança.",
-     "Saída do executivo ocorreu após revelações sobre vida pessoal e investigação.",
-     "Personalidades como Elon Musk e Donald Trump apoiaram a volta de Huang.",
-     "Empresa registrou alta expressiva nos resultados financeiros do trimestre."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972468.5157392
-   },
-   "8263bf962cf1cde1": {
-    "resumo": "A Nvidia divulgou seu primeiro relatório financeiro nesta terça-feira após a saída do CEO Jensen Huang, superando as expectativas de Wall Street no terceiro trimestre. A fabricante de chips registrou um lucro líquido de US$ 65,3 bilhões, o que representa um aumento de cerca de 105% em relação ao mesmo período do ano anterior. O faturamento da empresa alcançou US$ 115,84 bilhões, impulsionado principalmente pela forte demanda na divisão de data centers e inteligência artificial. Para o próximo trimestre, a companhia projetou uma receita otimista em torno de US$ 130 bilhões.",
-    "pontos": [
-     "Lucro líquido da Nvidia dobrou para US$ 65,3 bilhões no terceiro trimestre.",
-     "Receita total alcançou US$ 115,84 bilhões, superando as estimativas.",
-     "Divisa de data centers foi o principal motor de crescimento da empresa.",
-     "Empresa projeta receita de cerca de US$ 130 bilhões para o próximo trimestre."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972468.515742
-   },
-   "b27e4322fe8fcb22": {
-    "resumo": "A Microsoft anunciou a disponibilidade geral do seu novo aplicativo Copilot durante a conferência Ignite, integrando aplicativos do Office como Word, Excel e PowerPoint diretamente no ambiente. Descrito como um novo sistema operacional para o trabalho, o Copilot reúne chats, fluxos de trabalho e ferramentas de inteligência artificial em um único espaço. O ecossistema agora inclui agentes autônomos persistentes, como o Copilot Autopilot, e a plataforma de inteligência Work IQ para contextualizar dados organizacionais. A proposta visa simplificar a experiência do usuário, unificando recursos de negócios e produtividade.",
-    "pontos": [
-     "Microsoft lança nova versão do Copilot com integração direta ao Office.",
-     "Aplicativo unifica chats, fluxos de trabalho e inteligência artificial em um só lugar.",
-     "Introdução de agentes autônomos e da plataforma de contexto Work IQ.",
-     "Objetivo é simplificar a experiência e o acesso a dados corporativos."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972468.5157433
-   },
-   "e7d4c04851f35872": {
-    "resumo": "Quase 200 sites, incluindo páginas de grandes marcas e veículos como BBC, CNN e Air France, foram afetados por um ciberataque que explorou a plataforma digital Optimizely. Criminosos injetaram códigos JavaScript maliciosos para roubar dados de cartões de crédito, informações de criptomoedas e distribuir kits de exploração para dispositivos Apple. A falha permitiu que os invasores usassem a infraestrutura legítima da Optimizely para servir o código malicioso por cerca de nove horas. A Optimizely informou posteriormente que identificou o incidente, bloqueou a rota vulnerável e removeu o código injetado.",
-    "pontos": [
-     "Quase 200 sites foram alvos de ciberataque via plataforma Optimizely.",
-     "Hackers tentaram roubar dados bancários e criptomoedas dos usuários.",
-     "Dispositivos Apple também foram alvos de kits de exploração maliciosos.",
-     "Optimizely afirmou ter contido o incidente e bloqueado a vulnerabilidade."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972468.5157442
-   },
-   "fa29dde5c84c993c": {
-    "resumo": "O Instagram anunciou o lançamento da ferramenta \"Content Protection\" para ajudar criadores de conteúdo a protegerem suas publicações contra cópias não autorizadas. Com o recurso ativado, a plataforma monitora reproduções de vídeos e notifica o autor original caso encontre correspondências exatas no Instagram e no Facebook. Os criadores podem optar por bloquear a publicação, reivindicar a autoria com um link, monitorar o desempenho ou permitir a reprodução. Além disso, a plataforma está testando a identificação de vídeos gerados por inteligência artificial que correspondam às palavras faladas no material original.",
-    "pontos": [
-     "Nova ferramenta 'Content Protection' ajuda criadores a combater cópias de vídeos.",
-     "Autores podem bloquear, reivindicar autoria ou monitorar vídeos duplicados.",
-     "Recurso já está disponível para criadores elegíveis no Instagram e Facebook.",
-     "Plataforma testa detecção de vídeos modificados por IA com base nas falas."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972468.5157456
-   },
    "742dc49f5d3178de": {
     "resumo": "Diferentes plataformas anunciaram descontos e ofertas para a Black Friday e Black November. O Tecnoblog destacou a oferta do smartphone Motorola Edge 70 Fusion por R$ 1.889,10 no Mercado Livre. O TecMundo listou promoções de smart TVs em lojas oficiais da Shopee com tamanhos variados. O The Verge reportou a redução de preço da TV OLED Sony Bravia 8 II em varejistas como Amazon e Best Buy, enquanto o g1 publicou dicas para escolher celulares Android intermediários sem travar.",
     "pontos": [
@@ -2088,7 +2014,7 @@
      "O jogo superou recordes anteriores da franquia e de bilheterias de cinema."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218629.6994832
+    "usado_em": 1795242086.7045498
    },
    "c14188884e409163": {
     "resumo": "O Google atualizou a página inicial de seu buscador para integrar o histórico de conversas com inteligência artificial. A nova barra lateral, liberada globalmente para computadores, permite retomar pesquisas feitas no Modo IA e iniciar novos tópicos. A mudança também removeu o tradicional botão de busca da interface principal. O recurso facilita o acesso a interações anteriores sem exigir novas consultas do zero.",
@@ -2098,7 +2024,7 @@
      "Tradicional botão de busca foi removido da interface."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218629.699484
+    "usado_em": 1795242086.7045567
    },
    "d778175ce05db096": {
     "resumo": "A Meta informou que está reavaliando sua meta climática de neutralidade de carbono até 2030 devido ao aumento na demanda por infraestrutura de inteligência artificial. A empresa registrou um salto significativo nas emissões de gases de efeito estufa associadas a seus data centers em 2025. Executivos apontaram que o ambiente operacional mudou e que a construção de infraestrutura para IA tem prioridade. Outras Big Techs mantêm seus compromissos, mas enfrentam desafios semelhantes.",
@@ -2108,7 +2034,7 @@
      "Companhia destaca que a demanda por infraestrutura superou projeções."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218629.6994853
+    "usado_em": 1795242086.7045586
    },
    "e3a0f8171d8220a0": {
     "resumo": "Perfis e anúncios falsos dominaram as ameaças digitais durante a semana da Black Friday, representando 91,8% dos incidentes identificados em um levantamento da Clavis Segurança da Informação. Golpistas utilizaram sites de phishing, ofertas falsas e cobranças fraudulentas por Pix para enganar consumidores. Especialistas recomendam atenção redobrada, verificação de canais legítimos e uso de comparadores de preços. O planejamento antecipado e o uso cauteloso de ferramentas de IA também foram apontados como precauções úteis.",
@@ -2149,33 +2075,100 @@
     ],
     "enquadramentos": {},
     "usado_em": 1795218629.6994884
+   },
+   "a809415a313eace9": {
+    "resumo": "O presidente dos EUA, Donald Trump, ameaçou proibir empresas norte-americanas de construírem data centers no exterior e prometeu aplicar um imposto altíssimo sobre essas instalações. A declaração foi feita nesta sexta-feira (20) em uma coletiva de imprensa na Casa Branca, após uma viagem à Ásia. Trump afirmou que a prática de transferir infraestruturas para fora do país prejudica a nação, mas não detalhou como a medida será implementada. A decisão pode afetar os planos de expansão internacional de companhias do setor, como Equinix e Digital Realty.",
+    "pontos": [
+     "Trump ameaça proibir data centers fora dos EUA",
+     "Promessa inclui imposto elevado para infraestruturas no exterior",
+     "Medida visa proteger o desenvolvimento tecnológico nacional"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242086.7045286
+   },
+   "322a52c2771824fd": {
+    "resumo": "As ações da Anthropic fecharam em queda de 8,5% a 9% nesta sexta-feira (20), negociadas a US$ 88,91, um dia após a estreia histórica da empresa na bolsa de valores dos EUA. O resultado aproximou os papéis do valor de US$ 83 fixado na oferta pública inicial (IPO). A queda reflete o crescente pessimismo e a cautela dos investidores em relação ao setor de inteligência artificial. O movimento de baixa também afetou outras grandes empresas de tecnologia, como Nvidia, Meta, Amazon e Microsoft.",
+    "pontos": [
+     "Ações da Anthropic caem cerca de 8,5% a 9% no segundo dia",
+     "IPO movimentou US$ 93,5 bilhões, mas investidores mantêm cautela",
+     "Setor de IA enfrenta ceticismo sobre retornos financeiros rápidos"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242086.7045524
+   },
+   "c5a1c8811e75f376": {
+    "resumo": "A inteligência artificial está sendo integrada ao tradicional setor de perfumaria para acelerar a criação de fragrâncias e resolver formulações complexas. Gigantes como Estée Lauder e IFF utilizam IA para otimizar testes, verificar regulamentações internacionais e buscar moléculas sustentáveis. Paralelamente, startups como a Osmo desenvolvem modelos de olfato computacional para imitar o nariz humano. A tecnologia reduz em até 30% o tempo necessário para produzir novos perfumes.",
+    "pontos": [
+     "IA ajuda perfumistas a criar formulações e verificar regras globais",
+     "Empresas reduzem tempo de desenvolvimento em até 30%",
+     "Startups treinam modelos computacionais para imitar o olfato humano"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242086.7045538
+   },
+   "a17028fda15189a1": {
+    "resumo": "O TikTok anunciou nesta sexta-feira (20) duas novas ferramentas para identificar conteúdos gerados ou manipulados por inteligência artificial, apresentadas em um evento de segurança em Londres. Uma das novidades permite que qualquer pessoa verifique imagens e vídeos criados por ferramentas da própria plataforma. A outra, chamada Likeness Detection, ajuda figuras públicas e criadores a localizarem vídeos que reproduzem sua aparência sem autorização. A medida busca combater conteúdos enganosos e aumentar a transparência.",
+    "pontos": [
+     "TikTok lança ferramenta para identificar mídias geradas por IA",
+     "Recurso de detecção de semelhança protege figuras públicas e criadores",
+     "Iniciativa visa combater desinformação antes de eleições na Europa"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242086.7045548
+   },
+   "6261512e0cb5db7a": {
+    "resumo": "O pesquisador Levent Alpoge, da Anthropic, afirmou nesta sexta-feira (20) ter utilizado o chatbot Claude para demonstrar a Hipótese de Riemann, um dos maiores enigmas da matemática em aberto há mais de 160 anos. A demonstração foi publicada em seu site em linguagem de programação Lean, mas ainda não passou por revisão de especialistas externos. A Hipótese de Riemann é um dos Problemas do Milênio do Instituto de Matemática Clay, que oferece um prêmio de um milhão de dólares. A Anthropic não se envolveu diretamente no anúncio.",
+    "pontos": [
+     "Pesquisador da Anthropic diz ter provado a Hipótese de Riemann com IA",
+     "Trabalho foi publicado em site e usa a linguagem Lean",
+     "A Demonstração ainda precisa de verificação independente"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242086.7045557
    }
   }
  },
  "ia": {
-  "chave": "73c4aa91fb06cb72",
+  "chave": "dd3075fbf3666e8d",
   "grupos": [
    {
-    "titulo": "Matemático da Anthropic afirma ter provado a Hipótese de Riemann com o Claude",
+    "titulo": "Uso de Inteligência Artificial na criação de perfumes",
+    "ids": [
+     "5ca20efa4602",
+     "5fe5c48115f1",
+     "d1dd49b4f83d"
+    ]
+   },
+   {
+    "titulo": "Saída de Jensen Huang da Nvidia e quedas nas ações",
+    "ids": [
+     "627860aee685",
+     "162a5a626d4c"
+    ]
+   },
+   {
+    "titulo": "Pesquisador da Anthropic afirma ter provado a Hipótese de Riemann com IA",
     "ids": [
      "3a07b73196cd",
      "859ee3ec8c20"
     ]
    },
    {
-    "titulo": "Ações da Anthropic caem um dia após estreia na bolsa dos EUA",
+    "titulo": "Estreia e desempenho das ações da Anthropic na bolsa dos EUA",
     "ids": [
-     "cfe372501f93"
+     "cfe372501f93",
+     "226080dcb4ea"
     ]
    },
    {
-    "titulo": "Jogos para Nintendo Switch em oferta na eShop",
+    "titulo": "Promoções e jogos para Nintendo Switch na eShop",
     "ids": [
-     "965d3e5ae71a"
+     "965d3e5ae71a",
+     "4ae683aa8267"
     ]
    },
    {
-    "titulo": "FCC proíbe Califórnia de aplicar regras de serviço telefônico",
+    "titulo": "FCC impede a Califórnia de aplicar regras de serviços de telefonia",
     "ids": [
      "b05c36fbb62f"
     ]
@@ -2187,20 +2180,28 @@
     ]
    },
    {
-    "titulo": "Google atualiza página inicial de busca com histórico de chat de IA",
+    "titulo": "Google atualiza página de busca com histórico de chat de IA",
     "ids": [
      "5a49fd4a2d77",
      "e8500ad19606"
     ]
    },
    {
-    "titulo": "Desconto na Lenovo Idea Tab Pro Gen 2 na Black November",
+    "titulo": "Ofertas de produtos e eletrônicos na Black November",
     "ids": [
-     "7b264abc3b55"
+     "7b264abc3b55",
+     "a364141514d1",
+     "5ee6e41c0741",
+     "7225edced384",
+     "360b8fd5f3b1",
+     "071ed1ff2cbf",
+     "1a018fece96c",
+     "2c51994eba4c",
+     "79c0f44d64a7"
     ]
    },
    {
-    "titulo": "Meta reavalia meta de neutralidade carbónica devido a emissões de data centers de IA",
+    "titulo": "Meta reavalia meta climática para 2030 devido a emissões de data centers de IA",
     "ids": [
      "c4b0222f29f2",
      "ad6bb3aab8de"
@@ -2213,68 +2214,51 @@
     ]
    },
    {
-    "titulo": "Pesquisador insere dados secretos em cadeia de suprimentos de IA e expõe falha de privacidade",
+    "titulo": "Pesquisa revela falhas de privacidade na cadeia de suprimentos de IA",
     "ids": [
      "99727b65c290"
     ]
    },
    {
-    "titulo": "Desconto no Galaxy Z Fold 8 na Black November",
-    "ids": [
-     "a364141514d1"
-    ]
-   },
-   {
-    "titulo": "YouTube prepara acordo milionário sobre alegações de dependência em redes sociais",
+    "titulo": "YouTube prepara acordo milionário para encerrar processos de dependência em redes sociais",
     "ids": [
      "9efc52d1f8b3"
     ]
    },
    {
-    "titulo": "Estudo sobre estrela que engoliu vizinha e explodiu",
+    "titulo": "Astronomia: estrela engole vizinha e explode",
     "ids": [
      "51cbc0040f44"
     ]
    },
    {
-    "titulo": "Novo plano da NASA para a Lua",
+    "titulo": "Novos planos da NASA para a Lua",
     "ids": [
      "1400be933d41"
     ]
    },
    {
-    "titulo": "MSI apresenta RTX 5080 edição Call of Duty",
+    "titulo": "MSI apresenta RTX 5080 edição COD MW4",
     "ids": [
      "6e4c99bfa749"
     ]
    },
    {
-    "titulo": "Perfis e anúncios falsos dominam ameaças na Black Friday 2026",
-    "ids": [
-     "5ee6e41c0741"
-    ]
-   },
-   {
-    "titulo": "Prisões autorizadas a bloquear celulares contrabandear",
+    "titulo": "Prisões recebem autorização para bloquear celulares contrabandear",
     "ids": [
      "bd891512041a"
     ]
    },
    {
-    "titulo": "Vendas recorde e bilionárias de GTA 6 na estreia",
+    "titulo": "Sucesso de vendas e recordes de lançamento de GTA 6",
     "ids": [
      "b020610302ac",
+     "57f24739f34a",
      "4b3f595fab30"
     ]
    },
    {
-    "titulo": "GTA 6 acumula recordes de audiência nas plataformas de transmissão",
-    "ids": [
-     "57f24739f34a"
-    ]
-   },
-   {
-    "titulo": "Tutoriais e dicas de jogabilidade para GTA 6",
+    "titulo": "Manuais e tutoriais de jogabilidade para GTA 6",
     "ids": [
      "e0263b59344e",
      "dd55c7d828cf",
@@ -2282,124 +2266,83 @@
     ]
    },
    {
-    "titulo": "Exército dos EUA atrasa detonação de azida de chumbo perigosa",
+    "titulo": "Exército dos EUA adia detonação de material perigoso",
     "ids": [
      "7a104b2f8055"
     ]
    },
    {
-    "titulo": "Desconto em robô aspirador Eufy antes da Black Friday",
-    "ids": [
-     "7225edced384"
-    ]
-   },
-   {
-    "titulo": "Trump ameaça taxar empresas que construírem data centers fora dos EUA",
+    "titulo": "Donald Trump ameaça taxar data centers construídos fora dos EUA",
     "ids": [
      "3a0cb236fd32",
      "0ddbaa590a6d"
     ]
    },
    {
-    "titulo": "Ações da Nvidia registram queda acentuada na bolsa",
-    "ids": [
-     "162a5a626d4c"
-    ]
-   },
-   {
-    "titulo": "Relatório aponta evolução contínua em capacidades de IA",
+    "titulo": "Relatório da METR sobre capacidades e trajetória da inteligência artificial",
     "ids": [
      "01449c61c8b8"
     ]
    },
    {
-    "titulo": "Jogos grátis na Steam",
+    "titulo": "Jogos gratuitos da semana na Steam",
     "ids": [
      "e1ec0e6d8604"
     ]
    },
    {
-    "titulo": "Custo para expandir armazenamento do Nintendo Switch 2",
-    "ids": [
-     "4ae683aa8267"
-    ]
-   },
-   {
-    "titulo": "Google vai descontinuar Google Assistant em caixas inteligentes",
+    "titulo": "Google desativará o Google Assistant em caixas de som inteligentes",
     "ids": [
      "d1e87ef3ac12"
     ]
    },
    {
-    "titulo": "Trump demite diretor de segurança cibernética após falhas técnicas",
+    "titulo": "Trump demite diretor nacional de cibernética após falhas que afetaram a Microsoft",
     "ids": [
      "fa31e6ae95e3"
     ]
    },
    {
-    "titulo": "Ofertas de produtos Apple antes da Black Friday",
+    "titulo": "Falhas críticas de segurança em Java, Telegram e aplicativos",
     "ids": [
-     "79c0f44d64a7"
-    ]
-   },
-   {
-    "titulo": "Falha crítica em Java permite invasão remota",
-    "ids": [
-     "a7cf3e12a3be"
-    ]
-   },
-   {
-    "titulo": "Brechas de segurança ameaçam o Telegram",
-    "ids": [
+     "a7cf3e12a3be",
      "0b4f3c2e2437"
     ]
    },
    {
-    "titulo": "Guia para encontrar itens em Zelda: Ocarina of Time",
+    "titulo": "Guia de itens clássicos em The Legend of Zelda: Ocarina of Time",
     "ids": [
      "66c4fbd5dfdc"
     ]
    },
    {
-    "titulo": "Teenage Engineering lança leitor de CD com design moderno",
+    "titulo": "Teenage Engineering lança toca-discos de CD com design moderno",
     "ids": [
      "5b66ad549a6a"
     ]
    },
    {
-    "titulo": "Novo álbum e influências musicais de Boys Noize",
+    "titulo": "Novo álbum 7LLVSION de Boys Noize",
     "ids": [
      "f8baaec16099"
     ]
    },
    {
-    "titulo": "Motorola confirma lista de celulares que receberão o Android 17",
+    "titulo": "Motorola confirma mais celulares que receberão o Android 17",
     "ids": [
      "16713a7c186f"
     ]
    },
    {
-    "titulo": "Valve indica possível aumento de preço em Steam Machines",
+    "titulo": "Valve comenta sobre possíveis aumentos de preço em Steam Machines",
     "ids": [
      "fbf5db5de0d1"
     ]
    },
    {
-    "titulo": "Samsung permite bloquear apps individualmente com nova atualização",
+    "titulo": "Samsung libera recurso para bloquear aplicativos individualmente com biometria",
     "ids": [
      "038a387765ed"
-    ]
-   },
-   {
-    "titulo": "Desconto no Lenovo Ideapad Slim 3 na Black November",
-    "ids": [
-     "360b8fd5f3b1"
-    ]
-   },
-   {
-    "titulo": "EUA anunciam causa raiz de falha nacional da FAA",
-    "ids": [
-     "b05b4f3ec057"
     ]
    },
    {
@@ -2415,16 +2358,9 @@
     ]
    },
    {
-    "titulo": "Credores da SpaceX expressam preocupação com garantias",
+    "titulo": "Credores da SpaceX e garantias com chips",
     "ids": [
      "8194e1cabb8a"
-    ]
-   },
-   {
-    "titulo": "Descontos em e-readers Kindle na Black November",
-    "ids": [
-     "071ed1ff2cbf",
-     "2c51994eba4c"
     ]
    },
    {
@@ -2434,42 +2370,22 @@
     ]
    },
    {
-    "titulo": "Queima de estoque do Echo Dot na Black November",
-    "ids": [
-     "1a018fece96c"
-    ]
-   },
-   {
-    "titulo": "Resumo de notícias diárias de tecnologia da MIT Technology Review",
+    "titulo": "Boletins informativos e resumos tecnológicos da MIT Technology Review",
     "ids": [
      "956a058c400b",
-     "0011ae0145f0",
-     "5fe5c48115f1"
+     "0011ae0145f0"
     ]
    },
    {
-    "titulo": "Estudantes processam empresa por erro de IA que confundiu salgadinho com arma",
+    "titulo": "Estudantes processam empresa por erro em IA que confundiu lanche com arma",
     "ids": [
      "8fc5f2affc82"
     ]
    },
    {
-    "titulo": "Vazamento de dados afeta clientes de Visa, Mastercard e JPMorgan através de fornecedores",
+    "titulo": "Grupo assume vazamento de dados de clientes da Visa, Mastercard e JPMorgan",
     "ids": [
-     "342c12bae181",
-     "d9cae02af5b4"
-    ]
-   },
-   {
-    "titulo": "Rivalidade entre CEOs da Anthropic e OpenAI",
-    "ids": [
-     "226080dcb4ea"
-    ]
-   },
-   {
-    "titulo": "Governo Trump liberou chips de IA para empresas chinesas",
-    "ids": [
-     "72986888e6ea"
+     "342c12bae181"
     ]
    },
    {
@@ -2479,80 +2395,25 @@
     ]
    },
    {
-    "titulo": "Acordo bilionário movimenta mercado de baterias nos EUA",
+    "titulo": "Acordo bilionário movimenta o mercado de baterias de nova geração nos EUA",
     "ids": [
      "1208f01e00a6"
     ]
    },
    {
-    "titulo": "Análise sobre a omnipresença e exagero em torno da IA",
+    "titulo": "Índice de exagero e expansão da inteligência artificial",
     "ids": [
      "bb3ee1cf50e2"
     ]
    },
    {
-    "titulo": "Startup desenvolve nariz artificial baseado em IA",
+    "titulo": "EUA anunciam causa raiz de parada geral de voos da FAA",
     "ids": [
-     "d1dd49b4f83d"
+     "b05b4f3ec057"
     ]
    }
   ],
   "resumos": {
-   "e066793944c692e3": {
-    "resumo": "A Meta lançou no Brasil o aplicativo independente \"Achados\", voltado para a compra e venda de produtos usados e novos, como roupas e eletrônicos. O app gratuito está disponível inicialmente apenas para usuários de Android maiores de 18 anos e reúne ofertas provenientes do Facebook Marketplace, grupos do Facebook e Instagram. A plataforma busca concorrer com serviços como o Enjoei, oferecendo ferramentas de comparação de preços, selos de destaque e integração opcional com o WhatsApp para negociações. A Meta não processa pagamentos nem cobra comissões pelas transações realizadas diretamente entre os usuários.",
-    "pontos": [
-     "Lançamento do aplicativo Achados no Brasil focado no mercado de usados.",
-     "Disponível para Android, integrando ofertas do Facebook Marketplace, grupos e Instagram.",
-     "Ferramentas incluem comparação de preços, selo de achado e negociação direta pelo app ou WhatsApp.",
-     "A Meta não cobra comissão nem intermedeia pagamentos ou entregas."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972477.917891
-   },
-   "f78d24242fb0d96b": {
-    "resumo": "Jensen Huang afirmou que aceitaria voltar ao comando da Nvidia caso o conselho decida que seu retorno é do melhor interesse da empresa, após deixar o cargo em meio a repercussões sobre um relacionamento extraconjugal e suspeitas de ligação com espiã chinesa. A saída de Huang gerou debates e petições públicas apoiadas por nomes como Elon Musk e defensores do código aberto, embora o conselho de administração tenha reiterado que sua reintegração não está sob consideração. Enquanto isso, investigações independentes apuram se sua exposição a espionagem comprometeu a segurança ou segredos da companhia.",
-    "pontos": [
-     "Jensen Huang declarou estar disposto a retornar como CEO da Nvidia, mas o conselho descartou sua reintegração.",
-     "A saída do executivo ocorreu após polêmicas envolvendo relacionamento e suspeitas de espionagem chinesa.",
-     "Apoiadores, incluindo Elon Musk, fizeram campanhas pelo retorno de Huang à liderança da empresa."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972477.9178867
-   },
-   "b27e4322fe8fcb22": {
-    "resumo": "A Microsoft anunciou durante a conferência Ignite a disponibilidade geral de ferramentas como Word, Excel e PowerPoint diretamente dentro do Copilot, descrito como o novo sistema operacional para o trabalho. A integração permite que agentes autônomos realizem tarefas complexas utilizando uma camada de conhecimento organizacional chamada Microsoft IQ. Com isso, os aplicativos tradicionais passam a funcionar como componentes de plugins orientados por agentes de inteligência artificial.",
-    "pontos": [
-     "Word, Excel e PowerPoint foram integrados diretamente no ambiente do Microsoft Copilot.",
-     "O lançamento inclui o Copilot Autopilot e a plataforma de inteligência Microsoft IQ para acesso a dados corporativos.",
-     "A mudança visa unificar fluxos de trabalho e simplificar a experiência do usuário empresarial."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972477.9178884
-   },
-   "3582eebf6d63204f": {
-    "resumo": "A Nvidia divulgou seu primeiro balanço financeiro trimestral após a saída de Jensen Huang, reportando um lucro líquido de US$ 65,3 bilhões e um faturamento de US$ 115,8 bilhões, superando as expectativas do mercado. A condução da empresa ficou temporariamente com a diretora financeira Colette Kress, enquanto o presidente do conselho Harvey Jones confirmou que a companhia busca um novo CEO e não planeja readmitir Huang. Apesar das turbulências na liderança, as ações da empresa subiram no after-market devido ao forte desempenho e projeções positivas.",
-    "pontos": [
-     "A Nvidia dobrou seu lucro trimestral para US$ 65,3 bilhões e faturou US$ 115,8 bilhões.O conselho da Nvidia reafirmou que não pretende reconduzir Jensen Huang ao cargo de CEO.Colette Kress assumiu interinamente a liderança e a empresa registrou alta nas ações após o balanço."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972477.9178894
-   },
-   "e7d4c04851f35872": {
-    "resumo": "Quase 200 sites, incluindo páginas de grandes marcas e veículos como BBC e CNN, foram alvos de um ciberataque que explorou a plataforma Optimizely para injetar códigos maliciosos em JavaScript. O malware buscava roubar dados de cartões de crédito, informações de criptomoedas e infectar dispositivos Apple com kits de exploração específicos. A Optimizely informou que identificou o incidente, bloqueou a rota vulnerável e removeu o código injetado, enquanto pesquisadores apontaram que o ataque movimentou pequenas quantias em carteiras dos invasores.",
-    "pontos": [
-     "Cerca de 178 sites foram afetados por código malicioso injetado por meio da plataforma Optimizely.O ataque visava roubar dados bancários, criptomoedas e infectar dispositivos Apple.A Optimizely declarou ter contido o incidente e bloqueado a vulnerabilidade."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972477.9178898
-   },
-   "fa29dde5c84c993c": {
-    "resumo": "O Instagram começou a lançar a ferramenta \"Content Protection\" para criadores elegíveis protegerem seus vídeos contra cópias não autorizadas na plataforma e no Facebook. O recurso monitora correspondências visuais exatas e notifica o autor, permitindo que ele bloqueie, reivindique a autoria, monitore ou permita a reprodução da cópia. Adicionalmente, a Meta iniciou testes para detectar vídeos gerados por inteligência artificial que reutilizem as falas de conteúdos originais com visuais modificados.",
-    "pontos": [
-     "A ferramenta Content Protection permite que criadores gerenciem e bloqueiem cópias não autorizadas de seus vídeos.O sistema notifica autores sobre correspondências exatas encontradas no Instagram e Facebook.A Meta também testa a detecção de vídeos modificados por IA que utilizem áudios de conteúdos originais."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972477.91789
-   },
    "d7088f367b5b1fea": {
     "resumo": "A Nvidia descartou a recontratação de Jensen Huang como presidente-executivo após sua renúncia devido a revelações sobre sua vida pessoal e investigações. O conselho nomeou Colette Kress como CEO interina e contratou uma empresa de recrutamento para buscar um substituto definitivo. Enquanto isso, o caso gerou debates políticos e de segurança nos EUA, e a empresa busca tranquilizar investidores e clientes sobre sua liderança e operações. Veículos divergem sobre os detalhes exatos das investigações e a pressão política envolvendo o governo dos EUA.",
     "pontos": [
@@ -2791,7 +2652,7 @@
      "O método também estenderia a versão generalizada do problema."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218639.6689715
+    "usado_em": 1795242096.8976183
    },
    "c14188884e409163": {
     "resumo": "O Google atualizou oficialmente a página inicial de seu buscador na versão para computadores, adicionando uma barra lateral para acessar o histórico de conversas com inteligência artificial. A mudança elimina o botão dedicado de pesquisa da interface principal, mantendo atalhos para geração de imagens, análise de arquivos e brainstorming com o Gemini. O recurso está sendo liberado globalmente para facilitar a continuidade das interações no Modo IA.",
@@ -2801,7 +2662,7 @@
      "A novidade foi anunciada por Robby Stein e liberada globalmente para desktop."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218639.668974
+    "usado_em": 1795242096.897621
    },
    "d778175ce05db096": {
     "resumo": "A Meta informou nesta quinta-feira que está reavaliando sua meta de neutralidade de carbono até 2030 devido à expansão acelerada da inteligência artificial. A empresa relatou um aumento de 45% em suas emissões líquidas em 2025 impulsionado pela construção de data centers de IA. Com isso, a companhia revisa prazos e abandona compromissos anteriores de uso exclusivo de energia renovável.",
@@ -2811,7 +2672,7 @@
      "A corrida por infraestrutura de data centers dificultou o cumprimento dos objetivos ambientais."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218639.6689746
+    "usado_em": 1795242096.8976219
    },
    "4eb0f173c2f946f9": {
     "resumo": "O lançamento de GTA 6 pela Rockstar Games e Take-Two Interactive arrecadou US$ 3,79 bilhões e vendeu 32,5 milhões de cópias antecipadas em seu primeiro dia. O desempenho estabeleceu um novo recorde histórico para produtos de entretenimento em qualquer mídia. O jogo alcançou nota 99 no Metacritic e superou marcas anteriores da própria franquia e do cinema.",
@@ -2831,7 +2692,7 @@
      "O plano foi anunciado sem detalhes prévios e pode encontrar resistência política."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218639.6689758
+    "usado_em": 1795242096.8976235
    },
    "9022b75d4f011e71": {
     "resumo": "Um grupo de extorsão digital chamado n0n reivindicou o vazamento de dados de clientes associados a Visa, Mastercard e JPMorgan Chase. As empresas confirmaram incidentes cibernéticos envolvendo fornecedores terceirizados, mas asseguraram que suas redes principais e sistemas de pagamento não foram comprometidos. As informações expostas incluem dados de marketing como nomes e e-mails, sem afetar números de cartões.",
@@ -2842,14 +2703,66 @@
     ],
     "enquadramentos": {},
     "usado_em": 1795218639.6689765
+   },
+   "7bcb751ed1a2f6d3": {
+    "resumo": "A Black November traz diversas ofertas no varejo digital, incluindo descontos em eletrônicos como o tablet Lenovo Idea Tab Pro Gen 2 na Amazon e o robô aspirador Eufy Omni C28. No entanto, o período também atrai cibercriminosos que utilizam perfis e anúncios falsos para aplicar golpes online. Especialistas recomendam cautela e verificação rigorosa dos canais de compra para evitar fraudes com Pix e boletos.",
+    "pontos": [
+     "Lenovo Idea Tab Pro Gen 2 em oferta na Amazon.",
+     "Eufy Omni C28 com desconto antes da Black Friday.",
+     "Aumento de perfis e anúncios falsos durante o período promocional."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242096.897615
+   },
+   "c5a1c8811e75f376": {
+    "resumo": "A inteligência artificial está transformando a indústria da perfumaria ao auxiliar na criação de novas formulações e na superação de paradoxos químicos. Empresas como Estée Lauder e IFF utilizam algoritmos para reduzir o tempo de desenvolvimento de fragrâncias e verificar requisitos regulatórios internacionais. Além disso, a tecnologia ajuda na busca por moléculas sintéticas que substituam ingredientes de origem animal.",
+    "pontos": [
+     "Uso de IA para acelerar a criação de perfumes.",
+     "Redução do tempo de desenvolvimento entre 25% e 30%.",
+     "Busca por alternativas sintéticas a ingredientes animais."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242096.8976169
+   },
+   "dcf38048562ccc19": {
+    "resumo": "A eShop da Nintendo está com descontos de até 90% em diversos jogos para Nintendo Switch e Switch 2, incluindo títulos como Moving Out e Persona 3 Reload. Paralelamente, proprietários do novo console da Nintendo encontram promoções em cartões microSD Express para expandir o armazenamento interno. Cupons de desconto em varejistas parceiras também facilitam a aquisição de consoles e acessórios.",
+    "pontos": [
+     "Jogos para Nintendo Switch e Switch 2 em promoção na eShop.",
+     "Descontos em cartões microSD Express para expansão de armazenamento.",
+     "Opções de parcelamento e cupons para compra de consoles."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242096.8976197
+   },
+   "5ede25dea4da8bf5": {
+    "resumo": "O lançamento de Grand Theft Auto VI (GTA 6) bateu recordes históricos na indústria do entretenimento ao arrecadar US$ 3,79 bilhões no primeiro dia. A Take-Two Interactive informou que o jogo vendeu 32,5 milhões de cópias na pré-venda e alcançou nota 99 no Metacritic. O desempenho supera com folga marcas anteriores de GTA 5 e de grandes produções cinematográficas de Hollywood.",
+    "pontos": [
+     "GTA 6 arrecada US$ 3,79 bilhões no primeiro dia.",
+     "Vendas antecipadas atingem 32,5 milhões de cópias.",
+     "Jogo supera recordes anteriores da franquia e do cinema."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795242096.8976228
    }
   }
  },
  "carros": {
-  "chave": "de9761f331815d85",
+  "chave": "2c6cecad01b1ebbe",
   "grupos": [
    {
-    "titulo": "Nova picape hibrida da Toyota",
+    "titulo": "Microveículos chineses e confusão com carros no Brasil",
+    "ids": [
+     "0b91d6b58c9d"
+    ]
+   },
+   {
+    "titulo": "Desconto em multas de trânsito em São Paulo",
+    "ids": [
+     "473973b56311"
+    ]
+   },
+   {
+    "titulo": "Nova picape híbrida Toyota Corolla Deck",
     "ids": [
      "5aee52d29023",
      "f93807a8d936",
@@ -2857,7 +2770,7 @@
     ]
    },
    {
-    "titulo": "Lamborghini Temerario Spyder",
+    "titulo": "Novo Lamborghini Temerario Spyder",
     "ids": [
      "4ef1d0f9077f",
      "3c2824948d33",
@@ -2865,7 +2778,7 @@
     ]
    },
    {
-    "titulo": "Black Friday automotiva",
+    "titulo": "Ofertas de Black Friday para carros e acessórios",
     "ids": [
      "196f74338aa1",
      "c4ea86cfbdeb",
@@ -2873,32 +2786,32 @@
     ]
    },
    {
-    "titulo": "Reducao de lojas da Jaguar no Reino Unido",
+    "titulo": "Redução de concessionárias da Jaguar no Reino Unido",
     "ids": [
      "0029596c8807"
     ]
    },
    {
-    "titulo": "Novo Mercedes-Benz GLB eletrico",
+    "titulo": "Novo Mercedes-Benz GLB elétrico",
     "ids": [
      "4e6c5c6981d8",
      "ba191e1bdfcc"
     ]
    },
    {
-    "titulo": "Novo SUV da Honda com tecnologia hibrida",
+    "titulo": "Lançamento do SUV Honda Avancier",
     "ids": [
      "6e4c14f1fdbb"
     ]
    },
    {
-    "titulo": "Teste de seguranca da Geely",
+    "titulo": "Teste de segurança da Geely com queda de penhasco",
     "ids": [
      "123d25ea559c"
     ]
    },
    {
-    "titulo": "Volkswagen Golf GTI Rabbit 2027",
+    "titulo": "Volkswagen Golf GTI Rabbit 2027 nos EUA",
     "ids": [
      "fb75cbbca996"
     ]
@@ -2910,13 +2823,13 @@
     ]
    },
    {
-    "titulo": "Legislacao sobre peliculas em carros",
+    "titulo": "Legislação sobre películas de vidro e antivandalismo",
     "ids": [
      "428eb198b5f2"
     ]
    },
    {
-    "titulo": "Volkswagen ID. Polo GTI Clubsport",
+    "titulo": "Conceito esportivo elétrico Volkswagen ID. Polo GTI Clubsport",
     "ids": [
      "c6152b113f3a",
      "e2fd721e8ee3",
@@ -2924,105 +2837,61 @@
     ]
    },
    {
-    "titulo": "Comparativo entre Toyota Corolla Cross e Hyundai Creta",
+    "titulo": "Comparativo entre Toyota Corolla Cross e Hyundai Creta N Line",
     "ids": [
      "e126ddb31491"
     ]
    },
    {
-    "titulo": "Descontos na picape BYD Shark",
+    "titulo": "Desconto na picape BYD Shark",
     "ids": [
      "3d56d9772cf7"
     ]
    },
    {
-    "titulo": "Hyundai HB20 usado",
+    "titulo": "Guia de compra de versões usadas do Hyundai HB20",
     "ids": [
      "8bed9db1e7b1"
     ]
    },
    {
-    "titulo": "Novo SUV Jetour",
+    "titulo": "Novo SUV Jetour T0 para 2027",
     "ids": [
-     "96fb8774e2ab",
-     "276a546f1ed5"
+     "96fb8774e2ab"
     ]
    },
    {
-    "titulo": "Panorama de recarga de carros eletricos no Brasil",
+    "titulo": "Panorama da infraestrutura de recarga para carros elétricos no Brasil",
     "ids": [
-     "2ce0b96a20eb",
+     "2ce0b96a20eb"
+    ]
+   },
+   {
+    "titulo": "Instalação de carregador ultrarrápido para caminhões pela BYD",
+    "ids": [
      "dd3ca4e276f7"
     ]
    },
    {
-    "titulo": "Picape Willys eleita Carro do Ano",
+    "titulo": "Premiação da Picape Willys como Carro do Ano",
     "ids": [
      "b6b53dfeecb6"
     ]
    },
    {
-    "titulo": "Idade maxima de carros de autoescola",
-    "ids": [
-     "3707fafd172a"
-    ]
-   },
-   {
-    "titulo": "Carros inspirados em jogos",
-    "ids": [
-     "002097641d66"
-    ]
-   },
-   {
-    "titulo": "SUVs com estilo de cupe",
+    "titulo": "Lista de SUVs com estilo de cupê",
     "ids": [
      "08e03f85aabc"
     ]
    },
    {
-    "titulo": "Carros usados da Toyota",
+    "titulo": "Carros usados da Toyota com câmbio automático",
     "ids": [
      "afccbd294797"
     ]
    },
    {
-    "titulo": "Plano de demissao voluntaria da GM",
-    "ids": [
-     "40732bd23a3d"
-    ]
-   },
-   {
-    "titulo": "Mitsubishi Triton com versao para o agro",
-    "ids": [
-     "abec4adbb090"
-    ]
-   },
-   {
-    "titulo": "Vendas de plataformas da Stellantis",
-    "ids": [
-     "1ad9d119b173"
-    ]
-   },
-   {
-    "titulo": "Transformacao de Quantum em motorhome",
-    "ids": [
-     "a9ecb753d778"
-    ]
-   },
-   {
-    "titulo": "Checagem de fatos sobre imposto de carros",
-    "ids": [
-     "2e908c7f019e"
-    ]
-   },
-   {
-    "titulo": "Toyota Tacoma hibrida no Brasil",
-    "ids": [
-     "eb8973ca0ab6"
-    ]
-   },
-   {
-    "titulo": "Scooter Dafra SYM Joyride 300",
+    "titulo": "Lançamento da scooter Dafra SYM Joyride 300",
     "ids": [
      "918f8c363911"
     ]
@@ -3032,19 +2901,51 @@
     "ids": [
      "c72e4a7081e9"
     ]
+   },
+   {
+    "titulo": "Plano de demissão voluntária da GM em São José dos Campos",
+    "ids": [
+     "40732bd23a3d"
+    ]
+   },
+   {
+    "titulo": "Mitsubishi Triton com versão especial para o agro",
+    "ids": [
+     "abec4adbb090"
+    ]
+   },
+   {
+    "titulo": "Análise das plataformas de vendas da Stellantis",
+    "ids": [
+     "1ad9d119b173"
+    ]
+   },
+   {
+    "titulo": "Casal transforma Quantum 1995 em motorhome",
+    "ids": [
+     "a9ecb753d778"
+    ]
+   },
+   {
+    "titulo": "Checagem de fake news sobre imposto em carros",
+    "ids": [
+     "2e908c7f019e"
+    ]
+   },
+   {
+    "titulo": "Anúncio de fábrica e investimento da Jetour no Brasil",
+    "ids": [
+     "276a546f1ed5"
+    ]
+   },
+   {
+    "titulo": "Confirmação da picape Toyota Tacoma híbrida no Brasil",
+    "ids": [
+     "eb8973ca0ab6"
+    ]
    }
   ],
   "resumos": {
-   "39b9cbfc717b79a5": {
-    "resumo": "A Tesla abriu encomendas para o Cybercab para clientes selecionados nos Estados Unidos, com preço inicial de US$ 29.990 e entregas previstas para dezembro de 2026. O modelo autônomo, que não possui volante ou pedais, exige o pagamento obrigatório de uma assinatura mensal de autonomia de US$ 299 e só pode circular em áreas restritas de cidades no Texas e na Flórida. Além disso, o veículo já é alvo de investigação pela NHTSA sobre sua conformidade com os padrões federais de segurança.",
-    "pontos": [
-     "Tesla abre pré-venda do robotáxi Cybercab por US$ 29.990 nos EUA",
-     "Exigência de assinatura mensal obrigatória de US$ 299 para operação",
-     "Veículo é investigado pela NHTSA e tem circulação restrita a algumas cidades do Texas e Flórida"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1794972480.6988716
-   },
    "aedbfcfa6900bd4f": {
     "resumo": "O BYD Dolphin GT, nome provisório para a versão híbrida plug-in do hatch, começou a ser estocado no Brasil com unidades importadas no Espírito Santo. O lançamento oficial no mercado brasileiro está previsto para o primeiro trimestre de 2027. O modelo ocupará uma posição entre o Dolphin Mini e o Dolphin SE na linha nacional. Posteriormente, a produção do veículo deverá ocorrer na fábrica da BYD em Camaçari, na Bahia.",
     "pontos": [
@@ -3237,7 +3138,7 @@
      "Concorrerá no segmento de picapes intermediárias contra Fiat Toro e outros."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218650.9270253
+    "usado_em": 1795242099.6949918
    },
    "7346aef9e3a7964d": {
     "resumo": "A Lamborghini lançou o Temerario Spyder, versão conversível do superesportivo que abandona a tradicional capota de lona em favor de um teto rígido retrátil inédito. O modelo é equipado com motor V8 4.0 biturbo combinado a três motores elétricos, gerando 920 cv de potência combinada. O conjunto permite ir de 0 a 100 km/h em 2,8 segundos e atingir velocidade máxima de 343 km/h. O teto rígido opera eletricamente de forma silenciosa e se posiciona verticalmente atrás dos bancos, mantendo a estabilidade e reduzindo o centro de gravidade em 0,3 cm.",
@@ -3248,7 +3149,7 @@
      "Estrutura projetada para manter o desempenho e aerodinâmica do cupê."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218650.9270275
+    "usado_em": 1795242099.6949947
    },
    "72f45354ca765d99": {
     "resumo": "A Volkswagen revelou o ID. Polo GTI Clubsport Concept, um protótipo elétrico de pista voltado a celebrar os 50 anos da sigla GTI. Desenvolvido sobre a plataforma MEB+, o conceito adota tração dianteira e um motor elétrico adaptado do ID.7 para entregar 362 ou 367 cv de potência, acelerando de 0 a 100 km/h em 4,7 segundos. O modelo traz modificações radicais para uso em circuito, incluindo carroceria de duas portas, para-lamas alargados, freios carbono-cerâmicos e interior esvaziado com gaiola de proteção. Por ser apenas um conceito, ele não tem previsão de comercialização direta.",
@@ -3259,7 +3160,7 @@
      "Apresentado para celebrar os 50 anos da sigla GTI."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218650.9270284
+    "usado_em": 1795242099.6949956
    },
    "d3a37e393452f376": {
     "resumo": "A marca Omoda & Jaecoo entrou na campanha de Black Friday de 2026 com ofertas agressivas para seus SUVs no Brasil. O destaque é o Jaecoo 5 Comfort, versão de entrada do SUV híbrido de 224 cv, anunciado por R$ 149.990 em oferta limitada a 750 unidades e condicionada à entrega de um veículo usado. A promoção também inclui opções de financiamento com taxa zero e bônus de valorização para seminovos em outros modelos da linha, como o Jaecoo 5 Prestige e os SUVs Omoda 5, Omoda 7 e Jaecoo 7.",
@@ -3270,7 +3171,7 @@
      "Outros modelos da marca contam com financiamento a taxa zero."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218650.9270291
+    "usado_em": 1795242099.6949968
    },
    "6755252cbb4b7d12": {
     "resumo": "A Mercedes-Benz iniciou as vendas no Brasil do novo GLB 250+ AMG Line, SUV elétrico de sete lugares tabelado em R$ 409.900. O modelo substitui o antigo EQB trazendo a nova plataforma MMA com arquitetura de 800 volts, bateria ampliada para 85 kWh e autonomia de 427 km pelo Inmetro. No desempenho, o motor traseiro entrega 272 cv, levando o SUV de 0 a 100 km/h em 7,4 segundos e aceitando recargas rápidas de até 320 kW. O interior destaca-se pela adoção do sistema MB.OS e três telas integradas no painel.",
@@ -3281,7 +3182,7 @@
      "Interior renovado com arquitetura de três telas e sistema MB.OS."
     ],
     "enquadramentos": {},
-    "usado_em": 1795218650.9270303
+    "usado_em": 1795242099.6949975
    },
    "d1f9d0b2da87b8d8": {
     "resumo": "A montadora chinesa Jetour anunciou um investimento adicional de R$ 400 milhões para iniciar a fabricação nacional dos SUVs T1 e T2 no Brasil a partir de 2027, totalizando R$ 800 milhões aportados no país. Além disso, a marca confirmou a chegada do inédito SUV T0 em 2027, posicionado como modelo de entrada da família T e oferecido em versões híbrida plug-in e 100% elétrica. A Jetour também planeja expandir sua rede para 150 concessionárias até o fim de 2027 e introduzir tecnologias de motorização flex.",
@@ -3308,233 +3209,439 @@
   }
  },
  "politica": {
-  "chave": "5c183f25863cc3de",
+  "chave": "70f9b43eab35f176",
   "grupos": [
    {
-    "titulo": "Destruição em Tupanciretã após temporal",
+    "titulo": "Sonda Hera da ESA investiga asteroide atingido pela NASA",
     "ids": [
-     "f06d7326105e",
-     "61494e3e53b7",
-     "c68618acda4a",
-     "d882a7188252",
-     "ef74bef18f3e",
-     "db36bab23efd",
-     "2c1584ce058d",
-     "728375fb75cf"
+     "bd24823268fe"
     ]
    },
    {
-    "titulo": "Ataques a Kiev atingem embaixadas",
+    "titulo": "Combate a infestação de percevejos",
     "ids": [
-     "1a4129b88350",
-     "060114045f32",
-     "3e93990c20dc"
+     "a2969e194ede"
     ]
    },
    {
-    "titulo": "Manutenção de medidas cautelares e passaportes de Flávio Bolsonaro",
+    "titulo": "Investimentos para modernizar rodovias na Rota Arco Norte",
     "ids": [
-     "51ee4e1c76bf",
-     "ef390ebfe433",
-     "03f40ed72ec3",
-     "2064e0446011",
-     "c942cca9b506",
-     "d12e46a85523"
+     "f0c50169fab6"
     ]
    },
    {
-    "titulo": "Declarações de Gilmar Mendes sobre impeachment no STF",
+    "titulo": "Regra do Código de Trânsito sobre estacionar em frente à própria garagem",
     "ids": [
-     "2cd06e36cfb0",
+     "973c7f84325d"
+    ]
+   },
+   {
+    "titulo": "Cidade do Nordeste referência no estudo de terremotos",
+    "ids": [
+     "597d56bd0bd0"
+    ]
+   },
+   {
+    "titulo": "Uso de anéis de árvores e gelo vulcânico para datar a queda da Babilônia",
+    "ids": [
+     "7a7ed6421aee"
+    ]
+   },
+   {
+    "titulo": "Marcas genéticas em patos selvagens devido a solturas",
+    "ids": [
+     "56e1e59ea668"
+    ]
+   },
+   {
+    "titulo": "Dados do crédito rural empresarial na safra 2026/2027",
+    "ids": [
+     "ff8b51683059"
+    ]
+   },
+   {
+    "titulo": "Especificações técnicas da motocicleta Yamaha MT-03",
+    "ids": [
+     "b2c7374ccdc6"
+    ]
+   },
+   {
+    "titulo": "Desafio matemático sobre ordem de operações",
+    "ids": [
+     "5a64c0148b30",
+     "918ddb5b0ee4"
+    ]
+   },
+   {
+    "titulo": "Produtora recebe título de propriedade após anos de espera",
+    "ids": [
+     "75d7c24b1b78"
+    ]
+   },
+   {
+    "titulo": "Articulação internacional e política externa do governo Lula",
+    "ids": [
+     "ed64993ec153",
+     "12777fc634ce",
+     "55ba11ec7b3e"
+    ]
+   },
+   {
+    "titulo": "Impactos da jornada de trabalho na escala 5x2",
+    "ids": [
+     "afd03d6e1498"
+    ]
+   },
+   {
+    "titulo": "Ajuste fiscal e cenário político no Senado",
+    "ids": [
+     "1e8e4e63cfc0"
+    ]
+   },
+   {
+    "titulo": "Votação da OEA sobre combate ao crime organizado",
+    "ids": [
+     "68b58a20f375"
+    ]
+   },
+   {
+    "titulo": "Atuação de Fachin e agenda de reformas no STF",
+    "ids": [
+     "5c148ca0e1a3"
+    ]
+   },
+   {
+    "titulo": "Negociação de dívida de Minas Gerais",
+    "ids": [
+     "59027551a5f0"
+    ]
+   },
+   {
+    "titulo": "Notícias de esporte",
+    "ids": [
+     "d20e6f5bdc1b"
+    ]
+   },
+   {
+    "titulo": "Contratação de passeio de barco pela Abin na Paraíba",
+    "ids": [
+     "dd9dee352b17"
+    ]
+   },
+   {
+    "titulo": "Declarações de deputada estadual negra do Paraná",
+    "ids": [
+     "4299a91845ab"
+    ]
+   },
+   {
+    "titulo": "Prisão de suspeita de esquema de falsos investimentos pela PF",
+    "ids": [
+     "a1fc23e89ee5"
+    ]
+   },
+   {
+    "titulo": "Terremoto de magnitude 6,7 no Peru",
+    "ids": [
+     "d38a50bbd517"
+    ]
+   },
+   {
+    "titulo": "Investigação de brasileiros ligados ao PCC e CV na Bolívia",
+    "ids": [
+     "35ba32129922"
+    ]
+   },
+   {
+    "titulo": "Projeto de deputado para proibir novos inquéritos das fake news",
+    "ids": [
+     "9d3fc05fc8ab"
+    ]
+   },
+   {
+    "titulo": "Decisão sobre eleição de Ney Santos e ligação com o PCC",
+    "ids": [
+     "a32ec6eaf084"
+    ]
+   },
+   {
+    "titulo": "Hábitos saudáveis e prevenção da demência",
+    "ids": [
+     "2d04d00fe7c0"
+    ]
+   },
+   {
+    "titulo": "Treino Livre em Las Vegas na Fórmula 1",
+    "ids": [
+     "35e87718f1f2"
+    ]
+   },
+   {
+    "titulo": "Manifestação empresarial sobre processo contra Van Hattem no STF",
+    "ids": [
+     "40f6c56b507c",
+     "05580166b685"
+    ]
+   },
+   {
+    "titulo": "Embaixada brasileira na Ucrânia atingida por destroços",
+    "ids": [
+     "6339f23d49a6",
+     "1a4129b88350"
+    ]
+   },
+   {
+    "titulo": "Relatório da PF cita André Mendonça no caso Master",
+    "ids": [
+     "ac15015a5ec8",
+     "bb4c54ebc68d",
+     "ac0e28fc47eb",
+     "82dee44b7e67",
+     "e9add77fdb16",
+     "0d94c5d52cb2",
+     "8629f9777947",
+     "dc0417e1f287",
+     "402a7911b1fc"
+    ]
+   },
+   {
+    "titulo": "Representação na PGR contra deputado por chamar Lula de bêbado",
+    "ids": [
+     "df4ee8e47f6b"
+    ]
+   },
+   {
+    "titulo": "Perda de seguidores no canal de André Janones",
+    "ids": [
+     "e147a84202d6",
+     "70f2e47635d9"
+    ]
+   },
+   {
+    "titulo": "Investidor do Botafogo desembolsa milhões",
+    "ids": [
+     "7f47f49a1cf9"
+    ]
+   },
+   {
+    "titulo": "Julgamento de Marcel van Hattem no STF",
+    "ids": [
+     "085f8217cae7",
+     "1eb85dda2deb",
+     "93f745eaed55",
+     "3a7205a08c1f",
+     "83ccabe39f99",
+     "db256f3aed89",
+     "350cb7b3df14"
+    ]
+   },
+   {
+    "titulo": "Declarações de Donald Trump sobre importação agrícola das Filipinas",
+    "ids": [
+     "94f5a5892c28",
+     "4563d7845b95"
+    ]
+   },
+   {
+    "titulo": "Série de comédia SCTV",
+    "ids": [
+     "3f29e2a6451c"
+    ]
+   },
+   {
+    "titulo": "Declarações de Gilmar Mendes sobre sigilo de relatórios e impeachment",
+    "ids": [
+     "b1ced914a987",
+     "bff6de19708e",
+     "7ffda0325bc9",
+     "fc9e598b5667",
+     "70dff94985ba",
      "c8a7656f39ef"
     ]
    },
    {
-    "titulo": "Prisão preventiva de Daniel Vorcaro",
+    "titulo": "Apoio da Conmebol à reeleição de Infantino na Fifa",
     "ids": [
-     "0d94c5d52cb2",
-     "32f8bf203839",
-     "cb337e47d71d"
+     "f9750480f38c"
     ]
    },
    {
-    "titulo": "Flávio pede homenagem a Bolsonaro após internação",
-    "ids": [
-     "435c28e04b93"
-    ]
-   },
-   {
-    "titulo": "Uma fenda de quase 6 quilômetros abre paredões de até 720 metros entre montanhas brasileiras e forma um dos maiores cânions do país",
-    "ids": [
-     "5c75cedba924"
-    ]
-   },
-   {
-    "titulo": "De Leste a Oeste, com Ana Paula Henkel: assista ao programa de 20/11/2026",
+    "titulo": "Programa De Leste a Oeste com Ana Paula Henkel",
     "ids": [
      "313b02c59c6d"
     ]
    },
    {
-    "titulo": "Caso Master: Gilmar Mendes defende retirada de sigilos e julgamento em plenário do STF",
-    "ids": [
-     "7ffda0325bc9"
-    ]
-   },
-   {
-    "titulo": "Bolsonaro tem obstrução intestinal quase completa, diz Carlos",
-    "ids": [
-     "6d6f1b6fad16"
-    ]
-   },
-   {
-    "titulo": "“Zanin fez o correto”, diz Van Hattem sobre julgamento no STF",
-    "ids": [
-     "93f745eaed55"
-    ]
-   },
-   {
-    "titulo": "STF aprova retomada do novo auxílio emergencial para pessoas atingidas por tragédia em Brumadinho",
+    "titulo": "Retomada de auxílio emergencial para tragédia em Brumadinho",
     "ids": [
      "a6dff5adf53e"
     ]
    },
    {
-    "titulo": "Marinho: Bolsonaro “continua preso por crime impossível em país de impunidades”",
+    "titulo": "Partida entre Palmeiras e Flamengo no Campeonato Brasileiro",
     "ids": [
-     "a1679d6c56e5"
+     "3d7199708d6e"
     ]
    },
    {
-    "titulo": "Bolsonaro é levado ao hospital após quadro de dor e distensão abdominal",
-    "ids": [
-     "2a53c5225d07"
-    ]
-   },
-   {
-    "titulo": "Van Hattem: imunidade parlamentar ‘não é para me proteger, é para proteger meu eleitor’",
-    "ids": [
-     "f06335dcefe9"
-    ]
-   },
-   {
-    "titulo": "Marinho acusa Dino de relativizar imunidade parlamentar no caso Van Hattem",
-    "ids": [
-     "1fdbd84f70b5"
-    ]
-   },
-   {
-    "titulo": "Sistema de blocos de plástico reciclado promete montar casa em 5 dias, mas prazo não inclui fundação nem acabamentos",
-    "ids": [
-     "a1ecb94d6f49"
-    ]
-   },
-   {
-    "titulo": "Carlos desabafa sobre situação do pai: ‘O objetivo ainda é matar Jair Bolsonaro’",
-    "ids": [
-     "56ddf51f8771"
-    ]
-   },
-   {
-    "titulo": "Hospital identifica obstrução intestinal em Bolsonaro e médicos não descartam cirurgia",
-    "ids": [
-     "218464eec2de"
-    ]
-   },
-   {
-    "titulo": "Florestas de mangue ganharam ajuda de plantas que vivem debaixo d’água",
-    "ids": [
-     "d656a4d0c975"
-    ]
-   },
-   {
-    "titulo": "Quando Paulinho volta ao Palmeiras? Entenda a situação do atacante",
+    "titulo": "Situação do jogador Paulinho no Palmeiras",
     "ids": [
      "b174b32be7fa"
     ]
    },
    {
-    "titulo": "Bolsonaro está com obstrução parcial do intestino delgado",
-    "ids": [
-     "32cfcbab0cec"
-    ]
-   },
-   {
-    "titulo": "Um carro 1.0 que faz 15,4 km/l na cidade e ainda traz visual aventureiro: Citroën C3 XTR surpreende pelo consumo de combustível",
-    "ids": [
-     "3ad0fa3aa236"
-    ]
-   },
-   {
-    "titulo": "A Força do Agro #874: assista ao programa de 20/11/2026",
-    "ids": [
-     "e06b54c71ff6"
-    ]
-   },
-   {
-    "titulo": "Não vejo problema, mas não resolve a questão, diz Gilmar sobre abertura de sigilo do STF no caso Master",
-    "ids": [
-     "bff6de19708e"
-    ]
-   },
-   {
-    "titulo": "Lasanha de frango com molho branco: receita cremosa para o jantar de sexta-feira",
+    "titulo": "Receitas culinárias",
     "ids": [
      "0f7ffa686ab5"
     ]
    },
    {
-    "titulo": "Ansiedade de domingo: 5 sinais de que a preocupação com a nova semana passou do normal",
+    "titulo": "Sinais de ansiedade de domingo",
     "ids": [
      "2c8220c3d51b"
     ]
    },
    {
-    "titulo": "Pedalar em bicicleta ergométrica ou ao ar livre: existem diferenças para o corpo?",
+    "titulo": "Comparação entre pedalar em bicicleta ergométrica e ao ar livre",
     "ids": [
      "4fa6d0de97c5"
     ]
    },
    {
-    "titulo": "Recupere a vitalidade: 5 plantas para utilizar em banhos e renovar as energias",
+    "titulo": "Uso de plantas em banhos para renovação de energias",
     "ids": [
      "6afe4dc87072"
     ]
    },
    {
-    "titulo": "Gilmar diz ‘não ver problema’ em abertura de sigilo sobre relatório de ministros do STF e Master",
-    "ids": [
-     "fc9e598b5667"
-    ]
-   },
-   {
-    "titulo": "Advogados de direita divulgam nota em defesa de Van Hattem",
-    "ids": [
-     "fd531fc38a27"
-    ]
-   },
-   {
-    "titulo": "El Niño atrasa chuvas e estiagem afeta rios na Amazônia",
+    "titulo": "Impacto do El Niño e estiagem na Amazônia",
     "ids": [
      "d76326eb56eb"
     ]
    },
    {
-    "titulo": "Corinthians pode perder Kaio César para clube do Brasileirão caso não o contrate, aponta jornalista",
+    "titulo": "Situação do jogador Kaio César e interesse do Corinthians",
     "ids": [
      "e68914912ae7"
     ]
    },
    {
-    "titulo": "Caso Master: veja o que mensagens apreendidas pela PF dizem sobre Mendonça",
+    "titulo": "Pressão sobre o PSDB e possível aceno a Lula",
     "ids": [
-     "82dee44b7e67"
+     "5e614bc1fb05"
     ]
    },
    {
-    "titulo": "Dino vota para tornar Van Hattem réu por calúnia, mas julgamento é suspenso após pedido de Zanin",
+    "titulo": "Declaração de Trump sobre posição de Putin em relação à guerra na Ucrânia",
     "ids": [
-     "1eb85dda2deb"
+     "e6a8888922a3"
+    ]
+   },
+   {
+    "titulo": "Saúde materna e disparidades em pré-natal e prematuridade",
+    "ids": [
+     "643a627cb784"
+    ]
+   },
+   {
+    "titulo": "Ações do governo federal após temporal no Rio Grande do Sul",
+    "ids": [
+     "d882a7188252",
+     "2c1584ce058d",
+     "ef74bef18f3e",
+     "db36bab23efd"
+    ]
+   },
+   {
+    "titulo": "Mudanças na Lei da Dosimetria e redução de penas",
+    "ids": [
+     "5269280f504f"
+    ]
+   },
+   {
+    "titulo": "Denúncia aceita por Flávio Dino contra ex-ministro por desvio de emendas",
+    "ids": [
+     "e89acfb1c8e8"
+    ]
+   },
+   {
+    "titulo": "Ajuste econômico e equipe econômica na Câmara",
+    "ids": [
+     "b223c529e9ac"
+    ]
+   },
+   {
+    "titulo": "Gastos do Senado com troca de carpetes",
+    "ids": [
+     "67e90a5f6fa2"
+    ]
+   },
+   {
+    "titulo": "Decisões de Alexandre de Moraes sobre passaportes de Flávio Bolsonaro",
+    "ids": [
+     "51ee4e1c76bf",
+     "ef390ebfe433",
+     "2064e0446011"
+    ]
+   },
+   {
+    "titulo": "Acordo entre Reino Unido e União Europeia após o Brexit",
+    "ids": [
+     "188014301fe7"
+    ]
+   },
+   {
+    "titulo": "Faturamento do jogo GTA VI",
+    "ids": [
+     "0f8c5fba2e78"
+    ]
+   },
+   {
+    "titulo": "Dinamarca avalia restringir vistos a russos",
+    "ids": [
+     "9788b4b8f596"
+    ]
+   },
+   {
+    "titulo": "Declarações de ex-presidente do BRB sobre votação",
+    "ids": [
+     "03c0986c7558"
+    ]
+   },
+   {
+    "titulo": "Declarações de Tereza Cristina sobre Michelle Bolsonaro",
+    "ids": [
+     "c8d4c0e7d35d"
+    ]
+   },
+   {
+    "titulo": "Empregos da economia verde no Brasil",
+    "ids": [
+     "5c2b17e45ce0"
+    ]
+   },
+   {
+    "titulo": "Decisão sobre suspensão de privatização no Paraná",
+    "ids": [
+     "03f40ed72ec3"
+    ]
+   },
+   {
+    "titulo": "Bolsonaro passa noite internado com inflamação no intestino e sem previsão de alta",
+    "ids": [
+     "2f6eb5716fb6"
+    ]
+   },
+   {
+    "titulo": "Bolsonaro é internado após quadro de dor abdominal; cirurgia não é descartada",
+    "ids": [
+     "2a53c5225d07"
+    ]
+   },
+   {
+    "titulo": "Hospital identifica obstrução intestinal em Bolsonaro, e médicos não descartam cirurgia",
+    "ids": [
+     "218464eec2de"
     ]
    },
    {
@@ -3544,39 +3651,9 @@
     ]
    },
    {
-    "titulo": "PSDB sofre pressão para definir atuação e não descarta aceno indireto a Lula",
-    "ids": [
-     "5e614bc1fb05"
-    ]
-   },
-   {
-    "titulo": "Putin deseja fim da guerra na Ucrânia por via diplomática, diz Trump",
-    "ids": [
-     "e6a8888922a3"
-    ]
-   },
-   {
     "titulo": "Bolsonaro está medicado, em observação e sem previsão de alta, diz médico",
     "ids": [
      "68fedd499330"
-    ]
-   },
-   {
-    "titulo": "Marcel van Hattem: o artigo 53 da Constituição não pode virar letra morta",
-    "ids": [
-     "57da80e067da"
-    ]
-   },
-   {
-    "titulo": "Com menos acesso a pré-natal, mães pretas têm bebês com mais chance de nascerem prematuros e com baixo peso",
-    "ids": [
-     "643a627cb784"
-    ]
-   },
-   {
-    "titulo": "Cristiano Zanin interrompe julgamento de Marcel van Hattem no STF",
-    "ids": [
-     "3a7205a08c1f"
     ]
    },
    {
@@ -3592,45 +3669,15 @@
     ]
    },
    {
-    "titulo": "Entidades manifestam preocupação e perplexidade com julgamento de Van Hattem",
-    "ids": [
-     "05580166b685"
-    ]
-   },
-   {
     "titulo": "Bolsonaro é internado com quadro de dor e distensão abdominal, diz boletim",
     "ids": [
      "d3b0efec8e40"
     ]
    },
    {
-    "titulo": "Mendonça expõe falsa equivalência no caso Master; Moraes, Nunes e Toffoli também abrirão sigilo?",
-    "ids": [
-     "dc0417e1f287"
-    ]
-   },
-   {
     "titulo": "Bolsonaro é levado a hospital após sentir dor abdominal",
     "ids": [
      "70e35b31aafb"
-    ]
-   },
-   {
-    "titulo": "Mudanças na Lei da Dosimetria geram ‘redução absoluta no montante final das penas fixadas’; entenda",
-    "ids": [
-     "5269280f504f"
-    ]
-   },
-   {
-    "titulo": "Relatório da PF prova que André Mendonça contrariou interesse de Vorcaro no STF",
-    "ids": [
-     "e9add77fdb16"
-    ]
-   },
-   {
-    "titulo": "Oeste Sem Filtro: assista ao programa de 20/11/2026",
-    "ids": [
-     "2820f97ae4f4"
     ]
    },
    {
@@ -3658,63 +3705,9 @@
     ]
    },
    {
-    "titulo": "Presidente do Novo condena voto de Dino contra Van Hattem: 'anormalidade democrática'",
-    "ids": [
-     "83ccabe39f99"
-    ]
-   },
-   {
     "titulo": "Bolsonaro é encaminhado para o hospital após fortes dores abdominais",
     "ids": [
      "cb0c7f996ea4"
-    ]
-   },
-   {
-    "titulo": "Dino aceita denúncia contra ex-ministro de Lula por desvio de emendas",
-    "ids": [
-     "e89acfb1c8e8"
-    ]
-   },
-   {
-    "titulo": "Gilmar não vê problema em abrir sigilo de relatório sobre STF e Master",
-    "ids": [
-     "70dff94985ba"
-    ]
-   },
-   {
-    "titulo": "Países da ONU estão divididos sobre regulamentação de ‘robôs assassinos’",
-    "ids": [
-     "ef0c03a57e04"
-    ]
-   },
-   {
-    "titulo": "Ialta 2.0 premiou a guerra de Putin",
-    "ids": [
-     "55ba11ec7b3e"
-    ]
-   },
-   {
-    "titulo": "Trump diz que convenceu Filipinas a trocar produtos agrícolas do Brasil pelos dos EUA",
-    "ids": [
-     "4563d7845b95"
-    ]
-   },
-   {
-    "titulo": "Percentual de negros com ensino superior é metade do de brancos",
-    "ids": [
-     "b7076134368c"
-    ]
-   },
-   {
-    "titulo": "É possível nova equipe econômica aprofundar ajuste, diz relator na Câmara",
-    "ids": [
-     "b223c529e9ac"
-    ]
-   },
-   {
-    "titulo": "Flávio Dino apresenta voto para transformar Marcel van Hattem em réu no STF",
-    "ids": [
-     "db256f3aed89"
     ]
    },
    {
@@ -3722,327 +3715,9 @@
     "ids": [
      "65a94172576a"
     ]
-   },
-   {
-    "titulo": "Não se pode conter investimento, diz relator do ajuste fiscal na Câmara",
-    "ids": [
-     "72e8810d6d18"
-    ]
-   },
-   {
-    "titulo": "\"Precisamos ter cuidado\", diz Gilmar sobre reforma no Judiciário",
-    "ids": [
-     "630bd32ec7d8"
-    ]
-   },
-   {
-    "titulo": "Deputados questionam gasto de R$ 3,3 milhões do Senado com troca de carpetes",
-    "ids": [
-     "67e90a5f6fa2"
-    ]
-   },
-   {
-    "titulo": "Torta de liquidificador: 3 receitas práticas e saborosas para o lanche da tarde",
-    "ids": [
-     "d77056747cc3"
-    ]
-   },
-   {
-    "titulo": "Roubo de veículos cai 22% no Brasil e atinge menor número de ocorrências desde 2019",
-    "ids": [
-     "302265952512"
-    ]
-   },
-   {
-    "titulo": "Reino Unido e UE firmam acordo histórico para reaproximar relações dez anos após o Brexit",
-    "ids": [
-     "188014301fe7"
-    ]
-   },
-   {
-    "titulo": "GTA VI já gerou aproximadamente US$ 2,36 bilhões após lançamento",
-    "ids": [
-     "0f8c5fba2e78"
-    ]
-   },
-   {
-    "titulo": "Dinamarca avalia restringir vistos a russos após acusar Moscou de plano contra rapper ucraniano",
-    "ids": [
-     "9788b4b8f596"
-    ]
-   },
-   {
-    "titulo": "Zanin paralisa julgamento sobre Van Hattem e denúncia será analisada em sessão presencial",
-    "ids": [
-     "b2fd268d2bb0"
-    ]
-   },
-   {
-    "titulo": "Ex-presidente do BRB disse que não pediu para votar na prisão porque pensou que já estaria solto",
-    "ids": [
-     "03c0986c7558"
-    ]
-   },
-   {
-    "titulo": "Homem arromba comércio para furtar, finge ser funcionário e é preso em Ceilândia (DF)",
-    "ids": [
-     "90c5dd14e46f"
-    ]
-   },
-   {
-    "titulo": "Michelle Bolsonaro disse ficar feliz por ter uma mulher candidata no Senado, afirma Tereza Cristina",
-    "ids": [
-     "c8d4c0e7d35d"
-    ]
-   },
-   {
-    "titulo": "A pedido de Mendonça, Fachin retira sigilo de relatório da PF sobre o ministro e Vorcaro",
-    "ids": [
-     "4f3beed939e3"
-    ]
-   },
-   {
-    "titulo": "Ventania de 60 km/h destrói teto da UnB e deixa formatura sem energia",
-    "ids": [
-     "fa39be4ca14c"
-    ]
-   },
-   {
-    "titulo": "Quem vai ocupar os empregos da economia verde no Brasil?",
-    "ids": [
-     "5c2b17e45ce0"
-    ]
-   },
-   {
-    "titulo": "Motorista que atropelou bancário em São Caetano estava com CNH cassada desde 2025",
-    "ids": [
-     "4cadb4569a81"
-    ]
-   },
-   {
-    "titulo": "Flávio Bolsonaro questiona STF e defende imunidade parlamentar de Van Hattem",
-    "ids": [
-     "9d9811094c32"
-    ]
-   },
-   {
-    "titulo": "Entenda o que se sabe sobre relatórios da PF a respeito de ministros do STF e o que acontece agora",
-    "ids": [
-     "8629f9777947"
-    ]
-   },
-   {
-    "titulo": "Ministrocracia em debate: como o STF estaria ampliando seu poder no Brasil",
-    "ids": [
-     "8da709ae7304"
-    ]
-   },
-   {
-    "titulo": "Milhares protestam na Itália contra orçamento de Meloni e custo de vida",
-    "ids": [
-     "e4b16a8138dc"
-    ]
-   },
-   {
-    "titulo": "Relatório da PF tem diálogos de Vorcaro sobre Mendonça, mas não aponta conversa direta com ministro",
-    "ids": [
-     "402a7911b1fc"
-    ]
-   },
-   {
-    "titulo": "‘Exército do Lula’ perde 1,4 milhão de seguidores e Janones é criticado por desprezar queixas",
-    "ids": [
-     "70f2e47635d9"
-    ]
-   },
-   {
-    "titulo": "Dino e Moraes votam para tornar Van Hattem réu por calúnia e injúria contra delegado da PF; Zanin leva caso ao plenário físico do STF",
-    "ids": [
-     "350cb7b3df14"
-    ]
-   },
-   {
-    "titulo": "Projeto que impede depoimentos como os de Suzane von Richthofen trava na Alesp",
-    "ids": [
-     "be88b9cdb9f0"
-    ]
-   },
-   {
-    "titulo": "Bastidores: Como a PF vasculhou o celular de Vorcaro em 5 dias para incluir Mendonça em relatório",
-    "ids": [
-     "938bab9c7297"
-    ]
-   },
-   {
-    "titulo": "PSD recorre ao STF e volta a pedir segundo turno entre Paes e Ruas no RJ",
-    "ids": [
-     "4ed18e03ac60"
-    ]
-   },
-   {
-    "titulo": "Fachin retira sigilo de relatório da PF sobre Mendonça após pedido do ministro",
-    "ids": [
-     "c1767402aaa8"
-    ]
    }
   ],
   "resumos": {
-   "f6ee524ec4d5fdb8": {
-    "resumo": "A Procuradoria-Geral da República (PGR) manifestou-se a favor do pedido da Polícia Federal para prorrogar por 90 dias o inquérito sobre o financiamento do filme Dark Horse, que trata da história do ex-presidente Jair Bolsonaro. A investigação apura supostas irregularidades e lavagem de dinheiro envolvendo o senador Flávio Bolsonaro e repasses do empresário Daniel Vorcaro, dono do Banco Master. O pedido foi enviado ao Supremo Tribunal Federal.",
-    "pontos": [
-     "PGR apoia prorrogação de inquérito da PF por 90 dias.",
-     "Caso envolve o filme Dark Horse e o senador Flávio Bolsonaro.",
-     "Investigação apura supostas irregularidades em repasses do Banco Master."
-    ],
-    "enquadramentos": {
-     "10e0600c0a1d": "Detalha a manifestação da PGR e contextualiza o surgimento do caso em maio de 2026 após revelações do The Intercept Brasil.",
-     "c1530420750d": "Enfatiza a suspeita de lavagem de dinheiro nos EUA e detalha o envio de recursos pelo dono do Banco Master através de empresas e fundos.",
-     "fd6ba862001a": "Nota breve destacando a concordância da PGR com o pedido da PF para prorrogar o inquérito encaminhado ao ministro André Men..."
-    },
-    "usado_em": 1794972512.3444562
-   },
-   "f783acd0a0486d77": {
-    "resumo": "A diretoria da Aneel formou maioria para recomendar o encerramento antecipado do contrato de concessão da Enel São Paulo devido a falhas operacionais e apagões, mas a votação foi suspensa após pedido de vista do diretor-geral. A decisão final caberá ao Ministério de Minas e Energia. A Enel considerou o adiamento uma oportunidade para reavaliação técnica.",
-    "pontos": [
-     "Aneel forma maioria para recomendar fim de contrato da Enel SP.",
-     "Votação foi suspensa por pedido de vista de até 60 dias.",
-     "Decisão final sobre a caducidade caberá ao Ministério de Minas e Energia."
-    ],
-    "enquadramentos": {
-     "65cf94b7911e": "Destaca o voto de quatro diretores pela caducidade e aponta detalhes sobre o apagão de dezembro de 2025 e alternativas governamentais.",
-     "6d262585f273": "Foca no andamento da reunião da Aneel, detalhando os votos individuais dos diretores e a nota oficial da Enel São Paulo."
-    },
-    "usado_em": 1794972512.3444583
-   },
-   "509ec4277ad5dbb2": {
-    "resumo": "O presidente do STF, Edson Fachin, afirmou que a Corte poderá julgar ainda em 2026 as ações que questionam a Lei da Dosimetria, caso o ministro Alexandre de Moraes libere os processos. A manifestação ocorreu após os presidentes da Câmara e do Senado cobrarem o andamento do tema. A norma reduz penas de condenados pelos atos de 8 de janeiro, incluindo Jair Bolsonaro.",
-    "pontos": [
-     "Fachin condiciona julgamento da Lei da Dosimetria a liberação de Moraes.",
-     "Presidentes do Congresso pressionaram pela votação do tema.",
-     "Lei reduz penas de condenados pelos atos de 8 de janeiro."
-    ],
-    "enquadramentos": {
-     "5f531185d48b": "Relata a cobrança dos presidentes do Congresso a Moraes e detalha o histórico dos vetos presidenciais e ações judiciais.",
-     "483aa3af2346": "Enfatiza a pressão exercida pelos líderes do Congresso e detalha os impactos da legislação nos cálculos de penas de condenados por golpe.",
-     "7de6e5a8b10c": "Destaca a possibilidade de julgamento antes do recesso do STF e cita estimativas de redução de pena para a defesa de Bolsonaro."
-    },
-    "usado_em": 1794972512.3444588
-   },
-   "33da8c222fd5037a": {
-    "resumo": "O STF instalou no Salão Nobre uma escultura do Oxê de Xangô, símbolo da Justiça na tradição iorubá, atendendo a um pedido do Idafro. A inauguração ocorre perto do Dia da Consciência Negra e baseia-se em decisão anterior da corte sobre símbolos religiosos. O presidente do STF, Edson Fachin, associou a peça ao diálogo entre tradições e ao combate ao racismo.",
-    "pontos": [
-     "STF instala escultura Oxê de Xangô em seu Salão Nobre.",
-     "Iniciativa atende a pedido do Idafro fundamentado em laicidade e pluralismo.",
-     "Fachin destacou a importância de igualdade e diálogo entre tradições."
-    ],
-    "enquadramentos": {
-     "5a5d9d23df4b": "Enfoque nas declarações do fundador do Idafro sobre a sinalização contra o racismo no Judiciário e críticas a aplicadores do direito.",
-     "4e916aca6175": "Detalha as características físicas da obra de arte e ressalta o discurso de Edson Fachin sobre o diálogo entre tradições e responsabilidade judicial.",
-     "766a904a7ec6": "Contextualiza o pedido aprovado pela Secretaria de Equidade do STF com base no julgamento anterior sobre crucifixos em prédios públicos."
-    },
-    "usado_em": 1794972512.3444593
-   },
-   "50ccb37b07c06f04": {
-    "resumo": "A Polícia Federal concluiu o inquérito sobre a compra fraudulenta de respiradores pelo Consórcio Nordeste na pandemia e indiciou 17 pessoas. O ex-governador Rui Costa e sua esposa foram excluídos por falta de provas de envolvimento direto. A defesa de Rui Costa afirmou que as menções ao seu nome decorriam de alegações de terceiros.",
-    "pontos": [
-     "PF indicia 17 pessoas em inquérito sobre compra de respiradores.",
-     "Ex-governador Rui Costa e esposa foram excluídos por falta de provas.",
-     "Contrato de 2020 previa aquisição de 300 equipamentos que nunca foram entregues."
-    ],
-    "enquadramentos": {
-     "77e79c087c79": "Destaca o indiciamento de 17 pessoas e a exclusão expressa de Rui Costa e Aline Peixoto com base no relatório enviado ao STJ.",
-     "5d066eb17dae": "Lista detalhadamente os principais ex-gestores e intermediários indiciados, especificando as acusações e a movimentação financeira de R$ 48 milhões.",
-     "81c761af16e8": "Analisa as ponderações da PF sobre as dificuldades de investigação causadas pela forma inicial da denúncia e pelo lapso temporal."
-    },
-    "usado_em": 1794972512.3444598
-   },
-   "c17f13f040762d81": {
-    "resumo": "O deputado federal Luiz Philippe de Orleans e Bragança lançou candidatura própria do PL à presidência da Câmara para 2027, com o aval de Valdemar Costa Neto. A movimentação ocorre em meio a um racha no partido entre a ala pragmática, que apoia a reeleição de Hugo Motta para garantir cargos, e a ala ideológica, que rejeita aproximação com aliados do governo Lula.",
-    "pontos": [
-     "Deputado do PL lança candidatura própria à presidência da Câmara.",
-     "Movimento gera racha interno entre pragmáticos e ala ideológica.",
-     "Disputa envolve o apoio prévio a Hugo Motta, que reúne ampla base."
-    ],
-    "enquadramentos": {
-     "41ea48bc4fa7": "Enfatiza o possível isolamento do PL e a divisão interna entre buscar cargos nas comissões ou fazer oposição com candidatura própria.",
-     "a746e55f029c": "Protagoniza o discurso de Luiz Philippe sobre crise fiscal e detalha a resistência de parlamentares bolsonaristas à proximidade com o PT."
-    },
-    "usado_em": 1794972512.3444602
-   },
-   "34458f54bd81e9ab": {
-    "resumo": "O TSE divulgou a prestação de contas final das campanhas presidenciais. A campanha de Lula atingiu o limite de gastos ao declarar R$ 133,3 milhões, enquanto a de Flávio Bolsonaro registrou R$ 114,5 milhões, ficando abaixo do teto. Marketing político, redes sociais e viagens lideraram as despesas de ambos.",
-    "pontos": [
-     "Lula atinge limite de gastos com R$ 133,3 milhões declarados.",
-     "Flávio Bolsonaro gasta R$ 114,5 milhões e fica abaixo do teto.",
-     "Despesas principais concentraram-se em marketing, redes sociais e transporte."
-    ],
-    "enquadramentos": {
-     "4ec875d35ffe": "Foca nos valores totais frente ao teto do TSE e explica os prazos e procedimentos legais para contestação das contas eleitorais.",
-     "492024c0a79c": "Detalha as origens das receitas partidárias, doações diretas e indiretas, e compara o custo médio por voto de cada candidato."
-    },
-    "usado_em": 1794972512.3444607
-   },
-   "a242f894e5fb751b": {
-    "resumo": "O presidente do Senado, Davi Alcolumbre, adiou para esta quarta-feira a sessão de discussão e votação de destaques do projeto de ajuste fiscal. A decisão ocorreu devido à falta de acordo entre os parlamentares, apontada pelo relator Eduardo Braga.",
-    "pontos": [
-     "Senado adia votação de destaques do ajuste fiscal.",
-     "Decisão foi tomada por falta de acordo entre os senadores.",
-     "Relatoria do projeto cabe ao senador Eduardo Braga."
-    ],
-    "enquadramentos": {
-     "20920c8a6e8f": "Descreve sucintamente a condução de Davi Alcolumbre ao não abrir a sessão e relatar o impasse apontado pelo relator."
-    },
-    "usado_em": 1794972512.3444612
-   },
-   "a6f216baff83a56c": {
-    "resumo": "A Nvidia registrou lucro líquido de US$ 65,29 bilhões no terceiro trimestre fiscal, superando as projeções de analistas e dobrando o faturamento anual. A divisão de data centers e inteligência artificial concentrou a maior parte das receitas. A divulgação ocorreu em meio à transição gerencial após a saída do ex-CEO Jensen Huang.",
-    "pontos": [
-     "Nvidia dobra lucro líquido e supera projeções do mercado.",
-     "Divisão de data centers respondeu por 92% da receita total.",
-     "Balanço foi apresentado por Colette Kress após renúncia do ex-CEO."
-    ],
-    "enquadramentos": {
-     "e6ef0059131b": "Enfatiza o crescimento recorde impulsionado pela demanda de inteligência artificial e o detalhamento financeiro da divisão de data centers.",
-     "02c8a7422c51": "Relata os resultados financeiros destacando o contexto da recente renúncia do CEO Jensen Huang e a alta nas ações."
-    },
-    "usado_em": 1794972512.3444617
-   },
-   "583f0cbe89ff8d1c": {
-    "resumo": "O deputado Nikolas Ferreira avalia lançar candidatura própria do PL à presidência da Câmara e ameaça deixar o partido caso a legenda decida apoiar a reeleição de Hugo Motta. A ala ideológica defende marcar posição contra a proximidade com o governo, enquanto parlamentares pragmáticos alertam para riscos de perda de comissões estratégicas.",
-    "pontos": [
-     "Nikolas Ferreira avalia candidatura e ameaça deixar o PL.",
-     "Racha interno opõe ala ideológica a parlamentares pragmáticos.",
-     "Discussão envolve a manutenção de cargos e comissões na Câmara."
-    ],
-    "enquadramentos": {
-     "a27fa9622502": "Detalha a articulação do PL, o peso das emendas de comissão e o descontentamento da bancada com a falta de pauta sobre a anistia do 8 de Janeiro."
-    },
-    "usado_em": 1794972512.3444622
-   },
-   "d0b85640d1095da0": {
-    "resumo": "O governador de São Paulo, Tarcísio de Freitas, confirmou a permanência de Roberto Carneiro na Secretaria de Governo e Relações Institucionais, além de outros três secretários. A medida busca manter a interlocução com deputados da base e evitar atritos políticos. Um novo titular foi promovido para a pasta de Gestão e Governo Digital.",
-    "pontos": [
-     "Tarcísio mantém Roberto Carneiro e confirma secretários em SP.",
-     "Objetivo é assegurar boa relação com a base legislativa.",
-     "Secretário-executivo foi promovido para titularidade de pasta digital."
-    ],
-    "enquadramentos": {
-     "e5adbe89bb18": "Detalha o perfil dos secretários mantidos, a estratégia de articulação política e antecedentes de transições na gestão estadual."
-    },
-    "usado_em": 1794972512.3444626
-   },
-   "1a45824983551315": {
-    "resumo": "Um ano após a decretação da liquidação do Banco Master, investigações apontam que operações financeiras continuam gerando riscos e rombos bilionários a cofres públicos e fundos de previdência. A Procuradoria-Geral da República prepara as primeiras denúncias criminais relacionadas ao caso. O Banco de Brasília foi um dos mais afetados por aquisições de ativos sem lastro.",
-    "pontos": [
-     "PGR prepara primeiras denúncias criminais no caso Banco Master.",
-     "Liquidação completou um ano com impactos bilionários em cofres públicos.",
-     "Operações suspeitas envolveram o BRB e fundos de previdência."
-    ],
-    "enquadramentos": {
-     "024c3628f6b5": "Foca nos prejuízos bilionários suportados pelo BRB e por regimes próprios de previdência decorrentes de créditos sem lastro."
-    },
-    "usado_em": 1794972512.3444629
-   },
    "8adf65d75c046415": {
     "resumo": "O diretor-geral da Polícia Federal, Andrei Rodrigues, prestou esclarecimentos nesta quarta-feira (18) no Senado sobre o afastamento de dois delegados do caso Banco Master. Rodrigues afirmou que houve quebra de confiança após os investigadores inserirem relatórios sobre ministros do STF no sistema sem submeter previamente uma minuta à direção. O chefe da PF declarou que os documentos originais extrapolavam as balizas estabelecidas pela Corte e que o material está sendo refeito. Senadores questionaram a versão, incluindo indagações sobre a participação de Andrei em eventos com o banqueiro Daniel Vorcaro.",
     "pontos": [
@@ -4709,6 +4384,138 @@
      "2cd06e36cfb0": "Registra a declaração de Gilmar Mendes contextualizando-a com os ataques recentes sofridos pelo Supremo Tribunal Federal."
     },
     "usado_em": 1795218660.7484956
+   },
+   "771c2f0120e8e858": {
+    "resumo": "O presidente do STF Edson Fachin retirou o sigilo de um relatório da Polícia Federal que menciona o ministro André Mendonça no caso Master, a pedido do próprio magistrado. O documento aponta 11 conversas no celular do ex-banqueiro Daniel Vorcaro citando Mendonça, mas a PF destacou que não há registros de diálogos diretos entre eles. O relatório detalha tentativas de aproximação, como a visita a uma alfaiataria e uma audiência agendada por um deputado, em processo no qual o ministro votou contra os interesses de Vorcaro. Mendonça apresentou notas fiscais para comprovar que pagou pelo terno e negou concessão de benefícios.",
+    "pontos": [
+     "Fachin retira sigilo de relatório da PF a pedido de André Mendonça.",
+     "Documento cita 11 menções a Mendonça no celular de Daniel Vorcaro, sem contato direto.",
+     "Relatório detalha episódios como visita a alfaiataria e reuniões sobre precatórios e cursos de medicina.",
+     "Mendonça apresentou notas fiscais de terno e votou contra interesses do ex-banqueiro no STF."
+    ],
+    "enquadramentos": {
+     "ac15015a5ec8": "A Gazeta do Povo detalha os votos contrários de Mendonça a Vorcaro e as justificativas sobre o terno, resgatando o histórico das decisões judiciais.",
+     "bb4c54ebc68d": "O g1 enfatiza a ausência de diálogo direto apontada pela PF e o ofício em que Mendonça renuncia ao sigilo, detalhando os episódios citados.",
+     "8629f9777947": "A Folha traz uma nota sucinta focando na retirada do sigilo por Fachin a pedido de Mendonça no caso Banco Master."
+    },
+    "usado_em": 1795242118.4754293
+   },
+   "e6e6609f97b76b0e": {
+    "resumo": "O ministro do STF Gilmar Mendes declarou não ver problema na abertura de sigilo de relatórios da PF que citam ministros no caso Banco Master, mas ponderou que a medida não resolve a questão de fundo. A jornalistas em Buenos Aires, ele defendeu que o tema seja julgado pelo plenário do STF e criticou a condução da matéria na Segunda Turma. Mendes também relembrou a sessão tumultuada de setembro que discutiu relações entre ministros e o ex-banqueiro Daniel Vorcaro.",
+    "pontos": [
+     "Gilmar Mendes apoia abertura de sigilo, mas diz que medida não soluciona o caso.",
+     "Ministro defende que investigações do caso Master sejam remetidas ao plenário do STF.",
+     "Mendes criticou a condução anterior na turma e relembrou sessão tensa de setembro."
+    ],
+    "enquadramentos": {
+     "b1ced914a987": "O g1 destaca as falas de Gilmar Mendes sobre a necessidade de examinar o conteúdo dos relatórios e sua defesa da remessa do tema ao plenário.",
+     "bff6de19708e": "A Folha contextualiza a declaração no Fórum de Buenos Aires e recorda as críticas de Mendes à sessão de setembro envolvendo Alexandre de Moraes.",
+     "fc9e598b5667": "O Estadão relata a manifestação de Gilmar Mendes sobre o sigilo e detalha os novos pareceres da PF entregues a Fachin com menções a dez ministros."
+    },
+    "usado_em": 1795242118.4754314
+   },
+   "f848e0901f57da4b": {
+    "resumo": "O ministro Flávio Dino votou para tornar o deputado federal Marcel van Hattem réu por calúnia e injúria contra um delegado da PF após discursos criticando relatórios sobre Filipe Martins. O julgamento virtual teve o voto acompanhado por Alexandre de Moraes, mas foi interrompido por um pedido de destaque de Cristiano Zanin, que o remeterá ao plenário presencial. A defesa alega imunidade parlamentar, ponto contestado por Dino, que apontou a replicação do conteúdo em redes sociais.",
+    "pontos": [
+     "Flávio Dino e Alexandre de Moraes votam para tornar Marcel van Hattem réu por calúnia e injúria.",
+     "Pedido de destaque de Cristiano Zanin suspende julgamento virtual e o leva ao plenário presencial.",
+     "Denúncia envolve discursos na Câmara contra delegado da PF e compartilhamento nas redes sociais."
+    ],
+    "enquadramentos": {
+     "1eb85dda2deb": "A Folha foca no voto de Dino, na suspensão por Zanin e nos argumentos sobre a imunidade parlamentar e o uso de redes sociais.",
+     "93f745eaed55": "A Gazeta do Povo destaca a comemoração de Van Hattem pelo envio ao plenário presencial e suas críticas à competência do STF para julgar o caso.",
+     "350cb7b3df14": "O g1 destaca a antecipação do voto de Alexandre de Moraes acompanhando o relator e as reações da defesa do parlamentar."
+    },
+    "usado_em": 1795242118.475432
+   },
+   "7dea6c3a9cb48577": {
+    "resumo": "O presidente Luiz Inácio Lula da Silva retornou de viagem à Europa convencido de inspirar a esquerda global, recebendo apoio de líderes como Pedro Sánchez na Espanha, enquanto enfrenta resistências internas ao pacote de ajuste fiscal aprovado no Senado. Paralelamente, em cúpula na China apelidada de Ialta 2.0, potências como EUA, Rússia e China discutiram esferas de influência global sem avanços em conflitos regionais. A articulação externa busca projetar o Brasil, mas esvazia capital político interno.",
+    "pontos": [
+     "Lula retorna da Europa exaltado por líderes esquerdistas estrangeiros, mas enfrenta oposição ao ajuste fiscal no Brasil.",
+     "Ajuste fiscal gera divisões na base governista e críticas de parlamentares da esquerda.",
+     "Cúpula na China reuniu líderes globais para debater esferas de influência e novas diretrizes geopolíticas."
+    ],
+    "enquadramentos": {
+     "12777fc634ce": "A Gazeta do Povo foca na tentativa de Lula de se projetar como líder da esquerda global e nos reflexos do ajuste fiscal na base aliada.",
+     "55ba11ec7b3e": "A Folha analisa criticamente a cúpula internacional na China, classificando o encontro como Ialta 2.0 e detalhando os interesses de Trump, Putin e Xi Jinping."
+    },
+    "usado_em": 1795242118.4754324
+   },
+   "097bf80bd635d857": {
+    "resumo": "O ministro Alexandre de Moraes votou no STF para manter o cancelamento dos passaportes e as medidas cautelares contra o senador Flávio Bolsonaro. A decisão decorre do descumprimento de ordens judiciais, após o parlamentar viajar para o exterior em meio a investigações sobre lavagem de dinheiro e evasão de divisas ligadas a apostas online e ao advogado Willer Tomaz. A defesa contestou as restrições alegando falta de provas de participação societária e uso prévio de rotas internacionais.",
+    "pontos": [
+     "Alexandre de Moraes vota para manter passaportes cancelados e restrições a Flávio Bolsonaro.",
+     "Decisão baseia-se na fuga do senador e no descumprimento de ordens de entrega de documentos de viagem.",
+     "Investigação apura suposta lavagem de dinheiro envolvendo holdings e plataformas de apostas."
+    ],
+    "enquadramentos": {
+     "51ee4e1c76bf": "A Gazeta do Povo detalha os argumentos da defesa de Flávio Bolsonaro sobre a ausência de vínculos societários e o contexto das investigações das bets.",
+     "ef390ebfe433": "A Folha destaca a fundamentação de Moraes sobre a evasão do território nacional e o risco de obstrução das investigações.",
+     "2064e0446011": "O Estadão enfatiza a fuga do parlamentar pela fronteira com a Argentina rumo aos EUA e o voto de Moraes no plenário virtual."
+    },
+    "usado_em": 1795242118.4754329
+   },
+   "a82b01085c5eed0e": {
+    "resumo": "O presidente Lula determinou a mobilização de equipes federais para atender Tupanciretã e outros municípios do Rio Grande do Sul atingidos por um severo temporal que deixou três mortos e 60 feridos. A tempestade causou danos em milhares de residências e comprometeu serviços essenciais de infraestrutura e saúde. O Ministério da Integração e o Ministério da Saúde enviaram Defesa Civil e equipes volantes para prestar assistência de emergência.",
+    "pontos": [
+     "Temporal severo deixa mortos, feridos e milhares de casas danificadas no Rio Grande do Sul.",
+     "Lula mobiliza Defesa Civil Nacional e equipes de saúde para atender a região afetada.",
+     "Ministérios estruturam apoio logístico e avaliam decretação de situação de emergência."
+    ],
+    "enquadramentos": {
+     "d882a7188252": "A CartaCapital detalha a mobilização do governo federal, as ações dos ministérios da Saúde e da Integração, e os danos provocados pela supercélula no RS."
+    },
+    "usado_em": 1795242118.4754336
+   },
+   "02f68cc9c0f9b6b4": {
+    "resumo": "O Itamaraty confirmou que destroços de ataques aéreos russos em Kiev atingiram a Embaixada do Brasil na Ucrânia, sem causar feridos ou danos materiais à representação. O governo brasileiro condenou os ataques que atingiram missões diplomáticas e cobrou respeito ao direito internacional humanitário. A nota reforça a inviolabilidade das missões diplomáticas e defende uma solução negociada para o conflito.",
+    "pontos": [
+     "Destroços de ataques aéreos em Kiev atingem a Embaixada do Brasil na Ucrânia, sem vítimas.",
+     "Itamaraty condena o episódio, cobra respeito ao direito internacional e lembra inviolabilidade diplomática.",
+     "Governo brasileiro reitera apelo por cessar-fogo e solução negociada para a guerra."
+    ],
+    "enquadramentos": {
+     "6339f23d49a6": "O g1 destaca a nota oficial do Itamaraty, os detalhes sobre os ataques em Kiev e o histórico das posições de Lula em busca de negociações de paz."
+    },
+    "usado_em": 1795242118.475434
+   },
+   "05cbe8fafbdedab5": {
+    "resumo": "O canal de WhatsApp \"Exército do Lula\", criado por André Janones, perdeu 1,4 milhão de seguidores desde o segundo turno, passando de 10,9 milhões para 9,5 milhões. A queda é atribuída a divergências políticas e críticas internas da esquerda ao pacote de ajuste fiscal do governo. Janones entrou em conflito com parlamentares que contestam as medidas de austeridade, resultando na criação de canais dissidentes por críticos.",
+    "pontos": [
+     "Canal \"Exército do Lula\" perde 1,4 milhão de seguidores após vitória eleitoral.",
+     "Pacote de ajuste fiscal gera racha na esquerda e críticas de parlamentares a Janones.",
+     "Críticos do governo criam canal alternativo para protestar contra medidas de austeridade."
+    ],
+    "enquadramentos": {
+     "e147a84202d6": "A Gazeta do Povo atribui a perda de seguidores ao racha na esquerda provocado pelo ajuste fiscal e aos embates de Janones com parlamentares críticos.",
+     "70f2e47635d9": "O Estadão detalha a estratégia de marketing digital usada por Janones na campanha e o surgimento de dissidências lideradas por nomes da esquerda radical."
+    },
+    "usado_em": 1795242118.4754345
+   },
+   "53209fbf5313ec23": {
+    "resumo": "A Federação de Entidades Empresariais do Rio Grande do Sul e outras entidades divulgaram notas de perplexidade e crítica ao processo contra o deputado Marcel van Hattem no STF. As manifestações defendem a imunidade parlamentar após o ministro Flávio Dino votar para tornar o parlamentar réu por declarações contra um delegado da PF. As entidades argumentam que a criminalização de discursos na tribuna ameaça a liberdade de atuação dos representantes.",
+    "pontos": [
+     "Entidades empresariais gaúchas criticam processo contra Marcel van Hattem no STF.",
+     "Manifestações apontam ameaça à imunidade parlamentar e ao livre exercício do mandato.",
+     "Críticas ocorrem após voto de Flávio Dino para tornar o deputado réu por calúnia e injúria."
+    ],
+    "enquadramentos": {
+     "40f6c56b507c": "A Revista Oeste destaca a nota da Federasul em defesa da imunidade parlamentar e contra o precedente jurídico gerado pelo STF.",
+     "05580166b685": "A Gazeta do Povo repercute notas conjuntas de várias entidades do RS que manifestam perplexidade com o julgamento no STF."
+    },
+    "usado_em": 1795242118.4754348
+   },
+   "d06aefe51d3fb82d": {
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou ter exigido que as Filipinas substituam fornecedores agrícolas, incluindo o Brasil, por produtos norte-americanos a partir de 2027, citando questões geopolíticas. O governo filipino adotou uma tom mais cauteloso, confirmando conversas para diversificar importações, mas sem confirmar o fim das compras do Brasil. Dados mostram que as Filipinas são um mercado relevante para o agronegócio brasileiro.",
+    "pontos": [
+     "Donald Trump diz ter exigido que Filipinas comprem apenas produtos agrícolas dos EUA e excluam o Brasil.",
+     "Governo filipino confirma negociações comerciais, mas adota postura cautelosa sobre exclusividade.",
+     "Brasil exporta mais de US$ 1 bilhão em produtos agropecuários para o mercado filipino."
+    ],
+    "enquadramentos": {
+     "94f5a5892c28": "A Revista Oeste detalha as declarações de Trump sobre o mercado filipino, as justificativas geopolíticas e a resposta cautelosa do governo de Manila."
+    },
+    "usado_em": 1795242118.4754353
    }
   }
  }
