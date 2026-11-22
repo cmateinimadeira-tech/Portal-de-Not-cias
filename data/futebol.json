@@ -511,7 +511,7 @@
     {
      "id": 555098,
      "data": "2026-11-21T19:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 36,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -526,14 +526,14 @@
       "sigla": "FLA",
       "escudo": "https://crests.football-data.org/1783.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 1,
      "liga": "BSA"
     },
     {
      "id": 555092,
      "data": "2026-11-21T20:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 36,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -548,14 +548,14 @@
       "sigla": "COR",
       "escudo": "https://crests.football-data.org/4241.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 1,
      "liga": "BSA"
     },
     {
      "id": 555095,
      "data": "2026-11-22T00:00:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 36,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -570,8 +570,8 @@
       "sigla": "CRU",
       "escudo": "https://crests.football-data.org/1771.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 0,
      "liga": "BSA"
     },
     {
@@ -2035,7 +2035,7 @@
     {
      "id": 560643,
      "data": "2026-11-21T12:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2050,14 +2050,14 @@
       "sigla": "FUL",
       "escudo": "https://crests.football-data.org/63.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 1,
      "liga": "PL"
     },
     {
      "id": 560647,
      "data": "2026-11-21T15:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2072,14 +2072,14 @@
       "sigla": "NOT",
       "escudo": "https://crests.football-data.org/351.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 0,
      "liga": "PL"
     },
     {
      "id": 560650,
      "data": "2026-11-21T15:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2094,14 +2094,14 @@
       "sigla": "CRY",
       "escudo": "https://crests.football-data.org/354.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 3,
+     "gols_fora": 2,
      "liga": "PL"
     },
     {
      "id": 560642,
      "data": "2026-11-21T15:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2116,14 +2116,14 @@
       "sigla": "LEE",
       "escudo": "https://crests.football-data.org/341.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 4,
      "liga": "PL"
     },
     {
      "id": 560648,
      "data": "2026-11-21T15:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2138,14 +2138,14 @@
       "sigla": "IPS",
       "escudo": "https://crests.football-data.org/349.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 0,
      "liga": "PL"
     },
     {
      "id": 560644,
      "data": "2026-11-21T15:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2160,14 +2160,14 @@
       "sigla": "SUN",
       "escudo": "https://crests.football-data.org/71.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 0,
      "liga": "PL"
     },
     {
      "id": 560651,
      "data": "2026-11-21T17:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2182,8 +2182,8 @@
       "sigla": "ARS",
       "escudo": "https://crests.football-data.org/57.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 2,
      "liga": "PL"
     },
     {
@@ -2589,7 +2589,7 @@
     {
      "id": 564755,
      "data": "2026-11-21T13:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 13,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2604,14 +2604,14 @@
       "sigla": "DEP",
       "escudo": "https://crests.football-data.org/560.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 3,
+     "gols_fora": 1,
      "liga": "PD"
     },
     {
      "id": 564751,
      "data": "2026-11-21T15:15:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 13,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2626,14 +2626,14 @@
       "sigla": "VAL",
       "escudo": "https://crests.football-data.org/95.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 1,
      "liga": "PD"
     },
     {
      "id": 564756,
      "data": "2026-11-21T17:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 13,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2648,14 +2648,14 @@
       "sigla": "BET",
       "escudo": "https://crests.football-data.org/90.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 1,
      "liga": "PD"
     },
     {
      "id": 564754,
      "data": "2026-11-21T20:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 13,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2670,8 +2670,8 @@
       "sigla": "CEL",
       "escudo": "https://crests.football-data.org/558.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 1,
      "liga": "PD"
     },
     {
@@ -3099,7 +3099,7 @@
     {
      "id": 558525,
      "data": "2026-11-21T14:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 12,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3114,14 +3114,14 @@
       "sigla": "CAG",
       "escudo": "https://crests.football-data.org/104.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 0,
      "liga": "SA"
     },
     {
      "id": 558528,
      "data": "2026-11-21T14:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 12,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3136,14 +3136,14 @@
       "sigla": "USL",
       "escudo": "https://crests.football-data.org/5890.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 3,
+     "gols_fora": 0,
      "liga": "SA"
     },
     {
      "id": 558526,
      "data": "2026-11-21T17:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 12,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3158,14 +3158,14 @@
       "sigla": "ROM",
       "escudo": "https://crests.football-data.org/100.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 5,
      "liga": "SA"
     },
     {
      "id": 558527,
      "data": "2026-11-21T19:45:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 12,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3180,8 +3180,8 @@
       "sigla": "TOR",
       "escudo": "https://crests.football-data.org/586.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 0,
      "liga": "SA"
     },
     {
@@ -3623,7 +3623,7 @@
     {
      "id": 565857,
      "data": "2026-11-21T14:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 10,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3638,14 +3638,14 @@
       "sigla": "SCP",
       "escudo": "https://crests.football-data.org/29.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 4,
+     "gols_fora": 0,
      "liga": "BL1"
     },
     {
      "id": 565865,
      "data": "2026-11-21T14:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 10,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3660,14 +3660,14 @@
       "sigla": "TSG",
       "escudo": "https://crests.football-data.org/2.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 0,
      "liga": "BL1"
     },
     {
      "id": 565862,
      "data": "2026-11-21T14:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 10,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3682,14 +3682,14 @@
       "sigla": "BVB",
       "escudo": "https://crests.football-data.org/4.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 1,
      "liga": "BL1"
     },
     {
      "id": 565858,
      "data": "2026-11-21T14:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 10,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3704,14 +3704,14 @@
       "sigla": "RBL",
       "escudo": "https://crests.football-data.org/721.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 5,
      "liga": "BL1"
     },
     {
      "id": 565860,
      "data": "2026-11-21T14:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 10,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3726,14 +3726,14 @@
       "sigla": "SCF",
       "escudo": "https://crests.football-data.org/17.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 1,
      "liga": "BL1"
     },
     {
      "id": 565861,
      "data": "2026-11-21T17:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 10,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3748,8 +3748,8 @@
       "sigla": "VFB",
       "escudo": "https://crests.football-data.org/10.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 0,
      "liga": "BL1"
     },
     {
@@ -4103,7 +4103,7 @@
     {
      "id": 559628,
      "data": "2026-11-21T16:15:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -4118,14 +4118,14 @@
       "sigla": "PSG",
       "escudo": "https://crests.football-data.org/524.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 3,
      "liga": "FL1"
     },
     {
      "id": 559624,
      "data": "2026-11-21T19:45:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -4140,14 +4140,14 @@
       "sigla": "LYO",
       "escudo": "https://crests.football-data.org/523.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 1,
      "liga": "FL1"
     },
     {
      "id": 559627,
      "data": "2026-11-21T19:45:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -4162,14 +4162,14 @@
       "sigla": "BRE",
       "escudo": "https://crests.football-data.org/512.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 1,
      "liga": "FL1"
     },
     {
      "id": 559623,
      "data": "2026-11-21T19:45:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -4184,14 +4184,14 @@
       "sigla": "TOU",
       "escudo": "https://crests.football-data.org/511.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 1,
      "liga": "FL1"
     },
     {
      "id": 559621,
      "data": "2026-11-21T19:45:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -4206,8 +4206,8 @@
       "sigla": "AJA",
       "escudo": "https://crests.football-data.org/519.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 1,
      "liga": "FL1"
     },
     {
@@ -4283,24 +4283,6 @@
   "nome": "Flamengo",
   "proximos": [
    {
-    "id": "401841322",
-    "data": "2026-11-21T19:30Z",
-    "competicao": "Brasileirão",
-    "estado": "in",
-    "detalhe": "73'",
-    "local": "Allianz Parque",
-    "casa": {
-     "nome": "Palmeiras",
-     "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-     "gols": "1"
-    },
-    "fora": {
-     "nome": "Flamengo",
-     "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-     "gols": "0"
-    }
-   },
-   {
     "id": "401841333",
     "data": "2026-11-29T19:00Z",
     "competicao": "Brasileirão",
@@ -4338,6 +4320,24 @@
    }
   ],
   "ultimos": [
+   {
+    "id": "401841322",
+    "data": "2026-11-21T19:30Z",
+    "competicao": "Brasileirão",
+    "estado": "post",
+    "detalhe": "FT",
+    "local": "Allianz Parque",
+    "casa": {
+     "nome": "Palmeiras",
+     "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+     "gols": "1"
+    },
+    "fora": {
+     "nome": "Flamengo",
+     "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+     "gols": "1"
+    }
+   },
    {
     "id": "401841313",
     "data": "2026-11-18T23:30Z",
@@ -4409,26 +4409,8 @@
      "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
      "gols": "2"
     }
-   },
-   {
-    "id": "401912521",
-    "data": "2026-10-23T00:30Z",
-    "competicao": "Libertadores",
-    "estado": "post",
-    "detalhe": "FT-Pens",
-    "local": "Estadio do Maracana",
-    "casa": {
-     "nome": "Flamengo",
-     "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-     "gols": "0"
-    },
-    "fora": {
-     "nome": "Estudiantes",
-     "escudo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
-     "gols": "0"
-    }
    }
   ]
  },
- "atualizado_em": "2026-11-21T21:03:51.871364+00:00"
+ "atualizado_em": "2026-11-22T01:12:17.363620+00:00"
 }
