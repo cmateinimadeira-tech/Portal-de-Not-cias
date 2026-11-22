@@ -16,10 +16,10 @@
        },
        "pj": 36,
        "v": 24,
-       "e": 7,
-       "d": 5,
-       "sg": 42,
-       "pts": 79
+       "e": 8,
+       "d": 4,
+       "sg": 43,
+       "pts": 80
       },
       {
        "pos": 2,
@@ -30,11 +30,11 @@
         "escudo": "https://crests.football-data.org/1769.png"
        },
        "pj": 36,
-       "v": 22,
-       "e": 10,
+       "v": 21,
+       "e": 11,
        "d": 4,
-       "sg": 39,
-       "pts": 76
+       "sg": 38,
+       "pts": 74
       },
       {
        "pos": 3,
@@ -44,12 +44,12 @@
         "sigla": "CRU",
         "escudo": "https://crests.football-data.org/1771.png"
        },
-       "pj": 35,
-       "v": 19,
+       "pj": 36,
+       "v": 20,
        "e": 6,
        "d": 10,
-       "sg": 8,
-       "pts": 63
+       "sg": 9,
+       "pts": 66
       },
       {
        "pos": 4,
@@ -74,12 +74,12 @@
         "sigla": "CAP",
         "escudo": "https://crests.football-data.org/1768.png"
        },
-       "pj": 35,
-       "v": 15,
+       "pj": 36,
+       "v": 16,
        "e": 9,
        "d": 11,
-       "sg": 7,
-       "pts": 54
+       "sg": 9,
+       "pts": 57
       },
       {
        "pos": 6,
@@ -89,11 +89,11 @@
         "sigla": "BAH",
         "escudo": "https://crests.football-data.org/1777.png"
        },
-       "pj": 35,
+       "pj": 36,
        "v": 14,
        "e": 12,
-       "d": 9,
-       "sg": 5,
+       "d": 10,
+       "sg": 4,
        "pts": 54
       },
       {
@@ -159,6 +159,21 @@
       {
        "pos": 11,
        "time": {
+        "id": 4241,
+        "nome": "Coritiba",
+        "sigla": "COR",
+        "escudo": "https://crests.football-data.org/4241.png"
+       },
+       "pj": 36,
+       "v": 12,
+       "e": 9,
+       "d": 15,
+       "sg": -11,
+       "pts": 45
+      },
+      {
+       "pos": 12,
+       "time": {
         "id": 1776,
         "nome": "São Paulo",
         "sigla": "PAU",
@@ -172,7 +187,7 @@
        "pts": 44
       },
       {
-       "pos": 12,
+       "pos": 13,
        "time": {
         "id": 1770,
         "nome": "Botafogo",
@@ -184,21 +199,6 @@
        "e": 9,
        "d": 15,
        "sg": -11,
-       "pts": 42
-      },
-      {
-       "pos": 13,
-       "time": {
-        "id": 4241,
-        "nome": "Coritiba",
-        "sigla": "COR",
-        "escudo": "https://crests.football-data.org/4241.png"
-       },
-       "pj": 35,
-       "v": 11,
-       "e": 9,
-       "d": 15,
-       "sg": -12,
        "pts": 42
       },
       {
@@ -284,11 +284,11 @@
         "sigla": "CRE",
         "escudo": "https://crests.football-data.org/4287.png"
        },
-       "pj": 35,
+       "pj": 36,
        "v": 7,
        "e": 11,
-       "d": 17,
-       "sg": -18,
+       "d": 18,
+       "sg": -20,
        "pts": 32
       },
       {
@@ -299,11 +299,11 @@
         "sigla": "CHA",
         "escudo": "https://crests.football-data.org/1772_large.png"
        },
-       "pj": 35,
+       "pj": 36,
        "v": 4,
        "e": 9,
-       "d": 22,
-       "sg": -39,
+       "d": 23,
+       "sg": -40,
        "pts": 21
       }
      ]
@@ -311,91 +311,25 @@
    ],
    "jogos": [
     {
-     "id": 555081,
-     "data": "2026-11-18T22:30:00Z",
+     "id": 555080,
+     "data": "2026-11-19T00:30:00Z",
      "status": "FINISHED",
      "rodada": 35,
      "fase": "REGULAR_SEASON",
      "casa": {
-      "id": 4241,
-      "nome": "Coritiba",
+      "id": 1779,
+      "nome": "Corinthians",
       "sigla": "COR",
-      "escudo": "https://crests.football-data.org/4241.png"
+      "escudo": "https://crests.football-data.org/1779.png"
      },
      "fora": {
-      "id": 6685,
-      "nome": "Santos",
-      "sigla": "SAN",
-      "escudo": "https://crests.football-data.org/6685.png"
+      "id": 1770,
+      "nome": "Botafogo",
+      "sigla": "BOT",
+      "escudo": "https://crests.football-data.org/1770.png"
      },
-     "gols_casa": 0,
-     "gols_fora": 1,
-     "liga": "BSA"
-    },
-    {
-     "id": 555086,
-     "data": "2026-11-18T23:00:00Z",
-     "status": "FINISHED",
-     "rodada": 35,
-     "fase": "REGULAR_SEASON",
-     "casa": {
-      "id": 4287,
-      "nome": "Clube do Remo",
-      "sigla": "CRE",
-      "escudo": "https://crests.football-data.org/4287.png"
-     },
-     "fora": {
-      "id": 1772,
-      "nome": "Chapecoense",
-      "sigla": "CHA",
-      "escudo": "https://crests.football-data.org/1772_large.png"
-     },
-     "gols_casa": 2,
+     "gols_casa": 4,
      "gols_fora": 0,
-     "liga": "BSA"
-    },
-    {
-     "id": 555082,
-     "data": "2026-11-18T23:30:00Z",
-     "status": "FINISHED",
-     "rodada": 35,
-     "fase": "REGULAR_SEASON",
-     "casa": {
-      "id": 1771,
-      "nome": "Cruzeiro",
-      "sigla": "CRU",
-      "escudo": "https://crests.football-data.org/1771.png"
-     },
-     "fora": {
-      "id": 1769,
-      "nome": "Palmeiras",
-      "sigla": "PAL",
-      "escudo": "https://crests.football-data.org/1769.png"
-     },
-     "gols_casa": 2,
-     "gols_fora": 1,
-     "liga": "BSA"
-    },
-    {
-     "id": 555083,
-     "data": "2026-11-18T23:30:00Z",
-     "status": "FINISHED",
-     "rodada": 35,
-     "fase": "REGULAR_SEASON",
-     "casa": {
-      "id": 1783,
-      "nome": "Flamengo",
-      "sigla": "FLA",
-      "escudo": "https://crests.football-data.org/1783.png"
-     },
-     "fora": {
-      "id": 1768,
-      "nome": "Paranaense",
-      "sigla": "CAP",
-      "escudo": "https://crests.football-data.org/1768.png"
-     },
-     "gols_casa": 2,
-     "gols_fora": 1,
      "liga": "BSA"
     },
     {
@@ -417,28 +351,6 @@
       "escudo": "https://crests.football-data.org/1777.png"
      },
      "gols_casa": 0,
-     "gols_fora": 0,
-     "liga": "BSA"
-    },
-    {
-     "id": 555080,
-     "data": "2026-11-19T00:30:00Z",
-     "status": "FINISHED",
-     "rodada": 35,
-     "fase": "REGULAR_SEASON",
-     "casa": {
-      "id": 1779,
-      "nome": "Corinthians",
-      "sigla": "COR",
-      "escudo": "https://crests.football-data.org/1779.png"
-     },
-     "fora": {
-      "id": 1770,
-      "nome": "Botafogo",
-      "sigla": "BOT",
-      "escudo": "https://crests.football-data.org/1770.png"
-     },
-     "gols_casa": 4,
      "gols_fora": 0,
      "liga": "BSA"
     },
@@ -577,7 +489,7 @@
     {
      "id": 555090,
      "data": "2026-11-22T19:00:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 36,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -592,8 +504,8 @@
       "sigla": "CRE",
       "escudo": "https://crests.football-data.org/4287.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 2,
+     "gols_fora": 0,
      "liga": "BSA"
     },
     {
@@ -767,6 +679,28 @@
       "nome": "Clube do Remo",
       "sigla": "CRE",
       "escudo": "https://crests.football-data.org/4287.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "BSA"
+    },
+    {
+     "id": 555105,
+     "data": "2026-11-27T23:00:00Z",
+     "status": "TIMED",
+     "rodada": 37,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 1765,
+      "nome": "Fluminense",
+      "sigla": "FLU",
+      "escudo": "https://crests.football-data.org/1765.png"
+     },
+     "fora": {
+      "id": 1771,
+      "nome": "Cruzeiro",
+      "sigla": "CRU",
+      "escudo": "https://crests.football-data.org/1771.png"
      },
      "gols_casa": null,
      "gols_fora": null,
@@ -1369,28 +1303,6 @@
      "liga": "CL"
     },
     {
-     "id": 575403,
-     "data": "2026-11-24T20:00:00Z",
-     "status": "TIMED",
-     "rodada": 5,
-     "fase": "LEAGUE_STAGE",
-     "casa": {
-      "id": 7397,
-      "nome": "Como 1907",
-      "sigla": "COM",
-      "escudo": "https://crests.football-data.org/7397.png"
-     },
-     "fora": {
-      "id": 1899,
-      "nome": "PAE AEK",
-      "sigla": "AEK",
-      "escudo": "https://crests.football-data.org/1899.png"
-     },
-     "gols_casa": null,
-     "gols_fora": null,
-     "liga": "CL"
-    },
-    {
      "id": 575399,
      "data": "2026-11-24T20:00:00Z",
      "status": "TIMED",
@@ -1457,22 +1369,22 @@
      "liga": "CL"
     },
     {
-     "id": 575398,
+     "id": 575403,
      "data": "2026-11-24T20:00:00Z",
      "status": "TIMED",
      "rodada": 5,
      "fase": "LEAGUE_STAGE",
      "casa": {
-      "id": 65,
-      "nome": "Man City",
-      "sigla": "MCI",
-      "escudo": "https://crests.football-data.org/65.png"
+      "id": 7397,
+      "nome": "Como 1907",
+      "sigla": "COM",
+      "escudo": "https://crests.football-data.org/7397.png"
      },
      "fora": {
-      "id": 113,
-      "nome": "Napoli",
-      "sigla": "NAP",
-      "escudo": "https://crests.football-data.org/113.png"
+      "id": 1899,
+      "nome": "PAE AEK",
+      "sigla": "AEK",
+      "escudo": "https://crests.football-data.org/1899.png"
      },
      "gols_casa": null,
      "gols_fora": null,
@@ -1517,6 +1429,28 @@
       "nome": "RC Lens",
       "sigla": "RCL",
       "escudo": "https://crests.football-data.org/546.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "CL"
+    },
+    {
+     "id": 575398,
+     "data": "2026-11-24T20:00:00Z",
+     "status": "TIMED",
+     "rodada": 5,
+     "fase": "LEAGUE_STAGE",
+     "casa": {
+      "id": 65,
+      "nome": "Man City",
+      "sigla": "MCI",
+      "escudo": "https://crests.football-data.org/65.png"
+     },
+     "fora": {
+      "id": 113,
+      "nome": "Napoli",
+      "sigla": "NAP",
+      "escudo": "https://crests.football-data.org/113.png"
      },
      "gols_casa": null,
      "gols_fora": null,
@@ -1633,50 +1567,6 @@
      "liga": "CL"
     },
     {
-     "id": 575412,
-     "data": "2026-11-25T20:00:00Z",
-     "status": "TIMED",
-     "rodada": 5,
-     "fase": "LEAGUE_STAGE",
-     "casa": {
-      "id": 1887,
-      "nome": "Shaktar",
-      "sigla": "SHD",
-      "escudo": "https://crests.football-data.org/1887.png"
-     },
-     "fora": {
-      "id": 613,
-      "nome": "Fenerbahçe",
-      "sigla": "FEN",
-      "escudo": "https://crests.football-data.org/613.png"
-     },
-     "gols_casa": null,
-     "gols_fora": null,
-     "liga": "CL"
-    },
-    {
-     "id": 575408,
-     "data": "2026-11-25T20:00:00Z",
-     "status": "TIMED",
-     "rodada": 5,
-     "fase": "LEAGUE_STAGE",
-     "casa": {
-      "id": 524,
-      "nome": "PSG",
-      "sigla": "PSG",
-      "escudo": "https://crests.football-data.org/524.png"
-     },
-     "fora": {
-      "id": 100,
-      "nome": "Roma",
-      "sigla": "ROM",
-      "escudo": "https://crests.football-data.org/100.png"
-     },
-     "gols_casa": null,
-     "gols_fora": null,
-     "liga": "CL"
-    },
-    {
      "id": 575410,
      "data": "2026-11-25T20:00:00Z",
      "status": "TIMED",
@@ -1719,6 +1609,50 @@
      "gols_casa": null,
      "gols_fora": null,
      "liga": "CL"
+    },
+    {
+     "id": 575412,
+     "data": "2026-11-25T20:00:00Z",
+     "status": "TIMED",
+     "rodada": 5,
+     "fase": "LEAGUE_STAGE",
+     "casa": {
+      "id": 1887,
+      "nome": "Shaktar",
+      "sigla": "SHD",
+      "escudo": "https://crests.football-data.org/1887.png"
+     },
+     "fora": {
+      "id": 613,
+      "nome": "Fenerbahçe",
+      "sigla": "FEN",
+      "escudo": "https://crests.football-data.org/613.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "CL"
+    },
+    {
+     "id": 575408,
+     "data": "2026-11-25T20:00:00Z",
+     "status": "TIMED",
+     "rodada": 5,
+     "fase": "LEAGUE_STAGE",
+     "casa": {
+      "id": 524,
+      "nome": "PSG",
+      "sigla": "PSG",
+      "escudo": "https://crests.football-data.org/524.png"
+     },
+     "fora": {
+      "id": 100,
+      "nome": "Roma",
+      "sigla": "ROM",
+      "escudo": "https://crests.football-data.org/100.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "CL"
     }
    ]
   },
@@ -1751,11 +1685,11 @@
         "sigla": "BHA",
         "escudo": "https://crests.football-data.org/397.png"
        },
-       "pj": 10,
+       "pj": 11,
        "v": 7,
        "e": 1,
-       "d": 2,
-       "sg": 19,
+       "d": 3,
+       "sg": 17,
        "pts": 22
       },
       {
@@ -1776,6 +1710,21 @@
       {
        "pos": 4,
        "time": {
+        "id": 64,
+        "nome": "Liverpool",
+        "sigla": "LIV",
+        "escudo": "https://crests.football-data.org/64.png"
+       },
+       "pj": 11,
+       "v": 6,
+       "e": 3,
+       "d": 2,
+       "sg": 8,
+       "pts": 21
+      },
+      {
+       "pos": 5,
+       "time": {
         "id": 1044,
         "nome": "Bournemouth",
         "sigla": "BOU",
@@ -1785,21 +1734,6 @@
        "v": 5,
        "e": 3,
        "d": 3,
-       "sg": 4,
-       "pts": 18
-      },
-      {
-       "pos": 5,
-       "time": {
-        "id": 64,
-        "nome": "Liverpool",
-        "sigla": "LIV",
-        "escudo": "https://crests.football-data.org/64.png"
-       },
-       "pj": 10,
-       "v": 5,
-       "e": 3,
-       "d": 2,
        "sg": 4,
        "pts": 18
       },
@@ -1881,6 +1815,21 @@
       {
        "pos": 11,
        "time": {
+        "id": 322,
+        "nome": "Hull City",
+        "sigla": "HUL",
+        "escudo": "https://crests.football-data.org/322.png"
+       },
+       "pj": 11,
+       "v": 3,
+       "e": 5,
+       "d": 3,
+       "sg": 2,
+       "pts": 14
+      },
+      {
+       "pos": 12,
+       "time": {
         "id": 58,
         "nome": "Aston Villa",
         "sigla": "AVL",
@@ -1894,7 +1843,7 @@
        "pts": 14
       },
       {
-       "pos": 12,
+       "pos": 13,
        "time": {
         "id": 67,
         "nome": "Newcastle",
@@ -1909,7 +1858,7 @@
        "pts": 13
       },
       {
-       "pos": 13,
+       "pos": 14,
        "time": {
         "id": 1076,
         "nome": "Coventry City",
@@ -1922,21 +1871,6 @@
        "d": 7,
        "sg": -8,
        "pts": 12
-      },
-      {
-       "pos": 14,
-       "time": {
-        "id": 322,
-        "nome": "Hull City",
-        "sigla": "HUL",
-        "escudo": "https://crests.football-data.org/322.png"
-       },
-       "pj": 10,
-       "v": 2,
-       "e": 5,
-       "d": 3,
-       "sg": 0,
-       "pts": 11
       },
       {
        "pos": 15,
@@ -2006,11 +1940,11 @@
         "sigla": "MUN",
         "escudo": "https://crests.football-data.org/66.png"
        },
-       "pj": 10,
+       "pj": 11,
        "v": 1,
        "e": 5,
-       "d": 4,
-       "sg": -5,
+       "d": 5,
+       "sg": -9,
        "pts": 8
       },
       {
@@ -2077,50 +2011,6 @@
      "liga": "PL"
     },
     {
-     "id": 560650,
-     "data": "2026-11-21T15:00:00Z",
-     "status": "FINISHED",
-     "rodada": 11,
-     "fase": "REGULAR_SEASON",
-     "casa": {
-      "id": 1076,
-      "nome": "Coventry City",
-      "sigla": "COV",
-      "escudo": "https://crests.football-data.org/1076.png"
-     },
-     "fora": {
-      "id": 354,
-      "nome": "Crystal Palace",
-      "sigla": "CRY",
-      "escudo": "https://crests.football-data.org/354.png"
-     },
-     "gols_casa": 3,
-     "gols_fora": 2,
-     "liga": "PL"
-    },
-    {
-     "id": 560642,
-     "data": "2026-11-21T15:00:00Z",
-     "status": "FINISHED",
-     "rodada": 11,
-     "fase": "REGULAR_SEASON",
-     "casa": {
-      "id": 61,
-      "nome": "Chelsea",
-      "sigla": "CHE",
-      "escudo": "https://crests.football-data.org/61.png"
-     },
-     "fora": {
-      "id": 341,
-      "nome": "Leeds United",
-      "sigla": "LEE",
-      "escudo": "https://crests.football-data.org/341.png"
-     },
-     "gols_casa": 1,
-     "gols_fora": 4,
-     "liga": "PL"
-    },
-    {
      "id": 560648,
      "data": "2026-11-21T15:00:00Z",
      "status": "FINISHED",
@@ -2162,6 +2052,50 @@
      },
      "gols_casa": 0,
      "gols_fora": 0,
+     "liga": "PL"
+    },
+    {
+     "id": 560650,
+     "data": "2026-11-21T15:00:00Z",
+     "status": "FINISHED",
+     "rodada": 11,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 1076,
+      "nome": "Coventry City",
+      "sigla": "COV",
+      "escudo": "https://crests.football-data.org/1076.png"
+     },
+     "fora": {
+      "id": 354,
+      "nome": "Crystal Palace",
+      "sigla": "CRY",
+      "escudo": "https://crests.football-data.org/354.png"
+     },
+     "gols_casa": 3,
+     "gols_fora": 2,
+     "liga": "PL"
+    },
+    {
+     "id": 560642,
+     "data": "2026-11-21T15:00:00Z",
+     "status": "FINISHED",
+     "rodada": 11,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 61,
+      "nome": "Chelsea",
+      "sigla": "CHE",
+      "escudo": "https://crests.football-data.org/61.png"
+     },
+     "fora": {
+      "id": 341,
+      "nome": "Leeds United",
+      "sigla": "LEE",
+      "escudo": "https://crests.football-data.org/341.png"
+     },
+     "gols_casa": 1,
+     "gols_fora": 4,
      "liga": "PL"
     },
     {
@@ -2211,7 +2145,7 @@
     {
      "id": 560645,
      "data": "2026-11-22T16:30:00Z",
-     "status": "IN_PLAY",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2226,7 +2160,7 @@
       "sigla": "MUN",
       "escudo": "https://crests.football-data.org/66.png"
      },
-     "gols_casa": 2,
+     "gols_casa": 4,
      "gols_fora": 0,
      "liga": "PL"
     },
@@ -2251,6 +2185,28 @@
      "gols_casa": null,
      "gols_fora": null,
      "liga": "PL"
+    },
+    {
+     "id": 560658,
+     "data": "2026-11-27T20:00:00Z",
+     "status": "TIMED",
+     "rodada": 12,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 351,
+      "nome": "Nottingham",
+      "sigla": "NOT",
+      "escudo": "https://crests.football-data.org/351.png"
+     },
+     "fora": {
+      "id": 61,
+      "nome": "Chelsea",
+      "sigla": "CHE",
+      "escudo": "https://crests.football-data.org/61.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "PL"
     }
    ]
   },
@@ -2268,12 +2224,12 @@
         "sigla": "FCB",
         "escudo": "https://crests.football-data.org/81.png"
        },
-       "pj": 12,
-       "v": 11,
+       "pj": 13,
+       "v": 12,
        "e": 0,
        "d": 1,
-       "sg": 35,
-       "pts": 33
+       "sg": 36,
+       "pts": 36
       },
       {
        "pos": 2,
@@ -2283,12 +2239,12 @@
         "sigla": "RMA",
         "escudo": "https://crests.football-data.org/86.png"
        },
-       "pj": 12,
-       "v": 10,
+       "pj": 13,
+       "v": 11,
        "e": 0,
        "d": 2,
-       "sg": 21,
-       "pts": 30
+       "sg": 22,
+       "pts": 33
       },
       {
        "pos": 3,
@@ -2328,11 +2284,11 @@
         "sigla": "RSO",
         "escudo": "https://crests.football-data.org/92.png"
        },
-       "pj": 12,
+       "pj": 13,
        "v": 7,
        "e": 1,
-       "d": 4,
-       "sg": 1,
+       "d": 5,
+       "sg": 0,
        "pts": 22
       },
       {
@@ -2353,6 +2309,21 @@
       {
        "pos": 7,
        "time": {
+        "id": 5335,
+        "nome": "Santander",
+        "sigla": "SAN",
+        "escudo": "https://crests.football-data.org/5335.png"
+       },
+       "pj": 13,
+       "v": 5,
+       "e": 2,
+       "d": 6,
+       "sg": -12,
+       "pts": 17
+      },
+      {
+       "pos": 8,
+       "time": {
         "id": 77,
         "nome": "Athletic",
         "sigla": "ATH",
@@ -2366,7 +2337,7 @@
        "pts": 16
       },
       {
-       "pos": 8,
+       "pos": 9,
        "time": {
         "id": 263,
         "nome": "Alavés",
@@ -2381,22 +2352,22 @@
        "pts": 16
       },
       {
-       "pos": 9,
+       "pos": 10,
        "time": {
         "id": 94,
         "nome": "Villarreal",
         "sigla": "VIL",
         "escudo": "https://crests.football-data.org/94.png"
        },
-       "pj": 12,
+       "pj": 13,
        "v": 4,
        "e": 3,
-       "d": 5,
-       "sg": 2,
+       "d": 6,
+       "sg": 1,
        "pts": 15
       },
       {
-       "pos": 10,
+       "pos": 11,
        "time": {
         "id": 80,
         "nome": "Espanyol",
@@ -2411,7 +2382,7 @@
        "pts": 15
       },
       {
-       "pos": 11,
+       "pos": 12,
        "time": {
         "id": 560,
         "nome": "Deportivo",
@@ -2426,37 +2397,37 @@
        "pts": 15
       },
       {
-       "pos": 12,
+       "pos": 13,
        "time": {
-        "id": 5335,
-        "nome": "Santander",
-        "sigla": "SAN",
-        "escudo": "https://crests.football-data.org/5335.png"
+        "id": 79,
+        "nome": "Osasuna",
+        "sigla": "OSA",
+        "escudo": "https://crests.football-data.org/79.png"
        },
-       "pj": 12,
+       "pj": 13,
        "v": 4,
-       "e": 2,
+       "e": 3,
        "d": 6,
-       "sg": -13,
-       "pts": 14
+       "sg": -10,
+       "pts": 15
       },
       {
-       "pos": 13,
+       "pos": 14,
        "time": {
         "id": 558,
         "nome": "Celta",
         "sigla": "CEL",
         "escudo": "https://crests.football-data.org/558.png"
        },
-       "pj": 12,
+       "pj": 13,
        "v": 2,
        "e": 7,
-       "d": 3,
-       "sg": 0,
+       "d": 4,
+       "sg": -1,
        "pts": 13
       },
       {
-       "pos": 14,
+       "pos": 15,
        "time": {
         "id": 87,
         "nome": "Rayo Vallecano",
@@ -2471,7 +2442,7 @@
        "pts": 12
       },
       {
-       "pos": 15,
+       "pos": 16,
        "time": {
         "id": 82,
         "nome": "Getafe",
@@ -2483,21 +2454,6 @@
        "e": 3,
        "d": 6,
        "sg": -10,
-       "pts": 12
-      },
-      {
-       "pos": 16,
-       "time": {
-        "id": 79,
-        "nome": "Osasuna",
-        "sigla": "OSA",
-        "escudo": "https://crests.football-data.org/79.png"
-       },
-       "pj": 12,
-       "v": 3,
-       "e": 3,
-       "d": 6,
-       "sg": -11,
        "pts": 12
       },
       {
@@ -2553,11 +2509,11 @@
         "sigla": "MAL",
         "escudo": "https://crests.football-data.org/84.png"
        },
-       "pj": 12,
+       "pj": 13,
        "v": 0,
        "e": 5,
-       "d": 7,
-       "sg": -14,
+       "d": 8,
+       "sg": -15,
        "pts": 5
       }
      ]
@@ -2699,7 +2655,7 @@
     {
      "id": 564750,
      "data": "2026-11-22T15:15:00Z",
-     "status": "IN_PLAY",
+     "status": "FINISHED",
      "rodada": 13,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2721,7 +2677,7 @@
     {
      "id": 564752,
      "data": "2026-11-22T17:30:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 13,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2736,8 +2692,8 @@
       "sigla": "MAL",
       "escudo": "https://crests.football-data.org/84.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 0,
      "liga": "PD"
     },
     {
@@ -2779,6 +2735,28 @@
       "nome": "Elche",
       "sigla": "ELC",
       "escudo": "https://crests.football-data.org/285.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "PD"
+    },
+    {
+     "id": 564765,
+     "data": "2026-11-27T20:00:00Z",
+     "status": "TIMED",
+     "rodada": 14,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 88,
+      "nome": "Levante",
+      "sigla": "LEV",
+      "escudo": "https://crests.football-data.org/88.png"
+     },
+     "fora": {
+      "id": 5335,
+      "nome": "Santander",
+      "sigla": "SAN",
+      "escudo": "https://crests.football-data.org/5335.png"
      },
      "gols_casa": null,
      "gols_fora": null,
@@ -3097,28 +3075,6 @@
    ],
    "jogos": [
     {
-     "id": 558525,
-     "data": "2026-11-21T14:00:00Z",
-     "status": "FINISHED",
-     "rodada": 12,
-     "fase": "REGULAR_SEASON",
-     "casa": {
-      "id": 7397,
-      "nome": "Como 1907",
-      "sigla": "COM",
-      "escudo": "https://crests.football-data.org/7397.png"
-     },
-     "fora": {
-      "id": 104,
-      "nome": "Cagliari",
-      "sigla": "CAG",
-      "escudo": "https://crests.football-data.org/104.png"
-     },
-     "gols_casa": 2,
-     "gols_fora": 0,
-     "liga": "SA"
-    },
-    {
      "id": 558528,
      "data": "2026-11-21T14:00:00Z",
      "status": "FINISHED",
@@ -3137,6 +3093,28 @@
       "escudo": "https://crests.football-data.org/5890.png"
      },
      "gols_casa": 3,
+     "gols_fora": 0,
+     "liga": "SA"
+    },
+    {
+     "id": 558525,
+     "data": "2026-11-21T14:00:00Z",
+     "status": "FINISHED",
+     "rodada": 12,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 7397,
+      "nome": "Como 1907",
+      "sigla": "COM",
+      "escudo": "https://crests.football-data.org/7397.png"
+     },
+     "fora": {
+      "id": 104,
+      "nome": "Cagliari",
+      "sigla": "CAG",
+      "escudo": "https://crests.football-data.org/104.png"
+     },
+     "gols_casa": 2,
      "gols_fora": 0,
      "liga": "SA"
     },
@@ -3253,7 +3231,7 @@
     {
      "id": 558523,
      "data": "2026-11-22T17:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 12,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3268,14 +3246,14 @@
       "sigla": "FRO",
       "escudo": "https://crests.football-data.org/470.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 5,
+     "gols_fora": 1,
      "liga": "SA"
     },
     {
      "id": 558520,
      "data": "2026-11-22T19:45:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 12,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3290,8 +3268,8 @@
       "sigla": "INT",
       "escudo": "https://crests.football-data.org/108.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 0,
      "liga": "SA"
     },
     {
@@ -3311,6 +3289,28 @@
       "nome": "Fiorentina",
       "sigla": "FIO",
       "escudo": "https://crests.football-data.org/99.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
+     "liga": "SA"
+    },
+    {
+     "id": 558515,
+     "data": "2026-11-27T19:45:00Z",
+     "status": "TIMED",
+     "rodada": 13,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 454,
+      "nome": "Venezia FC",
+      "sigla": "VEN",
+      "escudo": "https://crests.football-data.org/454.png"
+     },
+     "fora": {
+      "id": 103,
+      "nome": "Bologna",
+      "sigla": "BOL",
+      "escudo": "https://crests.football-data.org/103.png"
      },
      "gols_casa": null,
      "gols_fora": null,
@@ -3407,12 +3407,12 @@
         "sigla": "SVW",
         "escudo": "https://crests.football-data.org/12.png"
        },
-       "pj": 9,
-       "v": 4,
+       "pj": 10,
+       "v": 5,
        "e": 3,
        "d": 2,
-       "sg": 2,
-       "pts": 15
+       "sg": 6,
+       "pts": 18
       },
       {
        "pos": 7,
@@ -3462,6 +3462,21 @@
       {
        "pos": 10,
        "time": {
+        "id": 16,
+        "nome": "Augsburg",
+        "sigla": "FCA",
+        "escudo": "https://crests.football-data.org/16.png"
+       },
+       "pj": 10,
+       "v": 3,
+       "e": 3,
+       "d": 4,
+       "sg": 2,
+       "pts": 12
+      },
+      {
+       "pos": 11,
+       "time": {
         "id": 2,
         "nome": "Hoffenheim",
         "sigla": "TSG",
@@ -3475,37 +3490,37 @@
        "pts": 12
       },
       {
-       "pos": 11,
+       "pos": 12,
        "time": {
         "id": 7,
         "nome": "HSV",
         "sigla": "HSV",
         "escudo": "https://crests.football-data.org/7.png"
        },
-       "pj": 9,
+       "pj": 10,
        "v": 4,
        "e": 0,
-       "d": 5,
-       "sg": -10,
+       "d": 6,
+       "sg": -14,
        "pts": 12
       },
       {
-       "pos": 12,
+       "pos": 13,
        "time": {
         "id": 15,
         "nome": "Mainz",
         "sigla": "M05",
         "escudo": "https://crests.football-data.org/15.png"
        },
-       "pj": 9,
+       "pj": 10,
        "v": 3,
        "e": 1,
-       "d": 5,
-       "sg": -1,
+       "d": 6,
+       "sg": -3,
        "pts": 10
       },
       {
-       "pos": 13,
+       "pos": 14,
        "time": {
         "id": 1,
         "nome": "1. FC Köln",
@@ -3520,7 +3535,7 @@
        "pts": 10
       },
       {
-       "pos": 14,
+       "pos": 15,
        "time": {
         "id": 29,
         "nome": "SC Paderborn",
@@ -3533,21 +3548,6 @@
        "d": 4,
        "sg": -7,
        "pts": 10
-      },
-      {
-       "pos": 15,
-       "time": {
-        "id": 16,
-        "nome": "Augsburg",
-        "sigla": "FCA",
-        "escudo": "https://crests.football-data.org/16.png"
-       },
-       "pj": 9,
-       "v": 2,
-       "e": 3,
-       "d": 4,
-       "sg": 0,
-       "pts": 9
       },
       {
        "pos": 16,
@@ -3621,28 +3621,6 @@
      "liga": "BL1"
     },
     {
-     "id": 565857,
-     "data": "2026-11-21T14:30:00Z",
-     "status": "FINISHED",
-     "rodada": 10,
-     "fase": "REGULAR_SEASON",
-     "casa": {
-      "id": 3,
-      "nome": "Leverkusen",
-      "sigla": "B04",
-      "escudo": "https://crests.football-data.org/3.png"
-     },
-     "fora": {
-      "id": 29,
-      "nome": "SC Paderborn",
-      "sigla": "SCP",
-      "escudo": "https://crests.football-data.org/29.png"
-     },
-     "gols_casa": 4,
-     "gols_fora": 0,
-     "liga": "BL1"
-    },
-    {
      "id": 565865,
      "data": "2026-11-21T14:30:00Z",
      "status": "FINISHED",
@@ -3665,25 +3643,25 @@
      "liga": "BL1"
     },
     {
-     "id": 565862,
+     "id": 565857,
      "data": "2026-11-21T14:30:00Z",
      "status": "FINISHED",
      "rodada": 10,
      "fase": "REGULAR_SEASON",
      "casa": {
-      "id": 18,
-      "nome": "M'gladbach",
-      "sigla": "BMG",
-      "escudo": "https://crests.football-data.org/18.png"
+      "id": 3,
+      "nome": "Leverkusen",
+      "sigla": "B04",
+      "escudo": "https://crests.football-data.org/3.png"
      },
      "fora": {
-      "id": 4,
-      "nome": "Dortmund",
-      "sigla": "BVB",
-      "escudo": "https://crests.football-data.org/4.png"
+      "id": 29,
+      "nome": "SC Paderborn",
+      "sigla": "SCP",
+      "escudo": "https://crests.football-data.org/29.png"
      },
-     "gols_casa": 0,
-     "gols_fora": 1,
+     "gols_casa": 4,
+     "gols_fora": 0,
      "liga": "BL1"
     },
     {
@@ -3725,6 +3703,28 @@
       "nome": "Freiburg",
       "sigla": "SCF",
       "escudo": "https://crests.football-data.org/17.png"
+     },
+     "gols_casa": 0,
+     "gols_fora": 1,
+     "liga": "BL1"
+    },
+    {
+     "id": 565862,
+     "data": "2026-11-21T14:30:00Z",
+     "status": "FINISHED",
+     "rodada": 10,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 18,
+      "nome": "M'gladbach",
+      "sigla": "BMG",
+      "escudo": "https://crests.football-data.org/18.png"
+     },
+     "fora": {
+      "id": 4,
+      "nome": "Dortmund",
+      "sigla": "BVB",
+      "escudo": "https://crests.football-data.org/4.png"
      },
      "gols_casa": 0,
      "gols_fora": 1,
@@ -3777,7 +3777,7 @@
     {
      "id": 565863,
      "data": "2026-11-22T16:30:00Z",
-     "status": "IN_PLAY",
+     "status": "FINISHED",
      "rodada": 10,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3792,8 +3792,30 @@
       "sigla": "HSV",
       "escudo": "https://crests.football-data.org/7.png"
      },
-     "gols_casa": 0,
+     "gols_casa": 4,
      "gols_fora": 0,
+     "liga": "BL1"
+    },
+    {
+     "id": 565869,
+     "data": "2026-11-27T19:30:00Z",
+     "status": "TIMED",
+     "rodada": 11,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 12,
+      "nome": "Bremen",
+      "sigla": "SVW",
+      "escudo": "https://crests.football-data.org/12.png"
+     },
+     "fora": {
+      "id": 18,
+      "nome": "M'gladbach",
+      "sigla": "BMG",
+      "escudo": "https://crests.football-data.org/18.png"
+     },
+     "gols_casa": null,
+     "gols_fora": null,
      "liga": "BL1"
     }
    ]
@@ -3822,6 +3844,21 @@
       {
        "pos": 2,
        "time": {
+        "id": 1045,
+        "nome": "Paris FC",
+        "sigla": "PFC",
+        "escudo": "https://crests.football-data.org/1045.png"
+       },
+       "pj": 11,
+       "v": 7,
+       "e": 2,
+       "d": 2,
+       "sg": 11,
+       "pts": 23
+      },
+      {
+       "pos": 3,
+       "time": {
         "id": 521,
         "nome": "Lille",
         "sigla": "LIL",
@@ -3829,43 +3866,13 @@
        },
        "pj": 11,
        "v": 6,
-       "e": 4,
-       "d": 1,
-       "sg": 7,
-       "pts": 22
-      },
-      {
-       "pos": 3,
-       "time": {
-        "id": 1045,
-        "nome": "Paris FC",
-        "sigla": "PFC",
-        "escudo": "https://crests.football-data.org/1045.png"
-       },
-       "pj": 10,
-       "v": 6,
-       "e": 2,
+       "e": 3,
        "d": 2,
-       "sg": 7,
-       "pts": 20
+       "sg": 6,
+       "pts": 21
       },
       {
        "pos": 4,
-       "time": {
-        "id": 516,
-        "nome": "Marseille",
-        "sigla": "MAR",
-        "escudo": "https://crests.football-data.org/516.png"
-       },
-       "pj": 10,
-       "v": 6,
-       "e": 0,
-       "d": 4,
-       "sg": 8,
-       "pts": 18
-      },
-      {
-       "pos": 5,
        "time": {
         "id": 523,
         "nome": "Olympique Lyon",
@@ -3873,14 +3880,44 @@
         "escudo": "https://crests.football-data.org/523.png"
        },
        "pj": 11,
-       "v": 5,
-       "e": 3,
+       "v": 6,
+       "e": 2,
        "d": 3,
-       "sg": 6,
-       "pts": 18
+       "sg": 7,
+       "pts": 20
+      },
+      {
+       "pos": 5,
+       "time": {
+        "id": 516,
+        "nome": "Marseille",
+        "sigla": "MAR",
+        "escudo": "https://crests.football-data.org/516.png"
+       },
+       "pj": 11,
+       "v": 6,
+       "e": 1,
+       "d": 4,
+       "sg": 8,
+       "pts": 19
       },
       {
        "pos": 6,
+       "time": {
+        "id": 512,
+        "nome": "Brest",
+        "sigla": "BRE",
+        "escudo": "https://crests.football-data.org/512.png"
+       },
+       "pj": 11,
+       "v": 5,
+       "e": 3,
+       "d": 3,
+       "sg": 7,
+       "pts": 18
+      },
+      {
+       "pos": 7,
        "time": {
         "id": 522,
         "nome": "Nice",
@@ -3895,7 +3932,7 @@
        "pts": 17
       },
       {
-       "pos": 7,
+       "pos": 8,
        "time": {
         "id": 548,
         "nome": "Monaco",
@@ -3910,21 +3947,6 @@
        "pts": 17
       },
       {
-       "pos": 8,
-       "time": {
-        "id": 512,
-        "nome": "Brest",
-        "sigla": "BRE",
-        "escudo": "https://crests.football-data.org/512.png"
-       },
-       "pj": 11,
-       "v": 4,
-       "e": 4,
-       "d": 3,
-       "sg": 6,
-       "pts": 16
-      },
-      {
        "pos": 9,
        "time": {
         "id": 529,
@@ -3932,12 +3954,12 @@
         "sigla": "REN",
         "escudo": "https://crests.football-data.org/529.png"
        },
-       "pj": 10,
+       "pj": 11,
        "v": 5,
-       "e": 1,
+       "e": 2,
        "d": 4,
        "sg": 0,
-       "pts": 16
+       "pts": 17
       },
       {
        "pos": 10,
@@ -3947,12 +3969,12 @@
         "sigla": "FCL",
         "escudo": "https://crests.football-data.org/525.png"
        },
-       "pj": 10,
+       "pj": 11,
        "v": 4,
-       "e": 3,
+       "e": 4,
        "d": 3,
        "sg": 1,
-       "pts": 15
+       "pts": 16
       },
       {
        "pos": 11,
@@ -3987,21 +4009,6 @@
       {
        "pos": 13,
        "time": {
-        "id": 576,
-        "nome": "Strasbourg",
-        "sigla": "RC ",
-        "escudo": "https://crests.football-data.org/576.png"
-       },
-       "pj": 11,
-       "v": 3,
-       "e": 2,
-       "d": 6,
-       "sg": -4,
-       "pts": 11
-      },
-      {
-       "pos": 14,
-       "time": {
         "id": 531,
         "nome": "Troyes",
         "sigla": "ETR",
@@ -4015,7 +4022,7 @@
        "pts": 11
       },
       {
-       "pos": 15,
+       "pos": 14,
        "time": {
         "id": 519,
         "nome": "Auxerre",
@@ -4030,6 +4037,21 @@
        "pts": 11
       },
       {
+       "pos": 15,
+       "time": {
+        "id": 576,
+        "nome": "Strasbourg",
+        "sigla": "RC ",
+        "escudo": "https://crests.football-data.org/576.png"
+       },
+       "pj": 11,
+       "v": 3,
+       "e": 1,
+       "d": 7,
+       "sg": -5,
+       "pts": 10
+      },
+      {
        "pos": 16,
        "time": {
         "id": 535,
@@ -4037,12 +4059,12 @@
         "sigla": "LMF",
         "escudo": "https://crests.football-data.org/535.png"
        },
-       "pj": 10,
+       "pj": 11,
        "v": 1,
-       "e": 5,
+       "e": 6,
        "d": 4,
        "sg": -7,
-       "pts": 8
+       "pts": 9
       },
       {
        "pos": 17,
@@ -4052,11 +4074,11 @@
         "sigla": "ANG",
         "escudo": "https://crests.football-data.org/532.png"
        },
-       "pj": 10,
+       "pj": 11,
        "v": 2,
        "e": 2,
-       "d": 6,
-       "sg": -10,
+       "d": 7,
+       "sg": -14,
        "pts": 8
       },
       {
@@ -4123,24 +4145,24 @@
      "liga": "FL1"
     },
     {
-     "id": 559624,
+     "id": 559621,
      "data": "2026-11-21T19:45:00Z",
      "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
-      "id": 521,
-      "nome": "Lille",
-      "sigla": "LIL",
-      "escudo": "https://crests.football-data.org/521.png"
+      "id": 548,
+      "nome": "Monaco",
+      "sigla": "ASM",
+      "escudo": "https://crests.football-data.org/548.png"
      },
      "fora": {
-      "id": 523,
-      "nome": "Olympique Lyon",
-      "sigla": "LYO",
-      "escudo": "https://crests.football-data.org/523.png"
+      "id": 519,
+      "nome": "Auxerre",
+      "sigla": "AJA",
+      "escudo": "https://crests.football-data.org/519.png"
      },
-     "gols_casa": 0,
+     "gols_casa": 1,
      "gols_fora": 1,
      "liga": "FL1"
     },
@@ -4189,24 +4211,24 @@
      "liga": "FL1"
     },
     {
-     "id": 559621,
+     "id": 559624,
      "data": "2026-11-21T19:45:00Z",
      "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
-      "id": 548,
-      "nome": "Monaco",
-      "sigla": "ASM",
-      "escudo": "https://crests.football-data.org/548.png"
+      "id": 521,
+      "nome": "Lille",
+      "sigla": "LIL",
+      "escudo": "https://crests.football-data.org/521.png"
      },
      "fora": {
-      "id": 519,
-      "nome": "Auxerre",
-      "sigla": "AJA",
-      "escudo": "https://crests.football-data.org/519.png"
+      "id": 523,
+      "nome": "Olympique Lyon",
+      "sigla": "LYO",
+      "escudo": "https://crests.football-data.org/523.png"
      },
-     "gols_casa": 1,
+     "gols_casa": 0,
      "gols_fora": 1,
      "liga": "FL1"
     },
@@ -4235,7 +4257,7 @@
     {
      "id": 559626,
      "data": "2026-11-22T16:15:00Z",
-     "status": "IN_PLAY",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -4250,14 +4272,14 @@
       "sigla": "REN",
       "escudo": "https://crests.football-data.org/529.png"
      },
-     "gols_casa": 0,
+     "gols_casa": 1,
      "gols_fora": 1,
      "liga": "FL1"
     },
     {
      "id": 559629,
      "data": "2026-11-22T19:45:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -4271,6 +4293,28 @@
       "nome": "Le Mans",
       "sigla": "LMF",
       "escudo": "https://crests.football-data.org/535.png"
+     },
+     "gols_casa": 0,
+     "gols_fora": 0,
+     "liga": "FL1"
+    },
+    {
+     "id": 559616,
+     "data": "2026-11-27T19:45:00Z",
+     "status": "TIMED",
+     "rodada": 12,
+     "fase": "REGULAR_SEASON",
+     "casa": {
+      "id": 512,
+      "nome": "Brest",
+      "sigla": "BRE",
+      "escudo": "https://crests.football-data.org/512.png"
+     },
+     "fora": {
+      "id": 1045,
+      "nome": "Paris FC",
+      "sigla": "PFC",
+      "escudo": "https://crests.football-data.org/1045.png"
      },
      "gols_casa": null,
      "gols_fora": null,
@@ -4412,5 +4456,5 @@
    }
   ]
  },
- "atualizado_em": "2026-11-22T17:03:43.776903+00:00"
+ "atualizado_em": "2026-11-22T19:59:36.782225+00:00"
 }
