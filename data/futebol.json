@@ -489,7 +489,7 @@
     {
      "id": 555090,
      "data": "2026-11-22T19:00:00Z",
-     "status": "IN_PLAY",
+     "status": "FINISHED",
      "rodada": 36,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -504,14 +504,14 @@
       "sigla": "CRE",
       "escudo": "https://crests.football-data.org/4287.png"
      },
-     "gols_casa": 2,
-     "gols_fora": 0,
+     "gols_casa": 4,
+     "gols_fora": 2,
      "liga": "BSA"
     },
     {
      "id": 555096,
      "data": "2026-11-22T21:30:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 36,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -526,8 +526,8 @@
       "sigla": "MIR",
       "escudo": "https://crests.football-data.org/4364.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 0,
      "liga": "BSA"
     },
     {
@@ -2699,7 +2699,7 @@
     {
      "id": 564753,
      "data": "2026-11-22T20:00:00Z",
-     "status": "TIMED",
+     "status": "FINISHED",
      "rodada": 13,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -2714,8 +2714,8 @@
       "sigla": "ATL",
       "escudo": "https://crests.football-data.org/78.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 0,
+     "gols_fora": 3,
      "liga": "PD"
     },
     {
@@ -3253,7 +3253,7 @@
     {
      "id": 558520,
      "data": "2026-11-22T19:45:00Z",
-     "status": "IN_PLAY",
+     "status": "FINISHED",
      "rodada": 12,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -3268,8 +3268,8 @@
       "sigla": "INT",
       "escudo": "https://crests.football-data.org/108.png"
      },
-     "gols_casa": 0,
-     "gols_fora": 0,
+     "gols_casa": 4,
+     "gols_fora": 4,
      "liga": "SA"
     },
     {
@@ -4279,7 +4279,7 @@
     {
      "id": 559629,
      "data": "2026-11-22T19:45:00Z",
-     "status": "IN_PLAY",
+     "status": "FINISHED",
      "rodada": 11,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -4294,8 +4294,8 @@
       "sigla": "LMF",
       "escudo": "https://crests.football-data.org/535.png"
      },
-     "gols_casa": 0,
-     "gols_fora": 0,
+     "gols_casa": 2,
+     "gols_fora": 3,
      "liga": "FL1"
     },
     {
@@ -4456,5 +4456,5 @@
    }
   ]
  },
- "atualizado_em": "2026-11-22T19:59:36.782225+00:00"
+ "atualizado_em": "2026-11-22T22:26:07.631254+00:00"
 }
