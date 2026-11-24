@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T19:59:25.732888+00:00",
+ "atualizado_em": "2026-11-24T00:24:36.405913+00:00",
  "selic": {
   "valor": 13.75,
   "anterior": 14.0,
@@ -18,47 +18,47 @@
   "fonte": "https://www3.bcb.gov.br/sgspub/"
  },
  "dolar": {
-  "valor": 5.8889,
-  "anterior": 5.8102,
-  "data": "2026-11-19",
+  "valor": 5.9708,
+  "anterior": 5.8889,
+  "data": "2026-11-23",
   "rotulo": "Dólar (PTAX venda)",
   "fonte": "https://www3.bcb.gov.br/sgspub/"
  },
  "focus": {
-  "data": "2026-11-13",
+  "data": "2026-11-19",
   "ano": 2026,
   "linhas": [
    {
     "rotulo": "IPCA",
     "unidade": "%",
-    "ano": 5.1082,
-    "ano_4sem": 5.219,
-    "prox": 5.0,
-    "prox_4sem": 4.3206
+    "ano": 5.1505,
+    "ano_4sem": 5.2141,
+    "prox": 5.1214,
+    "prox_4sem": 4.2984
    },
    {
     "rotulo": "Selic fim de ano",
     "unidade": "% a.a.",
     "ano": 13.75,
     "ano_4sem": 13.25,
-    "prox": 12.75,
+    "prox": 13.0,
     "prox_4sem": 12.0
    },
    {
     "rotulo": "PIB",
     "unidade": "%",
-    "ano": 1.7215,
-    "ano_4sem": 1.8301,
-    "prox": 1.0224,
+    "ano": 1.7018,
+    "ano_4sem": 1.8177,
+    "prox": 0.9995,
     "prox_4sem": 1.3246
    },
    {
     "rotulo": "Dólar fim de ano",
     "unidade": "R$",
-    "ano": 5.4,
-    "ano_4sem": 5.132,
-    "prox": 5.45,
-    "prox_4sem": 5.2213
+    "ano": 5.55,
+    "ano_4sem": 5.1,
+    "prox": 5.5,
+    "prox_4sem": 5.2
    }
   ],
   "fonte": "https://www.bcb.gov.br/publicacoes/focus"
