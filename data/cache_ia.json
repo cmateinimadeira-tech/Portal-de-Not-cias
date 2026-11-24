@@ -1216,438 +1216,462 @@
   }
  },
  "ciencia": {
-  "chave": "352558ca2566f996",
+  "chave": "f5ab90578f421fcc",
   "grupos": [
    {
-    "titulo": "EUA não querem data centers em outros países",
+    "titulo": "Ajuste fiscal no governo",
     "ids": [
-     "cf713fa61baa"
+     "0165ba19b149",
+     "3085e2db675d"
     ]
    },
    {
-    "titulo": "Mendonça manda soltar investigados em fraudes do INSS",
+    "titulo": "Retorno de Jensen Huang ao comando da Nvidia e impactos",
     "ids": [
-     "68ab6e40fea0"
+     "708d9a0ef567",
+     "c82ab5c57408",
+     "2f75382e1552",
+     "4e32d7f3e835",
+     "2e254c30a22f",
+     "69e285e5d345",
+     "78164e0109ee",
+     "e9528f0dd6cb",
+     "ddd45338b162"
     ]
    },
    {
-    "titulo": "Paraná registra dois tornados em um único dia",
+    "titulo": "Condenação e soltura do hacker de GTA 6",
     "ids": [
-     "3d8292821de7"
+     "c793abc6e05f",
+     "eca24540e663"
     ]
    },
    {
-    "titulo": "Impacto da reforma tributária nos aluguéis a partir de 2027",
+    "titulo": "Lançamento e impactos de GTA 6",
     "ids": [
-     "080e40ee278f"
+     "b3fd6c07fe7f",
+     "421ce1fa6941",
+     "7d9ff435c836",
+     "042609591363",
+     "2d1c78768496"
     ]
    },
    {
-    "titulo": "Programa Olhar Digital News",
+    "titulo": "Melhor teclado gamer em 2026: qual modelo comprar?",
     "ids": [
-     "4bdd3d11a993"
+     "e56d0460e934"
     ]
    },
    {
-    "titulo": "Grêmio derrota o Santos no Brasileirão",
+    "titulo": "Motorola lança Edge 70 Neo com bateria de 7.000 mAh; confira especificações",
     "ids": [
-     "a79f1a7ac98d"
+     "9e4440d5c4e6"
     ]
    },
    {
-    "titulo": "Fachin intima liquidante do Master sobre desbloqueio de recursos do BRB",
+    "titulo": "Porsche 718 Boxster prototype drive: This electric roadster is real",
     "ids": [
-     "8e5886759668"
+     "52ebfa6a6628"
     ]
    },
    {
-    "titulo": "Câmara aprova texto-base do ajuste fiscal",
+    "titulo": "Câmera GoPro Max 360 com preço imperdível no cupom da Amazon",
     "ids": [
-     "a70c24f9229d",
-     "57116e22f3bf"
+     "4f80c8700ee1"
     ]
    },
    {
-    "titulo": "Empate e expulsão em jogo de Botafogo e São Paulo",
+    "titulo": "WhatsApp começa a liberar figurinhas com som",
     "ids": [
-     "45d33e7a46e1"
+     "d95e5d238dfd"
     ]
    },
    {
-    "titulo": "Brasil prevê testes de vacina contra o câncer em 2027",
+    "titulo": "GTA VI, Spider-Man 2 e mais: seleção de jogos PS5 em promoção na Amazon",
     "ids": [
-     "8e39e727b166"
+     "1f4b94cc4e2a"
     ]
    },
    {
-    "titulo": "Internacional é goleado pelo Vitória",
+    "titulo": "Vazamento expõe 3,5 bilhões de dados em dois bancos na internet",
     "ids": [
-     "e414434b6ca1"
+     "b8957112f063"
     ]
    },
    {
-    "titulo": "Anthropic lança IA Claude Ship para códigos",
+    "titulo": "No more heated seat subscriptions for cars in New York from 2027",
     "ids": [
-     "8c3363137cb9"
+     "24f6f3af5fa7"
     ]
    },
    {
-    "titulo": "Kagi lança serviço de e-mail alternativo",
+    "titulo": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+    "ids": [
+     "4059bf6cbecc"
+    ]
+   },
+   {
+    "titulo": "The New York Times warns photographers not to update Photoshop over AI features",
+    "ids": [
+     "dc69597abec1"
+    ]
+   },
+   {
+    "titulo": "Hora de equipar seu tablet: veja as melhores ofertas da categoria agora",
+    "ids": [
+     "1b54282e9bb8"
+    ]
+   },
+   {
+    "titulo": "Homo erectus lived in the rainforest alongside Denisovans",
+    "ids": [
+     "8fe6e72a6857"
+    ]
+   },
+   {
+    "titulo": "Galaxy S27 Ultra pode perder autofoco a laser e câmera de zoom 3x",
+    "ids": [
+     "0b5a8607e4ad"
+    ]
+   },
+   {
+    "titulo": "Importações de etanol anidro devem crescer 59% no início de 2027",
+    "ids": [
+     "8b0b8b8f78db"
+    ]
+   },
+   {
+    "titulo": "Músicas em qualquer lugar: as melhores caixas de som Bluetooth em promoção na Amazon",
+    "ids": [
+     "0d5fb20469e8"
+    ]
+   },
+   {
+    "titulo": "X-59: NASA assume controle de avião supersônico experimental",
+    "ids": [
+     "eca6509d104b"
+    ]
+   },
+   {
+    "titulo": "You can lock in Hulu and Disney Plus for as low as $5 per month for a year",
+    "ids": [
+     "4866eb4a7666"
+    ]
+   },
+   {
+    "titulo": "Hora de trocar o cabo: selecionamos fones Bluetooth em promoção na Amazon",
+    "ids": [
+     "2592f1e87a83"
+    ]
+   },
+   {
+    "titulo": "Raising the stakes for enterprise networks with AI modernization",
+    "ids": [
+     "22d7270e7a58"
+    ]
+   },
+   {
+    "titulo": "Wyze’s new window feeder records birds from a camera inside your home",
+    "ids": [
+     "47341715831f"
+    ]
+   },
+   {
+    "titulo": "O que comprar na Black Friday da Vivara",
+    "ids": [
+     "b76940043c36"
+    ]
+   },
+   {
+    "titulo": "Análise de DNA no Sudário de Turim revela vestígios de séculos de história",
+    "ids": [
+     "bc4a442e882a"
+    ]
+   },
+   {
+    "titulo": "Kindle de 10ª geração terá suporte de segurança encerrado pela Amazon; confira o que significa",
+    "ids": [
+     "3be9b4c2d070"
+    ]
+   },
+   {
+    "titulo": "Soundbar com melhor custo-benefício: 7 modelos abaixo de R$ 2.000 em 2026",
+    "ids": [
+     "f6c2007bf45b"
+    ]
+   },
+   {
+    "titulo": "LibreOffice endurece regras para código gerado por IA no projeto",
+    "ids": [
+     "84febded1ca2"
+    ]
+   },
+   {
+    "titulo": "Memória RAM com bom desempenho: confira uma seleção de opções DDR5 em promoção",
+    "ids": [
+     "d3c6ea866973"
+    ]
+   },
+   {
+    "titulo": "VP do Google: pessoas não querem apenas IA na busca",
+    "ids": [
+     "eafd7cff5e0f"
+    ]
+   },
+   {
+    "titulo": "iPhone 17e (512 GB) surge em queda com cupom exclusivo na Black da Amazon",
+    "ids": [
+     "dff51477d74a"
+    ]
+   },
+   {
+    "titulo": "Arrecadação federal cresce 7,3% em outubro e é recorde para o mês",
+    "ids": [
+     "e5ddf79661ea"
+    ]
+   },
+   {
+    "titulo": "Como aparelhos que parecem desligados podem roubar mais de R$ 500 da sua conta de luz",
+    "ids": [
+     "748a1df46627"
+    ]
+   },
+   {
+    "titulo": "SP: Mulher é resgatada após ficar 40 anos sob condição análoga à escravidão",
+    "ids": [
+     "5bfb5e7e517f"
+    ]
+   },
+   {
+    "titulo": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
+    "ids": [
+     "84b6ad1ae929"
+    ]
+   },
+   {
+    "titulo": "Indústria de etanol acirra disputa pelo milho no mercado interno",
+    "ids": [
+     "92ac0ee7e31c"
+    ]
+   },
+   {
+    "titulo": "Mulher é morta pelo ex três dias após pedir medida protetiva em SP",
+    "ids": [
+     "0b0ffef3d6e1"
+    ]
+   },
+   {
+    "titulo": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+    "ids": [
+     "58036171b43d"
+    ]
+   },
+   {
+    "titulo": "Galaxy Watch 9 despenca 53% em oferta imbatível de Black antecipada",
+    "ids": [
+     "331dd7886b02"
+    ]
+   },
+   {
+    "titulo": "China anuncia tripulação de missão espacial com participação inédita de astronauta paquistanês",
+    "ids": [
+     "b7718bf5ccd5"
+    ]
+   },
+   {
+    "titulo": "Galaxy Watch 8 Classic fica abaixo dos R$ 1.600 no esquenta Black do Mercado Livre",
+    "ids": [
+     "bfb9e20a8514"
+    ]
+   },
+   {
+    "titulo": "Brasil prevê iniciar testes de vacina contra o câncer em 2027, diz Saúde",
+    "ids": [
+     "1579a61940d8"
+    ]
+   },
+   {
+    "titulo": "Coalizão pressiona UE contra restrições da Apple a navegadores",
+    "ids": [
+     "d94297d6bb3c"
+    ]
+   },
+   {
+    "titulo": "Black Week: Huawei Watch GT 7 Pro tem promoção relâmpago em 10x sem juros",
+    "ids": [
+     "008cf4b7268b"
+    ]
+   },
+   {
+    "titulo": "Um planeta desconhecido com o dobro da massa da Terra pode estar escondido além de Netuno e ajudar a explicar mistérios do Sistema Solar",
+    "ids": [
+     "ec75d50cbac8"
+    ]
+   },
+   {
+    "titulo": "Lacunas em radares desafiam monitoramento dos efeitos do El Niño",
+    "ids": [
+     "d140cd1b52b8"
+    ]
+   },
+   {
+    "titulo": "Coreia do Sul emite alerta após aproximação de aviões russos",
+    "ids": [
+     "32728f7ada48"
+    ]
+   },
+   {
+    "titulo": "The Download: AI’s gas power boom and a consciousness reality check",
+    "ids": [
+     "5ece1567bced"
+    ]
+   },
+   {
+    "titulo": "Quaest: eleitor \"liberal social\" foi quem mais migrou para Lula no 2º turno",
+    "ids": [
+     "cd60fc1e5e51"
+    ]
+   },
+   {
+    "titulo": "Seleção Tech na Black Friday do Meli com Nintendo OLED, notebooks e mais",
+    "ids": [
+     "ec56801b7e32"
+    ]
+   },
+   {
+    "titulo": "Black Week: iPhone 16 aparece pelo menor preço dos últimos meses",
+    "ids": [
+     "54fa1a69edb4"
+    ]
+   },
+   {
+    "titulo": "Ladybird, navegador feito ‘do zero’, quer desafiar hegemonia do Chrome",
+    "ids": [
+     "c6ca531f5258"
+    ]
+   },
+   {
+    "titulo": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+    "ids": [
+     "834b0144ccd8"
+    ]
+   },
+   {
+    "titulo": "Anthropic cai abaixo do preço do IPO apenas cinco dias após estreia recorde na bolsa",
+    "ids": [
+     "862feb2d145f"
+    ]
+   },
+   {
+    "titulo": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "ids": [
+     "21c67f84759f"
+    ]
+   },
+   {
+    "titulo": "Como escolher o notebook ideal para reuniões e videoconferências",
+    "ids": [
+     "c3d29f3227a9"
+    ]
+   },
+   {
+    "titulo": "One terminal command gave my forgotten Android device a desk job",
+    "ids": [
+     "8baea03fafc6"
+    ]
+   },
+   {
+    "titulo": "O que comprar na Black Friday: tablets para estudar",
+    "ids": [
+     "e455cfc786d5"
+    ]
+   },
+   {
+    "titulo": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+    "ids": [
+     "79141dcd097a"
+    ]
+   },
+   {
+    "titulo": "One UI 9.5: confira os recursos descobertos no primeiro beta da Samsung",
+    "ids": [
+     "edcf811058ad"
+    ]
+   },
+   {
+    "titulo": "Data centers are getting their own natural gas power plants",
+    "ids": [
+     "9f04eb00d9b2"
+    ]
+   },
+   {
+    "titulo": "Tesla e SpaceX discutem maior fusão da história, avaliada em R$ 20,8 trilhões, diz jornal",
+    "ids": [
+     "8debb48b9416"
+    ]
+   },
+   {
+    "titulo": "Black Friday: saiba como identificar sites e anúncios falsos para não cair em golpes; VÍDEO",
+    "ids": [
+     "69d355db8d06"
+    ]
+   },
+   {
+    "titulo": "Google alternative Kagi launches an email service",
     "ids": [
      "485decdaf481"
     ]
    },
    {
-    "titulo": "Lançamentos da semana nos streamings",
-    "ids": [
-     "5d69397dadc5"
-    ]
-   },
-   {
-    "titulo": "Resultado do concurso 3836 da Lotofácil",
-    "ids": [
-     "55dd999262e5"
-    ]
-   },
-   {
-    "titulo": "Deputada do PSOL diz ter sido barrada em Israel",
-    "ids": [
-     "f4d75ee47acc"
-    ]
-   },
-   {
-    "titulo": "Condenação de hacker responsável por vazamentos de GTA VI",
-    "ids": [
-     "eca24540e663"
-    ]
-   },
-   {
-    "titulo": "Ação dos EUA para recuperar fundos de ataque à Binance",
-    "ids": [
-     "0267330ce4ad",
-     "7d4be3c90414"
-    ]
-   },
-   {
-    "titulo": "Aumento de casos de Mpox em novembro com destaque para SP",
-    "ids": [
-     "c4808d09cfa9"
-    ]
-   },
-   {
-    "titulo": "Notícias e dicas sobre GTA 6",
-    "ids": [
-     "986d491af641",
-     "52ea33250c16",
-     "d3c83515da5a",
-     "3511911aa4a7",
-     "74a496211c21",
-     "1559cc8f1898"
-    ]
-   },
-   {
-    "titulo": "Guia de presentes de fim de ano da The Verge",
-    "ids": [
-     "89d2a35976f4"
-    ]
-   },
-   {
-    "titulo": "Microsoft reconhece falha na entrega de e-mails",
-    "ids": [
-     "a7c983b533c2"
-    ]
-   },
-   {
-    "titulo": "Lançamento do motor de navegador Ladybird",
-    "ids": [
-     "5d7720922390"
-    ]
-   },
-   {
-    "titulo": "Ofertas e promoções da Black Friday",
-    "ids": [
-     "c5a8055db6ef",
-     "7964d2edf739",
-     "5f3c0afad2b9",
-     "9ee63bf6c2bb",
-     "ada985c96bde",
-     "1ad0c315357e",
-     "0f3a7fe437da",
-     "fed8dd7eb879",
-     "346daba014d4",
-     "99243d70028b"
-    ]
-   },
-   {
-    "titulo": "Jogos em alta para Android na Play Store",
-    "ids": [
-     "e0447229e1e9"
-    ]
-   },
-   {
-    "titulo": "Declarações do CEO da Anthropic sobre games e IA",
-    "ids": [
-     "372c05cb6426"
-    ]
-   },
-   {
-    "titulo": "Trump paralisa detonação em Iowa",
+    "titulo": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
     "ids": [
      "3f36a1cc93f5"
     ]
    },
    {
-    "titulo": "Processos contra a SpaceX por imagens geradas pelo Grok",
+    "titulo": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
     "ids": [
      "afbf4ed7c77a"
     ]
    },
    {
-    "titulo": "Impacto de data centers de IA nas negociações climáticas da ONU",
-    "ids": [
-     "0cd17937bdc8"
-    ]
-   },
-   {
-    "titulo": "Uso de IA por criadores de conteúdo no Brasil",
-    "ids": [
-     "d4a3058fa9fc"
-    ]
-   },
-   {
-    "titulo": "Renovação da série Ted Lasso para a 5ª temporada",
-    "ids": [
-     "f41c0847f22b"
-    ]
-   },
-   {
-    "titulo": "Missão de abastecimento da Rússia para a ISS",
+    "titulo": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
     "ids": [
      "3f6e6e0248b4"
     ]
    },
    {
-    "titulo": "Como bloquear chamadas desconhecidas no celular",
-    "ids": [
-     "f0ed527aa0f1"
-    ]
-   },
-   {
-    "titulo": "Preços personalizados baseados em dados pessoais",
+    "titulo": "Surveillance pricing uses our personal data to make us pay more",
     "ids": [
      "88c939963f0d"
     ]
    },
    {
-    "titulo": "Possível lançamento do iPhone 18e antes da versão base",
+    "titulo": "EUA entram com ação para recuperar mais de US$ 1 bilhão em criptomoedas roubadas em ataque à Binance",
     "ids": [
-     "da3703758ef7"
+     "7d4be3c90414"
     ]
    },
    {
-    "titulo": "TikTok ganha detector de deepfakes",
-    "ids": [
-     "6abdf419c159"
-    ]
-   },
-   {
-    "titulo": "Mozilla explica ausência de motor próprio do Firefox no iOS",
-    "ids": [
-     "6ed30566478f"
-    ]
-   },
-   {
-    "titulo": "Amazon coloca adesivos contra lei em pacotes",
-    "ids": [
-     "f46bae4b1628"
-    ]
-   },
-   {
-    "titulo": "Relatórios sobre possível lançamento de arma nuclear pela Rússia no espaço",
-    "ids": [
-     "34d720d7557e"
-    ]
-   },
-   {
-    "titulo": "Acusações do GrapheneOS contra práticas do Google",
-    "ids": [
-     "cedae0e20a91"
-    ]
-   },
-   {
-    "titulo": "Seleção de mouses gamer baratos",
-    "ids": [
-     "118dff6f515b"
-    ]
-   },
-   {
-    "titulo": "Críticas de filósofo aos argumentos de consciência da Anthropic",
+    "titulo": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
     "ids": [
      "02839082ff9f"
     ]
    },
    {
-    "titulo": "Trailer final de Avengers: Doomsday",
-    "ids": [
-     "f205e38d2cf7"
-    ]
-   },
-   {
-    "titulo": "Fim da COP31 sem acordo sobre combustíveis fósseis",
-    "ids": [
-     "fd3c1132cf6b"
-    ]
-   },
-   {
-    "titulo": "Corrida de Fórmula 1 em Las Vegas",
-    "ids": [
-     "4fc9328efd4a"
-    ]
-   },
-   {
-    "titulo": "Boletim diário The Download da MIT Technology Review",
+    "titulo": "The Download: AI’s judgment problem and carbon removal’s crop threat",
     "ids": [
      "9c079ad7f691"
     ]
    },
    {
-    "titulo": "Monitores portáteis triplos",
-    "ids": [
-     "9047326037c9"
-    ]
-   },
-   {
-    "titulo": "Review do notebook Asus ProArt P16",
-    "ids": [
-     "70a4447641e0"
-    ]
-   },
-   {
-    "titulo": "Causas de instabilidades em serviços nos Estados Unidos",
-    "ids": [
-     "78eb5c3c945e"
-    ]
-   },
-   {
-    "titulo": "Uso de rochas para remoção de carbono e impacto no crescimento de cultivos",
+    "titulo": "Why using rocks for carbon removal could eventually reduce crop growth",
     "ids": [
      "dc02d0ba7ca7"
-    ]
-   },
-   {
-    "titulo": "Eclipse astronômico da Lua e estrela de Touro",
-    "ids": [
-     "101848b828ea"
-    ]
-   },
-   {
-    "titulo": "Reviravolta na Nvidia: por que Jensen Huang é tão necessário?",
-    "ids": [
-     "09c460ae5c3a"
-    ]
-   },
-   {
-    "titulo": "Hoje no TecMundo (23): Jensen Huang voltou para a Nvidia, GTA 6 bate recorde e mais",
-    "ids": [
-     "b1d76c564f8f"
-    ]
-   },
-   {
-    "titulo": "Volta de Jensen Huang à Nvidia acrescenta R$ 219 bilhões à sua fortuna",
-    "ids": [
-     "f7938cb05c5a"
-    ]
-   },
-   {
-    "titulo": "EUA colocam empresa ligada a escândalo da Nvidia em lista comercial restrita",
-    "ids": [
-     "201f69c8bb51"
-    ]
-   },
-   {
-    "titulo": "Trump engineered a risky comeback for Jensen Huang",
-    "ids": [
-     "049542555c2c"
-    ]
-   },
-   {
-    "titulo": "Nvidia CEO Jensen Huang is back. What happens next?",
-    "ids": [
-     "15c28179b2dc"
-    ]
-   },
-   {
-    "titulo": "Welcome to elite impunity, Jensen Huang",
-    "ids": [
-     "8ab70d6f89cf"
-    ]
-   },
-   {
-    "titulo": "Jensen Huang é aplaudido por funcionários no retorno à Nvidia; VIDEO",
-    "ids": [
-     "e9528f0dd6cb"
-    ]
-   },
-   {
-    "titulo": "Fortuna de Jensen Huang cresce R$ 219 bilhões após retorno ao comando da Nvidia",
-    "ids": [
-     "ddd45338b162"
-    ]
-   },
-   {
-    "titulo": "Jensen Huang reinstated as Nvidia CEO, board chair",
-    "ids": [
-     "e09aa9a8dd80"
-    ]
-   },
-   {
-    "titulo": "Jensen Huang volta à Nvidia: veja a cronologia da crise que envolve traição e espionagem",
-    "ids": [
-     "42076c753129"
-    ]
-   },
-   {
-    "titulo": "Ações da Nvidia fecham em alta de 31% após volta de Jensen Huang; Nasdaq sobe mais de 6%",
-    "ids": [
-     "4b9b15a56546"
-    ]
-   },
-   {
-    "titulo": "Trump celebra retorno de Jensen Huang ao comando da Nvidia e posta montagem do CEO segurando sutiã",
-    "ids": [
-     "b91ed7a4f39e"
-    ]
-   },
-   {
-    "titulo": "Nvidia anuncia volta de Jensen Huang ao comando da empresa",
-    "ids": [
-     "e6b18b6488cc"
-    ]
-   },
-   {
-    "titulo": "Trump pede volta de Jensen Huang à Nvidia após novas revelações sobre suspeita de espionagem",
-    "ids": [
-     "2c221d104833"
-    ]
-   },
-   {
-    "titulo": "Amante de CEO da Nvidia manteve contato com oficial da espionagem chinesa, segundo o NYT",
-    "ids": [
-     "7e45b337d391"
     ]
    }
   ],
   "resumos": {
-   "671421f882c527b8": {
-    "resumo": "O jogo GTA 6 bateu recordes de vendas e audiência em sua estreia, arrecadando US$ 3,79 bilhões no primeiro dia. Segundo a Rockstar Games e a Take-Two Interactive, o título também registrou 32,5 milhões de unidades vendidas na pré-estreia. Os números superam largamente os recordes anteriores de GTA 5 e de produções de Hollywood. O presidente da Rockstar, Sam Houser, agradeceu a recepção do público.",
-    "pontos": [
-     "GTA 6 arrecadou US$ 3,79 bilhões no primeiro dia de lançamento.",
-     "Foram vendidas 32,5 milhões de cópias na pré-estreia.",
-     "O jogo superou recordes anteriores da franquia e de bilheterias de cinema."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1795242086.7045498
-   },
    "c14188884e409163": {
     "resumo": "O Google atualizou a página inicial de seu buscador para integrar o histórico de conversas com inteligência artificial. A nova barra lateral, liberada globalmente para computadores, permite retomar pesquisas feitas no Modo IA e iniciar novos tópicos. A mudança também removeu o tradicional botão de busca da interface principal. O recurso facilita o acesso a interações anteriores sem exigir novas consultas do zero.",
     "pontos": [
@@ -1657,66 +1681,6 @@
     ],
     "enquadramentos": {},
     "usado_em": 1795416081.4751046
-   },
-   "d778175ce05db096": {
-    "resumo": "A Meta informou que está reavaliando sua meta climática de neutralidade de carbono até 2030 devido ao aumento na demanda por infraestrutura de inteligência artificial. A empresa registrou um salto significativo nas emissões de gases de efeito estufa associadas a seus data centers em 2025. Executivos apontaram que o ambiente operacional mudou e que a construção de infraestrutura para IA tem prioridade. Outras Big Techs mantêm seus compromissos, mas enfrentam desafios semelhantes.",
-    "pontos": [
-     "Meta reavalia meta de emissões líquidas zero para 2030.",
-     "Crescimento de data centers de IA elevou o volume de emissões da empresa.",
-     "Companhia destaca que a demanda por infraestrutura superou projeções."
-    ],
-    "enquadramentos": {},
-    "usado_em": 1795242086.7045586
-   },
-   "a809415a313eace9": {
-    "resumo": "O presidente dos EUA, Donald Trump, ameaçou proibir empresas norte-americanas de construírem data centers no exterior e prometeu aplicar um imposto altíssimo sobre essas instalações. A declaração foi feita nesta sexta-feira (20) em uma coletiva de imprensa na Casa Branca, após uma viagem à Ásia. Trump afirmou que a prática de transferir infraestruturas para fora do país prejudica a nação, mas não detalhou como a medida será implementada. A decisão pode afetar os planos de expansão internacional de companhias do setor, como Equinix e Digital Realty.",
-    "pontos": [
-     "Trump ameaça proibir data centers fora dos EUA",
-     "Promessa inclui imposto elevado para infraestruturas no exterior",
-     "Medida visa proteger o desenvolvimento tecnológico nacional"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1795242086.7045286
-   },
-   "322a52c2771824fd": {
-    "resumo": "As ações da Anthropic fecharam em queda de 8,5% a 9% nesta sexta-feira (20), negociadas a US$ 88,91, um dia após a estreia histórica da empresa na bolsa de valores dos EUA. O resultado aproximou os papéis do valor de US$ 83 fixado na oferta pública inicial (IPO). A queda reflete o crescente pessimismo e a cautela dos investidores em relação ao setor de inteligência artificial. O movimento de baixa também afetou outras grandes empresas de tecnologia, como Nvidia, Meta, Amazon e Microsoft.",
-    "pontos": [
-     "Ações da Anthropic caem cerca de 8,5% a 9% no segundo dia",
-     "IPO movimentou US$ 93,5 bilhões, mas investidores mantêm cautela",
-     "Setor de IA enfrenta ceticismo sobre retornos financeiros rápidos"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1795242086.7045524
-   },
-   "c5a1c8811e75f376": {
-    "resumo": "A inteligência artificial está sendo integrada ao tradicional setor de perfumaria para acelerar a criação de fragrâncias e resolver formulações complexas. Gigantes como Estée Lauder e IFF utilizam IA para otimizar testes, verificar regulamentações internacionais e buscar moléculas sustentáveis. Paralelamente, startups como a Osmo desenvolvem modelos de olfato computacional para imitar o nariz humano. A tecnologia reduz em até 30% o tempo necessário para produzir novos perfumes.",
-    "pontos": [
-     "IA ajuda perfumistas a criar formulações e verificar regras globais",
-     "Empresas reduzem tempo de desenvolvimento em até 30%",
-     "Startups treinam modelos computacionais para imitar o olfato humano"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1795242086.7045538
-   },
-   "a17028fda15189a1": {
-    "resumo": "O TikTok anunciou nesta sexta-feira (20) duas novas ferramentas para identificar conteúdos gerados ou manipulados por inteligência artificial, apresentadas em um evento de segurança em Londres. Uma das novidades permite que qualquer pessoa verifique imagens e vídeos criados por ferramentas da própria plataforma. A outra, chamada Likeness Detection, ajuda figuras públicas e criadores a localizarem vídeos que reproduzem sua aparência sem autorização. A medida busca combater conteúdos enganosos e aumentar a transparência.",
-    "pontos": [
-     "TikTok lança ferramenta para identificar mídias geradas por IA",
-     "Recurso de detecção de semelhança protege figuras públicas e criadores",
-     "Iniciativa visa combater desinformação antes de eleições na Europa"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1795242086.7045548
-   },
-   "6261512e0cb5db7a": {
-    "resumo": "O pesquisador Levent Alpoge, da Anthropic, afirmou nesta sexta-feira (20) ter utilizado o chatbot Claude para demonstrar a Hipótese de Riemann, um dos maiores enigmas da matemática em aberto há mais de 160 anos. A demonstração foi publicada em seu site em linguagem de programação Lean, mas ainda não passou por revisão de especialistas externos. A Hipótese de Riemann é um dos Problemas do Milênio do Instituto de Matemática Clay, que oferece um prêmio de um milhão de dólares. A Anthropic não se envolveu diretamente no anúncio.",
-    "pontos": [
-     "Pesquisador da Anthropic diz ter provado a Hipótese de Riemann com IA",
-     "Trabalho foi publicado em site e usa a linguagem Lean",
-     "A Demonstração ainda precisa de verificação independente"
-    ],
-    "enquadramentos": {},
-    "usado_em": 1795242086.7045557
    },
    "830ad0eeb7c225d1": {
     "resumo": "A União Europeia apresentou uma proposta de taxação de 3% sobre as receitas líquidas de grandes empresas de tecnologia obtidas com publicidade online, serviços de intermediação digital e monetização de dados. A medida, elaborada por António Costa e Ursula von der Leyen, busca financiar o orçamento do bloco entre 2028 e 2034. Serão afetadas apenas empresas com mais de 50 milhões de euros em receitas digitais na UE e faturamento global superior a 750 milhões de euros. A expectativa é que o acordo ocorra em 2027 e a arrecadação comece em 2028.",
