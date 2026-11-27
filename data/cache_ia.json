@@ -1,542 +1,628 @@
 {
  "macro": {
-  "chave": "e754e9d1bf70aaaa",
+  "chave": "2552beacc0d9bd37",
   "grupos": [
    {
-    "titulo": "São Paulo x Remo pelo Brasileirão",
+    "titulo": "Japonesa Jera planeja construir data centers para Anthropic e Meta",
     "ids": [
-     "5c2cc8ca608a"
+     "3609cf4ac708"
     ]
    },
    {
-    "titulo": "Profissões com alta expectativa de salário para 2027",
+    "titulo": "China: Lucro industrial dispara em outubro",
     "ids": [
-     "6b68aa57d676"
+     "6d447f991e0b"
     ]
    },
    {
-    "titulo": "Novas obrigações fiscais da Reforma Tributária e DeRE",
+    "titulo": "Bonde São Paulo no centro da capital",
     "ids": [
-     "470603ec8cc1"
+     "bb9316913a77"
     ]
    },
    {
-    "titulo": "Programação do Carnaval 2027 em São Paulo",
+    "titulo": "Futuro de Dario Durigan no governo Lula 4",
     "ids": [
-     "990bb472031f",
-     "209773a8b17d"
+     "d4e75b554476"
     ]
    },
    {
-    "titulo": "Estado de saúde do ex-presidente Jair Bolsonaro",
+    "titulo": "Ranking de clubes mais valiosos e mais endividados do Brasil em 2026",
     "ids": [
-     "20b226177711",
-     "78e4516e3262",
-     "8314fad11945"
+     "4b9284fa5d5c",
+     "861d671538e5"
     ]
    },
    {
-    "titulo": "Etapa de encerramento do Arena Freestyle em Ilhabela",
+    "titulo": "Mauro Vieira oferece apoio à Embraer após proposta dos EUA",
     "ids": [
-     "9a0cf7b33768"
+     "5423ad0b3748"
     ]
    },
    {
-    "titulo": "PL fora de bloco de apoio a Hugo Motta na Câmara",
+    "titulo": "Oniomania e o arrependimento pós-Black Friday",
     "ids": [
-     "843a5f4b0526"
+     "24acd4778c13"
     ]
    },
    {
-    "titulo": "Encontro entre Cleitinho e Lula sobre dívida de Minas Gerais",
+    "titulo": "Mega-Sena acumula e prêmio vai a R$ 82 milhões",
     "ids": [
-     "6ee9fbc1366b",
-     "3fc950985b3c"
+     "44333bf16fa5",
+     "a1911aa42437",
+     "4311ac0b5c7f"
     ]
    },
    {
-    "titulo": "Decisão da AGU sobre normas do vale-alimentação",
+    "titulo": "Tempestade deixa casas e comércios nos EUA sem energia",
     "ids": [
-     "a0b418e775ee"
+     "cf17c691f31a"
     ]
    },
    {
-    "titulo": "Morte de jovem em acidente com falso motorista de aplicativo",
+    "titulo": "Jair Bolsonaro segue internado na UTI",
     "ids": [
-     "d9f2d5cc532a"
+     "7108abc1c0fb"
     ]
    },
    {
-    "titulo": "Aprovação de projeto de alerta sonoro em tornozeleira eletrônica",
+    "titulo": "São Paulo vence o Remo",
     "ids": [
-     "26291d908c8d",
-     "02075acb4f21"
+     "86893bf756f8"
     ]
    },
    {
-    "titulo": "Impacto de programas de fidelidade nas vendas de aplicativos",
+    "titulo": "Parque no interior de SP produz picolés para animais",
     "ids": [
-     "ee8bb21a4f61"
+     "77620c10eefc"
     ]
    },
    {
-    "titulo": "Operação da Polícia Federal contra fraude em benefícios assistenciais",
+    "titulo": "Análise sobre o fracasso econômico da Argentina",
     "ids": [
-     "3855030bd2ea"
+     "efebc4354fb1"
     ]
    },
    {
-    "titulo": "Projeção de resultados da Usiminas para o quarto trimestre",
+    "titulo": "Palácio Tangará reduz rotatividade de funcionários",
     "ids": [
-     "90884b28191b"
+     "cf6d3ef138c6"
     ]
    },
    {
-    "titulo": "Declarações da ministra Estela Aranha no TSE",
+    "titulo": "PGR defende que União não seja obrigada a avalizar empréstimo do BRB",
     "ids": [
-     "9488a89a5b9b",
-     "33d802a0b43e"
+     "284e4d7b3c8c"
     ]
    },
    {
-    "titulo": "Declarações públicas e polêmicas de celebridades",
+    "titulo": "Infestação de mariposas em cidade de SP",
     "ids": [
-     "0e00f451f9b3"
+     "472723022460"
     ]
    },
    {
-    "titulo": "Buscas na internet sobre Renata Del Bianco",
+    "titulo": "Governo brasileiro rebate fala de Macron sobre carne",
     "ids": [
-     "48c1c4806c6e",
-     "5de1988039c6"
+     "68fd9793be8f",
+     "c4058cfef0e3",
+     "87973daaa5d0"
     ]
    },
    {
-    "titulo": "Escolha de Pablo Hernández de Cos para o Banco Central Europeu",
+    "titulo": "Riscos milionários em obras imobiliárias",
     "ids": [
-     "f3c96c9b89a3",
-     "ad3ca370a6c2"
+     "c404101fdc9c"
     ]
    },
    {
-    "titulo": "Repercussão de fala de Emmanuel Macron sobre carne brasileira",
+    "titulo": "Senado aprova PL que proíbe fiança para motorista embriagado",
     "ids": [
-     "8aacca306b0a",
-     "ffc8d1eca22f"
+     "04d560399a2c"
     ]
    },
    {
-    "titulo": "Daniella Marques torna-se sócia da G4",
+    "titulo": "Resultado do concurso 1357 do Dia de Sorte",
     "ids": [
-     "32c1ce181dc1"
+     "b0d4f9bae8cc"
     ]
    },
    {
-    "titulo": "Divulgação da prévia da inflação IPCA-15",
+    "titulo": "Resultado do concurso 3839 da Lotofácil",
     "ids": [
-     "d632064c545c"
+     "452733144bca"
     ]
    },
    {
-    "titulo": "Investigação de desvio de dinheiro em ações judiciais em Araçatuba",
+    "titulo": "Apagão em cidades do Amazonas e Roraima",
     "ids": [
-     "1221ba4b720d"
+     "8e0d30824bed"
     ]
    },
    {
-    "titulo": "Passageiro contido em voo nos Estados Unidos",
+    "titulo": "Reclamações sobre o calor do verão",
     "ids": [
-     "43473579d37f"
+     "b9b6eb162be1"
     ]
    },
    {
-    "titulo": "Novela bíblica Jesus na Record",
+    "titulo": "STF decidirá sobre impasse eleitoral no Rio",
     "ids": [
-     "d767f24d4c6f"
+     "7a4ae9041f33"
     ]
    },
    {
-    "titulo": "Fim da carreira de Aaron Rodgers na NFL",
+    "titulo": "IG4 avalia comprar crédito do GIC na Espanha",
     "ids": [
-     "289df3f2f10a"
+     "0caf6fe806dd"
     ]
    },
    {
-    "titulo": "Decisão sobre liberação de valores ao BRB no caso Master",
+    "titulo": "Morte de Dan Carney, cofundador da Pizza Hut",
     "ids": [
-     "9e45df7f76ff",
-     "315c3e1cc13c"
+     "2cd473ca8d85"
     ]
    },
    {
-    "titulo": "Discussões sobre substitutos para a segurança pública e 2030",
+    "titulo": "Aprovação da reforma do estatuto do Banco Central argentino",
     "ids": [
-     "a628cd072bcc"
+     "5ff874ea337e"
     ]
    },
    {
-    "titulo": "Clubes de futebol pedem mediação do STF sobre patrocínio de bets",
+    "titulo": "Checagem de fatos: MEC e Pé-de-Meia Universitário",
     "ids": [
-     "603fea1f66e1"
+     "b7d7f53dd88f"
     ]
    },
    {
-    "titulo": "Reuniões do governo sobre novas medidas fiscais e corte de gastos",
+    "titulo": "Checagem de fatos: Foto de Temer com ex-presidentes",
     "ids": [
-     "dd91519c1656",
-     "717e6629ccc7",
-     "dd7b69f89115"
+     "eeee48a9ea39"
     ]
    },
    {
-    "titulo": "Indefinição de vagas no Supremo Tribunal Federal",
-    "ids": [
-     "e453fd932bb4",
-     "8e50fb124a93"
-    ]
-   },
-   {
-    "titulo": "Prisão de suspeitos por envolvimento com o Comando Vermelho",
-    "ids": [
-     "aa09917fd446"
-    ]
-   },
-   {
-    "titulo": "Participação de Lionel Messi em partida de despedida de Tevez",
-    "ids": [
-     "2352cb7fc3c4"
-    ]
-   },
-   {
-    "titulo": "Prorrogação da subvenção do óleo diesel pelo governo",
-    "ids": [
-     "3d7ab9ff3392",
-     "f78065c328cd"
-    ]
-   },
-   {
-    "titulo": "Parceria entre Novorizontino e empresa de Neymar",
-    "ids": [
-     "19c34daeff85"
-    ]
-   },
-   {
-    "titulo": "Prisão de médico em Minas Gerais por agressão à noiva",
-    "ids": [
-     "d51b36aa3042"
-    ]
-   },
-   {
-    "titulo": "Projeto pedagógico e inovação em escola infantil em São Paulo",
-    "ids": [
-     "d20abddcc852"
-    ]
-   },
-   {
-    "titulo": "Guia de prompts para uso de inteligência artificial",
-    "ids": [
-     "7c2053b03d09"
-    ]
-   },
-   {
-    "titulo": "Investimentos da Amazon no Brasil",
-    "ids": [
-     "0c907f84af2f"
-    ]
-   },
-   {
-    "titulo": "Acusações de Donald Trump sobre dados falsos do PIB americano",
+    "titulo": "Trump acusa governo de dados falsos do PIB",
     "ids": [
      "da5035deae3e"
     ]
    },
    {
-    "titulo": "Expectativa de vida no Brasil segundo o IBGE",
-    "ids": [
-     "438fe645e805"
-    ]
-   },
-   {
-    "titulo": "Uso de inteligência artificial na criação de currículos",
-    "ids": [
-     "56aae4c23ac9"
-    ]
-   },
-   {
-    "titulo": "Conceito japonês de longevidade e propósito (Ikigai)",
-    "ids": [
-     "dad4bbf6c755"
-    ]
-   },
-   {
-    "titulo": "Efeitos das tarifas comerciais e políticas de Donald Trump",
-    "ids": [
-     "2dae843ca25d",
-     "11f3eecd9810",
-     "01a0686e213a",
-     "63ddab1954f7",
-     "2884654dd3af"
-    ]
-   },
-   {
-    "titulo": "Efeitos da creatina na saúde de idosos",
-    "ids": [
-     "18aa2e922786"
-    ]
-   },
-   {
-    "titulo": "Estudo sobre autocompaixão em estudantes em Berkeley",
-    "ids": [
-     "fe7be39ee32e"
-    ]
-   },
-   {
-    "titulo": "Descoberta de piscinas de salmoura no fundo do Mar Vermelho",
-    "ids": [
-     "a37a0cbc2354"
-    ]
-   },
-   {
-    "titulo": "Orientações para adaptar a casa e prevenir quedas em idosos",
-    "ids": [
-     "19f663e1c69d"
-    ]
-   },
-   {
-    "titulo": "Artistas abandonam redes sociais por receio de uso de IA",
-    "ids": [
-     "118816e070e8"
-    ]
-   },
-   {
-    "titulo": "Alíquota da CBS e debates sobre a Reforma Tributária",
-    "ids": [
-     "143336608a0f",
-     "812b26e2c62e",
-     "9cc79ef3c6b0"
-    ]
-   },
-   {
-    "titulo": "Otimismo da elite empresarial no Peru",
+    "titulo": "Empresas no Peru recuperam otimismo",
     "ids": [
      "aa75cc7a2364"
     ]
    },
    {
-    "titulo": "Black Friday e descontos em celulares",
+    "titulo": "IPCA-15 de novembro",
     "ids": [
-     "07ec72b2ecd1"
+     "d632064c545c"
     ]
    },
    {
-    "titulo": "Notificação da Senacon ao Google sobre anúncios",
-    "ids": [
-     "de89a9e3236d"
-    ]
-   },
-   {
-    "titulo": "Ações do Banco Central para restringir crédito e endividamento",
-    "ids": [
-     "5ac9e36b1372",
-     "ed912afe416b"
-    ]
-   },
-   {
-    "titulo": "Estratégia e transição corporativa da JBS",
+    "titulo": "JBS prepara transição sem mudança de estratégia",
     "ids": [
      "fe6c8f602efa"
     ]
    },
    {
-    "titulo": "Comparativo de salários mínimos na América Latina",
+    "titulo": "BC endurece regras de crédito no rotativo",
+    "ids": [
+     "ed912afe416b"
+    ]
+   },
+   {
+    "titulo": "Salário mínimo na América Latina",
     "ids": [
      "61bb1448dd61"
     ]
    },
    {
-    "titulo": "Protestos no Paraguai contra violência e crise bancária",
+    "titulo": "Reação de parceiros dos EUA a novas tarifas de Trump",
     "ids": [
-     "19dbfe4c321b"
+     "63ddab1954f7"
     ]
    },
    {
-    "titulo": "Comportamento de viajantes brasileiros diante da alta do dólar",
+    "titulo": "Thaíde deixa heranças para Fran e Serginho após eliminação; veja poderes | A Fazenda 18",
     "ids": [
-     "4c0d930a09ab"
+     "18b0a5f55e10"
     ]
    },
    {
-    "titulo": "Impacto do custo de canetas emagrecedoras na saúde pública",
+    "titulo": "Serginho volta da Roça e desânimo toma conta da Sede | A Fazenda 18",
     "ids": [
-     "22e226a86c4d"
+     "c0549be5e647"
     ]
    },
    {
-    "titulo": "Cenário político e econômico na Argentina com Javier Milei",
+    "titulo": "Serginho afirmou que ninguém o atura 👀💥 #EliminaçãoAFazenda #Shorts #AFazenda",
     "ids": [
-     "79b6a977a9d8"
+     "b4dcc83b26a6"
     ]
    },
    {
-    "titulo": "Recuperação dos mercados globais com foco em ações de inteligência artificial",
+    "titulo": "Erthal criticou a atitude dos peões com Renata 👀 #Shorts #EliminaçãoAFazenda #AFazenda",
     "ids": [
-     "6d9851785172"
+     "16c47a192af9"
     ]
    },
    {
-    "titulo": "Notícias gerais da agência Reuters",
+    "titulo": "Fran volta da Roça e rivais ficam indiferentes | A Fazenda 18",
     "ids": [
-     "20d0796bd8ba"
+     "cc149e65fa1e"
     ]
    },
    {
-    "titulo": "Cotado para assumir a Fazenda, Trabuco vai a Brasília para reunião com Lula",
+    "titulo": "FIM DE JOGO PARA THAÍDE ❌ #AFazenda #Shorts",
     "ids": [
-     "bdddd55ec5a1"
+     "5608ec36f00d"
     ]
    },
    {
-    "titulo": "Trabuco, cotado para a Fazenda, é conselheiro de Lula sobre economia",
+    "titulo": "No Fuzenda, Bissoli abre o jogo sobre a vida amorosa dentro e fora do confinamento | A Fazenda 18",
     "ids": [
-     "dc0a385a3eac"
+     "cc9c5e45c426"
     ]
    },
    {
-    "titulo": "Ibovespa salta 6% com notícia de ida de Trabuco a Brasília para encontrar Lula",
+    "titulo": "Serginho perguntou a Mayk se o ator conseguiu se comunicar 👀 #EliminaçãoAFazenda #Shorts #AFazenda",
     "ids": [
-     "6a778782d44c"
+     "74e30f6be89e"
     ]
    },
    {
-    "titulo": "Cotado para assumir a Fazenda, Trabuco deve ter reunião com Lula nesta 5ª, diz fonte",
+    "titulo": "Christina Rocha e Luigi Civalli recebem o eliminado na Cabine de Descompressão desta quinta (26)",
     "ids": [
-     "47e3572f00b4"
+     "ba375f233c33"
     ]
    },
    {
-    "titulo": "Dólar futuro cai mais de 3% após notícia de encontro entre Trabuco e Lula em Brasília",
+    "titulo": "Confira as heranças deixadas por Thaíde em A Fazenda 18",
     "ids": [
-     "0c711352d990"
+     "817aebd1a14d"
     ]
    },
    {
-    "titulo": "Quem é Luiz Carlos Trabuco, sondado para assumir o Ministério da Fazenda",
+    "titulo": "Maíra questiona Ariela por pedir desculpas a Fran | A Fazenda 18",
     "ids": [
-     "bb694fd353a5"
+     "557809f771fd"
     ]
    },
    {
-    "titulo": "Trabuco chega a Brasília e deve se reunir com Lula, dizem fontes",
+    "titulo": "Tina foi tirar satisfação cara a cara com Sergio! 💥👀 #EliminaçãoAFazenda #AFazenda #Shorts",
     "ids": [
-     "a2cf1943824e"
+     "b284e0cbb124"
     ]
    },
    {
-    "titulo": "Luiz Trabuco chega a Brasília para se reunir com Lula; executivo do Bradesco é cotado para assumir Ministério da Fazenda",
+    "titulo": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda",
+    "ids": [
+     "fa8d53593887"
+    ]
+   },
+   {
+    "titulo": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para dólar, bolsa e juros",
+    "ids": [
+     "e1027ac57040"
+    ]
+   },
+   {
+    "titulo": "Alcolumbre elogia Trabuco e promete diálogo do Congresso com a Fazenda",
+    "ids": [
+     "e5882d6d8bbb"
+    ]
+   },
+   {
+    "titulo": "Análise: Trabuco na Fazenda sela derrota de Haddad e corrige rumo econômico",
+    "ids": [
+     "1a3da58a1e8f"
+    ]
+   },
+   {
+    "titulo": "Durigan cita Haddad e deseja “bom trabalho” a Trabuco na Fazenda",
+    "ids": [
+     "e219c9b0bca6"
+    ]
+   },
+   {
+    "titulo": "Entidades financeiras elogiam escolha de Trabuco para a Fazenda e falam em ‘diálogo’",
+    "ids": [
+     "b76fc9f831df"
+    ]
+   },
+   {
+    "titulo": "Parlamentares reagem a escolha de Trabuco na Fazenda: ‘Trajetória sólida no setor financeiro’",
+    "ids": [
+     "070fde6f4209"
+    ]
+   },
+   {
+    "titulo": "Trabuco deve participar da elaboração de ajuste fiscal, diz Furlanetti",
+    "ids": [
+     "9f269b5f8fc1"
+    ]
+   },
+   {
+    "titulo": "Alckmin diz que Trabuco como ministro da Fazenda é ‘excelente notícia para o Brasil’",
+    "ids": [
+     "0a9f0c48540e"
+    ]
+   },
+   {
+    "titulo": "Anbima diz receber “com satisfação” escolha de Trabuco para a Fazenda",
+    "ids": [
+     "5458a5d71177"
+    ]
+   },
+   {
+    "titulo": "Alckmin diz que Trabuco tem preparo e experiência para comandar Fazenda",
+    "ids": [
+     "f59bfdc77dcd"
+    ]
+   },
+   {
+    "titulo": "Análise: Lula aponta novo rumo com Trabuco na Fazenda",
+    "ids": [
+     "0f9a371dd3c4"
+    ]
+   },
+   {
+    "titulo": "‘Efeito Trabuco’ devolve R$ 90 bi em valor de mercado a bancos",
+    "ids": [
+     "aa449b19ca99"
+    ]
+   },
+   {
+    "titulo": "Nomeação de Trabuco mostra que governo ‘acordou’, mas desafio ainda é Lula liderar ajuste, diz Ibre",
+    "ids": [
+     "8aa8d1ca1a27"
+    ]
+   },
+   {
+    "titulo": "CNI avalia como positiva a escolha de Trabuco como ministro da Fazenda",
+    "ids": [
+     "0029f688c960"
+    ]
+   },
+   {
+    "titulo": "Durigan deseja ‘bom trabalho’ a Trabuco após executivo ser confirmado como ministro da Fazenda",
+    "ids": [
+     "0a502aad8457"
+    ]
+   },
+   {
+    "titulo": "No X, Durigan deseja ‘bom trabalho’ a Trabuco e coloca equipe à disposição para transição na Fazenda",
+    "ids": [
+     "25ab8a0fda0c"
+    ]
+   },
+   {
+    "titulo": "Para Anbima, Trabuco na Fazenda mostra comprometimento do governo com gestão econômica competente",
+    "ids": [
+     "1ef0683a96da"
+    ]
+   },
+   {
+    "titulo": "Dólar vai a R$ 5,58 na bolsa de Chicago, após confirmação de Trabuco na Fazenda",
+    "ids": [
+     "c70d19f57ae3"
+    ]
+   },
+   {
+    "titulo": "Trabuco precisa mirar na questão fiscal, diz Meirelles sobre novo ministro",
+    "ids": [
+     "f1ff39b5b3b0"
+    ]
+   },
+   {
+    "titulo": "‘A combinação dos dois melhores ativos do mundo é a bolsa americana e os juros brasileiros’, diz XP",
+    "ids": [
+     "bb51ea9fb976"
+    ]
+   },
+   {
+    "titulo": "'Um país caminha bem quando conduzido com seriedade e ética', diz Durigan após anuncio de Trabuco na Fazenda",
+    "ids": [
+     "7784d354922a"
+    ]
+   },
+   {
+    "titulo": "Trabuco na Fazenda: Como empresários e executivos reagiram à escolha do novo ministro",
+    "ids": [
+     "899c3fe056cf"
+    ]
+   },
+   {
+    "titulo": "ANCORD apoia escolha de Trabuco para Fazenda: “tem a credibilidade que momento exige”",
+    "ids": [
+     "2919f3efa45a"
+    ]
+   },
+   {
+    "titulo": "Flávio Bolsonaro crítica escolha de Trabuco para a Fazenda: estelionato eleitoral",
+    "ids": [
+     "f8b45de4c842"
+    ]
+   },
+   {
+    "titulo": "Trabuco ouve de Lula que terá liberdade para montar equipe, dizem fontes",
+    "ids": [
+     "a222f382f818"
+    ]
+   },
+   {
+    "titulo": "Escolha de Trabuco é um forte sinal de que a política econômica pode ter mudança importante",
+    "ids": [
+     "04dac83fd3f8"
+    ]
+   },
+   {
+    "titulo": "Trabuco muda jogo e BBI eleva Brasil para overweight, vendo alta de 30% para ações",
+    "ids": [
+     "f32184f3aa09"
+    ]
+   },
+   {
+    "titulo": "Aliados veem Lula blindar Trabuco, escolhido para Fazenda, de \"efeito Levy\"",
+    "ids": [
+     "bd49c848807b"
+    ]
+   },
+   {
+    "titulo": "Flávio diz que escolha de Trabuco é ‘estelionato eleitoral’: ‘Lula virou Faria Limer’",
+    "ids": [
+     "a3cede7c285f"
+    ]
+   },
+   {
+    "titulo": "Alcolumbre diz receber com \"muito otimismo\" escolha de Trabuco para Fazenda",
+    "ids": [
+     "56cacfc16d28"
+    ]
+   },
+   {
+    "titulo": "Lula dá choque de credibilidade na economia com a indicação de Luiz Carlos Trabuco para a Fazenda",
+    "ids": [
+     "e5532074fae2"
+    ]
+   },
+   {
+    "titulo": "Planalto confirma que Trabuco aceitou convite para comandar Fazenda",
+    "ids": [
+     "23eb677aebf2"
+    ]
+   },
+   {
+    "titulo": "Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda",
+    "ids": [
+     "c4343bcb4e05"
+    ]
+   },
+   {
+    "titulo": "Com Trabuco, Lula dá o pontapé inicial em seu novo governo marcando um gol de placa",
+    "ids": [
+     "02f529b5916b"
+    ]
+   },
+   {
+    "titulo": "Trabuco na Fazenda: Quem assumirá o lugar do banqueiro no Conselho do Bradesco",
+    "ids": [
+     "d87ca486eea0"
+    ]
+   },
+   {
+    "titulo": "Ações disparam com a expectativa de que Trabuco, do Bradesco, integre o governo",
+    "ids": [
+     "0bafb0540f78"
+    ]
+   },
+   {
+    "titulo": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4",
+    "ids": [
+     "c28f9ce2fe45"
+    ]
+   },
+   {
+    "titulo": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda",
+    "ids": [
+     "fee4c90998a3"
+    ]
+   },
+   {
+    "titulo": "De escriturário do Bradesco a ministro da Fazenda de Lula: relembre a trajetória de Luiz Trabuco",
+    "ids": [
+     "b398e4ac65bd"
+    ]
+   },
+   {
+    "titulo": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021",
+    "ids": [
+     "87d2f1b31975"
+    ]
+   },
+   {
+    "titulo": "Lula escolhe presidente do conselho do Bradesco para a Fazenda em aceno ao mercado",
+    "ids": [
+     "0238a4c6fcd4"
+    ]
+   },
+   {
+    "titulo": "Essa farmacêutica dá folga no Dia da Saúde Mental, transporte na porta de casa e premia com viagens",
+    "ids": [
+     "d61369eab83e"
+    ]
+   },
+   {
+    "titulo": "Grupo Protege desliga computador de funcionários após expediente e paga 100% da faculdade",
+    "ids": [
+     "8f79f65a33fb"
+    ]
+   },
+   {
+    "titulo": "Farmacêutica paga até 2 salários extras, dá 60 dias de licença-paternidade e 3 dias de home office",
+    "ids": [
+     "f07a68970a58"
+    ]
+   },
+   {
+    "titulo": "Construtora de 90 anos aposta em saúde mental e até massagem para atrair engenheiros",
+    "ids": [
+     "d10f1b0c5163"
+    ]
+   },
+   {
+    "titulo": "Creche, bolsas de estudo e licença-paternidade de 30 dias: como é trabalhar no Einstein Hospital",
+    "ids": [
+     "d9416f008eba"
+    ]
+   },
+   {
+    "titulo": "Faculdade gratuita e brigadistas emocionais; os benefícios para quem trabalha na Cogna",
+    "ids": [
+     "dadb3639e71c"
+    ]
+   },
+   {
+    "titulo": "TIM acaba com escala 6x1 nas lojas e amplia licença-paternidade; veja os benefícios aos funcionários",
+    "ids": [
+     "5eb594ba0d45"
+    ]
+   },
+   {
+    "titulo": "Esta empresa paga 100% dos medicamentos dos funcionários e prioriza promoções internas",
+    "ids": [
+     "3501618a4a72"
+    ]
+   },
+   {
+    "titulo": "Saúde mental em alto-mar: Bram Offshore oferece academias, videogames e telemedicina no navio",
+    "ids": [
+     "a0966300d7bb"
+    ]
+   },
+   {
+    "titulo": "‘Pensar na saúde financeira é pensar na saúde mental’, diz executiva da B3",
+    "ids": [
+     "54fc55347b6b"
+    ]
+   },
+   {
+    "titulo": "Escola para formar eletricistas, jornada de 4 dias de trabalho: como é trabalhar na Light",
+    "ids": [
+     "f56621de188c"
+    ]
+   },
+   {
+    "titulo": "Construtora Rio Ave forma pedreiros e líderes e contrata 90% dos estagiários",
+    "ids": [
+     "bef4f97bd478"
+    ]
+   },
+   {
+    "titulo": "Luiz Trabuco se reúne com Lula em Brasília; executivo do Bradesco é cotado para assumir Ministério da Fazenda",
     "ids": [
      "080f2ad9c80f"
-    ]
-   },
-   {
-    "titulo": "Dólar cai 1,25%, a R$ 5,74, e Ibovespa dispara com 'efeito Trabuco' e otimismo com política fiscal; juros despencam",
-    "ids": [
-     "26d039e9147e"
-    ]
-   },
-   {
-    "titulo": "Quando quero participar, mas não sei como ajudar #Shorts #HojeEmDia",
-    "ids": [
-     "a7d97fc23fbb"
-    ]
-   },
-   {
-    "titulo": "Tentativa de fraude a cada 5,3 segundos desafia cadastros",
-    "ids": [
-     "98130f4c2832"
-    ]
-   },
-   {
-    "titulo": "Robô humanoide se apresenta em pista de patinação de gelo ao lado de campeã olímpica na Rússia",
-    "ids": [
-     "1bb42db97b77"
-    ]
-   },
-   {
-    "titulo": "Santos Bravos quer levar grupo japonês &Team para conhecer a Bahia",
-    "ids": [
-     "3fd3771a92ba"
-    ]
-   },
-   {
-    "titulo": "Juros futuros têm forte queda com possibilidade de Trabuco na Fazenda",
-    "ids": [
-     "d0b482c84e1d"
-    ]
-   },
-   {
-    "titulo": "Mudanças no design tornam embalagens mais leves e eficientes",
-    "ids": [
-     "4fc663b9b7b6"
-    ]
-   },
-   {
-    "titulo": "Fran Almeida, Serginho Hondjakoff e Thaíde estão na décima Roça de A Fazenda 18",
-    "ids": [
-     "bd1e0a3023f5"
-    ]
-   },
-   {
-    "titulo": "Fran Almeida faz revelação sobre recaída no relacionamento com Diego Grossi: ‘Fiquei com ele’",
-    "ids": [
-     "a9bd8ab075a4"
-    ]
-   },
-   {
-    "titulo": "Em Iludida, Asya apresenta uma prova decisiva e coloca a farsa de Derin em risco",
-    "ids": [
-     "b4d07dbccde7"
-    ]
-   },
-   {
-    "titulo": "Taxas caem com expectativa de Trabuco na Fazenda e IPCA-15 abaixo do esperado",
-    "ids": [
-     "f2366146b9e6"
-    ]
-   },
-   {
-    "titulo": "Cotado para a Fazenda, Trabuco chega a Brasília para encontro com Lula no Alvorada",
-    "ids": [
-     "acf375e33afd"
-    ]
-   },
-   {
-    "titulo": "Prévia da inflação desacelera no mês de novembro",
-    "ids": [
-     "199f80192f94"
-    ]
-   },
-   {
-    "titulo": "Líder do PT na Câmara diz que Trabuco na Fazenda ‘não é a melhor opção’ e rechaça ‘ajuste fiscal 2′",
-    "ids": [
-     "368c04f8bd2d"
-    ]
-   },
-   {
-    "titulo": "Trabuco na Fazenda traz maior credibilidade ao Lula 4, apontam economistas",
-    "ids": [
-     "81e97bfe5287"
-    ]
-   },
-   {
-    "titulo": "Emissários de Lula procuram amigos de Trabuco para convencê-lo a aceitar Ministério da Fazenda",
-    "ids": [
-     "af55285761df"
-    ]
-   },
-   {
-    "titulo": "Cotado para se ministro da Fazenda, Luiz Carlos Trabuco chega a Brasília para reunião com Lula",
-    "ids": [
-     "8f8a7665675d"
     ]
    }
   ],
@@ -940,299 +1026,226 @@
   }
  },
  "ciencia": {
-  "chave": "5b9992feef97b81f",
+  "chave": "db7e619a84c407c4",
   "grupos": [
    {
-    "titulo": "Huawei e o asteroide Dimorphos",
+    "titulo": "Notícias do Olhar Digital",
     "ids": [
-     "363aa9e314e2",
-     "23e0711cf4a2"
+     "ef5f88b9ddfc"
     ]
    },
    {
-    "titulo": "Netflix e seu retorno silencioso",
+    "titulo": "Guia de compras de notebooks para a Black Friday",
+    "ids": [
+     "a1cf30b53455"
+    ]
+   },
+   {
+    "titulo": "Indicação de Nelson Trabuco para o Ministério da Fazenda",
+    "ids": [
+     "1a3da58a1e8f",
+     "9f269b5f8fc1",
+     "f59bfdc77dcd",
+     "0f9a371dd3c4",
+     "f1ff39b5b3b0",
+     "a222f382f818",
+     "bd49c848807b",
+     "56cacfc16d28",
+     "23eb677aebf2"
+    ]
+   },
+   {
+    "titulo": "Direitos do consumidor e Inteligência Artificial na Black Friday",
+    "ids": [
+     "7e7f3e59a963"
+    ]
+   },
+   {
+    "titulo": "Ferramenta online mostra satélites que fotografaram endereços",
+    "ids": [
+     "a50bf1348c7b"
+    ]
+   },
+   {
+    "titulo": "Homem usa cones de trânsito para parar robotáxis da Waymo",
+    "ids": [
+     "c6bcabb83d52"
+    ]
+   },
+   {
+    "titulo": "Cidade no Paraná adota Inteligência Artificial com apoio da Nvidia",
+    "ids": [
+     "45c32e4debae"
+    ]
+   },
+   {
+    "titulo": "Parque no interior de São Paulo produz picolés para animais",
+    "ids": [
+     "77620c10eefc"
+    ]
+   },
+   {
+    "titulo": "Infestação de mariposas em cidade de São Paulo",
+    "ids": [
+     "472723022460"
+    ]
+   },
+   {
+    "titulo": "Expedição científica descobre novas espécies na Amazônia",
+    "ids": [
+     "027c97933247",
+     "9582d262ca12"
+    ]
+   },
+   {
+    "titulo": "Guia de compra de teclados gamer Logitech",
+    "ids": [
+     "085d5c88d90d"
+    ]
+   },
+   {
+    "titulo": "Nvidia suspende envio de chips e servidores de IA para o Sudeste Asiático",
+    "ids": [
+     "b5f745ea89f8",
+     "d1dc5152b16c"
+    ]
+   },
+   {
+    "titulo": "Resultados de loterias (Mega-Sena e Lotofácil)",
+    "ids": [
+     "a8547c8b4ffe",
+     "181f5baba9b3"
+    ]
+   },
+   {
+    "titulo": "Decisão do STF sobre impasse eleitoral no Rio",
+    "ids": [
+     "7a4ae9041f33"
+    ]
+   },
+   {
+    "titulo": "Easter egg de Red Dead Redemption 2 em GTA 6",
+    "ids": [
+     "8c901dd7b71d"
+    ]
+   },
+   {
+    "titulo": "Países europeus buscam restringir controle chinês sobre o TikTok",
+    "ids": [
+     "c749922602b3"
+    ]
+   },
+   {
+    "titulo": "Métodos de login e segurança digital",
+    "ids": [
+     "b1fd7d6f1415"
+    ]
+   },
+   {
+    "titulo": "Análise do notebook Dell 14",
+    "ids": [
+     "a991c3dd4c22"
+    ]
+   },
+   {
+    "titulo": "Preços e aumentos em smartphones na Black Friday",
+    "ids": [
+     "a2d8c2a103a0"
+    ]
+   },
+   {
+    "titulo": "Falha da Microsoft expõe dados de empresas de energia",
+    "ids": [
+     "461aa9f4741c"
+    ]
+   },
+   {
+    "titulo": "Criadores de conteúdo trocam Twitch por concorrente",
+    "ids": [
+     "bd4b19f3652b"
+    ]
+   },
+   {
+    "titulo": "Huawei prepara lançamento com tela curva",
+    "ids": [
+     "363aa9e314e2"
+    ]
+   },
+   {
+    "titulo": "Neuralink recebe autorização para novos testes em humanos",
+    "ids": [
+     "ec09ff0fa2a3"
+    ]
+   },
+   {
+    "titulo": "Retorno de série na Netflix",
     "ids": [
      "0cd196b5fc14"
     ]
    },
    {
-    "titulo": "Ofertas de Black Friday em smartphones e relógios",
-    "ids": [
-     "cadba9f596a2",
-     "dc81c5f1f73c"
-    ]
-   },
-   {
-    "titulo": "Itens mais vendidos da Amazon antes da Black Friday",
-    "ids": [
-     "a64e4bc9a0c3"
-    ]
-   },
-   {
-    "titulo": "Escolha de notebooks Dell em 2026",
-    "ids": [
-     "9e24819515a4"
-    ]
-   },
-   {
-    "titulo": "Santos Bravos quer levar o grupo &Team para a Bahia",
-    "ids": [
-     "3fd3771a92ba"
-    ]
-   },
-   {
-    "titulo": "O preço do dado no agronegócio",
-    "ids": [
-     "b654d03fd220"
-    ]
-   },
-   {
-    "titulo": "Brasil lidera ranking de vítimas de ransomware",
-    "ids": [
-     "5e4cb7c11d28"
-    ]
-   },
-   {
-    "titulo": "Como reduzir fraudes de chargeback e falsos positivos",
+    "titulo": "Prevenção a fraudes e chargeback em compras online",
     "ids": [
      "e05040ef4625"
     ]
    },
    {
-    "titulo": "CD Projekt Red fala sobre The Witcher 4 e Cyberpunk 2",
+    "titulo": "Missão da NASA abre cratera em asteroide e desdobramentos",
     "ids": [
-     "231a0bb1b586"
+     "23e0711cf4a2",
+     "3e56a8e6d42a"
     ]
    },
    {
-    "titulo": "Ajustes na Barra de Tarefas do Windows 11",
+    "titulo": "Atualizações na Barra de Tarefas do Windows 11",
     "ids": [
      "a30fe4d8e799"
     ]
    },
    {
-    "titulo": "Como criar figurinhas com áudio no WhatsApp",
-    "ids": [
-     "204d710e16eb"
-    ]
-   },
-   {
-    "titulo": "TV boxes piratas usadas em esquema de fraude publicitária",
+    "titulo": "Esquema internacional de fraude publicitária via TV Boxes piratas",
     "ids": [
      "5b85703e9e65"
     ]
    },
    {
-    "titulo": "Live de ofertas de Black Friday do Estadão",
-    "ids": [
-     "e798423ec1ad"
-    ]
-   },
-   {
-    "titulo": "Como escolher monitor e acessórios gamer na Black Friday",
-    "ids": [
-     "9d6e835a350a",
-     "097ad656fe10",
-     "055dfbca0345"
-    ]
-   },
-   {
-    "titulo": "O que comprar na Black Friday: roupas",
-    "ids": [
-     "c46536dc9281"
-    ]
-   },
-   {
-    "titulo": "Fim da carreira de Aaron Rodgers na NFL",
-    "ids": [
-     "289df3f2f10a"
-    ]
-   },
-   {
-    "titulo": "Movimentações políticas para 2030 e vaga no STF",
-    "ids": [
-     "a628cd072bcc",
-     "e453fd932bb4",
-     "8e50fb124a93"
-    ]
-   },
-   {
-    "titulo": "Prisão de envolvidos com o Comando Vermelho",
-    "ids": [
-     "aa09917fd446"
-    ]
-   },
-   {
-    "titulo": "WhatsApp anuncia compra de eSIM para viagens internacionais",
-    "ids": [
-     "888a66f5932f",
-     "5320c8a37a10"
-    ]
-   },
-   {
-    "titulo": "Atualização e descontos em Zelda: Ocarina of Time no Nintendo Switch 2",
-    "ids": [
-     "d0175f89ad41",
-     "2c8e23270b54"
-    ]
-   },
-   {
-    "titulo": "OpenAI impõe limite de uso compartilhado",
-    "ids": [
-     "792e80e8281b"
-    ]
-   },
-   {
-    "titulo": "Desconto no Garmin Forerunner 265S",
-    "ids": [
-     "8cf8fb1747c8"
-    ]
-   },
-   {
-    "titulo": "Trabuco na Fazenda e o governo Lula",
-    "ids": [
-     "81e97bfe5287"
-    ]
-   },
-   {
-    "titulo": "Senacon determina que Google amplie dados sobre anúncios",
-    "ids": [
-     "59fc85c08d23",
-     "de89a9e3236d"
-    ]
-   },
-   {
-    "titulo": "Motorola Razr Fold em oferta na Black Friday",
-    "ids": [
-     "2caab819a386"
-    ]
-   },
-   {
-    "titulo": "X lança controle parental para adolescentes",
-    "ids": [
-     "8ec483f44c8f"
-    ]
-   },
-   {
-    "titulo": "Michelle Bolsonaro comenta dieta de Jair Bolsonaro",
-    "ids": [
-     "8314fad11945"
-    ]
-   },
-   {
-    "titulo": "Novorizontino faz parceria com empresa de Neymar",
-    "ids": [
-     "19c34daeff85"
-    ]
-   },
-   {
-    "titulo": "Ford GT41 e o retorno a Le Mans",
+    "titulo": "Ford apresenta protótipo GT41 para as 24 Horas de Le Mans",
     "ids": [
      "242c0816468e"
     ]
    },
    {
-    "titulo": "Hollow Knight: Silksong terá apresentação especial",
-    "ids": [
-     "cb96bd6f5f12"
-    ]
-   },
-   {
-    "titulo": "Gerenciador 1Password sofre invasão",
-    "ids": [
-     "d3bcab1d5339"
-    ]
-   },
-   {
-    "titulo": "Temperatura global acima de 2 °C",
-    "ids": [
-     "d07c2770c377"
-    ]
-   },
-   {
-    "titulo": "Nintendo Switch 2 com jogo EA Sports FC 27",
-    "ids": [
-     "c45cae018908"
-    ]
-   },
-   {
-    "titulo": "Melhores soundbars para TV em 2026",
-    "ids": [
-     "2061ba31a1aa",
-     "aeb1287da3f7"
-    ]
-   },
-   {
-    "titulo": "Funcionários da Rockstar rejeitam criação de sindicato",
-    "ids": [
-     "e4c54ddee2be",
-     "8018eae6270d",
-     "719fecde25d5"
-    ]
-   },
-   {
-    "titulo": "iPhone Air compete com iPhone 17 na Black Friday",
-    "ids": [
-     "c56585467500"
-    ]
-   },
-   {
-    "titulo": "Sorteio no STF em ações do caso Master",
-    "ids": [
-     "315c3e1cc13c"
-    ]
-   },
-   {
-    "titulo": "Uber Assist chega ao Brasil",
-    "ids": [
-     "e4692df2aa26"
-    ]
-   },
-   {
-    "titulo": "Cleitinho fala sobre dívida de Minas Gerais após encontrar Lula",
-    "ids": [
-     "3fc950985b3c"
-    ]
-   },
-   {
-    "titulo": "Desconto no MacBook Neo para a Black Friday",
-    "ids": [
-     "b8b8a9d24770"
-    ]
-   },
-   {
-    "titulo": "Google exigirá que desenvolvedores compartilhem endereço",
+    "titulo": "Novas regras para desenvolvedores de aplicativos Android",
     "ids": [
      "fc3f6c861a53"
     ]
    },
    {
-    "titulo": "Como programar mensagens no WhatsApp",
-    "ids": [
-     "b76a1c280f9e"
-    ]
-   },
-   {
-    "titulo": "Melhores ofertas antecipadas de Black Friday",
-    "ids": [
-     "b10ebf43407e",
-     "8400b48488a4"
-    ]
-   },
-   {
-    "titulo": "Linus Torvalds critica atualização gigante no Linux",
-    "ids": [
-     "c0b346c9f1ec"
-    ]
-   },
-   {
-    "titulo": "Juiz bloqueia revisão antecipada de licenças da ABC",
+    "titulo": "Juiz bloqueia revisão antecipada de licenças da emissora ABC",
     "ids": [
      "b00ec16112e2"
     ]
    },
    {
-    "titulo": "Tendências tecnológicas na MIT Technology Review",
+    "titulo": "Desenvolvedores de GTA 6 votam contra sindicalização",
+    "ids": [
+     "8018eae6270d"
+    ]
+   },
+   {
+    "titulo": "Governo cobra Google sobre informações de anúncios",
+    "ids": [
+     "de89a9e3236d"
+    ]
+   },
+   {
+    "titulo": "Ambientação e realismo do mapa em GTA 6",
+    "ids": [
+     "719fecde25d5"
+    ]
+   },
+   {
+    "titulo": "Resumos e boletins diários de tecnologia",
     "ids": [
      "df757b3ca1dd",
      "79d027e2e048",
@@ -1240,101 +1253,78 @@
     ]
    },
    {
-    "titulo": "FIFA sofre ataque cibernético",
+    "titulo": "Ataque cibernético à FIFA",
     "ids": [
      "b3d04db7d159"
     ]
    },
    {
-    "titulo": "Emissão de carbono pelo esgotamento de turfeiras",
+    "titulo": "Impacto ambiental da drenagem de turfeiras",
     "ids": [
      "abca0f7100ad"
     ]
    },
    {
-    "titulo": "Home offices da equipe do Ars Technica",
+    "titulo": "Mostra de escritórios de funcionários da Ars Technica",
     "ids": [
      "400430a450f9"
     ]
    },
    {
-    "titulo": "Biodiversidade na Amazônia e projetos científicos",
-    "ids": [
-     "9582d262ca12",
-     "dda0f5848e80"
-    ]
-   },
-   {
-    "titulo": "Elon Musk promete doar ações da SpaceX",
+    "titulo": "Promessa de Elon Musk sobre ações da SpaceX",
     "ids": [
      "6885854818a8"
     ]
    },
    {
-    "titulo": "Nvidia suspende servidores e retorno de Jensen Huang",
-    "ids": [
-     "d1dc5152b16c",
-     "dc33b3bfdbb5",
-     "ae30715a5b75",
-     "86af10220456"
-    ]
-   },
-   {
-    "titulo": "Próteses biônicas avançadas",
+    "titulo": "Próteses biônicas de nova geração",
     "ids": [
      "3351794e6a63"
     ]
    },
    {
-    "titulo": "Qual iPhone antigo comprar na Black Friday",
-    "ids": [
-     "747f3db6a4af"
-    ]
-   },
-   {
-    "titulo": "SpaceX e a autorização da FCC para satélites",
+    "titulo": "Autorização da FCC para SpaceX lançar satélites",
     "ids": [
      "fc2ca129b608",
      "8540e8010e35"
     ]
    },
    {
-    "titulo": "Alternativas ao Google e navegadores independentes",
+    "titulo": "Lançamentos e alternativas de serviços de e-mail e navegadores",
     "ids": [
      "5acdb5a9ff5c",
      "863ac3a2c21b"
     ]
    },
    {
-    "titulo": "Backblaze e o compartilhamento de dados",
+    "titulo": "Backblaze esclarece compartilhamento de dados com anunciantes",
     "ids": [
      "6f937299d9db"
     ]
    },
    {
-    "titulo": "Etsy esclarece termos de IA",
+    "titulo": "Etsy esclarece termos de inteligência artificial após reação de vendedores",
     "ids": [
      "61ca50113ad5"
     ]
    },
    {
-    "titulo": "Impacto dos data centers na demanda por gás natural",
+    "titulo": "Demanda energética de data centers impulsiona boom de gás natural",
     "ids": [
      "ddad6bd46fa1",
      "9f04eb00d9b2"
     ]
    },
    {
-    "titulo": "Ataques a data centers e infraestrutura em guerras",
+    "titulo": "Ataques militares a data centers",
     "ids": [
      "148a75b422c2"
     ]
    },
    {
-    "titulo": "Huawei condenada por roubo de segredos comerciais",
+    "titulo": "Huawei enfrenta penalidades por roubo de segredos comerciais",
     "ids": [
-     "9cfcbabc051f",
-     "568c884645a9"
+     "9cfcbabc051f"
     ]
    },
    {
@@ -1344,27 +1334,143 @@
     ]
    },
    {
-    "titulo": "Austrália aprova lei de multas para big techs",
+    "titulo": "Projetos científicos e megaprojetos internacionais",
+    "ids": [
+     "dda0f5848e80"
+    ]
+   },
+   {
+    "titulo": "Austrália aprova lei com multas para big techs",
     "ids": [
      "97e56d4168c1"
     ]
    },
    {
-    "titulo": "Impacto da IA nos sistemas de registros públicos",
+    "titulo": "Retorno de Jensen Huang à liderança da Nvidia",
+    "ids": [
+     "dc33b3bfdbb5",
+     "ae30715a5b75",
+     "86af10220456"
+    ]
+   },
+   {
+    "titulo": "Impacto da inteligência artificial em sistemas de registros públicos",
     "ids": [
      "cb4782794f2f"
     ]
    },
    {
-    "titulo": "Lacunas em radares e o monitoramento do El Niño",
+    "titulo": "Desafios no monitoramento dos efeitos do El Niño",
     "ids": [
      "d140cd1b52b8"
     ]
    },
    {
-    "titulo": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+    "titulo": "R$ 200 OFF no Magalu: aproveite o cupom exclusivo do Tecnoblog",
     "ids": [
-     "3e56a8e6d42a"
+     "0b9f0084935f"
+    ]
+   },
+   {
+    "titulo": "Moto G Max cai para metade do preço na véspera da Black com 51% OFF inédito",
+    "ids": [
+     "1be3c281d50b"
+    ]
+   },
+   {
+    "titulo": "The Blood of Dawnwalker e mais games com até 90% OFF na Black Friday do PlayStation",
+    "ids": [
+     "da0525c5d315"
+    ]
+   },
+   {
+    "titulo": "Galaxy A57 (256 GB) chega a 2º menor preço do ano em Black antecipada",
+    "ids": [
+     "43ffc107a102"
+    ]
+   },
+   {
+    "titulo": "Melhor ar-condicionado 9.000 BTUs em 2026: qual modelo comprar?",
+    "ids": [
+     "ea722d20ffa7"
+    ]
+   },
+   {
+    "titulo": "10 dicas: como se proteger de golpes na Black Friday",
+    "ids": [
+     "ebb1d8002dd8"
+    ]
+   },
+   {
+    "titulo": "Galaxy Watch 9 tem 57% OFF imbatível a poucas horas da Black Friday",
+    "ids": [
+     "97af4b28518f"
+    ]
+   },
+   {
+    "titulo": "Galaxy Watch Ultra tem queima de estoque para a Black Friday 2026",
+    "ids": [
+     "bac0989896c5"
+    ]
+   },
+   {
+    "titulo": "Véspera da Black: Galaxy Tab S10 FE Plus 5G sai pelo menor preço que já vimos",
+    "ids": [
+     "a93e08098496"
+    ]
+   },
+   {
+    "titulo": "Black Week: Galaxy S26 FE cai ainda mais e chega a 47% OFF com cupom",
+    "ids": [
+     "cadba9f596a2"
+    ]
+   },
+   {
+    "titulo": "Galaxy Watch 8 tem oferta agressiva e cai para menos de R$ 1 mil na Black Week",
+    "ids": [
+     "dc81c5f1f73c"
+    ]
+   },
+   {
+    "titulo": "Amazon revela itens mais vendidos antes da Black Friday 2026; confira",
+    "ids": [
+     "a64e4bc9a0c3"
+    ]
+   },
+   {
+    "titulo": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+    "ids": [
+     "8cf8fb1747c8"
+    ]
+   },
+   {
+    "titulo": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+    "ids": [
+     "b8b8a9d24770"
+    ]
+   },
+   {
+    "titulo": "The best Black Friday deals we’ve already found",
+    "ids": [
+     "b10ebf43407e"
+    ]
+   },
+   {
+    "titulo": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+    "ids": [
+     "8400b48488a4"
+    ]
+   },
+   {
+    "titulo": "Here’s where you can save (a little) on the Ocarina of Time remake",
+    "ids": [
+     "2c8e23270b54"
+    ]
+   },
+   {
+    "titulo": "Qual iPhone 'antigo' comprar na Black Friday?",
+    "ids": [
+     "747f3db6a4af"
     ]
    }
   ],
@@ -1697,238 +1803,176 @@
      "Iniciativa busca maior eficiência na captação de energia solar em órbita."
     ],
     "enquadramentos": {},
-    "usado_em": 1795727480.2941656
+    "usado_em": 1795752057.8869302
+   },
+   "5c177dc927f34b9f": {
+    "resumo": "Uma expedição científica reunindo 16 pesquisadores explorou a serra do Aracá, no extremo norte do Amazonas, entre agosto e setembro. Durante 19 dias, o grupo coletou milhares de exemplares de animais e plantas, identificando diversas espécies com potencial de serem inéditas para a Ciência. O objetivo foi mapear a biodiversidade da região e entender sua história evolutiva. A identificação definitiva das novas espécies ainda depende de análises detalhadas que podem levar décadas.",
+    "pontos": [
+     "Expedição de 19 dias no norte do Amazonas encontrou espécies potencialmente inéditas.",
+     "Missão reuniu 16 pesquisadores com financiamento da Fapesp e apoio do Exército.",
+     "Amostras coletadas incluem lagartos, cobras, anfíbios, plantas e insetos."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795752057.886924
+   },
+   "a25ed5e7a293f479": {
+    "resumo": "A Nvidia determinou a suspensão temporária do envio de servidores equipados com chips de IA para quatro países do Sudeste Asiático: Singapura, Tailândia, Malásia e Indonésia. A medida ocorre após os Estados Unidos endurecerem as regras de exportação de semicondutores para dificultar o acesso de empresas chinesas a esses recursos. A decisão gerou grande impacto na região, havendo divergência entre veículos sobre a duração exata da suspensão ser definitiva ou temporária.",
+    "pontos": [
+     "Nvidia suspende chips de IA para Singapura, Tailândia, Malásia e Indonésia.",
+     "Medida responde a novas regras dos EUA para barrar acesso indireto da China.",
+     "Decisão causa incerteza e impactos em data centers da região."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795752057.8869278
+   },
+   "a943e9b2acb81561": {
+    "resumo": "Novas imagens divulgadas pela Agência Espacial Europeia mostram que o asteroide Dimorphos sofreu grandes alterações após ser atingido deliberadamente por uma espaçonave da NASA em 2022. A colisão abriu uma cratera do tamanho de um estádio de futebol e deixou o corpo celeste girando descontroladamente em sua órbita. O experimento bem-sucedido serviu para testar sistemas de defesa planetária contra possíveis impactos futuros na Terra.",
+    "pontos": [
+     "Missão da ESA revela cratera gigante e mudanças no formato de Dimorphos.",
+     "Colisão da nave DART em 2022 alterou a órbita e provocou rotação descontrolada.",
+     "Experimento avalia métodos de defesa planetária sem apresentar riscos à Terra."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795752057.8869288
    }
   }
  },
  "ia": {
-  "chave": "7a4a8b0a85a33d62",
+  "chave": "b933b1fb86e80eb0",
   "grupos": [
    {
-    "titulo": "Huawei lança antes mudanças do iPhone e é condenada nos EUA",
+    "titulo": "Nvidia suspende envio de chips de IA para o Sudeste Asiático",
     "ids": [
-     "363aa9e314e2",
-     "9cfcbabc051f",
-     "568c884645a9"
+     "b5f745ea89f8",
+     "d1dc5152b16c"
     ]
    },
    {
-    "titulo": "Lançamento aconchegante da Netflix retorna",
-    "ids": [
-     "0cd196b5fc14"
-    ]
-   },
-   {
-    "titulo": "Dicas para reduzir fraudes e chargebacks em compras online",
-    "ids": [
-     "e05040ef4625"
-    ]
-   },
-   {
-    "titulo": "Missão da NASA e espaçonave europeia investigam asteroide Dimorphos",
+    "titulo": "Missão da NASA e impacto no asteroide Dimorphos",
     "ids": [
      "23e0711cf4a2",
      "3e56a8e6d42a"
     ]
    },
    {
-    "titulo": "Microsoft faz ajustes na Barra de Tarefas do Windows 11",
-    "ids": [
-     "a30fe4d8e799"
-    ]
-   },
-   {
-    "titulo": "TV boxes piratas são usadas em esquema de fraude publicitária",
-    "ids": [
-     "5b85703e9e65"
-    ]
-   },
-   {
-    "titulo": "OpenAI define limites de uso compartilhado para ChatGPT, Codex e Work",
-    "ids": [
-     "792e80e8281b"
-    ]
-   },
-   {
-    "titulo": "WhatsApp anuncia pacotes de dados eSIM para viagens internacionais",
-    "ids": [
-     "5320c8a37a10"
-    ]
-   },
-   {
-    "titulo": "Análise do teclado gamer Logitech G316 X 98",
-    "ids": [
-     "055dfbca0345"
-    ]
-   },
-   {
-    "titulo": "Ford apresenta protótipo GT41 para as 24 Horas de Le Mans",
-    "ids": [
-     "242c0816468e"
-    ]
-   },
-   {
-    "titulo": "Gerenciador 1Password sofre invasão, mas garante segurança de senhas",
-    "ids": [
-     "d3bcab1d5339"
-    ]
-   },
-   {
-    "titulo": "Funcionários da Rockstar rejeitam criação de sindicato após lançamento de GTA 6",
-    "ids": [
-     "e4c54ddee2be",
-     "8018eae6270d"
-    ]
-   },
-   {
-    "titulo": "Uber Assist chega ao Brasil para passageiros com mobilidade reduzida",
-    "ids": [
-     "e4692df2aa26"
-    ]
-   },
-   {
-    "titulo": "Desenvolvedores de aplicativos Android precisarão compartilhar endereço publicamente",
-    "ids": [
-     "fc3f6c861a53"
-    ]
-   },
-   {
-    "titulo": "Como programar uma mensagem no WhatsApp",
-    "ids": [
-     "b76a1c280f9e"
-    ]
-   },
-   {
-    "titulo": "Linus Torvalds critica atualização gigante no Linux",
-    "ids": [
-     "c0b346c9f1ec"
-    ]
-   },
-   {
-    "titulo": "Juiz bloqueia revisão antecipada de licenças da ABC pela FCC",
-    "ids": [
-     "b00ec16112e2"
-    ]
-   },
-   {
-    "titulo": "Senacon dá prazo para Google ampliar informações sobre anúncios",
-    "ids": [
-     "de89a9e3236d"
-    ]
-   },
-   {
-    "titulo": "Por que a versão da Flórida em GTA VI parece real",
-    "ids": [
-     "719fecde25d5"
-    ]
-   },
-   {
-    "titulo": "The Download: Boletins de tecnologia e ciência",
-    "ids": [
-     "df757b3ca1dd",
-     "79d027e2e048",
-     "5ece1567bced"
-    ]
-   },
-   {
-    "titulo": "FIFA sofre ataque cibernético que acessou informações pessoais e comerciais",
-    "ids": [
-     "b3d04db7d159"
-    ]
-   },
-   {
-    "titulo": "Drenagem de turfeiras contribui para o aquecimento global",
-    "ids": [
-     "abca0f7100ad"
-    ]
-   },
-   {
-    "titulo": "Escritórios em casa da equipe do Ars Technica",
-    "ids": [
-     "400430a450f9"
-    ]
-   },
-   {
-    "titulo": "Elon Musk promete doar ações da SpaceX",
-    "ids": [
-     "6885854818a8"
-    ]
-   },
-   {
-    "titulo": "Nvidia suspende envio de servidores ao Sudeste Asiático e papel de Jensen Huang",
-    "ids": [
-     "d1dc5152b16c",
-     "dc33b3bfdbb5",
-     "ae30715a5b75",
-     "86af10220456"
-    ]
-   },
-   {
-    "titulo": "Próxima geração de mãos biónicas com tato",
-    "ids": [
-     "3351794e6a63"
-    ]
-   },
-   {
-    "titulo": "FCC autoriza SpaceX a lançar satélites para data centers",
+    "titulo": "FCC autoriza SpaceX a lançar satélites",
     "ids": [
      "fc2ca129b608",
      "8540e8010e35"
     ]
    },
    {
-    "titulo": "Kagi lança rival do Gmail com foco em privacidade e IA",
+    "titulo": "Notebook ideal: como escolher um com boa configuração na Black Friday",
     "ids": [
-     "5acdb5a9ff5c"
+     "a1cf30b53455"
     ]
    },
    {
-    "titulo": "Backblaze explica compartilhamento de dados com anunciantes",
+    "titulo": "Teclado gamer Logitech: qual modelo comprar em 2026?",
     "ids": [
-     "6f937299d9db"
+     "085d5c88d90d"
     ]
    },
    {
-    "titulo": "Primeira alfa do navegador Ladybird é lançada",
+    "titulo": "R$ 200 OFF no Magalu: aproveite o cupom exclusivo do Tecnoblog",
     "ids": [
-     "863ac3a2c21b"
+     "0b9f0084935f"
     ]
    },
    {
-    "titulo": "Etsy esclarece termos de IA após reações de vendedores",
+    "titulo": "Onde encontrar o easter egg de Arthur Morgan, de Red Dead 2, em GTA 6",
     "ids": [
-     "61ca50113ad5"
+     "8c901dd7b71d"
     ]
    },
    {
-    "titulo": "Demanda de data centers impulsiona boom de gás natural nos EUA",
+    "titulo": "Passkey, senha e 2FA: qual é o método de login mais seguro?",
     "ids": [
-     "ddad6bd46fa1",
-     "9f04eb00d9b2"
+     "b1fd7d6f1415"
     ]
    },
    {
-    "titulo": "Ataques militares a data centers e serviços em nuvem",
+    "titulo": "Moto G Max cai para metade do preço na véspera da Black com 51% OFF inédito",
     "ids": [
-     "148a75b422c2"
+     "1be3c281d50b"
     ]
    },
    {
-    "titulo": "Detonação de azida de chumbo em Iowa gera nuvens de fumaça",
+    "titulo": "The Blood of Dawnwalker e mais games com até 90% OFF na Black Friday do PlayStation",
     "ids": [
-     "5b2725fe9fc1"
+     "da0525c5d315"
     ]
    },
    {
-    "titulo": "Austrália aprova lei com multas para big techs por conteúdo prejudicial",
+    "titulo": "Galaxy A57 (256 GB) chega a 2º menor preço do ano em Black antecipada",
     "ids": [
-     "97e56d4168c1"
+     "43ffc107a102"
     ]
    },
    {
-    "titulo": "IA pressiona sistemas de registros públicos nos Estados Unidos",
+    "titulo": "Black Friday tenta ‘driblar’ aumento de preços nos smartphones: descontos são reais?",
     "ids": [
-     "cb4782794f2f"
+     "a2d8c2a103a0"
+    ]
+   },
+   {
+    "titulo": "Melhor ar-condicionado 9.000 BTUs em 2026: qual modelo comprar?",
+    "ids": [
+     "ea722d20ffa7"
+    ]
+   },
+   {
+    "titulo": "Falha da Microsoft expõe segredos de empresas de energia da Europa",
+    "ids": [
+     "461aa9f4741c"
+    ]
+   },
+   {
+    "titulo": "10 dicas: como se proteger de golpes na Black Friday",
+    "ids": [
+     "ebb1d8002dd8"
+    ]
+   },
+   {
+    "titulo": "Galaxy Watch 9 tem 57% OFF imbatível a poucas horas da Black Friday",
+    "ids": [
+     "97af4b28518f"
+    ]
+   },
+   {
+    "titulo": "Galaxy Watch Ultra tem queima de estoque para a Black Friday 2026",
+    "ids": [
+     "bac0989896c5"
+    ]
+   },
+   {
+    "titulo": "Véspera da Black: Galaxy Tab S10 FE Plus 5G sai pelo menor preço que já vimos",
+    "ids": [
+     "a93e08098496"
+    ]
+   },
+   {
+    "titulo": "Guerra pelo streaming: por que criadores brasileiros trocam a Twitch pela concorrente Kick",
+    "ids": [
+     "bd4b19f3652b"
+    ]
+   },
+   {
+    "titulo": "Huawei pode lançar antes uma das principais mudanças do iPhone 20",
+    "ids": [
+     "363aa9e314e2"
+    ]
+   },
+   {
+    "titulo": "Neuralink é autorizada a realizar novos testes em pessoas com paralisia grave",
+    "ids": [
+     "ec09ff0fa2a3"
+    ]
+   },
+   {
+    "titulo": "Netflix’s coziest show has made a very quiet return",
+    "ids": [
+     "0cd196b5fc14"
     ]
    },
    {
@@ -1950,21 +1994,21 @@
     ]
    },
    {
-    "titulo": "É hoje! Live da virada do Estadão terá mais de 2.600 ofertas",
+    "titulo": "Chargeback e falsos positivos: como reduzir fraude sem bloquear bons clientes",
     "ids": [
-     "e798423ec1ad"
+     "e05040ef4625"
     ]
    },
    {
-    "titulo": "Como escolher um monitor gamer na Black Friday 2026? Veja dicas do que avaliar",
+    "titulo": "Microsoft vai fazer mais um ajuste na Barra de Tarefas do Windows 11",
     "ids": [
-     "9d6e835a350a"
+     "a30fe4d8e799"
     ]
    },
    {
-    "titulo": "O que comprar na Black Friday: roupas",
+    "titulo": "TV Boxes piratas são usadas em esquema internacional de fraude publicitária",
     "ids": [
-     "c46536dc9281"
+     "5b85703e9e65"
     ]
    },
    {
@@ -1974,39 +2018,9 @@
     ]
    },
    {
-    "titulo": "Como escolher um teclado gamer na Black Friday 2026? Saiba o que avaliar",
+    "titulo": "Ford unveils the GT41 as it hopes to win Le Mans again",
     "ids": [
-     "097ad656fe10"
-    ]
-   },
-   {
-    "titulo": "Esquenta Black: Motorola Razr Fold atinge 39% OFF imbatível no Magalu",
-    "ids": [
-     "2caab819a386"
-    ]
-   },
-   {
-    "titulo": "Nintendo Switch 2 com jogo EA Sport 27 por R$ 3.520",
-    "ids": [
-     "c45cae018908"
-    ]
-   },
-   {
-    "titulo": "Melhor soundbar em 2026: 10 modelos para turbinar o som da sua TV",
-    "ids": [
-     "2061ba31a1aa"
-    ]
-   },
-   {
-    "titulo": "Histórico: iPhone Air compete em preço com iPhone 17 na véspera da Black Friday",
-    "ids": [
-     "c56585467500"
-    ]
-   },
-   {
-    "titulo": "Melhor Soundbar Samsung: 7 modelos para comprar em 2026",
-    "ids": [
-     "aeb1287da3f7"
+     "242c0816468e"
     ]
    },
    {
@@ -2016,9 +2030,21 @@
     ]
    },
    {
+    "titulo": "Android app developers will soon have to share their address publicly",
+    "ids": [
+     "fc3f6c861a53"
+    ]
+   },
+   {
     "titulo": "The best Black Friday deals we’ve already found",
     "ids": [
      "b10ebf43407e"
+    ]
+   },
+   {
+    "titulo": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+    "ids": [
+     "b00ec16112e2"
     ]
    },
    {
@@ -2028,15 +2054,165 @@
     ]
    },
    {
+    "titulo": "GTA VI developers vote against unionization",
+    "ids": [
+     "8018eae6270d"
+    ]
+   },
+   {
+    "titulo": "Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
+    "ids": [
+     "de89a9e3236d"
+    ]
+   },
+   {
+    "titulo": "Why GTA VI’s version of Florida feels so real",
+    "ids": [
+     "719fecde25d5"
+    ]
+   },
+   {
     "titulo": "Here’s where you can save (a little) on the Ocarina of Time remake",
     "ids": [
      "2c8e23270b54"
     ]
    },
    {
+    "titulo": "The Download: Better bionic hands and AI’s natural-gas boom",
+    "ids": [
+     "df757b3ca1dd"
+    ]
+   },
+   {
+    "titulo": "FIFA diz ter sido vítima de ataque cibernético que acessou 'informações pessoais e comerciais'",
+    "ids": [
+     "b3d04db7d159"
+    ]
+   },
+   {
+    "titulo": "Draining peatlands is responsible for a few percent of our global warming",
+    "ids": [
+     "abca0f7100ad"
+    ]
+   },
+   {
+    "titulo": "From minimalist to maximalist: Ars staffers show off their home offices",
+    "ids": [
+     "400430a450f9"
+    ]
+   },
+   {
+    "titulo": "Elon Musk promete dar duas ações da SpaceX para cada criança dos EUA; valor pode chegar a US$ 18 bilhões",
+    "ids": [
+     "6885854818a8"
+    ]
+   },
+   {
+    "titulo": "The next generation of bionic hands is here—and they can feel",
+    "ids": [
+     "3351794e6a63"
+    ]
+   },
+   {
+    "titulo": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
+    "ids": [
+     "dc33b3bfdbb5"
+    ]
+   },
+   {
     "titulo": "Qual iPhone 'antigo' comprar na Black Friday?",
     "ids": [
      "747f3db6a4af"
+    ]
+   },
+   {
+    "titulo": "Google search alternative Kagi launches Gmail rival",
+    "ids": [
+     "5acdb5a9ff5c"
+    ]
+   },
+   {
+    "titulo": "Backblaze explains why it's sharing customer information with advertisers",
+    "ids": [
+     "6f937299d9db"
+    ]
+   },
+   {
+    "titulo": "Ladybird browser's first downloadable alpha is surprisingly capable",
+    "ids": [
+     "863ac3a2c21b"
+    ]
+   },
+   {
+    "titulo": "Etsy clarifies AI terms after seller backlash",
+    "ids": [
+     "61ca50113ad5"
+    ]
+   },
+   {
+    "titulo": "How data centers are driving a US natural-gas boom",
+    "ids": [
+     "ddad6bd46fa1"
+    ]
+   },
+   {
+    "titulo": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+    "ids": [
+     "148a75b422c2"
+    ]
+   },
+   {
+    "titulo": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+    "ids": [
+     "9cfcbabc051f"
+    ]
+   },
+   {
+    "titulo": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+    "ids": [
+     "5b2725fe9fc1"
+    ]
+   },
+   {
+    "titulo": "The Download: AI swamping open records, and firefighting for permafrost",
+    "ids": [
+     "79d027e2e048"
+    ]
+   },
+   {
+    "titulo": "Austrália aprova lei que prevê multas bilionárias para big techs por conteúdo prejudicial",
+    "ids": [
+     "97e56d4168c1"
+    ]
+   },
+   {
+    "titulo": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
+    "ids": [
+     "ae30715a5b75"
+    ]
+   },
+   {
+    "titulo": "AI is straining America’s open records systems",
+    "ids": [
+     "cb4782794f2f"
+    ]
+   },
+   {
+    "titulo": "Após voltar ao comando da Nvidia, Jensen Huang pede desculpas por traição e diz fazer terapia",
+    "ids": [
+     "86af10220456"
+    ]
+   },
+   {
+    "titulo": "The Download: AI’s gas power boom and a consciousness reality check",
+    "ids": [
+     "5ece1567bced"
+    ]
+   },
+   {
+    "titulo": "Data centers are getting their own natural gas power plants",
+    "ids": [
+     "9f04eb00d9b2"
     ]
    }
   ],
@@ -2218,7 +2394,7 @@
      "O teste visa aprimorar sistemas de defesa planetária."
     ],
     "enquadramentos": {},
-    "usado_em": 1795727488.239076
+    "usado_em": 1795752061.546498
    },
    "d43245c3e1f5e883": {
     "resumo": "Funcionários da Rockstar Games no Reino Unido rejeitaram a criação de um acordo de reconhecimento sindical com o IWGB. Cerca de 75% dos trabalhadores votaram contra a proposta durante o período que coincidiu com o lançamento de Grand Theft Auto VI. A empresa comemorou o resultado, enquanto o sindicato declarou que continuará se organizando.",
@@ -2238,118 +2414,161 @@
      "Iniciativa visa maior eficiência energética com luz solar contínua."
     ],
     "enquadramentos": {},
-    "usado_em": 1795727488.2390773
+    "usado_em": 1795752061.546501
+   },
+   "a25ed5e7a293f479": {
+    "resumo": "A Nvidia suspendeu o envio de servidores com chips de IA para quatro países do Sudeste Asiático: Singapura, Tailândia, Malásia e Indonésia. A medida ocorre após o governo dos EUA endurecer as regras de exportação para evitar que empresas chinesas driblem as sanções usando data centers remotos. Enquanto o Tecmundo aponta que a suspensão é temporária e por tempo indeterminado, o g1 relata que ainda não está claro se a medida é definitiva ou temporária. A decisão também coincide com um escândalo envolvendo a Nvidia e investigações sobre transferência de chips para a China.",
+    "pontos": [
+     "Nvidia suspende envio de servidores de IA para quatro países do Sudeste Asiático.",
+     "Medida visa cumprir novas regras dos EUA e impedir o acesso indireto da China a chips avançados.",
+     "Veículos divergem sobre o caráter temporário ou indefinido da suspensão.",
+     "Decisão afeta parceiros como Dell e gera impactos após investigações de desvio de componentes."
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795752061.546495
    }
   }
  },
  "carros": {
-  "chave": "9ed92b28eb95b8bd",
+  "chave": "27cea9aec82ba212",
   "grupos": [
    {
-    "titulo": "Jeep Avenger ganha série especial da Marvel",
+    "titulo": "Chevrolet S10 2027 com desconto",
     "ids": [
+     "e10f177631f4"
+    ]
+   },
+   {
+    "titulo": "Carro do Ano 2027",
+    "ids": [
+     "be4bd9e53c96",
+     "3e45740740ff"
+    ]
+   },
+   {
+    "titulo": "CNH B para SUVs mais pesados",
+    "ids": [
+     "a6e809b2b8b6"
+    ]
+   },
+   {
+    "titulo": "Jeep Avenger série especial da Marvel",
+    "ids": [
+     "576e6220f392",
      "218924d1ec25"
     ]
    },
    {
-    "titulo": "Cadillac Optiq chega ao mercado em 2027",
+    "titulo": "Black Friday com descontos em carros",
+    "ids": [
+     "eab0573a5e8c"
+    ]
+   },
+   {
+    "titulo": "Toyota bZ4X com desconto em novembro",
+    "ids": [
+     "e501a95fe292"
+    ]
+   },
+   {
+    "titulo": "Cadillac Optiq em 2027",
     "ids": [
      "5b5f4957aaec"
     ]
    },
    {
-    "titulo": "Ford revela GT41 para a disputa em Le Mans",
+    "titulo": "Ford GT41 para Le Mans",
     "ids": [
      "c55a5b7b5130"
     ]
    },
    {
-    "titulo": "Senado aprova projeto que proíbe fiança em morte no trânsito por embriaguez",
+    "titulo": "Senado aprova fim de fiança para embriaguez ao volante",
     "ids": [
      "71d7e74a6bd4"
     ]
    },
    {
-    "titulo": "Land Rover vence disputa contra Defender chinês da BYD na Europa",
+    "titulo": "Land Rover bane Defender chinês da BYD",
     "ids": [
      "bfaa5c7edbc3"
     ]
    },
    {
-    "titulo": "Ofertas de câmeras de ré na Black Friday do Magalu",
+    "titulo": "Câmeras de ré em oferta na Black Friday",
     "ids": [
      "84c286763883"
     ]
    },
    {
-    "titulo": "Nova Toyota Hilux será revelada em breve no Brasil",
+    "titulo": "Nova Toyota Hilux no Brasil",
     "ids": [
      "0b1e9eeeb4e8"
     ]
    },
    {
-    "titulo": "Crescimento nos pedidos para primeira CNH em 2026",
+    "titulo": "Crescimento de pedidos para primeira CNH",
     "ids": [
      "158de6a80a9f"
     ]
    },
    {
-    "titulo": "Ford F-150 Raptor começa a ser vendida no Brasil",
+    "titulo": "Ford F-150 Raptor no Brasil",
     "ids": [
      "10b7cbf7a4b9"
     ]
    },
    {
-    "titulo": "VW Tempest atinge marca de vendas no mercado",
+    "titulo": "VW Tempest vende 2 mil unidades",
     "ids": [
      "46055ddf70a1"
     ]
    },
    {
-    "titulo": "Mini Countryman S ALL4 chega ao Brasil",
+    "titulo": "Mini Countryman S ALL4 no Brasil",
     "ids": [
      "01966edd4fb5",
      "efca38958416"
     ]
    },
    {
-    "titulo": "Novo Nissan Terrano vaza em documentos de homologação na China",
+    "titulo": "Novo Nissan Terrano na China",
     "ids": [
      "90105b3916c9"
     ]
    },
    {
-    "titulo": "VW planeja exportar carros da China com foco no Brasil",
+    "titulo": "VW planeja exportar carros da China",
     "ids": [
      "15fc3ebca521"
     ]
    },
    {
-    "titulo": "Sugestões de SUVs com porta-malas espaquosos",
+    "titulo": "SUVs com porta-malas espaçosos",
     "ids": [
      "afd80d4fd21c"
     ]
    },
    {
-    "titulo": "ID.Cross ganha versão esportiva R-Line",
+    "titulo": "Volkswagen ID.Cross R-Line",
     "ids": [
      "ee8c82fe68bb"
     ]
    },
    {
-    "titulo": "Opções de SUVs usados automáticos e confiáveis",
+    "titulo": "SUVs usados automáticos",
     "ids": [
      "a249f110efa2"
     ]
    },
    {
-    "titulo": "Chevrolet Spark EUV ganha desconto promocional",
+    "titulo": "Chevrolet Spark EUV com desconto",
     "ids": [
      "dc3ddd9ed46f"
     ]
    },
    {
-    "titulo": "Comparativo entre Leapmotor B10 REEV e Jeep Renegade Sahara",
+    "titulo": "Comparativo Leapmotor B10 e Jeep Renegade",
     "ids": [
      "65d10da2b2eb"
     ]
@@ -2361,107 +2580,80 @@
     ]
    },
    {
-    "titulo": "Jeep Compass recebe desconto para esgotar unidades",
+    "titulo": "Jeep Compass com desconto",
     "ids": [
      "032a69e73719"
     ]
    },
    {
-    "titulo": "Queda nas vendas do Nissan Kicks no México",
+    "titulo": "Nissan Kicks perde espaço no México",
     "ids": [
      "4d8159fa213a"
     ]
    },
    {
-    "titulo": "Regras e funcionamento de leilões do Detran",
-    "ids": [
-     "1dd10d936052"
-    ]
-   },
-   {
-    "titulo": "Flagra do GWM Haval H6L em testes no Brasil",
+    "titulo": "GWM Haval H6L em testes no Brasil",
     "ids": [
      "cf670b073b30"
     ]
    },
    {
-    "titulo": "Ford confirma lançamentos no Brasil para 2027",
+    "titulo": "Lançamentos da Ford em 2027",
     "ids": [
      "0f869bd4b1fb",
-     "7b8da4a6e856",
-     "e25e4a9c3a18",
      "58f56134c64f"
     ]
    },
    {
-    "titulo": "Podcast Motor1 debate novidades sobre picapes e SUVs",
+    "titulo": "Podcast Motor1 sobre picape da Toyota",
     "ids": [
      "6f8bbf058fa3"
     ]
    },
    {
-    "titulo": "Ford Territory terá novas versões híbridas e de 7 lugares",
-    "ids": [
-     "214cb44e07b1",
-     "3f7967d30232"
-    ]
-   },
-   {
-    "titulo": "Comparativo entre GWM Tank 400 e Toyota SW4",
+    "titulo": "GWM Tank 400 e Toyota SW4",
     "ids": [
      "da5608c05e0a"
     ]
    },
    {
-    "titulo": "Ofertas de carregadores de bateria automotiva na Black Friday",
+    "titulo": "Carregadores de bateria na Black Friday",
     "ids": [
      "561eed531526"
     ]
    },
    {
-    "titulo": "Ciro Possobom deixa o comando da Volkswagen do Brasil",
+    "titulo": "Ciro Possobom deixa comando da VW",
     "ids": [
      "1df7780a3cfd"
     ]
    },
    {
-    "titulo": "GWM Ora 7 estreia como sedã e perua na China",
-    "ids": [
-     "680888f12447"
-    ]
-   },
-   {
-    "titulo": "Teste do Baic Arcfox T1",
-    "ids": [
-     "da5d671f8753"
-    ]
-   },
-   {
-    "titulo": "Fiat revive a marca Autobianchi com nova versão do Pandina",
+    "titulo": "Fiat revive Autobianchi",
     "ids": [
      "d95bde88c6e6"
     ]
    },
    {
-    "titulo": "Volkswagen anuncia primeiro carro híbrido flex no Brasil",
+    "titulo": "Primeiro híbrido flex da Volkswagen no Brasil",
     "ids": [
      "c217e8da42ab"
     ]
    },
    {
-    "titulo": "Denza BAO 3 faz estreia mundial no Brasil",
+    "titulo": "Denza BAO 3 no Brasil",
     "ids": [
      "3e6a52f5d9b5"
     ]
    },
    {
-    "titulo": "Volkswagen inicia negociações salariais com trabalhadores na Alemanha",
+    "titulo": "Negociações salariais na Volkswagen na Alemanha",
     "ids": [
      "bab67b957ab5"
     ]
    },
    {
-    "titulo": "Lista de carros de até R$ 100 mil com maiores porta-malas",
+    "titulo": "Carros de até R$ 100 mil com maiores porta-malas",
     "ids": [
      "754195bd3915"
     ]
@@ -2601,7 +2793,7 @@
      "Aceleração de 0 a 100 km/h em 7,4 segundos"
     ],
     "enquadramentos": {},
-    "usado_em": 1795727497.3349364
+    "usado_em": 1795752067.2383516
    },
    "1e100d91b4acde1f": {
     "resumo": "A Ford anunciou que o Territory ganhará quatro novas versões no Brasil em 2027, incluindo opções híbridas plenas, plug-in flex e uma configuração de sete lugares. A primeira novidade será a versão Platinum no início do ano. As variantes eletrificadas trarão opções com autonomia elétrica de até 100 km e conjuntos mecânicos flex.",
@@ -2612,480 +2804,626 @@
     ],
     "enquadramentos": {},
     "usado_em": 1795727497.334937
+   },
+   "f3a63e8b1eeeaaec": {
+    "resumo": "O Jeep Avenger ganhou a série especial Marvel no Brasil, limitada a 400 unidades com preço de R$ 157.990. A versão custa R$ 10.000 a mais que a topo de gama Limited segundo a Quatro Rodas, enquanto o Motor1 aponta uma diferença de R$ 12 mil. O lançamento comercial ocorre em dezembro de 2026, coincidindo com a estreia do filme Vingadores: Doutor Destino, e traz motor 1.0 turbo flex híbrido leve, teto solar de série e diversos elementos visuais temáticos inspirados em heróis dos quadrinhos.",
+    "pontos": [
+     "Série limitada a 400 unidades por R$ 157.990",
+     "Divergência entre veículos sobre a diferença de preço em relação à versão Limited (R$ 10.000 ou R$ 12 mil)",
+     "Visual exclusivo com referências a Vingadores, X-Men e outros heróis",
+     "Conjunto mecânico 1.0 turbo flex MHEV de 116 cv"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795752067.2383482
+   },
+   "6ce2bf62411229ed": {
+    "resumo": "A Ford confirmou oito lançamentos para o Brasil em 2027, com destaque para a chegada do SUV Bronco eletrificado importado da China no último trimestre do ano. O modelo utilizará o sistema híbrido REEV, combinando motor 1.5 turbo e motores elétricos para prometer até 1.200 km de autonomia. Além disso, a marca anunciou novas versões híbridas flex para o Territory, incluindo uma variante com capacidade para sete ocupantes.",
+    "pontos": [
+     "Oito lançamentos da Ford confirmados para 2027 no Brasil",
+     "Novo Ford Bronco híbrido REEV vindo da China com autonomia estimada em 1.200 km",
+     "Territory ganhará versões híbridas flex e uma variante de sete lugares"
+    ],
+    "enquadramentos": {},
+    "usado_em": 1795752067.238354
    }
   }
  },
  "politica": {
-  "chave": "86f595d5aedbd6b2",
+  "chave": "479374cc279a8454",
   "grupos": [
    {
-    "titulo": "Reunião de Luiz Trabuco com Lula e repercussão no mercado",
+    "titulo": "Laser micro-ondas de diamante ultracongelado",
     "ids": [
-     "bdddd55ec5a1",
-     "00f6ea85d8be",
-     "d3c2ab3643fc",
-     "643d35ed1c92",
-     "cc3dcd2967b5",
-     "7c88ca6b2fcd",
-     "f5c9efafb094",
-     "080f2ad9c80f"
+     "2897a4225db2"
     ]
    },
    {
-    "titulo": "Prisão de jogador do Vasco em operação contra o tráfico",
+    "titulo": "Duplicação do Contorno Sul de Maringá",
     "ids": [
-     "997be5eeeb7e"
+     "1d300a6cc15f"
     ]
    },
    {
-    "titulo": "Declarações de Gilmar Kassab sobre convite para o ministério de Lula",
+    "titulo": "Direitos sobre mensalidades de academia",
     "ids": [
-     "8e090387ba1d",
-     "9b6e6aad6199"
+     "00114e4ec5ae"
     ]
    },
    {
-    "titulo": "Decisão do STF sobre o piso nacional dos professores",
+    "titulo": "Requisitos e restrições para doação de sangue",
     "ids": [
-     "99599f6dd096"
+     "4ad1b27e2a5a"
     ]
    },
    {
-    "titulo": "Defesa de salário e verbas de Flávio Bolsonaro no Senado",
+    "titulo": "Passeio gratuito a museu em Sorocaba",
     "ids": [
-     "af200bb2991b",
-     "95d5c871def1"
+     "3179a20ee8b1"
     ]
    },
    {
-    "titulo": "Tarcísio de Freitas confirma permanência de secretários em SP",
+    "titulo": "Regras de preferência de passagem em rotatórias",
     "ids": [
-     "d93812dbaae1",
-     "7da8af586d12",
-     "f4c9cd76f73f"
+     "dbff21e03346"
     ]
    },
    {
-    "titulo": "Discussões sobre custos da posse de Lula",
+    "titulo": "Relatório do Senado sobre dirigentes de partidos em estatais",
     "ids": [
-     "1d1b9f70cdb8"
+     "5afcebf7b153"
     ]
    },
    {
-    "titulo": "Encontro entre Cleitinho e o presidente Lula",
+    "titulo": "Futuro de Dario Durigan no governo após escolha para a Fazenda",
     "ids": [
-     "50626a90729f",
-     "6ee9fbc1366b",
-     "40b9f243878b",
-     "30cf1f68d5d5",
-     "7af2c85f6b5a",
-     "f99a52fde01a",
-     "124838628f63",
-     "537f45d024d2"
+     "d4e75b554476"
     ]
    },
    {
-    "titulo": "Inscrições para o Carnaval 2027 em São Paulo",
+    "titulo": "Apoio do Itamaraty à Embraer após proposta de taxa pelos EUA",
     "ids": [
-     "990bb472031f"
+     "5423ad0b3748",
+     "b7e4352d0197"
     ]
    },
    {
-    "titulo": "Atualização sobre a saúde de Jair Bolsonaro por Michelle Bolsonaro",
+    "titulo": "Perfil de Bruno Moretti, cotado para o Planejamento",
     "ids": [
-     "dc40421612e0"
+     "41c1f200e7cf"
     ]
    },
    {
-    "titulo": "Declarações de Michelle Bolsonaro sobre a dieta de Jair Bolsonaro",
+    "titulo": "Demora do BRB na liberação de depósitos judiciais",
     "ids": [
-     "8314fad11945",
-     "343f0846aaa5"
+     "bfaa06ede41f",
+     "fea736dab922"
     ]
    },
    {
-    "titulo": "Ações e declarações sobre o pacote de ajuste fiscal e governo Lula",
+    "titulo": "Relação entre Lula e o governo de Minas Gerais sobre dívidas",
     "ids": [
-     "04051ca33981",
-     "dd91519c1656",
-     "cf804ddef060",
-     "1cf730cc44eb"
+     "1be811e7a856"
     ]
    },
    {
-    "titulo": "AGU derruba liminar sobre normas do vale-alimentação",
+    "titulo": "Temporal em Aparecida causa interdições e desalojados",
     "ids": [
-     "a0b418e775ee",
-     "ef62ed5bb72e"
+     "5900d14c7052"
     ]
    },
    {
-    "titulo": "Anúncio de gravidez de Eduardo Bolsonaro nos EUA",
+    "titulo": "Acumulação do prêmio da Mega-Sena",
     "ids": [
-     "d9150dc83c7c"
+     "44333bf16fa5",
+     "7e3d3490f502"
     ]
    },
    {
-    "titulo": "Mudança de controle da Paranapanema e CVM",
+    "titulo": "Tempestade deixa casas e comércios sem energia nos EUA",
     "ids": [
-     "fc94b347ddb9"
+     "cf17c691f31a"
     ]
    },
    {
-    "titulo": "Descoberta científica sobre luz em fibras ópticas",
+    "titulo": "Camilo Santana cotado para a Casa Civil",
     "ids": [
-     "852b0b9a1405"
+     "9e126d8e2db6",
+     "379703bed253"
     ]
    },
    {
-    "titulo": "Declarações de André Mendonça e Estela Aranha no TSE",
+    "titulo": "Pesquisa sobre pistas de saúde em bactérias de esgoto",
     "ids": [
-     "f6a09b6781d6",
-     "33d802a0b43e",
-     "9bdbf5e6efc1",
-     "ad9d78b62f32",
-     "6b34e5dcb59a"
+     "65257ae8bb4d"
     ]
    },
    {
-    "titulo": "Críticas de Emmanuel Macron à carne brasileira",
+    "titulo": "Casa do Artesão em antiga estação ferroviária em Aquidauana",
     "ids": [
-     "8aacca306b0a",
-     "684c30349a2c"
+     "6fa642cc65d9"
     ]
    },
    {
-    "titulo": "Ações da Embraer e reação do governo contra tarifas dos EUA",
+    "titulo": "Ferrovia em Inocência para transporte de celulose",
     "ids": [
-     "297b0f239636",
-     "8507ed12b3cd",
-     "c2138335d114"
+     "6efccaf52179"
     ]
    },
    {
-    "titulo": "Mediação do STF sobre patrocínio de bets para clubes de futebol",
+    "titulo": "Investigação e vazamentos envolvendo o Banco Master e o STF",
     "ids": [
-     "603fea1f66e1"
+     "85c5ac2bc4f9",
+     "46285cc4bacd"
     ]
    },
    {
-    "titulo": "Projeto aprovado no Senado sobre fiança em acidentes de trânsito por embriaguez",
+    "titulo": "Possível ida de Geraldo Alckmin para a Segurança Pública",
     "ids": [
-     "b17d0bcb33b5",
-     "71d7e74a6bd4"
+     "4a47888c1a96"
     ]
    },
    {
-    "titulo": "Projetos e propostas legislativas no Congresso Nacional",
+    "titulo": "Conflito entre vizinhos sobre corte de galhos de árvore",
     "ids": [
-     "0e049c2bbd49",
-     "02075acb4f21",
-     "f2992b4b7153"
+     "fbe1f3a02fcc"
     ]
    },
    {
-    "titulo": "Reivindicações do MST ao governo federal",
+    "titulo": "Pesquisa sobre controle da resistência elétrica do grafeno",
     "ids": [
-     "eb2c544082c5"
+     "418b09096ada"
     ]
    },
    {
-    "titulo": "Investigação e desdobramentos do caso Master",
+    "titulo": "Decisão do STF sobre porte de arma para guardas municipais",
     "ids": [
-     "45d724de8ffb",
-     "bd070c45c163"
+     "aa5e47b3caf2",
+     "b305f303560d"
     ]
    },
    {
-    "titulo": "Cobrança de Lula por solução para o BRB",
+    "titulo": "Tombamento do prédio do DOI-Codi no Rio pelo Iphan",
     "ids": [
-     "514e49092cc7"
+     "b98d658e5e66",
+     "ff90aaa76f81"
     ]
    },
    {
-    "titulo": "Estratégias de montagem de ministério e articulações do Centrão",
+    "titulo": "Partida do São Paulo contra o Remo",
     "ids": [
-     "5e22f8cd25f6",
-     "763b28d7e982",
-     "ec6e769b6288"
+     "86893bf756f8",
+     "e8bc3150040b"
     ]
    },
    {
-    "titulo": "Dados sobre turismo estrangeiro no Brasil em 2026",
+    "titulo": "Críticas à questão do Enem sobre commodities e fome",
     "ids": [
-     "91b86d9198c0"
+     "509ef2b2193c"
     ]
    },
    {
-    "titulo": "Reunião de Lula com ministros para controle de gastos",
+    "titulo": "Declarações de Hamilton Mourão sobre Cleitinho Azevedo",
     "ids": [
-     "a77978eee81d"
+     "8e63a33b7459"
     ]
    },
    {
-    "titulo": "Decisões e impasses políticos envolvendo deputados e partidos estaduais",
+    "titulo": "Apagão afeta estados da Região Norte",
     "ids": [
-     "1db910c82a35",
-     "ff38725831cd",
-     "041cd466eb1a"
+     "ee5363a2239e",
+     "8e0d30824bed"
     ]
    },
    {
-    "titulo": "Investigações e processos envolvendo ex-presidentes e autoridades no TCU",
+    "titulo": "Pedido de Carla Zambelli ao STF sobre condenação por ataque hacker",
     "ids": [
-     "3c68385cb71a"
+     "06079d75009f"
     ]
    },
    {
-    "titulo": "Motorista dirige usando meias depois de retirar os sapatos apertados, acredita que a situação é igual a dirigir descalço e descobre quais cuidados precisam ser considerados para manter o controle dos…",
+    "titulo": "Evolução do estado de saúde do ex-presidente Jair Bolsonaro",
     "ids": [
-     "1b070bb9dd10"
+     "e88cbc82a9d7",
+     "e0a9c5c8641e",
+     "c32ebad36438",
+     "02c78ea4633e"
     ]
    },
    {
-    "titulo": "Tem repolho em casa? Aprenda a fazer uma salada coleslaw cremosa para o jantar",
+    "titulo": "Crônica sobre o verão",
     "ids": [
-     "0c8c2fa8ff90"
+     "b9b6eb162be1"
     ]
    },
    {
-    "titulo": "Veja como preparar sua loja virtual para as promoções de Natal",
+    "titulo": "Expectativa para a decisão do STF sobre a dosimetria",
     "ids": [
-     "858846231805"
+     "7c4de623d03d"
     ]
    },
    {
-    "titulo": "HBO Max: confira 5 filmes e séries que chegam ao catálogo em dezembro",
+    "titulo": "Aprovação de lei para contratar vagas para idosos em São Paulo",
     "ids": [
-     "baf2210ecb8d"
+     "d57248e1d5cd"
     ]
    },
    {
-    "titulo": "Pessoa com deficiência visual é barrada por uma regra que proíbe animais e descobre que a lei garante a entrada com cão-guia em locais de uso coletivo",
+    "titulo": "Aprovação de projeto que proíbe fiança para motorista embriagado que matar",
     "ids": [
-     "0d34356976d1"
+     "04d560399a2c"
     ]
    },
    {
-    "titulo": "Sagitário em dezembro: mês poderá favorecer a autonomia e as decisões pessoais",
+    "titulo": "Aumento da preocupação com a inflação segundo pesquisa Ipsos",
     "ids": [
-     "e02a3456251e"
+     "a016cafcda38"
     ]
    },
    {
-    "titulo": "Oeste Sem Filtro: assista ao programa de 26/11/2026",
+    "titulo": "Julgamento de Marcel Van Hattem no STF",
     "ids": [
-     "06b3285a179f"
+     "4481b44c1a7f",
+     "92cbf0981b48"
     ]
    },
    {
-    "titulo": "Gordon Murray, criador do carro McLaren F1: “Não me importo com os números de aceleração: para mim, o mais importante é a perfeição ao volante e a arte da engenharia leve”",
+    "titulo": "Governo brasileiro lamenta declaração de Macron sobre carne",
     "ids": [
-     "c8ec7fcbbc04"
+     "c4058cfef0e3"
     ]
    },
    {
-    "titulo": "Trump chama números do PIB de ‘falsos’ e exige investigação",
+    "titulo": "Congresso da Argentina aprova reforma sobre Banco Central",
     "ids": [
-     "ee671b885402"
+     "bf18ba7f443a"
     ]
    },
    {
-    "titulo": "Conheça a G4, empresa da qual Daniella Marques se tornou sócia",
+    "titulo": "Decisão do STF sobre impasse eleitoral no Rio",
     "ids": [
-     "32c1ce181dc1"
+     "7a4ae9041f33"
     ]
    },
    {
-    "titulo": "Fachin libera para julgamento ação que pode barrar projetos sem previsão de gastos",
+    "titulo": "Pedidos de exoneração de diretores da CGU",
     "ids": [
-     "70459cbdd5aa"
+     "4a3ad77e87a6"
     ]
    },
    {
-    "titulo": "Governo Lula cria sistema para mapear opiniões de cidadãos",
+    "titulo": "Toffoli será relator de pedido sobre reforma tributária",
     "ids": [
-     "a01b2e774b4e"
+     "06b1558a5b0a"
     ]
    },
    {
-    "titulo": "PM de folga reage a assalto e baleia suspeito em São Paulo",
+    "titulo": "Toffoli devolve cargo a conselheiro do TCE-MT",
     "ids": [
-     "4d57aededee2"
+     "78985f443622"
     ]
    },
    {
-    "titulo": "Em meio a alta nos preços, açougues da Argentina começam a vender carne de pombo",
+    "titulo": "Datas tradicionais para montagem da decoração de Natal",
     "ids": [
-     "39d942de02f2"
+     "ea9188bff15f"
     ]
    },
    {
-    "titulo": "Justiça rejeita tentativa de censura do PSB contra jornalistas de Oeste",
+    "titulo": "Discussão sobre a participação popular no governo",
     "ids": [
-     "fc86ab98cce6"
+     "24a25f1f6408"
     ]
    },
    {
-    "titulo": "PF omite venda de cotas de resort de relatório sobre Toffoli",
+    "titulo": "Polícia Federal indicia prefeito de Palmas por vazamentos",
     "ids": [
-     "5abd3b4648ac"
+     "7430a4de6edc"
     ]
    },
    {
-    "titulo": "Passageiro é contido em voo nos EUA após tentar abrir porta do avião; veja vídeo",
+    "titulo": "Febraban elogia escolha de Trabuco para a Fazenda: ‘Diálogo e conciliação’",
     "ids": [
-     "43473579d37f"
+     "e4e9c1d4fb16"
     ]
    },
    {
-    "titulo": "Sob El Niño, só uma de cada quatro cidades do Brasil tem protocolo para desastre natural",
+    "titulo": "Lula escolheu Trabuco porque não tem ideia do que fazer com a economia, diz Flávio Bolsonaro",
     "ids": [
-     "8845094749d8"
+     "6ce2afef03bd"
     ]
    },
    {
-    "titulo": "Governo Lula acumula tensões diplomáticas com parceiros comerciais históricos",
+    "titulo": "Alckmin e Durigan elogiam escolha de Trabuco para a Fazenda",
     "ids": [
-     "8ed8c58411df"
+     "ec1de9d1675a"
     ]
    },
    {
-    "titulo": "A ofensiva de Nikolas Ferreira contra o Ministério do Idoso — antes mesmo de sua criação",
+    "titulo": "Escolha de Trabuco para a Fazenda irrita parte da esquerda e gera críticas da oposição",
     "ids": [
-     "d90e29e5ccd5"
+     "2bfb7daa67aa"
     ]
    },
    {
-    "titulo": "Estudantes de Águas Lindas de Goiás participam da formatura do Proerd",
+    "titulo": "‘Excelente notícia para o Brasil’, diz Alckmin sobre escolha de Trabuco para Fazenda",
     "ids": [
-     "2f7b10752293"
+     "4f1bc4c00d0c"
     ]
    },
    {
-    "titulo": "Dia Nacional do Bolo: aprenda a fazer o famoso bolo de chocolate do filme Matilda",
+    "titulo": "Trabuco é nome de peso, mas precisa ter autonomia, diz Tereza Cristina",
     "ids": [
-     "e194577d0c9a"
+     "bcdaafd20ceb"
     ]
    },
    {
-    "titulo": "Almoço saudável: 5 receitas fáceis e leves com salmão para incluir no cardápio",
+    "titulo": "Flávio ironiza Lula por escolha de Trabuco para a Fazenda",
     "ids": [
-     "271a432df166"
+     "120fcd472c90"
     ]
    },
    {
-    "titulo": "6 cuidados ao interpretar resultados de exames com ajuda da tecnologia",
+    "titulo": "Parlamentares reagem a escolha de Trabuco na Fazenda: ‘Trajetória sólida no setor financeiro’",
     "ids": [
-     "7ea9ec8b82b5"
+     "070fde6f4209"
     ]
    },
    {
-    "titulo": "SESI leva jogos à CCXP para mostrar como entraves econômicos afetam preços e empregos no país",
+    "titulo": "Trabuco é gestor e comprometido com o desenvolvimento, diz Fonteles",
     "ids": [
-     "0ca71b04595f"
+     "260772db24ea"
     ]
    },
    {
-    "titulo": "Executivo da Nvidia se casou com mulher investigada por contrabando de chips para China, diz jornal",
+    "titulo": "Alckmin diz que Trabuco como ministro da Fazenda é ‘excelente notícia para o Brasil’",
     "ids": [
-     "bdc7187d560f"
+     "0a9f0c48540e"
     ]
    },
    {
-    "titulo": "'Ceilândia Muita Treta' conta histórias e curiosidades da cidade nas redes sociais",
+    "titulo": "Alckmin diz que Trabuco tem preparo e experiência para comandar Fazenda",
     "ids": [
-     "06ad40fad162"
+     "f59bfdc77dcd"
     ]
    },
    {
-    "titulo": "Muro desaba em cima de carro após chuva em condomínio de Valparaíso de Goiás",
+    "titulo": "Anbima: Trabuco na Fazenda mostra comprometimento do governo com gestão competente",
     "ids": [
-     "5a3ff47510e4"
+     "dce0223c8a8c"
     ]
    },
    {
-    "titulo": "Messi confirma participação em partida de despedida de Tevez na Bombonera",
+    "titulo": "Wellington Dias diz que Trabuco conhece mercado por dentro e é humanista",
     "ids": [
-     "2352cb7fc3c4"
+     "5b294fa0dd5f"
     ]
    },
    {
-    "titulo": "PF realiza operação contra fraude de R$ 494 mil em benefícios assistenciais",
+    "titulo": "Alckmin classifica escolha de Trabuco para a Fazenda como ‘excelente notícia’ para o Brasil",
     "ids": [
-     "120e5d182ff1"
+     "8d118dfd2b4c"
     ]
    },
    {
-    "titulo": "Moradores de condomínios em Valparaíso de Goiás reclamam de aumento na conta de energia",
+    "titulo": "Glauber Braga diz que Lula traiu eleitores ao escolher Trabuco",
     "ids": [
-     "e453d4f2b1a9"
+     "5f2d313aa610"
     ]
    },
    {
-    "titulo": "Governo Lula confirma prorrogação do subsídio de R$ 2,12 do diesel por mais 30 dias",
+    "titulo": "Nome de Trabuco para Fazenda é bem recebido no BC e no governo Lula",
     "ids": [
-     "f78065c328cd"
+     "575b7bc29f10"
     ]
    },
    {
-    "titulo": "Os efeitos de uma Justiça sob a IA e uma solução ao alcance do CNJ",
+    "titulo": "Guimarães elogia Trabuco e diz que futuro ministro é \"parceiro de diálogo\"",
     "ids": [
-     "2fb0b73d5ce1"
+     "e2da7d718a4a"
     ]
    },
    {
-    "titulo": "Planejamento sucessório com patrimônio no exterior",
+    "titulo": "O que pensa o novo ministro da Fazenda sobre economia, juros e contas públicas",
     "ids": [
-     "aae214b9f4a7"
+     "f04b484d4d7d"
     ]
    },
    {
-    "titulo": "Médico é preso em MG suspeito de raspar a cabeça da noiva e fazê-la comer o cabelo",
+    "titulo": "Durigan diz ter convicção de que trabalho de Trabuco terá seriedade e ética",
     "ids": [
-     "d51b36aa3042"
+     "253c5da65312"
     ]
    },
    {
-    "titulo": "Cadeira 13 do STF bate seu próprio recorde de vacância após 132 anos; veja ranking",
+    "titulo": "Análise: Escolha de Trabuco para a Fazenda remete ao \"Lula 1\"",
     "ids": [
-     "676b1ee8c0f6"
+     "3d3c1822458d"
     ]
    },
    {
-    "titulo": "Número de pedidos para primeira CNH cresce 193% em 2026, segundo Ministério dos Transportes",
+    "titulo": "CNI avalia como positiva a escolha de Trabuco como ministro da Fazenda",
     "ids": [
-     "158de6a80a9f"
+     "0029f688c960"
     ]
    },
    {
-    "titulo": "Entidades articulam mobilização popular por ministra negra no STF diante de Senado hostil a Lula",
+    "titulo": "Durigan deseja ‘bom trabalho’ a Trabuco após executivo ser confirmado como ministro da Fazenda",
     "ids": [
-     "24966395aaa9"
+     "0a502aad8457"
     ]
    },
    {
-    "titulo": "Promotoria diz que Fictor usou beneficiário do auxílio emergencial para movimentar R$ 316 milhões",
+    "titulo": "Durigan deseja sucesso a Trabuco e se coloca à disposição para transição",
     "ids": [
-     "c6c7a0b6c9f7"
+     "6efceffab347"
     ]
    },
    {
-    "titulo": "Reforma tributária: sem benefícios a produtos e setores, imposto do governo cairia de 11,3% para 7% em 2027, estima órgão do Senado",
+    "titulo": "‘Conte comigo e com toda a minha equipe’, diz Durigan após indicação de Trabuco",
     "ids": [
-     "812b26e2c62e"
+     "beb1ade368ff"
     ]
    },
    {
-    "titulo": "Governo dá 10 dias para que Google amplie informações sobre anúncios e fixa multa de R$ 200 mil em caso de descumprimento",
+    "titulo": "'Um país caminha bem quando conduzido com seriedade e ética', diz Durigan após anuncio de Trabuco na Fazenda",
     "ids": [
-     "de89a9e3236d"
+     "7784d354922a"
     ]
    },
    {
-    "titulo": "Dos EUA, Flávio Bolsonaro lista R$ 79,3 milhões em emendas para o orçamento de 2027",
+    "titulo": "Motta recebe com otimismo escolha de Trabuco para o Ministério da Fazenda",
     "ids": [
-     "b67f19c7ed81"
+     "105018766705"
+    ]
+   },
+   {
+    "titulo": "Escolha de Trabuco para a Fazenda divide lulistas e provoca críticas da oposição",
+    "ids": [
+     "fefdc47f4e94"
+    ]
+   },
+   {
+    "titulo": "Hugo deseja êxito a Trabuco na Fazenda e prega diálogo por agenda econômica",
+    "ids": [
+     "552519c1744e"
+    ]
+   },
+   {
+    "titulo": "Flávio Bolsonaro chama escolha de Trabuco para a Fazenda de ‘estelionato eleitoral’",
+    "ids": [
+     "318a4de09949"
+    ]
+   },
+   {
+    "titulo": "Trabuco ouve de Lula que terá liberdade para montar equipe, dizem fontes",
+    "ids": [
+     "a222f382f818"
+    ]
+   },
+   {
+    "titulo": "Federação de bancos elogia escolha de Trabuco para o Ministério da Fazenda",
+    "ids": [
+     "8c160dcf1f18"
+    ]
+   },
+   {
+    "titulo": "Transição para Lula 4 tem antes e depois de Trabuco",
+    "ids": [
+     "4115483a5f84"
+    ]
+   },
+   {
+    "titulo": "A reação desconfiada de Lindbergh à indicação de Trabuco para a Fazenda",
+    "ids": [
+     "9803edb3b838"
+    ]
+   },
+   {
+    "titulo": "Alcolumbre elogia escolha de Trabuco para a Fazenda e promete diálogo",
+    "ids": [
+     "eed3c3658f9f"
+    ]
+   },
+   {
+    "titulo": "Flávio diz que escolha de Trabuco é ‘estelionato eleitoral’: ‘Lula virou Faria Limer’",
+    "ids": [
+     "a3cede7c285f"
+    ]
+   },
+   {
+    "titulo": "Alcolumbre elogia escolha de Trabuco para o Ministério da Fazenda; Motta fala em construção de uma agenda econômica",
+    "ids": [
+     "3413c6489333"
+    ]
+   },
+   {
+    "titulo": "Governo vê resistência a Trabuco na Fazenda menor que a enfrentada por Levy em 2014",
+    "ids": [
+     "a19292c306b9"
+    ]
+   },
+   {
+    "titulo": "Escolha de Trabuco para Fazenda provoca ressalvas no PT e críticas da oposição",
+    "ids": [
+     "bc50b7b21318"
+    ]
+   },
+   {
+    "titulo": "Governo Lula confirma Trabuco como ministro da Fazenda a partir de 2027",
+    "ids": [
+     "cb0c52fc936e"
+    ]
+   },
+   {
+    "titulo": "Luiz Carlos Trabuco aceita convite de Lula para assumir o Ministério da Fazenda",
+    "ids": [
+     "a7a222f564ee"
+    ]
+   },
+   {
+    "titulo": "Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda",
+    "ids": [
+     "c4343bcb4e05"
+    ]
+   },
+   {
+    "titulo": "Lula acerta ao escolher Trabuco, mas terá de dar apoio político ao ministro da Fazenda, diz Rubens Ricupero",
+    "ids": [
+     "09e5b24cd7b7"
+    ]
+   },
+   {
+    "titulo": "Deputados governistas falam em ‘preocupação’ com nome de Trabuco para assumir Ministério da Fazenda",
+    "ids": [
+     "067948222b07"
+    ]
+   },
+   {
+    "titulo": "Quem é Luiz Carlos Trabuco, o banqueiro que comandará a Fazenda no Lula 4",
+    "ids": [
+     "81436637458f"
+    ]
+   },
+   {
+    "titulo": "A reação de Flávio Bolsonaro ao saber da confirmação de Trabuco no Ministério da Fazenda",
+    "ids": [
+     "f8a78422355c"
+    ]
+   },
+   {
+    "titulo": "Banco Central se manifesta a favor de devolução de R$ 316 milhões ao BRB",
+    "ids": [
+     "06f29f8efd31"
+    ]
+   },
+   {
+    "titulo": "Para ser bem-sucedido, Trabuco terá de enfrentar o PT e ter ajuda de Lula contra os seus",
+    "ids": [
+     "1f4c82b3c60f"
+    ]
+   },
+   {
+    "titulo": "Maílson: Trabuco na Fazenda é ‘surpresa positiva’, mas êxito depende de acordo com Lula para ajuste",
+    "ids": [
+     "7b602d5e2f6d"
+    ]
+   },
+   {
+    "titulo": "Quem é Luiz Carlos Trabuco, novo ministro da Fazenda de Lula",
+    "ids": [
+     "18797beaf0ba"
+    ]
+   },
+   {
+    "titulo": "Quem é Luiz Trabuco, escolhido como ministro da Fazenda do governo Lula 4",
+    "ids": [
+     "c28f9ce2fe45"
+    ]
+   },
+   {
+    "titulo": "Trabuco aceita convite de Lula para assumir Ministério da Fazenda",
+    "ids": [
+     "fee4c90998a3"
     ]
    }
   ],
@@ -3710,6 +4048,138 @@
      "9b6e6aad6199": "Destaca as declarações de Kassab em evento em São Paulo sobre a manutenção da postura colaborativa e pragmática do PSD."
     },
     "usado_em": 1795727518.208878
+   },
+   "1c9321bf93af4f16": {
+    "resumo": "O ex-presidente Jair Bolsonaro segue internado em UTI no hospital DF Star sem previsão de alta, após ser diagnosticado com suboclusão intestinal e broncopneumonia. Ele apresentou melhora clínica e iniciou dieta líquida. A internação decorre de complicações da facada sofrida em 2018.",
+    "pontos": [
+     "Bolsonaro está internado na UTI do DF Star.",
+     "Apresentou melhora e iniciou dieta líquida.",
+     "Sem previsão de alta devido à continuação do tratamento da pneumonia."
+    ],
+    "enquadramentos": {
+     "e88cbc82a9d7": "A Folha destaca a postagem de Michelle Bolsonaro celebrando a melhora e detalha o histórico médico decorrente da facada de 2018.",
+     "e0a9c5c8641e": "A CartaCapital foca na gravidade do quadro clínico, mencionando a suboclusão intestinal e inserindo críticas contextuais ao bolsonarismo.",
+     "c32ebad36438": "O Estadão enfatiza a decisão do STF sobre a liberação de visitas dos filhos ao ex-presidente e sua condição de prisão domiciliar.",
+     "02c78ea4633e": "O R7 traz apenas o título informando a melhora clínica e a permanência na UTI sem previsão de alta."
+    },
+    "usado_em": 1795752081.3623805
+   },
+   "d19026a1a9f9d636": {
+    "resumo": "O ministro das Relações Exteriores, Mauro Vieira, reuniu-se com o presidente da Embraer, Francisco Gomes Neto, e prometeu apoio diplomático para buscar novos mercados. A ação ocorre após o governo dos EUA propor uma taxa de 10% sobre aeronaves brasileiras.",
+    "pontos": [
+     "Mauro Vieira encontrou-se com o presidente da Embraer.",
+     "Itamaraty promete diplomacia para diversificar mercados de exportação.",
+     "Proposta de tarifa de 10% foi feita pelo USTR dos EUA."
+    ],
+    "enquadramentos": {
+     "5423ad0b3748": "O g1 detalha a nota do Itamaraty, os argumentos da Embraer sobre investimentos nos EUA e o contexto de tarifas do governo americano.",
+     "b7e4352d0197": "A CNN Brasil restringe-se ao título relatando a reunião entre Vieira e o presidente da Embraer."
+    },
+    "usado_em": 1795752081.3623834
+   },
+   "67d217cc48f7cf17": {
+    "resumo": "Advogados relatam demora na liberação de depósitos judiciais sob responsabilidade do Banco de Brasília (BRB), gerando temor sobre a liquidez da instituição após o envolvimento com o Banco Master. O CNJ deu 15 dias para tribunais de Justiça apresentarem esclarecimentos sobre os contratos.",
+    "pontos": [
+     "Advogados e OAB relatam dificuldades para acessar depósitos judiciais no BRB.",
+     "Temor de falta de liquidez está ligado ao caso do Banco Master.",
+     "CNJ cobra esclarecimentos dos tribunais de Justiça com contratos com o banco."
+    ],
+    "enquadramentos": {
+     "bfaa06ede41f": "O g1 foca nos relatos de advogados na Paraíba, na abertura de canal de denúncias pela OAB-PB e nas dificuldades operacionais.",
+     "fea736dab922": "O Estadão enfatiza a determinação do CNJ cobrando explicações dos tribunais e detalha as investigações da Polícia Federal sobre o BRB."
+    },
+    "usado_em": 1795752081.3623843
+   },
+   "2bb7ebfde280641c": {
+    "resumo": "O senador Camilo Santana é cotado como nome certo para assumir o Ministério da Casa Civil na montagem do governo Lula 4. A possível escolha fortalece seu nome como um dos potenciais sucessores de Lula para as eleições de 2030.",
+    "pontos": [
+     "Camilo Santana é apontado como favorito para a Casa Civil.",
+     "Lula conversou com Camilo Santana no Palácio da Alvorada.",
+     "Movimentação impacta a sucessão política e o cenário de 2030."
+    ],
+    "enquadramentos": {
+     "9e126d8e2db6": "O Estadão usa tom de bastidor político, cita o fuso horário da Nova Zelândia e analisa a situação de Fernando Haddad.",
+     "379703bed253": "O R7 traz apenas o título cravando a nomeação de Camilo Santana para o quarto mandato de Lula."
+    },
+    "usado_em": 1795752081.362385
+   },
+   "bbdb032d39a31aec": {
+    "resumo": "O Supremo Tribunal Federal validou as regras do Estatuto do Desarmamento que exigem formação funcional e controle interno para o porte de arma de guardas municipais. O plenário rejeitou a extensão do porte funcional para todo o território nacional.",
+    "pontos": [
+     "STF mantém regras do Estatuto do Desarmamento para guardas municipais.",
+     "Exigência de formação e controle interno permanece válida.",
+     "Plenário rejeitou extensão do porte para âmbito nacional."
+    ],
+    "enquadramentos": {
+     "aa5e47b3caf2": "A CartaCapital destaca o voto vencido de Alexandre de Moraes favorável à validade nacional do porte devido a riscos de segurança.",
+     "b305f303560d": "O Estadão enfatiza a manutenção das restrições e relembra a decisão anterior do STF que integrou as guardas ao Susp."
+    },
+    "usado_em": 1795752081.362386
+   },
+   "014b1f3442ff7b91": {
+    "resumo": "O Iphan aprovou o tombamento definitivo do prédio que abrigou o DOI-Codi no Rio de Janeiro, reconhecendo-o como patrimônio nacional e marco da memória da ditadura. A medida protege a estrutura de demolições ou alterações que descaracterizem seu uso repressivo passado.",
+    "pontos": [
+     "Iphan tomba prédio do antigo DOI-Codi no Rio de Janeiro.",
+     "Imóvel passa a ser protegido como patrimônio histórico e símbolo da ditadura.",
+     "Decisão visa preservar a memória e impedir modificações na estrutura."
+    ],
+    "enquadramentos": {
+     "b98d658e5e66": "A CartaCapital enfatiza o dossiê do Iphan com relatos de torturas e a importância da preservação para a justiça de transição.",
+     "ff90aaa76f81": "A Folha destaca o requerimento feito pelo MPF e Comissão da Verdade, mencionando a ligação do local com a morte de Rubens Paiva."
+    },
+    "usado_em": 1795752081.3623867
+   },
+   "15ef858308520f76": {
+    "resumo": "O STF iniciou a análise de denúncia da PGR contra o deputado federal e senador eleito Marcel van Hattem por calúnia e injúria contra um delegado da Polícia Federal. Parlamentares criticam a ação por ferir a imunidade parlamentar e apontam viés político na véspera da eleição para o comando do Senado.",
+    "pontos": [
+     "STF analisa denúncia da PGR contra Marcel van Hattem.",
+     "Defesa e aliados apontam violação da imunidade parlamentar prevista na Constituição.",
+     "Críticos associam o julgamento a pressões políticas na eleição do Senado."
+    ],
+    "enquadramentos": {
+     "4481b44c1a7f": "A Gazeta do Povo enquadra o julgamento como uma intimidação do STF contra parlamentares e um ato de autoproteção da Corte.",
+     "92cbf0981b48": "O Estadão foca nos comentários de colunista sobre a inviolabilidade do mandato parlamentar e a reação suprapartidária do Congresso."
+    },
+    "usado_em": 1795752081.3623872
+   },
+   "6401ed9a6701a383": {
+    "resumo": "O concurso 3.091 da Mega-Sena não teve acertadores das seis dezenas, fazendo com que o prêmio principal acumulasse. O valor estimado para o próximo sorteio é de R$ 82 milhões.",
+    "pontos": [
+     "Nenhuma aposta acertou as seis dezenas da Mega-Sena.",
+     "Prêmio principal acumula para R$ 82 milhões.",
+     "Próximo sorteio será realizado no domingo."
+    ],
+    "enquadramentos": {
+     "44333bf16fa5": "A Jovem Pan resume apenas no título o fato de a Mega-Sena ter acumulado para R$ 82 milhões.",
+     "7e3d3490f502": "A Revista Oeste detalha os números sorteados, os valores pagos na quina e quadra, e as regras para apostar."
+    },
+    "usado_em": 1795752081.3623877
+   },
+   "ae4e2859443efd20": {
+    "resumo": "Torcedores do São Paulo utilizaram faixas para protestar contra o desempenho instável do time e da diretoria antes da partida contra o Remo pelo Campeonato Brasileiro. A temporada do clube foi marcada por trocas de técnicos e eliminações em copas.",
+    "pontos": [
+     "Torcida do São Paulo protesta com faixas antes de jogo contra o Remo.",
+     "Protesto critica o desempenho do time e a gestão ao longo da temporada.",
+     "Clube passou por mudanças de técnicos e eliminações em competições."
+    ],
+    "enquadramentos": {
+     "86893bf756f8": "A Jovem Pan foca no resultado esportivo e no gol marcado nos minutos finais da partida.",
+     "e8bc3150040b": "A CartaCapital destaca a insatisfação da torcida, os protestos nas arquibancadas e o histórico irregular da temporada."
+    },
+    "usado_em": 1795752081.3623884
+   },
+   "1db71489b8ede6c2": {
+    "resumo": "Uma falha em linhas de transmissão de energia deixou Manaus, Roraima e municípios do Pará sem eletricidade na tarde de quinta-feira. O Operador Nacional do Sistema Elétrico informou que o fornecimento começou a ser restabelecido gradualmente nos estados afetados.",
+    "pontos": [
+     "Apagão afetou Amazonas, Roraima e cidades do Pará.",
+     "Falha em linhas de transmissão de 500 kV causou a interrupção.",
+     "ONS iniciou o restabelecimento gradual da energia nos estados."
+    ],
+    "enquadramentos": {
+     "ee5363a2239e": "A Revista Oeste detalha os dados técnicos de megawatts interrompidos, a atuação do ONS e o impacto nas concessionárias locais.",
+     "8e0d30824bed": "A Jovem Pan traz apenas o título informando que mais de 20 cidades do Amazonas e de Roraima registraram o apagão."
+    },
+    "usado_em": 1795752081.3623893
    }
   }
  }
