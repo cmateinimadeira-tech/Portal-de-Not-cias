@@ -423,7 +423,7 @@
     {
      "id": 555108,
      "data": "2026-11-26T23:00:00Z",
-     "status": "TIMED",
+     "status": "IN_PLAY",
      "rodada": 37,
      "fase": "REGULAR_SEASON",
      "casa": {
@@ -438,8 +438,8 @@
       "sigla": "CRE",
       "escudo": "https://crests.football-data.org/4287.png"
      },
-     "gols_casa": null,
-     "gols_fora": null,
+     "gols_casa": 1,
+     "gols_fora": 1,
      "liga": "BSA"
     },
     {
@@ -4346,5 +4346,5 @@
    }
   ]
  },
- "atualizado_em": "2026-11-26T21:58:13.066785+00:00"
+ "atualizado_em": "2026-11-27T00:30:31.298428+00:00"
 }
